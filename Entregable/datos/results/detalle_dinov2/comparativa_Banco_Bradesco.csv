@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+Banco Bradesco,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,1.0,True,True,False,True
+Banco Bradesco,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.9752319,True,True,False,False
+Banco Bradesco,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.975161,True,True,False,False
+Banco Bradesco,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.9744802,True,True,False,False
+Banco Bradesco,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.97413623,True,True,False,False
+Banco Bradesco,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.9720947,True,True,False,False
+Banco Bradesco,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.97062474,True,True,False,False
+Banco Bradesco,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.95910245,True,True,False,False
+Banco Bradesco,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.9478507,True,True,False,False
+Banco Bradesco,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.93865085,True,True,False,False
+Banco Bradesco,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.9375326,True,True,False,False
+Banco Bradesco,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.8247855,True,False,True,False
+Banco Bradesco,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.79274416,False,False,False,False
+Banco Bradesco,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.77772516,False,False,False,False
+Banco Bradesco,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.77617717,False,False,False,False
+Banco Bradesco,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.762172,False,False,False,False
+Banco Bradesco,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.761444,False,False,False,False
+Banco Bradesco,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.7611496,False,False,False,False
+Banco Bradesco,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.76016366,False,False,False,False
+Banco Bradesco,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.75620496,False,False,False,False
+Banco Bradesco,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.753693,False,False,False,False
+Banco Bradesco,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.7499656,False,False,False,False
+Banco Bradesco,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.7499279,False,False,False,False
+Banco Bradesco,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.74952173,False,False,False,False
+Banco Bradesco,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.74744606,False,False,False,False
+Banco Bradesco,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.74607646,False,False,False,False
+Banco Bradesco,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.7455797,False,False,False,False
+Banco Bradesco,random_split-io_20251129T175048.png,RANDOM,unknown,0.7445301,False,False,False,False
+Banco Bradesco,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.7396385,False,False,False,False
+Banco Bradesco,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.7388711,False,False,False,False
+Banco Bradesco,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.73574185,False,False,False,False
+Banco Bradesco,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.7346281,False,False,False,False
+Banco Bradesco,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.7330271,False,False,False,False
+Banco Bradesco,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.73258674,False,False,False,False
+Banco Bradesco,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.73191047,False,False,False,False
+Banco Bradesco,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.7298831,False,False,False,False
+Banco Bradesco,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.72979915,False,False,False,False
+Banco Bradesco,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.7293837,False,False,False,False
+Banco Bradesco,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.7285602,False,False,False,False
+Banco Bradesco,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.72832066,False,False,False,False
+Banco Bradesco,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.72785157,False,False,False,False
+Banco Bradesco,random_branch-io_20251129T171524.png,RANDOM,unknown,0.72674406,False,False,False,False
+Banco Bradesco,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.726666,False,False,False,False
+Banco Bradesco,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.7263875,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7260903,False,False,False,False
+Banco Bradesco,random_wps-com_20251129T174320.png,RANDOM,unknown,0.7236365,False,False,False,False
+Banco Bradesco,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.72319955,False,False,False,False
+Banco Bradesco,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.7224586,False,False,False,False
+Banco Bradesco,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.72236156,False,False,False,False
+Banco Bradesco,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.72125185,False,False,False,False
+Banco Bradesco,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.7210628,False,False,False,False
+Banco Bradesco,random_att-com_20251129T180955.png,RANDOM,unknown,0.71980464,False,False,False,False
+Banco Bradesco,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.71805024,False,False,False,False
+Banco Bradesco,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.71739244,False,False,False,False
+Banco Bradesco,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.7165128,False,False,False,False
+Banco Bradesco,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.7162627,False,False,False,False
+Banco Bradesco,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.7157897,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.71574694,False,False,False,False
+Banco Bradesco,random_xing-com_20251129T175042.png,RANDOM,unknown,0.7143233,False,False,False,False
+Banco Bradesco,random_slack-com_20251129T164623.png,RANDOM,unknown,0.71373165,False,False,False,False
+Banco Bradesco,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.7135223,False,False,False,False
+Banco Bradesco,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.7127846,False,False,False,False
+Banco Bradesco,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.7118288,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7113415,False,False,False,False
+Banco Bradesco,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.7112829,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7098607,False,False,False,False
+Banco Bradesco,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.7060752,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.70524406,False,False,False,False
+Banco Bradesco,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.704094,False,False,False,False
+Banco Bradesco,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.70356834,False,False,False,False
+Banco Bradesco,random_notion-so_20251129T180340.png,RANDOM,unknown,0.7034968,False,False,False,False
+Banco Bradesco,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.7018891,False,False,False,False
+Banco Bradesco,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.7018008,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.70162773,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.70127565,False,False,False,False
+Banco Bradesco,random_marca-com_20251129T175532.png,RANDOM,unknown,0.7012536,False,False,False,False
+Banco Bradesco,random_segment-io_20251129T174400.png,RANDOM,unknown,0.7003379,False,False,False,False
+Banco Bradesco,random_figma-com_20251129T173914.png,RANDOM,unknown,0.70033395,False,False,False,False
+Banco Bradesco,random_wired-com_20251129T170401.png,RANDOM,unknown,0.6995406,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.69946146,False,False,False,False
+Banco Bradesco,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.69941115,False,False,False,False
+Banco Bradesco,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.6973052,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.69712627,False,False,False,False
+Banco Bradesco,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.697073,False,False,False,False
+Banco Bradesco,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.6969763,False,False,False,False
+Banco Bradesco,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.69176376,False,False,False,False
+Banco Bradesco,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.6916374,False,False,False,False
+Banco Bradesco,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.69140804,False,False,False,False
+Banco Bradesco,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.6911582,False,False,False,False
+Banco Bradesco,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.6897966,False,False,False,False
+Banco Bradesco,random_opera-com_20251129T163028.png,RANDOM,unknown,0.6889523,False,False,False,False
+Banco Bradesco,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.6888373,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.68874097,False,False,False,False
+Banco Bradesco,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.6883415,False,False,False,False
+Banco Bradesco,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.6878885,False,False,False,False
+Banco Bradesco,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.68779206,False,False,False,False
+Banco Bradesco,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.6872853,False,False,False,False
+Banco Bradesco,random_roku-com_20251129T164128.png,RANDOM,unknown,0.6858754,False,False,False,False
+Banco Bradesco,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.6847856,False,False,False,False
+Banco Bradesco,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.6847538,False,False,False,False
+Banco Bradesco,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.6846321,False,False,False,False
+Banco Bradesco,random_weather-com_20251129T164102.png,RANDOM,unknown,0.6837414,False,False,False,False
+Banco Bradesco,random_singular-net_20251129T175446.png,RANDOM,unknown,0.6835204,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.681707,False,False,False,False
+Banco Bradesco,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.6813287,False,False,False,False
+Banco Bradesco,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.68119985,False,False,False,False
+Banco Bradesco,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.68100834,False,False,False,False
+Banco Bradesco,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.68078077,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6804445,False,False,False,False
+Banco Bradesco,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.68044305,False,False,False,False
+Banco Bradesco,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.6803869,False,False,False,False
+Banco Bradesco,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.67973167,False,False,False,False
+Banco Bradesco,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.67939043,False,False,False,False
+Banco Bradesco,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.67932093,False,False,False,False
+Banco Bradesco,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.67914456,False,False,False,False
+Banco Bradesco,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.6782526,False,False,False,False
+Banco Bradesco,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.67818487,False,False,False,False
+Banco Bradesco,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.6762302,False,False,False,False
+Banco Bradesco,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.6740365,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.67387676,False,False,False,False
+Banco Bradesco,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.673789,False,False,False,False
+Banco Bradesco,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.6726503,False,False,False,False
+Banco Bradesco,random_braze-com_20251129T171458.png,RANDOM,unknown,0.6708494,False,False,False,False
+Banco Bradesco,random_php-net_20251129T164521.png,RANDOM,unknown,0.67058176,False,False,False,False
+Banco Bradesco,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.67029846,False,False,False,False
+Banco Bradesco,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.66999036,False,False,False,False
+Banco Bradesco,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.66976976,False,False,False,False
+Banco Bradesco,random_binance-com_20251129T174935.png,RANDOM,unknown,0.6696397,False,False,False,False
+Banco Bradesco,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.6693444,False,False,False,False
+Banco Bradesco,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.668957,False,False,False,False
+Banco Bradesco,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.6688969,False,False,False,False
+Banco Bradesco,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.66863906,False,False,False,False
+Banco Bradesco,random_f5-com_20251129T163706.png,RANDOM,unknown,0.66853476,False,False,False,False
+Banco Bradesco,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.6681888,False,False,False,False
+Banco Bradesco,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.668,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6674907,False,False,False,False
+Banco Bradesco,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.6673181,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.66620845,False,False,False,False
+Banco Bradesco,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.66599286,False,False,False,False
+Banco Bradesco,random_viber-com_20251129T172210.png,RANDOM,unknown,0.6659616,False,False,False,False
+Banco Bradesco,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.6658887,False,False,False,False
+Banco Bradesco,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.66539395,False,False,False,False
+Banco Bradesco,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.6653579,False,False,False,False
+Banco Bradesco,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.66530126,False,False,False,False
+Banco Bradesco,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.66504556,False,False,False,False
+Banco Bradesco,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6644037,False,False,False,False
+Banco Bradesco,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.6638839,False,False,False,False
+Banco Bradesco,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.6636494,False,False,False,False
+Banco Bradesco,random_t-me_20251129T163150.png,RANDOM,unknown,0.6633132,False,False,False,False
+Banco Bradesco,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.66304094,False,False,False,False
+Banco Bradesco,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.6627991,False,False,False,False
+Banco Bradesco,random_ring-com_20251129T172743.png,RANDOM,unknown,0.6622828,False,False,False,False
+Banco Bradesco,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.6620463,False,False,False,False
+Banco Bradesco,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.6619178,False,False,False,False
+Banco Bradesco,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.6617758,False,False,False,False
+Banco Bradesco,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.66158044,False,False,False,False
+Banco Bradesco,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.66135466,False,False,False,False
+Banco Bradesco,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.6609725,False,False,False,False
+Banco Bradesco,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.6606824,False,False,False,False
+Banco Bradesco,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.6553974,False,False,False,False
+Banco Bradesco,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.65525377,False,False,False,False
+Banco Bradesco,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.65406084,False,False,False,False
+Banco Bradesco,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.65378314,False,False,False,False
+Banco Bradesco,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.65373254,False,False,False,False
+Banco Bradesco,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.6534575,False,False,False,False
+Banco Bradesco,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.6520766,False,False,False,False
+Banco Bradesco,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.6518214,False,False,False,False
+Banco Bradesco,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.65105337,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6508405,False,False,False,False
+Banco Bradesco,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.6506918,False,False,False,False
+Banco Bradesco,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.6501667,False,False,False,False
+Banco Bradesco,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.6485669,False,False,False,False
+Banco Bradesco,random_uber-com_20251129T170129.png,RANDOM,unknown,0.6485061,False,False,False,False
+Banco Bradesco,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.64831764,False,False,False,False
+Banco Bradesco,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.64797366,False,False,False,False
+Banco Bradesco,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.64788324,False,False,False,False
+Banco Bradesco,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6478613,False,False,False,False
+Banco Bradesco,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.6472711,False,False,False,False
+Banco Bradesco,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.64699525,False,False,False,False
+Banco Bradesco,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.64636743,False,False,False,False
+Banco Bradesco,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.646016,False,False,False,False
+Banco Bradesco,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.6458701,False,False,False,False
+Banco Bradesco,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.64570695,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6454479,False,False,False,False
+Banco Bradesco,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.64541066,False,False,False,False
+Banco Bradesco,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.6454054,False,False,False,False
+Banco Bradesco,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.6449992,False,False,False,False
+Banco Bradesco,random_vg-no_20251129T180754.png,RANDOM,unknown,0.6448904,False,False,False,False
+Banco Bradesco,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.6446874,False,False,False,False
+Banco Bradesco,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.64458126,False,False,False,False
+Banco Bradesco,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.64424765,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.64404464,False,False,False,False
+Banco Bradesco,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.6437533,False,False,False,False
+Banco Bradesco,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.6437062,False,False,False,False
+Banco Bradesco,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.64288735,False,False,False,False
+Banco Bradesco,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.6425302,False,False,False,False
+Banco Bradesco,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.64199173,False,False,False,False
+Banco Bradesco,random_avast-com_20251129T164855.png,RANDOM,unknown,0.6419906,False,False,False,False
+Banco Bradesco,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.6409331,False,False,False,False
+Banco Bradesco,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6406775,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6405604,False,False,False,False
+Banco Bradesco,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.640375,False,False,False,False
+Banco Bradesco,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.6403128,False,False,False,False
+Banco Bradesco,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6396334,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.63961387,False,False,False,False
+Banco Bradesco,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6394881,False,False,False,False
+Banco Bradesco,random_google-cn_20251129T172939.png,RANDOM,unknown,0.6389,False,False,False,False
+Banco Bradesco,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.6385927,False,False,False,False
+Banco Bradesco,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.63846886,False,False,False,False
+Banco Bradesco,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.6383101,False,False,False,False
+Banco Bradesco,random_python-org_20251129T173738.png,RANDOM,unknown,0.6380979,False,False,False,False
+Banco Bradesco,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.6378844,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.63758796,False,False,False,False
+Banco Bradesco,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.6373035,False,False,False,False
+Banco Bradesco,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.6372186,False,False,False,False
+Banco Bradesco,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.6372167,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.63715184,False,False,False,False
+Banco Bradesco,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.63695085,False,False,False,False
+Banco Bradesco,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.636745,False,False,False,False
+Banco Bradesco,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.6363578,False,False,False,False
+Banco Bradesco,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.6362407,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6362021,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6361792,False,False,False,False
+Banco Bradesco,random_archive-org_20251129T163406.png,RANDOM,unknown,0.63617015,False,False,False,False
+Banco Bradesco,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.6361122,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6360543,False,False,False,False
+Banco Bradesco,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.6360503,False,False,False,False
+Banco Bradesco,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.6359488,False,False,False,False
+Banco Bradesco,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.6358636,False,False,False,False
+Banco Bradesco,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.63523066,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6351248,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6349622,False,False,False,False
+Banco Bradesco,random_discord-media_20251129T170414.png,RANDOM,unknown,0.63445973,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6341603,False,False,False,False
+Banco Bradesco,random_uk-com_20251129T171638.png,RANDOM,unknown,0.63406956,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6338718,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6336532,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.63242286,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6323878,False,False,False,False
+Banco Bradesco,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.6323207,False,False,False,False
+Banco Bradesco,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.63212585,False,False,False,False
+Banco Bradesco,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.63202417,False,False,False,False
+Banco Bradesco,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.63190633,False,False,False,False
+Banco Bradesco,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.63177073,False,False,False,False
+Banco Bradesco,random_gov-br_20251129T174615.png,RANDOM,unknown,0.63174325,False,False,False,False
+Banco Bradesco,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.63157856,False,False,False,False
+Banco Bradesco,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.6313237,False,False,False,False
+Banco Bradesco,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.630956,False,False,False,False
+Banco Bradesco,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.6304536,False,False,False,False
+Banco Bradesco,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.63036823,False,False,False,False
+Banco Bradesco,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.63007355,False,False,False,False
+Banco Bradesco,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.62984425,False,False,False,False
+Banco Bradesco,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.6296696,False,False,False,False
+Banco Bradesco,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.6293333,False,False,False,False
+Banco Bradesco,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.62907994,False,False,False,False
+Banco Bradesco,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.6290767,False,False,False,False
+Banco Bradesco,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6289725,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.62857145,False,False,False,False
+Banco Bradesco,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.62802875,False,False,False,False
+Banco Bradesco,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.6279315,False,False,False,False
+Banco Bradesco,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.62779415,False,False,False,False
+Banco Bradesco,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.62636256,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6261687,False,False,False,False
+Banco Bradesco,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.6258677,False,False,False,False
+Banco Bradesco,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.6258162,False,False,False,False
+Banco Bradesco,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.6257546,False,False,False,False
+Banco Bradesco,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.62554026,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6251623,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6240884,False,False,False,False
+Banco Bradesco,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.62383956,False,False,False,False
+Banco Bradesco,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6238152,False,False,False,False
+Banco Bradesco,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6230491,False,False,False,False
+Banco Bradesco,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.62265164,False,False,False,False
+Banco Bradesco,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.62261826,False,False,False,False
+Banco Bradesco,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.6225837,False,False,False,False
+Banco Bradesco,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.622476,False,False,False,False
+Banco Bradesco,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.6220697,False,False,False,False
+Banco Bradesco,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.62162817,False,False,False,False
+Banco Bradesco,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.62153065,False,False,False,False
+Banco Bradesco,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.62114894,False,False,False,False
+Banco Bradesco,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.62083745,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.62029165,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.62023854,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6200936,False,False,False,False
+Banco Bradesco,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.6200295,False,False,False,False
+Banco Bradesco,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.6198635,False,False,False,False
+Banco Bradesco,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.61983186,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6198158,False,False,False,False
+Banco Bradesco,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.61953783,False,False,False,False
+Banco Bradesco,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.61923075,False,False,False,False
+Banco Bradesco,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6190663,False,False,False,False
+Banco Bradesco,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.6189708,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6188458,False,False,False,False
+Banco Bradesco,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.61878926,False,False,False,False
+Banco Bradesco,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.6187384,False,False,False,False
+Banco Bradesco,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.61869466,False,False,False,False
+Banco Bradesco,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6184175,False,False,False,False
+Banco Bradesco,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.61826503,False,False,False,False
+Banco Bradesco,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.6176853,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.617659,False,False,False,False
+Banco Bradesco,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.6176343,False,False,False,False
+Banco Bradesco,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.61706316,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.61685276,False,False,False,False
+Banco Bradesco,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6168116,False,False,False,False
+Banco Bradesco,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.616746,False,False,False,False
+Banco Bradesco,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6166805,False,False,False,False
+Banco Bradesco,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.6164799,False,False,False,False
+Banco Bradesco,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.61634696,False,False,False,False
+Banco Bradesco,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6163278,False,False,False,False
+Banco Bradesco,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.61600405,False,False,False,False
+Banco Bradesco,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6159822,False,False,False,False
+Banco Bradesco,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.61595345,False,False,False,False
+Banco Bradesco,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.61595213,False,False,False,False
+Banco Bradesco,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.61579704,False,False,False,False
+Banco Bradesco,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.615731,False,False,False,False
+Banco Bradesco,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6156879,False,False,False,False
+Banco Bradesco,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.61567926,False,False,False,False
+Banco Bradesco,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.61559975,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.61511827,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.61482203,False,False,False,False
+Banco Bradesco,random_nature-com_20251129T164547.png,RANDOM,unknown,0.6142058,False,False,False,False
+Banco Bradesco,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.61407524,False,False,False,False
+Banco Bradesco,random_fast-com_20251129T171226.png,RANDOM,unknown,0.6137765,False,False,False,False
+Banco Bradesco,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6130744,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6127502,False,False,False,False
+Banco Bradesco,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.61217487,False,False,False,False
+Banco Bradesco,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6120994,False,False,False,False
+Banco Bradesco,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.61197174,False,False,False,False
+Banco Bradesco,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6119032,False,False,False,False
+Banco Bradesco,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6117412,False,False,False,False
+Banco Bradesco,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.61153984,False,False,False,False
+Banco Bradesco,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.6109577,False,False,False,False
+Banco Bradesco,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6107139,False,False,False,False
+Banco Bradesco,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.61044085,False,False,False,False
+Banco Bradesco,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.6104355,False,False,False,False
+Banco Bradesco,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.60958445,False,False,False,False
+Banco Bradesco,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.60951114,False,False,False,False
+Banco Bradesco,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.609476,False,False,False,False
+Banco Bradesco,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6088932,False,False,False,False
+Banco Bradesco,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.6085197,False,False,False,False
+Banco Bradesco,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.6085177,False,False,False,False
+Banco Bradesco,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6082281,False,False,False,False
+Banco Bradesco,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.6075288,False,False,False,False
+Banco Bradesco,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.60706383,False,False,False,False
+Banco Bradesco,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6069564,False,False,False,False
+Banco Bradesco,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.60659873,False,False,False,False
+Banco Bradesco,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.60657084,False,False,False,False
+Banco Bradesco,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.60639,False,False,False,False
+Banco Bradesco,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.60638595,False,False,False,False
+Banco Bradesco,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.606281,False,False,False,False
+Banco Bradesco,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6062325,False,False,False,False
+Banco Bradesco,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.6061098,False,False,False,False
+Banco Bradesco,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.6056534,False,False,False,False
+Banco Bradesco,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.6056018,False,False,False,False
+Banco Bradesco,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.60436875,False,False,False,False
+Banco Bradesco,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.604215,False,False,False,False
+Banco Bradesco,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6039555,False,False,False,False
+Banco Bradesco,random_windows-com_20251129T163112.png,RANDOM,unknown,0.6038728,False,False,False,False
+Banco Bradesco,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.60377085,False,False,False,False
+Banco Bradesco,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.6037631,False,False,False,False
+Banco Bradesco,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.6036788,False,False,False,False
+Banco Bradesco,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.6034061,False,False,False,False
+Banco Bradesco,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6032708,False,False,False,False
+Banco Bradesco,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.60319775,False,False,False,False
+Banco Bradesco,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.60315573,False,False,False,False
+Banco Bradesco,random_docker-com_20251129T170827.png,RANDOM,unknown,0.60280263,False,False,False,False
+Banco Bradesco,random_wix-com_20251129T171207.png,RANDOM,unknown,0.60264593,False,False,False,False
+Banco Bradesco,random_g-page_20251129T170201.png,RANDOM,unknown,0.6022446,False,False,False,False
+Banco Bradesco,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.60190237,False,False,False,False
+Banco Bradesco,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.6018939,False,False,False,False
+Banco Bradesco,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.60188377,False,False,False,False
+Banco Bradesco,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.6018223,False,False,False,False
+Banco Bradesco,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.60175526,False,False,False,False
+Banco Bradesco,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.600759,False,False,False,False
+Banco Bradesco,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.60067326,False,False,False,False
+Banco Bradesco,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.60067296,False,False,False,False
+Banco Bradesco,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6005678,False,False,False,False
+Banco Bradesco,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.60045326,False,False,False,False
+Banco Bradesco,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6002655,False,False,False,False
+Banco Bradesco,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.6002615,False,False,False,False
+Banco Bradesco,random_springer-com_20251129T164823.png,RANDOM,unknown,0.60023034,False,False,False,False
+Banco Bradesco,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6001904,False,False,False,False
+Banco Bradesco,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6001115,False,False,False,False
+Banco Bradesco,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5993453,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.59906614,False,False,False,False
+Banco Bradesco,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.59895647,False,False,False,False
+Banco Bradesco,random_linode-com_20251129T173059.png,RANDOM,unknown,0.5987109,False,False,False,False
+Banco Bradesco,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5981195,False,False,False,False
+Banco Bradesco,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5978553,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5978299,False,False,False,False
+Banco Bradesco,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5977941,False,False,False,False
+Banco Bradesco,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5973847,False,False,False,False
+Banco Bradesco,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.59734106,False,False,False,False
+Banco Bradesco,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.59732497,False,False,False,False
+Banco Bradesco,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.59698915,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5967223,False,False,False,False
+Banco Bradesco,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5965425,False,False,False,False
+Banco Bradesco,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.5963557,False,False,False,False
+Banco Bradesco,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5963191,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5961645,False,False,False,False
+Banco Bradesco,random_brave-com_20251129T172325.png,RANDOM,unknown,0.5958116,False,False,False,False
+Banco Bradesco,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.59564227,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.59538215,False,False,False,False
+Banco Bradesco,random_dns-google_20251129T163231.png,RANDOM,unknown,0.59528464,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5949899,False,False,False,False
+Banco Bradesco,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.5949359,False,False,False,False
+Banco Bradesco,random_google-com_20251129T162253.png,RANDOM,unknown,0.59464395,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.59458727,False,False,False,False
+Banco Bradesco,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.5942805,False,False,False,False
+Banco Bradesco,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5942551,False,False,False,False
+Banco Bradesco,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.5942048,False,False,False,False
+Banco Bradesco,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.5941925,False,False,False,False
+Banco Bradesco,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.5936363,False,False,False,False
+Banco Bradesco,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.59332156,False,False,False,False
+Banco Bradesco,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.59324116,False,False,False,False
+Banco Bradesco,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.59259546,False,False,False,False
+Banco Bradesco,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.5925579,False,False,False,False
+Banco Bradesco,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.5925498,False,False,False,False
+Banco Bradesco,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.59239376,False,False,False,False
+Banco Bradesco,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.59238994,False,False,False,False
+Banco Bradesco,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5922084,False,False,False,False
+Banco Bradesco,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.591725,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5915935,False,False,False,False
+Banco Bradesco,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.59096175,False,False,False,False
+Banco Bradesco,random_office365-com_20251129T162902.png,RANDOM,unknown,0.59090793,False,False,False,False
+Banco Bradesco,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.5907097,False,False,False,False
+Banco Bradesco,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.5901792,False,False,False,False
+Banco Bradesco,random_trello-com_20251129T180351.png,RANDOM,unknown,0.5901534,False,False,False,False
+Banco Bradesco,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.59014475,False,False,False,False
+Banco Bradesco,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5900785,False,False,False,False
+Banco Bradesco,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5899789,False,False,False,False
+Banco Bradesco,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.58997726,False,False,False,False
+Banco Bradesco,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.5898019,False,False,False,False
+Banco Bradesco,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.58975005,False,False,False,False
+Banco Bradesco,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.589059,False,False,False,False
+Banco Bradesco,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.5888754,False,False,False,False
+Banco Bradesco,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.58882844,False,False,False,False
+Banco Bradesco,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5887792,False,False,False,False
+Banco Bradesco,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.58855045,False,False,False,False
+Banco Bradesco,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.58836854,False,False,False,False
+Banco Bradesco,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.58831125,False,False,False,False
+Banco Bradesco,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5877582,False,False,False,False
+Banco Bradesco,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.58748436,False,False,False,False
+Banco Bradesco,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.58742076,False,False,False,False
+Banco Bradesco,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.58727777,False,False,False,False
+Banco Bradesco,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.5871895,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5871438,False,False,False,False
+Banco Bradesco,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.58684874,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.58668363,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.58654344,False,False,False,False
+Banco Bradesco,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5863827,False,False,False,False
+Banco Bradesco,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.5863375,False,False,False,False
+Banco Bradesco,random_bild-de_20251129T173827.png,RANDOM,unknown,0.5860323,False,False,False,False
+Banco Bradesco,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5850179,False,False,False,False
+Banco Bradesco,random_forter-com_20251129T164642.png,RANDOM,unknown,0.5848917,False,False,False,False
+Banco Bradesco,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.5844265,False,False,False,False
+Banco Bradesco,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.58431923,False,False,False,False
+Banco Bradesco,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.583866,False,False,False,False
+Banco Bradesco,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.58385324,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.58364755,False,False,False,False
+Banco Bradesco,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.58360344,False,False,False,False
+Banco Bradesco,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.58342797,False,False,False,False
+Banco Bradesco,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.58305526,False,False,False,False
+Banco Bradesco,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.58228433,False,False,False,False
+Banco Bradesco,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.58201224,False,False,False,False
+Banco Bradesco,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.5812907,False,False,False,False
+Banco Bradesco,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5811496,False,False,False,False
+Banco Bradesco,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5810119,False,False,False,False
+Banco Bradesco,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5808621,False,False,False,False
+Banco Bradesco,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.58044636,False,False,False,False
+Banco Bradesco,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.5803454,False,False,False,False
+Banco Bradesco,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.58016473,False,False,False,False
+Banco Bradesco,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.580058,False,False,False,False
+Banco Bradesco,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.5798715,False,False,False,False
+Banco Bradesco,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5797703,False,False,False,False
+Banco Bradesco,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.57973075,False,False,False,False
+Banco Bradesco,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.5796187,False,False,False,False
+Banco Bradesco,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.5794202,False,False,False,False
+Banco Bradesco,random_free-fr_20251129T171241.png,RANDOM,unknown,0.5793537,False,False,False,False
+Banco Bradesco,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.57898164,False,False,False,False
+Banco Bradesco,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5785918,False,False,False,False
+Banco Bradesco,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.5785428,False,False,False,False
+Banco Bradesco,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5784824,False,False,False,False
+Banco Bradesco,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5782411,False,False,False,False
+Banco Bradesco,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5778114,False,False,False,False
+Banco Bradesco,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.5777612,False,False,False,False
+Banco Bradesco,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.57701397,False,False,False,False
+Banco Bradesco,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.57672226,False,False,False,False
+Banco Bradesco,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.575274,False,False,False,False
+Banco Bradesco,random_w3-org_20251129T163751.png,RANDOM,unknown,0.5751915,False,False,False,False
+Banco Bradesco,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.5751515,False,False,False,False
+Banco Bradesco,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.5747025,False,False,False,False
+Banco Bradesco,random_ft-com_20251129T170724.png,RANDOM,unknown,0.5743107,False,False,False,False
+Banco Bradesco,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.5741489,False,False,False,False
+Banco Bradesco,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.57333803,False,False,False,False
+Banco Bradesco,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.57329154,False,False,False,False
+Banco Bradesco,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.57306546,False,False,False,False
+Banco Bradesco,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.57218164,False,False,False,False
+Banco Bradesco,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.57175326,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5715809,False,False,False,False
+Banco Bradesco,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.57155186,False,False,False,False
+Banco Bradesco,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5715389,False,False,False,False
+Banco Bradesco,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.57135314,False,False,False,False
+Banco Bradesco,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.57112217,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5706349,False,False,False,False
+Banco Bradesco,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.57050574,False,False,False,False
+Banco Bradesco,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.57021827,False,False,False,False
+Banco Bradesco,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.5693217,False,False,False,False
+Banco Bradesco,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.56921214,False,False,False,False
+Banco Bradesco,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5691107,False,False,False,False
+Banco Bradesco,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.56882364,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5687999,False,False,False,False
+Banco Bradesco,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.56833,False,False,False,False
+Banco Bradesco,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.56831133,False,False,False,False
+Banco Bradesco,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.56829655,False,False,False,False
+Banco Bradesco,random_office-com_20251129T162404.png,RANDOM,unknown,0.5680236,False,False,False,False
+Banco Bradesco,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.56718534,False,False,False,False
+Banco Bradesco,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.5669972,False,False,False,False
+Banco Bradesco,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.5669445,False,False,False,False
+Banco Bradesco,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.56647885,False,False,False,False
+Banco Bradesco,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.56612766,False,False,False,False
+Banco Bradesco,random_apache-org_20251129T163228.png,RANDOM,unknown,0.56606567,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.56600034,False,False,False,False
+Banco Bradesco,random_agora-io_20251129T175439.png,RANDOM,unknown,0.5658803,False,False,False,False
+Banco Bradesco,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5656079,False,False,False,False
+Banco Bradesco,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.56537694,False,False,False,False
+Banco Bradesco,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5650343,False,False,False,False
+Banco Bradesco,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.5649241,False,False,False,False
+Banco Bradesco,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.5646548,False,False,False,False
+Banco Bradesco,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.5646489,False,False,False,False
+Banco Bradesco,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5638598,False,False,False,False
+Banco Bradesco,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.5630741,False,False,False,False
+Banco Bradesco,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.5629532,False,False,False,False
+Banco Bradesco,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.5629306,False,False,False,False
+Banco Bradesco,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.56257427,False,False,False,False
+Banco Bradesco,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.5624307,False,False,False,False
+Banco Bradesco,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.5623543,False,False,False,False
+Banco Bradesco,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.5622627,False,False,False,False
+Banco Bradesco,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5617423,False,False,False,False
+Banco Bradesco,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.5617299,False,False,False,False
+Banco Bradesco,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.5615064,False,False,False,False
+Banco Bradesco,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.56090415,False,False,False,False
+Banco Bradesco,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.5607432,False,False,False,False
+Banco Bradesco,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.56057566,False,False,False,False
+Banco Bradesco,random_doi-org_20251129T164112.png,RANDOM,unknown,0.5603889,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.55972296,False,False,False,False
+Banco Bradesco,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.5595429,False,False,False,False
+Banco Bradesco,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.55941707,False,False,False,False
+Banco Bradesco,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.55924666,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.55891,False,False,False,False
+Banco Bradesco,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.558828,False,False,False,False
+Banco Bradesco,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.55852354,False,False,False,False
+Banco Bradesco,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.5579245,False,False,False,False
+Banco Bradesco,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.55788785,False,False,False,False
+Banco Bradesco,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.5578142,False,False,False,False
+Banco Bradesco,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.5573381,False,False,False,False
+Banco Bradesco,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.5571763,False,False,False,False
+Banco Bradesco,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.55711085,False,False,False,False
+Banco Bradesco,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.5569813,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.55691636,False,False,False,False
+Banco Bradesco,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.55636024,False,False,False,False
+Banco Bradesco,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5562502,False,False,False,False
+Banco Bradesco,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.5561622,False,False,False,False
+Banco Bradesco,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.55611515,False,False,False,False
+Banco Bradesco,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.55558395,False,False,False,False
+Banco Bradesco,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.5552014,False,False,False,False
+Banco Bradesco,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.5551081,False,False,False,False
+Banco Bradesco,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.5550673,False,False,False,False
+Banco Bradesco,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.5547724,False,False,False,False
+Banco Bradesco,random_finn-no_20251129T180303.png,RANDOM,unknown,0.5537372,False,False,False,False
+Banco Bradesco,random_github-io_20251129T163235.png,RANDOM,unknown,0.55351555,False,False,False,False
+Banco Bradesco,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.5530886,False,False,False,False
+Banco Bradesco,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.5524496,False,False,False,False
+Banco Bradesco,random_genius-com_20251129T174000.png,RANDOM,unknown,0.5524143,False,False,False,False
+Banco Bradesco,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.5521842,False,False,False,False
+Banco Bradesco,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.551552,False,False,False,False
+Banco Bradesco,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.55116665,False,False,False,False
+Banco Bradesco,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.5504,False,False,False,False
+Banco Bradesco,random_t-co_20251129T163912.png,RANDOM,unknown,0.5501715,False,False,False,False
+Banco Bradesco,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.5497833,False,False,False,False
+Banco Bradesco,random_openai-com_20251129T164132.png,RANDOM,unknown,0.54968035,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.54947984,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.54939383,False,False,False,False
+Banco Bradesco,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.5489733,False,False,False,False
+Banco Bradesco,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.54856294,False,False,False,False
+Banco Bradesco,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5482648,False,False,False,False
+Banco Bradesco,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.548161,False,False,False,False
+Banco Bradesco,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.54678726,False,False,False,False
+Banco Bradesco,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.54657817,False,False,False,False
+Banco Bradesco,random_apa-org_20251129T180433.png,RANDOM,unknown,0.5464606,False,False,False,False
+Banco Bradesco,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.54628664,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.54625034,False,False,False,False
+Banco Bradesco,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.54605305,False,False,False,False
+Banco Bradesco,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.54575527,False,False,False,False
+Banco Bradesco,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.54516625,False,False,False,False
+Banco Bradesco,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.5441612,False,False,False,False
+Banco Bradesco,random_canva-com_20251129T164231.png,RANDOM,unknown,0.54401565,False,False,False,False
+Banco Bradesco,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.54390776,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5433077,False,False,False,False
+Banco Bradesco,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.54293495,False,False,False,False
+Banco Bradesco,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.54276407,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.54275435,False,False,False,False
+Banco Bradesco,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.5423092,False,False,False,False
+Banco Bradesco,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.5421464,False,False,False,False
+Banco Bradesco,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.5419284,False,False,False,False
+Banco Bradesco,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.5413473,False,False,False,False
+Banco Bradesco,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.5413308,False,False,False,False
+Banco Bradesco,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.54041797,False,False,False,False
+Banco Bradesco,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.5399288,False,False,False,False
+Banco Bradesco,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.5398885,False,False,False,False
+Banco Bradesco,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.53705937,False,False,False,False
+Banco Bradesco,random_msn-com_20251129T162722.png,RANDOM,unknown,0.5369688,False,False,False,False
+Banco Bradesco,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.5361382,False,False,False,False
+Banco Bradesco,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.53610045,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.53604394,False,False,False,False
+Banco Bradesco,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.53594667,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5359301,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.53529006,False,False,False,False
+Banco Bradesco,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.5351542,False,False,False,False
+Banco Bradesco,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.5346103,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5342849,False,False,False,False
+Banco Bradesco,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.5338893,False,False,False,False
+Banco Bradesco,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.5335594,False,False,False,False
+Banco Bradesco,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.532805,False,False,False,False
+Banco Bradesco,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5324139,False,False,False,False
+Banco Bradesco,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.53237647,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5320804,False,False,False,False
+Banco Bradesco,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.5316937,False,False,False,False
+Banco Bradesco,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.5313136,False,False,False,False
+Banco Bradesco,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.531283,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5310707,False,False,False,False
+Banco Bradesco,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.53081715,False,False,False,False
+Banco Bradesco,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5303472,False,False,False,False
+Banco Bradesco,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.530264,False,False,False,False
+Banco Bradesco,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.53017586,False,False,False,False
+Banco Bradesco,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.53002083,False,False,False,False
+Banco Bradesco,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.5300096,False,False,False,False
+Banco Bradesco,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.52972686,False,False,False,False
+Banco Bradesco,random_vk-com_20251129T163202.png,RANDOM,unknown,0.52951825,False,False,False,False
+Banco Bradesco,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.5292905,False,False,False,False
+Banco Bradesco,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.5291343,False,False,False,False
+Banco Bradesco,random_focus-de_20251129T175031.png,RANDOM,unknown,0.52863145,False,False,False,False
+Banco Bradesco,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.52853346,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.52841365,False,False,False,False
+Banco Bradesco,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.5281023,False,False,False,False
+Banco Bradesco,random_change-org_20251129T173929.png,RANDOM,unknown,0.5278752,False,False,False,False
+Banco Bradesco,random_tds-net_20251129T174115.png,RANDOM,unknown,0.5276011,False,False,False,False
+Banco Bradesco,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.5274477,False,False,False,False
+Banco Bradesco,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.5271002,False,False,False,False
+Banco Bradesco,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.52700686,False,False,False,False
+Banco Bradesco,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.52673644,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5266961,False,False,False,False
+Banco Bradesco,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.526361,False,False,False,False
+Banco Bradesco,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.52621,False,False,False,False
+Banco Bradesco,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.52618814,False,False,False,False
+Banco Bradesco,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.52576977,False,False,False,False
+Banco Bradesco,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.52555346,False,False,False,False
+Banco Bradesco,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.5255347,False,False,False,False
+Banco Bradesco,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.5254506,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.52531403,False,False,False,False
+Banco Bradesco,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.52474904,False,False,False,False
+Banco Bradesco,random_booking-com_20251129T164752.png,RANDOM,unknown,0.5242864,False,False,False,False
+Banco Bradesco,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.52375346,False,False,False,False
+Banco Bradesco,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.52316433,False,False,False,False
+Banco Bradesco,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.5228714,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.52272666,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5222319,False,False,False,False
+Banco Bradesco,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.5220137,False,False,False,False
+Banco Bradesco,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.521875,False,False,False,False
+Banco Bradesco,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.5217047,False,False,False,False
+Banco Bradesco,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.5214873,False,False,False,False
+Banco Bradesco,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.5207871,False,False,False,False
+Banco Bradesco,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.52076495,False,False,False,False
+Banco Bradesco,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.5203891,False,False,False,False
+Banco Bradesco,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.52003217,False,False,False,False
+Banco Bradesco,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.5193888,False,False,False,False
+Banco Bradesco,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.51915455,False,False,False,False
+Banco Bradesco,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.519145,False,False,False,False
+Banco Bradesco,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.5191003,False,False,False,False
+Banco Bradesco,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.5187477,False,False,False,False
+Banco Bradesco,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.51845545,False,False,False,False
+Banco Bradesco,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.51818115,False,False,False,False
+Banco Bradesco,random_cox-net_20251129T170452.png,RANDOM,unknown,0.51808894,False,False,False,False
+Banco Bradesco,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.5177679,False,False,False,False
+Banco Bradesco,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5174449,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.51692474,False,False,False,False
+Banco Bradesco,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.51636994,False,False,False,False
+Banco Bradesco,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.5154509,False,False,False,False
+Banco Bradesco,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.51461864,False,False,False,False
+Banco Bradesco,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.51444286,False,False,False,False
+Banco Bradesco,random_g-co_20251129T171804.png,RANDOM,unknown,0.51441854,False,False,False,False
+Banco Bradesco,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.5140234,False,False,False,False
+Banco Bradesco,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.513585,False,False,False,False
+Banco Bradesco,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.513237,False,False,False,False
+Banco Bradesco,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5124983,False,False,False,False
+Banco Bradesco,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.51200104,False,False,False,False
+Banco Bradesco,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5102266,False,False,False,False
+Banco Bradesco,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.50977063,False,False,False,False
+Banco Bradesco,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5094022,False,False,False,False
+Banco Bradesco,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.50907624,False,False,False,False
+Banco Bradesco,random_statista-com_20251129T165822.png,RANDOM,unknown,0.5082981,False,False,False,False
+Banco Bradesco,random_daum-net_20251129T174537.png,RANDOM,unknown,0.5082284,False,False,False,False
+Banco Bradesco,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.5080594,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.50759304,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5068259,False,False,False,False
+Banco Bradesco,random_he-net_20251129T172135.png,RANDOM,unknown,0.5062258,False,False,False,False
+Banco Bradesco,random_note-com_20251129T174642.png,RANDOM,unknown,0.504894,False,False,False,False
+Banco Bradesco,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.5044235,False,False,False,False
+Banco Bradesco,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.50418246,False,False,False,False
+Banco Bradesco,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.5027297,False,False,False,False
+Banco Bradesco,random_go-com_20251129T164609.png,RANDOM,unknown,0.50270224,False,False,False,False
+Banco Bradesco,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.50222546,False,False,False,False
+Banco Bradesco,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.5016858,False,False,False,False
+Banco Bradesco,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.50144947,False,False,False,False
+Banco Bradesco,random_target-com_20251129T171437.png,RANDOM,unknown,0.5014372,False,False,False,False
+Banco Bradesco,random_jd-com_20251129T174954.png,RANDOM,unknown,0.5002474,False,False,False,False
+Banco Bradesco,random_temu-com_20251129T165219.png,RANDOM,unknown,0.49979,False,False,False,False
+Banco Bradesco,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.49956894,False,False,False,False
+Banco Bradesco,random_medium-com_20251129T163655.png,RANDOM,unknown,0.499332,False,False,False,False
+Banco Bradesco,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.4989795,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.49794853,False,False,False,False
+Banco Bradesco,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.49658865,False,False,False,False
+Banco Bradesco,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.49640048,False,False,False,False
+Banco Bradesco,random_ui-com_20251129T163127.png,RANDOM,unknown,0.49570444,False,False,False,False
+Banco Bradesco,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.49566403,False,False,False,False
+Banco Bradesco,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.49466366,False,False,False,False
+Banco Bradesco,random_skype-com_20251129T162718.png,RANDOM,unknown,0.49439144,False,False,False,False
+Banco Bradesco,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.4941184,False,False,False,False
+Banco Bradesco,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.49391314,False,False,False,False
+Banco Bradesco,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.49177423,False,False,False,False
+Banco Bradesco,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.49024847,False,False,False,False
+Banco Bradesco,random_naver-com_20251129T164929.png,RANDOM,unknown,0.48995984,False,False,False,False
+Banco Bradesco,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.48937654,False,False,False,False
+Banco Bradesco,random_moe-video_20251129T164430.png,RANDOM,unknown,0.48915023,False,False,False,False
+Banco Bradesco,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.48874357,False,False,False,False
+Banco Bradesco,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.4879102,False,False,False,False
+Banco Bradesco,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.48783797,False,False,False,False
+Banco Bradesco,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.48750085,False,False,False,False
+Banco Bradesco,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.48673874,False,False,False,False
+Banco Bradesco,random_360-cn_20251129T173141.png,RANDOM,unknown,0.48638502,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.4861638,False,False,False,False
+Banco Bradesco,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.48484194,False,False,False,False
+Banco Bradesco,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.48345482,False,False,False,False
+Banco Bradesco,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.48188516,False,False,False,False
+Banco Bradesco,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.4815145,False,False,False,False
+Banco Bradesco,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.48068547,False,False,False,False
+Banco Bradesco,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.48056334,False,False,False,False
+Banco Bradesco,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.48047045,False,False,False,False
+Banco Bradesco,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.48015416,False,False,False,False
+Banco Bradesco,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.47997546,False,False,False,False
+Banco Bradesco,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.4799687,False,False,False,False
+Banco Bradesco,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.47909343,False,False,False,False
+Banco Bradesco,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.4790488,False,False,False,False
+Banco Bradesco,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.47834092,False,False,False,False
+Banco Bradesco,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.4764143,False,False,False,False
+Banco Bradesco,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.47620687,False,False,False,False
+Banco Bradesco,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.47600052,False,False,False,False
+Banco Bradesco,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.4753263,False,False,False,False
+Banco Bradesco,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.47445375,False,False,False,False
+Banco Bradesco,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.47440547,False,False,False,False
+Banco Bradesco,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.47390833,False,False,False,False
+Banco Bradesco,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.47226882,False,False,False,False
+Banco Bradesco,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.47188538,False,False,False,False
+Banco Bradesco,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.4716974,False,False,False,False
+Banco Bradesco,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.47104418,False,False,False,False
+Banco Bradesco,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.46961963,False,False,False,False
+Banco Bradesco,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.46865532,False,False,False,False
+Banco Bradesco,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.46793646,False,False,False,False
+Banco Bradesco,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.46702707,False,False,False,False
+Banco Bradesco,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.46646786,False,False,False,False
+Banco Bradesco,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.46592352,False,False,False,False
+Banco Bradesco,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.46567133,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.46548003,False,False,False,False
+Banco Bradesco,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.4650935,False,False,False,False
+Banco Bradesco,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.46425575,False,False,False,False
+Banco Bradesco,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.46416998,False,False,False,False
+Banco Bradesco,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.4632718,False,False,False,False
+Banco Bradesco,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.46232373,False,False,False,False
+Banco Bradesco,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.4619025,False,False,False,False
+Banco Bradesco,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.4612747,False,False,False,False
+Banco Bradesco,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.46119845,False,False,False,False
+Banco Bradesco,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.46016902,False,False,False,False
+Banco Bradesco,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.45993152,False,False,False,False
+Banco Bradesco,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.45963478,False,False,False,False
+Banco Bradesco,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.45866594,False,False,False,False
+Banco Bradesco,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.4584459,False,False,False,False
+Banco Bradesco,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.45831692,False,False,False,False
+Banco Bradesco,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.45829278,False,False,False,False
+Banco Bradesco,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.45816883,False,False,False,False
+Banco Bradesco,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.45807937,False,False,False,False
+Banco Bradesco,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.45554405,False,False,False,False
+Banco Bradesco,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.45511436,False,False,False,False
+Banco Bradesco,random_bol-com_20251129T174941.png,RANDOM,unknown,0.4551081,False,False,False,False
+Banco Bradesco,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.4536904,False,False,False,False
+Banco Bradesco,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.45288748,False,False,False,False
+Banco Bradesco,random_erome-com_20251129T165107.png,RANDOM,unknown,0.45253703,False,False,False,False
+Banco Bradesco,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.45230258,False,False,False,False
+Banco Bradesco,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.45208824,False,False,False,False
+Banco Bradesco,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.45077267,False,False,False,False
+Banco Bradesco,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.450753,False,False,False,False
+Banco Bradesco,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.44952387,False,False,False,False
+Banco Bradesco,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.4453869,False,False,False,False
+Banco Bradesco,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.4448749,False,False,False,False
+Banco Bradesco,random_eset-com_20251129T171424.png,RANDOM,unknown,0.44432735,False,False,False,False
+Banco Bradesco,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.44395489,False,False,False,False
+Banco Bradesco,random_live-com_20251129T162413.png,RANDOM,unknown,0.43928954,False,False,False,False
+Banco Bradesco,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.4390266,False,False,False,False
+Banco Bradesco,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.43663424,False,False,False,False
+Banco Bradesco,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.43561977,False,False,False,False
+Banco Bradesco,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.43408427,False,False,False,False
+Banco Bradesco,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.43377745,False,False,False,False
+Banco Bradesco,random_one-one_20251129T163318.png,RANDOM,unknown,0.4336161,False,False,False,False
+Banco Bradesco,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.43241295,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.4319348,False,False,False,False
+Banco Bradesco,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.4315668,False,False,False,False
+Banco Bradesco,random_character-ai_20251129T174433.png,RANDOM,unknown,0.42943457,False,False,False,False
+Banco Bradesco,random_github-com_20251129T162456.png,RANDOM,unknown,0.42860866,False,False,False,False
+Banco Bradesco,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.42778754,False,False,False,False
+Banco Bradesco,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.42744452,False,False,False,False
+Banco Bradesco,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.42709282,False,False,False,False
+Banco Bradesco,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.427068,False,False,False,False
+Banco Bradesco,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.4263304,False,False,False,False
+Banco Bradesco,random_miui-com_20251129T163719.png,RANDOM,unknown,0.4256322,False,False,False,False
+Banco Bradesco,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.42544895,False,False,False,False
+Banco Bradesco,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.4232967,False,False,False,False
+Banco Bradesco,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.4229356,False,False,False,False
+Banco Bradesco,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.42145061,False,False,False,False
+Banco Bradesco,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.42134333,False,False,False,False
+Banco Bradesco,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.42123544,False,False,False,False
+Banco Bradesco,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.42059314,False,False,False,False
+Banco Bradesco,random_okta-com_20251129T171946.png,RANDOM,unknown,0.4202991,False,False,False,False
+Banco Bradesco,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.41974252,False,False,False,False
+Banco Bradesco,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.41964787,False,False,False,False
+Banco Bradesco,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.4183153,False,False,False,False
+Banco Bradesco,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.4177576,False,False,False,False
+Banco Bradesco,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.417552,False,False,False,False
+Banco Bradesco,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.41633898,False,False,False,False
+Banco Bradesco,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.41561288,False,False,False,False
+Banco Bradesco,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.41546386,False,False,False,False
+Banco Bradesco,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.41397402,False,False,False,False
+Banco Bradesco,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.41284162,False,False,False,False
+Banco Bradesco,random_example-com_20251129T163930.png,RANDOM,unknown,0.41280174,False,False,False,False
+Banco Bradesco,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.41261643,False,False,False,False
+Banco Bradesco,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.41244072,False,False,False,False
+Banco Bradesco,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.41129282,False,False,False,False
+Banco Bradesco,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.40995038,False,False,False,False
+Banco Bradesco,random_otto-de_20251129T174331.png,RANDOM,unknown,0.4092518,False,False,False,False
+Banco Bradesco,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.4090271,False,False,False,False
+Banco Bradesco,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.40830582,False,False,False,False
+Banco Bradesco,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.40823117,False,False,False,False
+Banco Bradesco,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.4078744,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.40726262,False,False,False,False
+Banco Bradesco,random_apple-com_20251129T162353.png,RANDOM,unknown,0.40698636,False,False,False,False
+Banco Bradesco,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.40697005,False,False,False,False
+Banco Bradesco,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.40695214,False,False,False,False
+Banco Bradesco,random_nic-io_20251129T173852.png,RANDOM,unknown,0.40637633,False,False,False,False
+Banco Bradesco,random_chess-com_20251129T173919.png,RANDOM,unknown,0.40599084,False,False,False,False
+Banco Bradesco,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.40479746,False,False,False,False
+Banco Bradesco,random_npr-org_20251129T170056.png,RANDOM,unknown,0.40385944,False,False,False,False
+Banco Bradesco,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.40327743,False,False,False,False
+Banco Bradesco,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.40281925,False,False,False,False
+Banco Bradesco,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.40272862,False,False,False,False
+Banco Bradesco,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.40228724,False,False,False,False
+Banco Bradesco,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.40126088,False,False,False,False
+Banco Bradesco,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.40073308,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.4002968,False,False,False,False
+Banco Bradesco,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.39988405,False,False,False,False
+Banco Bradesco,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.3996887,False,False,False,False
+Banco Bradesco,random_web-de_20251129T175220.png,RANDOM,unknown,0.39845216,False,False,False,False
+Banco Bradesco,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.39768052,False,False,False,False
+Banco Bradesco,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.3974162,False,False,False,False
+Banco Bradesco,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.39725608,False,False,False,False
+Banco Bradesco,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.39680892,False,False,False,False
+Banco Bradesco,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.3954893,False,False,False,False
+Banco Bradesco,random_debian-org_20251129T164620.png,RANDOM,unknown,0.39544037,False,False,False,False
+Banco Bradesco,random_android-com_20251129T163812.png,RANDOM,unknown,0.39451396,False,False,False,False
+Banco Bradesco,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.39440364,False,False,False,False
+Banco Bradesco,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.39350617,False,False,False,False
+Banco Bradesco,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.39292258,False,False,False,False
+Banco Bradesco,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.39287034,False,False,False,False
+Banco Bradesco,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.3919925,False,False,False,False
+Banco Bradesco,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.3913552,False,False,False,False
+Banco Bradesco,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.39112234,False,False,False,False
+Banco Bradesco,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.39103013,False,False,False,False
+Banco Bradesco,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.39085153,False,False,False,False
+Banco Bradesco,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.39049584,False,False,False,False
+Banco Bradesco,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.3889131,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.3880371,False,False,False,False
+Banco Bradesco,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.3874901,False,False,False,False
+Banco Bradesco,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.3868584,False,False,False,False
+Banco Bradesco,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.38663647,False,False,False,False
+Banco Bradesco,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.38645068,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.38633054,False,False,False,False
+Banco Bradesco,random_wise-com_20251129T180312.png,RANDOM,unknown,0.38508016,False,False,False,False
+Banco Bradesco,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.38506114,False,False,False,False
+Banco Bradesco,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.3842824,False,False,False,False
+Banco Bradesco,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.38391805,False,False,False,False
+Banco Bradesco,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.38330877,False,False,False,False
+Banco Bradesco,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.38324636,False,False,False,False
+Banco Bradesco,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.3832332,False,False,False,False
+Banco Bradesco,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.38319814,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.38304526,False,False,False,False
+Banco Bradesco,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.3819021,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.38133484,False,False,False,False
+Banco Bradesco,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.38123858,False,False,False,False
+Banco Bradesco,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.3811721,False,False,False,False
+Banco Bradesco,random_state-gov_20251129T174508.png,RANDOM,unknown,0.38109696,False,False,False,False
+Banco Bradesco,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.38100055,False,False,False,False
+Banco Bradesco,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.37941653,False,False,False,False
+Banco Bradesco,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.37876981,False,False,False,False
+Banco Bradesco,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.37786198,False,False,False,False
+Banco Bradesco,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.37771505,False,False,False,False
+Banco Bradesco,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.37697038,False,False,False,False
+Banco Bradesco,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.37647137,False,False,False,False
+Banco Bradesco,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.37570173,False,False,False,False
+Banco Bradesco,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.37549865,False,False,False,False
+Banco Bradesco,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.3751446,False,False,False,False
+Banco Bradesco,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.37353805,False,False,False,False
+Banco Bradesco,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.37312287,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.3729242,False,False,False,False
+Banco Bradesco,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.37279326,False,False,False,False
+Banco Bradesco,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.37275773,False,False,False,False
+Banco Bradesco,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.37260753,False,False,False,False
+Banco Bradesco,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.37259412,False,False,False,False
+Banco Bradesco,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.37148893,False,False,False,False
+Banco Bradesco,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.37140667,False,False,False,False
+Banco Bradesco,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.37104332,False,False,False,False
+Banco Bradesco,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.37097266,False,False,False,False
+Banco Bradesco,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.37069246,False,False,False,False
+Banco Bradesco,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.37040788,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.36939263,False,False,False,False
+Banco Bradesco,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.36856252,False,False,False,False
+Banco Bradesco,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.36769822,False,False,False,False
+Banco Bradesco,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.36754054,False,False,False,False
+Banco Bradesco,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.36713284,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.36696807,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.36668366,False,False,False,False
+Banco Bradesco,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.36639404,False,False,False,False
+Banco Bradesco,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.36535296,False,False,False,False
+Banco Bradesco,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.36518723,False,False,False,False
+Banco Bradesco,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.36483926,False,False,False,False
+Banco Bradesco,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.36460984,False,False,False,False
+Banco Bradesco,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.36453012,False,False,False,False
+Banco Bradesco,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.36395097,False,False,False,False
+Banco Bradesco,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.3628559,False,False,False,False
+Banco Bradesco,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.36250508,False,False,False,False
+Banco Bradesco,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.3615293,False,False,False,False
+Banco Bradesco,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.36120695,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.36092404,False,False,False,False
+Banco Bradesco,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.36010554,False,False,False,False
+Banco Bradesco,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.35970595,False,False,False,False
+Banco Bradesco,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.35964724,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.35951048,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.35891023,False,False,False,False
+Banco Bradesco,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.35806715,False,False,False,False
+Banco Bradesco,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.35732833,False,False,False,False
+Banco Bradesco,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.35530347,False,False,False,False
+Banco Bradesco,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.355105,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.3534754,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.35219556,False,False,False,False
+Banco Bradesco,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.35173637,False,False,False,False
+Banco Bradesco,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.35125446,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.3503672,False,False,False,False
+Banco Bradesco,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.34976095,False,False,False,False
+Banco Bradesco,random_aol-com_20251129T170152.png,RANDOM,unknown,0.34975824,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.3492788,False,False,False,False
+Banco Bradesco,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.34805065,False,False,False,False
+Banco Bradesco,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.34650105,False,False,False,False
+Banco Bradesco,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.34391457,False,False,False,False
+Banco Bradesco,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.34212455,False,False,False,False
+Banco Bradesco,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.3411007,False,False,False,False
+Banco Bradesco,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.34109706,False,False,False,False
+Banco Bradesco,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.34066093,False,False,False,False
+Banco Bradesco,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.34024355,False,False,False,False
+Banco Bradesco,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.33958358,False,False,False,False
+Banco Bradesco,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.33955505,False,False,False,False
+Banco Bradesco,random_overload-su_20251129T170747.png,RANDOM,unknown,0.3379283,False,False,False,False
+Banco Bradesco,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.33756065,False,False,False,False
+Banco Bradesco,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.33668235,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.33663863,False,False,False,False
+Banco Bradesco,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.33654523,False,False,False,False
+Banco Bradesco,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.33631158,False,False,False,False
+Banco Bradesco,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.33372593,False,False,False,False
+Banco Bradesco,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.3304999,False,False,False,False
+Banco Bradesco,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.3289929,False,False,False,False
+Banco Bradesco,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.32349834,False,False,False,False
+Banco Bradesco,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.32120854,False,False,False,False
+Banco Bradesco,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.31525594,False,False,False,False
+Banco Bradesco,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.31473088,False,False,False,False
+Banco Bradesco,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.3138677,False,False,False,False
+Banco Bradesco,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.31383076,False,False,False,False
+Banco Bradesco,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.31349075,False,False,False,False
+Banco Bradesco,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.31242064,False,False,False,False
+Banco Bradesco,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.31217006,False,False,False,False
+Banco Bradesco,random_shein-com_20251129T170736.png,RANDOM,unknown,0.31107575,False,False,False,False
+Banco Bradesco,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.31106484,False,False,False,False
+Banco Bradesco,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.3102838,False,False,False,False
+Banco Bradesco,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.30971253,False,False,False,False
+Banco Bradesco,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.3096181,False,False,False,False
+Banco Bradesco,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.30904925,False,False,False,False
+Banco Bradesco,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.30840558,False,False,False,False
+Banco Bradesco,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.30796087,False,False,False,False
+Banco Bradesco,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.30675164,False,False,False,False
+Banco Bradesco,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.30436817,False,False,False,False
+Banco Bradesco,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.30431062,False,False,False,False
+Banco Bradesco,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.30391687,False,False,False,False
+Banco Bradesco,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.30317926,False,False,False,False
+Banco Bradesco,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.30306786,False,False,False,False
+Banco Bradesco,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.30285203,False,False,False,False
+Banco Bradesco,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.30228508,False,False,False,False
+Banco Bradesco,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.30211288,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.30092186,False,False,False,False
+Banco Bradesco,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.30091143,False,False,False,False
+Banco Bradesco,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.30074525,False,False,False,False
+Banco Bradesco,random_substack-com_20251129T171941.png,RANDOM,unknown,0.30070937,False,False,False,False
+Banco Bradesco,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.29990834,False,False,False,False
+Banco Bradesco,random_youku-com_20251129T174026.png,RANDOM,unknown,0.2997342,False,False,False,False
+Banco Bradesco,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.2992688,False,False,False,False
+Banco Bradesco,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.29913622,False,False,False,False
+Banco Bradesco,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.2990979,False,False,False,False
+Banco Bradesco,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.29902083,False,False,False,False
+Banco Bradesco,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.29871893,False,False,False,False
+Banco Bradesco,random_welt-de_20251129T173821.png,RANDOM,unknown,0.29521868,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.29441074,False,False,False,False
+Banco Bradesco,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.29186654,False,False,False,False
+Banco Bradesco,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.29118317,False,False,False,False
+Banco Bradesco,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.29087788,False,False,False,False
+Banco Bradesco,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.29086065,False,False,False,False
+Banco Bradesco,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.29083657,False,False,False,False
+Banco Bradesco,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.2904586,False,False,False,False
+Banco Bradesco,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.28872883,False,False,False,False
+Banco Bradesco,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.28845918,False,False,False,False
+Banco Bradesco,random_att-net_20251129T170227.png,RANDOM,unknown,0.28739607,False,False,False,False
+Banco Bradesco,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.28624588,False,False,False,False
+Banco Bradesco,random_synology-com_20251129T173948.png,RANDOM,unknown,0.28614753,False,False,False,False
+Banco Bradesco,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.28468618,False,False,False,False
+Banco Bradesco,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.2839955,False,False,False,False
+Banco Bradesco,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.2834342,False,False,False,False
+Banco Bradesco,random_intel-com_20251129T171229.png,RANDOM,unknown,0.28291008,False,False,False,False
+Banco Bradesco,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.28148565,False,False,False,False
+Banco Bradesco,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.28040573,False,False,False,False
+Banco Bradesco,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.2803091,False,False,False,False
+Banco Bradesco,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.2798861,False,False,False,False
+Banco Bradesco,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.27930316,False,False,False,False
+Banco Bradesco,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.27837828,False,False,False,False
+Banco Bradesco,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.27791226,False,False,False,False
+Banco Bradesco,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.27788624,False,False,False,False
+Banco Bradesco,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.27782884,False,False,False,False
+Banco Bradesco,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.2773459,False,False,False,False
+Banco Bradesco,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.27581638,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.27565593,False,False,False,False
+Banco Bradesco,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.27544773,False,False,False,False
+Banco Bradesco,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.2751652,False,False,False,False
+Banco Bradesco,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.2732403,False,False,False,False
+Banco Bradesco,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.27174753,False,False,False,False
+Banco Bradesco,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.27006993,False,False,False,False
+Banco Bradesco,random_hp-com_20251129T164248.png,RANDOM,unknown,0.26985958,False,False,False,False
+Banco Bradesco,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.2688777,False,False,False,False
+Banco Bradesco,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.26778364,False,False,False,False
+Banco Bradesco,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.26686966,False,False,False,False
+Banco Bradesco,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.26663196,False,False,False,False
+Banco Bradesco,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.26636088,False,False,False,False
+Banco Bradesco,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.2654213,False,False,False,False
+Banco Bradesco,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.26539046,False,False,False,False
+Banco Bradesco,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.26450145,False,False,False,False
+Banco Bradesco,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.26443702,False,False,False,False
+Banco Bradesco,random_usps-com_20251129T173658.png,RANDOM,unknown,0.26441923,False,False,False,False
+Banco Bradesco,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.26283503,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.2626002,False,False,False,False
+Banco Bradesco,random_name-com_20251129T171101.png,RANDOM,unknown,0.2617532,False,False,False,False
+Banco Bradesco,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.26099628,False,False,False,False
+Banco Bradesco,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.2580179,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.257532,False,False,False,False
+Banco Bradesco,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.25690693,False,False,False,False
+Banco Bradesco,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.25687817,False,False,False,False
+Banco Bradesco,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.2544666,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.25345296,False,False,False,False
+Banco Bradesco,random_asus-com_20251129T172748.png,RANDOM,unknown,0.25307423,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.2517415,False,False,False,False
+Banco Bradesco,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.2507676,False,False,False,False
+Banco Bradesco,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.2491844,False,False,False,False
+Banco Bradesco,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.24835959,False,False,False,False
+Banco Bradesco,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.24619094,False,False,False,False
+Banco Bradesco,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.24613264,False,False,False,False
+Banco Bradesco,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.24533299,False,False,False,False
+Banco Bradesco,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.24509491,False,False,False,False
+Banco Bradesco,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.24392946,False,False,False,False
+Banco Bradesco,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.24335968,False,False,False,False
+Banco Bradesco,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.2428162,False,False,False,False
+Banco Bradesco,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.24257158,False,False,False,False
+Banco Bradesco,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.24242297,False,False,False,False
+Banco Bradesco,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.24240352,False,False,False,False
+Banco Bradesco,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.24229318,False,False,False,False
+Banco Bradesco,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.2411678,False,False,False,False
+Banco Bradesco,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.24089694,False,False,False,False
+Banco Bradesco,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.24012128,False,False,False,False
+Banco Bradesco,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.23910813,False,False,False,False
+Banco Bradesco,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.23830526,False,False,False,False
+Banco Bradesco,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.23783839,False,False,False,False
+Banco Bradesco,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.23682052,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.23562065,False,False,False,False
+Banco Bradesco,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.23559739,False,False,False,False
+Banco Bradesco,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.23555672,False,False,False,False
+Banco Bradesco,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.23524651,False,False,False,False
+Banco Bradesco,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.23522949,False,False,False,False
+Banco Bradesco,random_qq-com_20251129T162834.png,RANDOM,unknown,0.2349235,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.23189059,False,False,False,False
+Banco Bradesco,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.23178694,False,False,False,False
+Banco Bradesco,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.23146956,False,False,False,False
+Banco Bradesco,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.23121208,False,False,False,False
+Banco Bradesco,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.22937873,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.22921649,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.22747913,False,False,False,False
+Banco Bradesco,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.22674507,False,False,False,False
+Banco Bradesco,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.22658342,False,False,False,False
+Banco Bradesco,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.22617504,False,False,False,False
+Banco Bradesco,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.22601666,False,False,False,False
+Banco Bradesco,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.22600645,False,False,False,False
+Banco Bradesco,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.22558802,False,False,False,False
+Banco Bradesco,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.2252033,False,False,False,False
+Banco Bradesco,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.22424471,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.22381711,False,False,False,False
+Banco Bradesco,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.22199228,False,False,False,False
+Banco Bradesco,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.22121611,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.22071859,False,False,False,False
+Banco Bradesco,random_plos-org_20251129T180524.png,RANDOM,unknown,0.22022396,False,False,False,False
+Banco Bradesco,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.21701881,False,False,False,False
+Banco Bradesco,random_poki-com_20251129T180027.png,RANDOM,unknown,0.2160765,False,False,False,False
+Banco Bradesco,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.21417555,False,False,False,False
+Banco Bradesco,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.21299323,False,False,False,False
+Banco Bradesco,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.21263565,False,False,False,False
+Banco Bradesco,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.21222787,False,False,False,False
+Banco Bradesco,random_media-net_20251129T164538.png,RANDOM,unknown,0.21140915,False,False,False,False
+Banco Bradesco,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.21049753,False,False,False,False
+Banco Bradesco,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.21013865,False,False,False,False
+Banco Bradesco,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.20902589,False,False,False,False
+Banco Bradesco,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.20822391,False,False,False,False
+Banco Bradesco,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.20743707,False,False,False,False
+Banco Bradesco,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.20729056,False,False,False,False
+Banco Bradesco,random_abc-es_20251129T175348.png,RANDOM,unknown,0.20642519,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.20551178,False,False,False,False
+Banco Bradesco,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.20250735,False,False,False,False
+Banco Bradesco,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.20185173,False,False,False,False
+Banco Bradesco,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.20180064,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.20172048,False,False,False,False
+Banco Bradesco,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.20054692,False,False,False,False
+Banco Bradesco,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.19844875,False,False,False,False
+Banco Bradesco,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.19603476,False,False,False,False
+Banco Bradesco,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.19418263,False,False,False,False
+Banco Bradesco,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.19324401,False,False,False,False
+Banco Bradesco,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.19309887,False,False,False,False
+Banco Bradesco,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.19225994,False,False,False,False
+Banco Bradesco,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.19040777,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.19037256,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.18890992,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.18852413,False,False,False,False
+Banco Bradesco,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.18849184,False,False,False,False
+Banco Bradesco,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.18717483,False,False,False,False
+Banco Bradesco,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.18578988,False,False,False,False
+Banco Bradesco,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.18533456,False,False,False,False
+Banco Bradesco,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.18468909,False,False,False,False
+Banco Bradesco,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.18457928,False,False,False,False
+Banco Bradesco,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.18270361,False,False,False,False
+Banco Bradesco,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.18234318,False,False,False,False
+Banco Bradesco,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.18118912,False,False,False,False
+Banco Bradesco,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.17939726,False,False,False,False
+Banco Bradesco,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.17903054,False,False,False,False
+Banco Bradesco,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.178743,False,False,False,False
+Banco Bradesco,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.17694673,False,False,False,False
+Banco Bradesco,random_people-com_20251129T172859.png,RANDOM,unknown,0.17651756,False,False,False,False
+Banco Bradesco,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.17545238,False,False,False,False
+Banco Bradesco,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.17288704,False,False,False,False
+Banco Bradesco,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.17207742,False,False,False,False
+Banco Bradesco,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.17059115,False,False,False,False
+Banco Bradesco,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.17051923,False,False,False,False
+Banco Bradesco,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.16802871,False,False,False,False
+Banco Bradesco,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.16769308,False,False,False,False
+Banco Bradesco,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.16759856,False,False,False,False
+Banco Bradesco,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.16757606,False,False,False,False
+Banco Bradesco,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.16361849,False,False,False,False
+Banco Bradesco,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.16311142,False,False,False,False
+Banco Bradesco,random_ted-com_20251129T172015.png,RANDOM,unknown,0.15950556,False,False,False,False
+Banco Bradesco,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.15801117,False,False,False,False
+Banco Bradesco,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.1574634,False,False,False,False
+Banco Bradesco,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.15665443,False,False,False,False
+Banco Bradesco,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.15503761,False,False,False,False
+Banco Bradesco,random_threads-com_20251129T174157.png,RANDOM,unknown,0.15405989,False,False,False,False
+Banco Bradesco,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.15334757,False,False,False,False
+Banco Bradesco,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.15284926,False,False,False,False
+Banco Bradesco,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.15240484,False,False,False,False
+Banco Bradesco,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.15187348,False,False,False,False
+Banco Bradesco,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.15048325,False,False,False,False
+Banco Bradesco,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.14971769,False,False,False,False
+Banco Bradesco,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.14836033,False,False,False,False
+Banco Bradesco,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.14830649,False,False,False,False
+Banco Bradesco,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.14614744,False,False,False,False
+Banco Bradesco,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.14601234,False,False,False,False
+Banco Bradesco,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.14554828,False,False,False,False
+Banco Bradesco,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.14546418,False,False,False,False
+Banco Bradesco,random_india-com_20251129T180557.png,RANDOM,unknown,0.14310871,False,False,False,False
+Banco Bradesco,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.14216909,False,False,False,False
+Banco Bradesco,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.14202556,False,False,False,False
+Banco Bradesco,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.14164086,False,False,False,False
+Banco Bradesco,random_espn-com_20251129T165100.png,RANDOM,unknown,0.13998953,False,False,False,False
+Banco Bradesco,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.1394853,False,False,False,False
+Banco Bradesco,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.13718645,False,False,False,False
+Banco Bradesco,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.13550021,False,False,False,False
+Banco Bradesco,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.1351145,False,False,False,False
+Banco Bradesco,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.13222907,False,False,False,False
+Banco Bradesco,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.13094622,False,False,False,False
+Banco Bradesco,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.13064209,False,False,False,False
+Banco Bradesco,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.12982881,False,False,False,False
+Banco Bradesco,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.12880015,False,False,False,False
+Banco Bradesco,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.1247112,False,False,False,False
+Banco Bradesco,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.12010245,False,False,False,False
+Banco Bradesco,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.117978424,False,False,False,False
+Banco Bradesco,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.115714915,False,False,False,False
+Banco Bradesco,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.11352749,False,False,False,False
+Banco Bradesco,random_line-me_20251129T170140.png,RANDOM,unknown,0.11274558,False,False,False,False
+Banco Bradesco,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.111668706,False,False,False,False
+Banco Bradesco,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.11094904,False,False,False,False
+Banco Bradesco,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.11014962,False,False,False,False
+Banco Bradesco,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.10923508,False,False,False,False
+Banco Bradesco,random_as-com_20251129T175716.png,RANDOM,unknown,0.107899055,False,False,False,False
+Banco Bradesco,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.107293636,False,False,False,False
+Banco Bradesco,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.10572376,False,False,False,False
+Banco Bradesco,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.10570271,False,False,False,False
+Banco Bradesco,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.10419586,False,False,False,False
+Banco Bradesco,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.10357101,False,False,False,False
+Banco Bradesco,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.10312396,False,False,False,False
+Banco Bradesco,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.1015311,False,False,False,False
+Banco Bradesco,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.09964295,False,False,False,False
+Banco Bradesco,random_who-int_20251129T164225.png,RANDOM,unknown,0.09935835,False,False,False,False
+Banco Bradesco,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.09888725,False,False,False,False
+Banco Bradesco,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.09776144,False,False,False,False
+Banco Bradesco,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.09769304,False,False,False,False
+Banco Bradesco,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.096320204,False,False,False,False
+Banco Bradesco,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.09485008,False,False,False,False
+Banco Bradesco,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.09453304,False,False,False,False
+Banco Bradesco,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.09444997,False,False,False,False
+Banco Bradesco,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.09384682,False,False,False,False
+Banco Bradesco,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.092477635,False,False,False,False
+Banco Bradesco,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.09171569,False,False,False,False
+Banco Bradesco,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.090627246,False,False,False,False
+Banco Bradesco,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.08891143,False,False,False,False
+Banco Bradesco,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.08730261,False,False,False,False
+Banco Bradesco,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.08312905,False,False,False,False
+Banco Bradesco,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.08306204,False,False,False,False
+Banco Bradesco,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.08281275,False,False,False,False
+Banco Bradesco,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.08084537,False,False,False,False
+Banco Bradesco,random_health-mil_20251129T163619.png,RANDOM,unknown,0.08076419,False,False,False,False
+Banco Bradesco,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.07999123,False,False,False,False
+Banco Bradesco,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.077130094,False,False,False,False
+Banco Bradesco,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.07653472,False,False,False,False
+Banco Bradesco,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.07460189,False,False,False,False
+Banco Bradesco,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.07378483,False,False,False,False
+Banco Bradesco,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.073211014,False,False,False,False
+Banco Bradesco,random_time-com_20251129T170629.png,RANDOM,unknown,0.06061058,False,False,False,False
+Banco Bradesco,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.05973303,False,False,False,False
+Banco Bradesco,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.0513208,False,False,False,False
+Banco Bradesco,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.050872162,False,False,False,False
+Banco Bradesco,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.04802508,False,False,False,False
+Banco Bradesco,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.045696557,False,False,False,False
+Banco Bradesco,random_globo-com_20251129T165541.png,RANDOM,unknown,0.038349196,False,False,False,False
+Banco Bradesco,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.03803554,False,False,False,False
+Banco Bradesco,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.035540354,False,False,False,False
+Banco Bradesco,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.02990815,False,False,False,False
+Banco Bradesco,random_clever-com_20251129T173500.png,RANDOM,unknown,0.028919108,False,False,False,False
+Banco Bradesco,random_azure-com_20251129T162438.png,RANDOM,unknown,0.022080947,False,False,False,False
+Banco Bradesco,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.02185331,False,False,False,False
+Banco Bradesco,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.021657323,False,False,False,False
+Banco Bradesco,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.011935379,False,False,False,False
+Banco Bradesco,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.011829257,False,False,False,False
+Banco Bradesco,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.010849375,False,False,False,False
+Banco Bradesco,random_bing-com_20251129T162459.png,RANDOM,unknown,0.0070583103,False,False,False,False

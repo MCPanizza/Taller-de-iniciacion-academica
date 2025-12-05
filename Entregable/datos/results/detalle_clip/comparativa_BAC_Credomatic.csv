@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+BAC Credomatic,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,1.0000001,True,True,False,True
+BAC Credomatic,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.94281167,True,True,False,False
+BAC Credomatic,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.9417852,True,True,False,False
+BAC Credomatic,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.9272319,True,True,False,False
+BAC Credomatic,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.9160584,True,True,False,False
+BAC Credomatic,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.89298165,True,True,False,False
+BAC Credomatic,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.8206908,True,True,False,False
+BAC Credomatic,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.80657965,True,True,False,False
+BAC Credomatic,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.79592085,False,False,False,False
+BAC Credomatic,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.7922024,False,False,False,False
+BAC Credomatic,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.7449429,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.71050984,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6850569,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.68325037,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6812158,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.67571056,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.67567015,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.67497236,False,False,False,False
+BAC Credomatic,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.66830516,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6681707,False,False,False,False
+BAC Credomatic,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6646726,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.66189826,False,False,False,False
+BAC Credomatic,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.658468,False,False,False,False
+BAC Credomatic,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6568304,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6518146,False,False,False,False
+BAC Credomatic,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.65082556,False,False,False,False
+BAC Credomatic,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6497495,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.64865357,False,False,False,False
+BAC Credomatic,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6477614,False,False,False,False
+BAC Credomatic,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.64738524,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.64483184,False,False,False,False
+BAC Credomatic,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6431439,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.64140356,False,False,False,False
+BAC Credomatic,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.63874936,False,False,False,False
+BAC Credomatic,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.638309,False,False,False,False
+BAC Credomatic,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6375149,False,False,False,False
+BAC Credomatic,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.63418794,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.63215023,False,False,False,False
+BAC Credomatic,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.6319779,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6314063,False,False,False,False
+BAC Credomatic,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.63119656,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.63098085,False,False,False,False
+BAC Credomatic,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.63083565,False,False,False,False
+BAC Credomatic,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.63071704,False,False,False,False
+BAC Credomatic,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6305091,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.62971175,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.62852836,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.62637794,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.62604797,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.62600875,False,False,False,False
+BAC Credomatic,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6258861,False,False,False,False
+BAC Credomatic,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.625586,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6253066,False,False,False,False
+BAC Credomatic,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.62388897,False,False,False,False
+BAC Credomatic,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.62387955,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.62367386,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.62307525,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.62198365,False,False,False,False
+BAC Credomatic,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6209011,False,False,False,False
+BAC Credomatic,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.6202402,False,False,False,False
+BAC Credomatic,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6198102,False,False,False,False
+BAC Credomatic,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6197485,False,False,False,False
+BAC Credomatic,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6188193,False,False,False,False
+BAC Credomatic,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.6187085,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6186489,False,False,False,False
+BAC Credomatic,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.61841786,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6181072,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6175707,False,False,False,False
+BAC Credomatic,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.6158648,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6156378,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.61543036,False,False,False,False
+BAC Credomatic,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.6152596,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6142829,False,False,False,False
+BAC Credomatic,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6128132,False,False,False,False
+BAC Credomatic,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6126428,False,False,False,False
+BAC Credomatic,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6124879,False,False,False,False
+BAC Credomatic,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.611794,False,False,False,False
+BAC Credomatic,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.61173654,False,False,False,False
+BAC Credomatic,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.61160415,False,False,False,False
+BAC Credomatic,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.61144423,False,False,False,False
+BAC Credomatic,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6113956,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.61108327,False,False,False,False
+BAC Credomatic,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.61012805,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6099796,False,False,False,False
+BAC Credomatic,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.6098925,False,False,False,False
+BAC Credomatic,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.6098379,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6092925,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6092695,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.60731757,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.60723114,False,False,False,False
+BAC Credomatic,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.6071893,False,False,False,False
+BAC Credomatic,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6062132,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.60607743,False,False,False,False
+BAC Credomatic,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6053933,False,False,False,False
+BAC Credomatic,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.6053501,False,False,False,False
+BAC Credomatic,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.6042906,False,False,False,False
+BAC Credomatic,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.604136,False,False,False,False
+BAC Credomatic,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6040566,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6037217,False,False,False,False
+BAC Credomatic,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.60361993,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6034266,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6033264,False,False,False,False
+BAC Credomatic,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6031532,False,False,False,False
+BAC Credomatic,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6030985,False,False,False,False
+BAC Credomatic,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.60287774,False,False,False,False
+BAC Credomatic,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6028054,False,False,False,False
+BAC Credomatic,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.6014838,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.60076565,False,False,False,False
+BAC Credomatic,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.6007558,False,False,False,False
+BAC Credomatic,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.60040885,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.599815,False,False,False,False
+BAC Credomatic,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.59962964,False,False,False,False
+BAC Credomatic,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.59962875,False,False,False,False
+BAC Credomatic,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.5993798,False,False,False,False
+BAC Credomatic,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.5993053,False,False,False,False
+BAC Credomatic,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5986713,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.59849435,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5982854,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.59820986,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.59723145,False,False,False,False
+BAC Credomatic,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5965432,False,False,False,False
+BAC Credomatic,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.59652793,False,False,False,False
+BAC Credomatic,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.5963867,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.59635514,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.59581494,False,False,False,False
+BAC Credomatic,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.59573734,False,False,False,False
+BAC Credomatic,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.595634,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5954961,False,False,False,False
+BAC Credomatic,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.59532607,False,False,False,False
+BAC Credomatic,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5950512,False,False,False,False
+BAC Credomatic,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.59453857,False,False,False,False
+BAC Credomatic,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.5945127,False,False,False,False
+BAC Credomatic,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.594402,False,False,False,False
+BAC Credomatic,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.5938636,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.5937208,False,False,False,False
+BAC Credomatic,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5936815,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.5934118,False,False,False,False
+BAC Credomatic,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.5925861,False,False,False,False
+BAC Credomatic,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.5924985,False,False,False,False
+BAC Credomatic,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.59238446,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.592364,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.59176725,False,False,False,False
+BAC Credomatic,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5913978,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.59136415,False,False,False,False
+BAC Credomatic,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.5910797,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.59098566,False,False,False,False
+BAC Credomatic,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.5909782,False,False,False,False
+BAC Credomatic,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.5907641,False,False,False,False
+BAC Credomatic,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5907045,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5904824,False,False,False,False
+BAC Credomatic,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5902838,False,False,False,False
+BAC Credomatic,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.59001935,False,False,False,False
+BAC Credomatic,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.58964187,False,False,False,False
+BAC Credomatic,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.589326,False,False,False,False
+BAC Credomatic,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.58928865,False,False,False,False
+BAC Credomatic,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.58910835,False,False,False,False
+BAC Credomatic,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.5890255,False,False,False,False
+BAC Credomatic,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.588292,False,False,False,False
+BAC Credomatic,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.58822584,False,False,False,False
+BAC Credomatic,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5881648,False,False,False,False
+BAC Credomatic,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.58759433,False,False,False,False
+BAC Credomatic,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.58739835,False,False,False,False
+BAC Credomatic,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.5871155,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5856931,False,False,False,False
+BAC Credomatic,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.5851376,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.58505625,False,False,False,False
+BAC Credomatic,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.5849253,False,False,False,False
+BAC Credomatic,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.58487225,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5847261,False,False,False,False
+BAC Credomatic,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.5847,False,False,False,False
+BAC Credomatic,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.5841961,False,False,False,False
+BAC Credomatic,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.58414674,False,False,False,False
+BAC Credomatic,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.58394694,False,False,False,False
+BAC Credomatic,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.58311546,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.58300763,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.5829518,False,False,False,False
+BAC Credomatic,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5821874,False,False,False,False
+BAC Credomatic,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.58184534,False,False,False,False
+BAC Credomatic,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.5817242,False,False,False,False
+BAC Credomatic,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5813379,False,False,False,False
+BAC Credomatic,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.58128566,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.581148,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.581108,False,False,False,False
+BAC Credomatic,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.5810593,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.58025694,False,False,False,False
+BAC Credomatic,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.57996845,False,False,False,False
+BAC Credomatic,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.579919,False,False,False,False
+BAC Credomatic,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.5796654,False,False,False,False
+BAC Credomatic,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.57959193,False,False,False,False
+BAC Credomatic,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.579464,False,False,False,False
+BAC Credomatic,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.57941175,False,False,False,False
+BAC Credomatic,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5792774,False,False,False,False
+BAC Credomatic,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.57920676,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.57884717,False,False,False,False
+BAC Credomatic,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.5786129,False,False,False,False
+BAC Credomatic,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.57833374,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.57825494,False,False,False,False
+BAC Credomatic,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.57821965,False,False,False,False
+BAC Credomatic,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.5779363,False,False,False,False
+BAC Credomatic,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.577906,False,False,False,False
+BAC Credomatic,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5778016,False,False,False,False
+BAC Credomatic,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.57778645,False,False,False,False
+BAC Credomatic,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.57754076,False,False,False,False
+BAC Credomatic,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.57741266,False,False,False,False
+BAC Credomatic,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.5773716,False,False,False,False
+BAC Credomatic,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5769557,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.57667875,False,False,False,False
+BAC Credomatic,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5764326,False,False,False,False
+BAC Credomatic,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5763322,False,False,False,False
+BAC Credomatic,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.5756634,False,False,False,False
+BAC Credomatic,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.57563674,False,False,False,False
+BAC Credomatic,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.5754656,False,False,False,False
+BAC Credomatic,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.57518697,False,False,False,False
+BAC Credomatic,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.5748724,False,False,False,False
+BAC Credomatic,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.57486045,False,False,False,False
+BAC Credomatic,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.5747657,False,False,False,False
+BAC Credomatic,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.57435536,False,False,False,False
+BAC Credomatic,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5743528,False,False,False,False
+BAC Credomatic,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.5739536,False,False,False,False
+BAC Credomatic,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.57388854,False,False,False,False
+BAC Credomatic,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.57383645,False,False,False,False
+BAC Credomatic,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.5732796,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5732442,False,False,False,False
+BAC Credomatic,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.57295084,False,False,False,False
+BAC Credomatic,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.57294214,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5729208,False,False,False,False
+BAC Credomatic,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.57253945,False,False,False,False
+BAC Credomatic,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.5723153,False,False,False,False
+BAC Credomatic,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.5722697,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.57208025,False,False,False,False
+BAC Credomatic,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5715847,False,False,False,False
+BAC Credomatic,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5713295,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5712919,False,False,False,False
+BAC Credomatic,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.57124984,False,False,False,False
+BAC Credomatic,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.57119256,False,False,False,False
+BAC Credomatic,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5709497,False,False,False,False
+BAC Credomatic,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5705031,False,False,False,False
+BAC Credomatic,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.57049143,False,False,False,False
+BAC Credomatic,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5703918,False,False,False,False
+BAC Credomatic,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.57038015,False,False,False,False
+BAC Credomatic,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.5702729,False,False,False,False
+BAC Credomatic,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.57020783,False,False,False,False
+BAC Credomatic,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.56966376,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5692321,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.56921744,False,False,False,False
+BAC Credomatic,random_hp-com_20251129T164248.png,RANDOM,unknown,0.56917256,False,False,False,False
+BAC Credomatic,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.56912124,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5690923,False,False,False,False
+BAC Credomatic,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5686025,False,False,False,False
+BAC Credomatic,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.5685153,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.56824887,False,False,False,False
+BAC Credomatic,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.56813955,False,False,False,False
+BAC Credomatic,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.56796503,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5679153,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.56769955,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.56756365,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.56746286,False,False,False,False
+BAC Credomatic,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.56701565,False,False,False,False
+BAC Credomatic,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.56672895,False,False,False,False
+BAC Credomatic,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.5667125,False,False,False,False
+BAC Credomatic,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.56652564,False,False,False,False
+BAC Credomatic,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.5659519,False,False,False,False
+BAC Credomatic,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.565745,False,False,False,False
+BAC Credomatic,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.5656401,False,False,False,False
+BAC Credomatic,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.5653466,False,False,False,False
+BAC Credomatic,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.56520283,False,False,False,False
+BAC Credomatic,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.5650637,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.56465274,False,False,False,False
+BAC Credomatic,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5638964,False,False,False,False
+BAC Credomatic,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.5637,False,False,False,False
+BAC Credomatic,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5636934,False,False,False,False
+BAC Credomatic,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.5636405,False,False,False,False
+BAC Credomatic,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.56304413,False,False,False,False
+BAC Credomatic,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.56271833,False,False,False,False
+BAC Credomatic,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.56225896,False,False,False,False
+BAC Credomatic,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5618635,False,False,False,False
+BAC Credomatic,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.56130075,False,False,False,False
+BAC Credomatic,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5608274,False,False,False,False
+BAC Credomatic,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.56065506,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5605305,False,False,False,False
+BAC Credomatic,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.5605253,False,False,False,False
+BAC Credomatic,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.56030667,False,False,False,False
+BAC Credomatic,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.56029594,False,False,False,False
+BAC Credomatic,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.56026113,False,False,False,False
+BAC Credomatic,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.5600816,False,False,False,False
+BAC Credomatic,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.55974233,False,False,False,False
+BAC Credomatic,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.5594959,False,False,False,False
+BAC Credomatic,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5593509,False,False,False,False
+BAC Credomatic,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.55874366,False,False,False,False
+BAC Credomatic,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.5582322,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.558087,False,False,False,False
+BAC Credomatic,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.5578911,False,False,False,False
+BAC Credomatic,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.5577775,False,False,False,False
+BAC Credomatic,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.55774075,False,False,False,False
+BAC Credomatic,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.55772376,False,False,False,False
+BAC Credomatic,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.5575836,False,False,False,False
+BAC Credomatic,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5573331,False,False,False,False
+BAC Credomatic,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.55718106,False,False,False,False
+BAC Credomatic,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.5566137,False,False,False,False
+BAC Credomatic,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.5560905,False,False,False,False
+BAC Credomatic,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5560874,False,False,False,False
+BAC Credomatic,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.5559859,False,False,False,False
+BAC Credomatic,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.55564106,False,False,False,False
+BAC Credomatic,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.55539334,False,False,False,False
+BAC Credomatic,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.5550628,False,False,False,False
+BAC Credomatic,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5548856,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.554031,False,False,False,False
+BAC Credomatic,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.55398387,False,False,False,False
+BAC Credomatic,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.55378914,False,False,False,False
+BAC Credomatic,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5535071,False,False,False,False
+BAC Credomatic,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.55331933,False,False,False,False
+BAC Credomatic,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.55250704,False,False,False,False
+BAC Credomatic,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.552369,False,False,False,False
+BAC Credomatic,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.55221367,False,False,False,False
+BAC Credomatic,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5518942,False,False,False,False
+BAC Credomatic,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.55138147,False,False,False,False
+BAC Credomatic,random_change-org_20251129T173929.png,RANDOM,unknown,0.55101067,False,False,False,False
+BAC Credomatic,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5508083,False,False,False,False
+BAC Credomatic,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.5503708,False,False,False,False
+BAC Credomatic,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.55036086,False,False,False,False
+BAC Credomatic,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.55020565,False,False,False,False
+BAC Credomatic,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5501476,False,False,False,False
+BAC Credomatic,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.54965246,False,False,False,False
+BAC Credomatic,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.54894865,False,False,False,False
+BAC Credomatic,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.5487279,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5486666,False,False,False,False
+BAC Credomatic,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.54857886,False,False,False,False
+BAC Credomatic,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.54832447,False,False,False,False
+BAC Credomatic,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.54811734,False,False,False,False
+BAC Credomatic,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.5480437,False,False,False,False
+BAC Credomatic,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.547703,False,False,False,False
+BAC Credomatic,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.5476961,False,False,False,False
+BAC Credomatic,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.54751396,False,False,False,False
+BAC Credomatic,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.5474552,False,False,False,False
+BAC Credomatic,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5473882,False,False,False,False
+BAC Credomatic,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.547384,False,False,False,False
+BAC Credomatic,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.5470555,False,False,False,False
+BAC Credomatic,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.54641217,False,False,False,False
+BAC Credomatic,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.54591995,False,False,False,False
+BAC Credomatic,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.5456861,False,False,False,False
+BAC Credomatic,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.5456313,False,False,False,False
+BAC Credomatic,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.5454713,False,False,False,False
+BAC Credomatic,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.5454587,False,False,False,False
+BAC Credomatic,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.54490876,False,False,False,False
+BAC Credomatic,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5445628,False,False,False,False
+BAC Credomatic,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.54433584,False,False,False,False
+BAC Credomatic,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.54432905,False,False,False,False
+BAC Credomatic,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.543966,False,False,False,False
+BAC Credomatic,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.5438379,False,False,False,False
+BAC Credomatic,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.543836,False,False,False,False
+BAC Credomatic,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.5432805,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5430614,False,False,False,False
+BAC Credomatic,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.54258364,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5422274,False,False,False,False
+BAC Credomatic,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.541796,False,False,False,False
+BAC Credomatic,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.54160005,False,False,False,False
+BAC Credomatic,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.54113424,False,False,False,False
+BAC Credomatic,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.5410464,False,False,False,False
+BAC Credomatic,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.540867,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.54042053,False,False,False,False
+BAC Credomatic,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.54017,False,False,False,False
+BAC Credomatic,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5390059,False,False,False,False
+BAC Credomatic,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.5387075,False,False,False,False
+BAC Credomatic,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5381482,False,False,False,False
+BAC Credomatic,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.53812206,False,False,False,False
+BAC Credomatic,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.53801286,False,False,False,False
+BAC Credomatic,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.53740335,False,False,False,False
+BAC Credomatic,random_intel-com_20251129T171229.png,RANDOM,unknown,0.5372605,False,False,False,False
+BAC Credomatic,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.537233,False,False,False,False
+BAC Credomatic,random_msn-com_20251129T162722.png,RANDOM,unknown,0.5368208,False,False,False,False
+BAC Credomatic,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5362932,False,False,False,False
+BAC Credomatic,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.53617454,False,False,False,False
+BAC Credomatic,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.5355642,False,False,False,False
+BAC Credomatic,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.535524,False,False,False,False
+BAC Credomatic,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.53543144,False,False,False,False
+BAC Credomatic,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5353583,False,False,False,False
+BAC Credomatic,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.535327,False,False,False,False
+BAC Credomatic,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.5351671,False,False,False,False
+BAC Credomatic,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.53501934,False,False,False,False
+BAC Credomatic,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.5348942,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.53478503,False,False,False,False
+BAC Credomatic,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.53445613,False,False,False,False
+BAC Credomatic,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.53393525,False,False,False,False
+BAC Credomatic,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5338028,False,False,False,False
+BAC Credomatic,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.5335768,False,False,False,False
+BAC Credomatic,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.5332646,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5332433,False,False,False,False
+BAC Credomatic,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.533242,False,False,False,False
+BAC Credomatic,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5326332,False,False,False,False
+BAC Credomatic,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.532519,False,False,False,False
+BAC Credomatic,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.53245014,False,False,False,False
+BAC Credomatic,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.53206944,False,False,False,False
+BAC Credomatic,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.53165174,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5315121,False,False,False,False
+BAC Credomatic,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.53087926,False,False,False,False
+BAC Credomatic,random_g-page_20251129T170201.png,RANDOM,unknown,0.5308186,False,False,False,False
+BAC Credomatic,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.5303123,False,False,False,False
+BAC Credomatic,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.5302977,False,False,False,False
+BAC Credomatic,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.52989554,False,False,False,False
+BAC Credomatic,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.52962667,False,False,False,False
+BAC Credomatic,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.52912974,False,False,False,False
+BAC Credomatic,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.5284947,False,False,False,False
+BAC Credomatic,random_temu-com_20251129T165219.png,RANDOM,unknown,0.52787894,False,False,False,False
+BAC Credomatic,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.527594,False,False,False,False
+BAC Credomatic,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.527373,False,False,False,False
+BAC Credomatic,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5273131,False,False,False,False
+BAC Credomatic,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.527294,False,False,False,False
+BAC Credomatic,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5269466,False,False,False,False
+BAC Credomatic,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.52643925,False,False,False,False
+BAC Credomatic,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.52640235,False,False,False,False
+BAC Credomatic,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.52633023,False,False,False,False
+BAC Credomatic,random_aol-com_20251129T170152.png,RANDOM,unknown,0.52556556,False,False,False,False
+BAC Credomatic,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.52556306,False,False,False,False
+BAC Credomatic,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.5249815,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5249593,False,False,False,False
+BAC Credomatic,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.52464485,False,False,False,False
+BAC Credomatic,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5242634,False,False,False,False
+BAC Credomatic,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.52409655,False,False,False,False
+BAC Credomatic,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.52403927,False,False,False,False
+BAC Credomatic,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.52370805,False,False,False,False
+BAC Credomatic,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5237037,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5233272,False,False,False,False
+BAC Credomatic,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5232585,False,False,False,False
+BAC Credomatic,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5231607,False,False,False,False
+BAC Credomatic,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.5229112,False,False,False,False
+BAC Credomatic,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.5227028,False,False,False,False
+BAC Credomatic,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5224285,False,False,False,False
+BAC Credomatic,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5223757,False,False,False,False
+BAC Credomatic,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5221293,False,False,False,False
+BAC Credomatic,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.5219246,False,False,False,False
+BAC Credomatic,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.5216459,False,False,False,False
+BAC Credomatic,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.5215844,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.52114534,False,False,False,False
+BAC Credomatic,random_abc-es_20251129T175348.png,RANDOM,unknown,0.5210696,False,False,False,False
+BAC Credomatic,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.52051425,False,False,False,False
+BAC Credomatic,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5204558,False,False,False,False
+BAC Credomatic,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5203234,False,False,False,False
+BAC Credomatic,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.52031934,False,False,False,False
+BAC Credomatic,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.5202036,False,False,False,False
+BAC Credomatic,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.5199668,False,False,False,False
+BAC Credomatic,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.5198003,False,False,False,False
+BAC Credomatic,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.51978266,False,False,False,False
+BAC Credomatic,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5189191,False,False,False,False
+BAC Credomatic,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.51878136,False,False,False,False
+BAC Credomatic,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.5186136,False,False,False,False
+BAC Credomatic,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5185274,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5182235,False,False,False,False
+BAC Credomatic,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.51779556,False,False,False,False
+BAC Credomatic,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5176896,False,False,False,False
+BAC Credomatic,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.51755244,False,False,False,False
+BAC Credomatic,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5173925,False,False,False,False
+BAC Credomatic,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.51711136,False,False,False,False
+BAC Credomatic,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5170195,False,False,False,False
+BAC Credomatic,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.51692605,False,False,False,False
+BAC Credomatic,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.51668566,False,False,False,False
+BAC Credomatic,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.5165721,False,False,False,False
+BAC Credomatic,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.51654655,False,False,False,False
+BAC Credomatic,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.515957,False,False,False,False
+BAC Credomatic,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.5157695,False,False,False,False
+BAC Credomatic,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5156992,False,False,False,False
+BAC Credomatic,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.51565945,False,False,False,False
+BAC Credomatic,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5155687,False,False,False,False
+BAC Credomatic,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.5155644,False,False,False,False
+BAC Credomatic,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.51537263,False,False,False,False
+BAC Credomatic,random_weather-com_20251129T164102.png,RANDOM,unknown,0.515212,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.515172,False,False,False,False
+BAC Credomatic,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.51503634,False,False,False,False
+BAC Credomatic,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.51493007,False,False,False,False
+BAC Credomatic,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5146379,False,False,False,False
+BAC Credomatic,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.51357317,False,False,False,False
+BAC Credomatic,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.51281303,False,False,False,False
+BAC Credomatic,random_marca-com_20251129T175532.png,RANDOM,unknown,0.5127917,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5122658,False,False,False,False
+BAC Credomatic,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.51202446,False,False,False,False
+BAC Credomatic,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.51201767,False,False,False,False
+BAC Credomatic,random_google-com_20251129T162253.png,RANDOM,unknown,0.5120138,False,False,False,False
+BAC Credomatic,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.511971,False,False,False,False
+BAC Credomatic,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.51180565,False,False,False,False
+BAC Credomatic,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.51137066,False,False,False,False
+BAC Credomatic,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.51126397,False,False,False,False
+BAC Credomatic,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.5112313,False,False,False,False
+BAC Credomatic,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.51117295,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.51079583,False,False,False,False
+BAC Credomatic,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.5107547,False,False,False,False
+BAC Credomatic,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.510535,False,False,False,False
+BAC Credomatic,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.5102762,False,False,False,False
+BAC Credomatic,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.5099609,False,False,False,False
+BAC Credomatic,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.50986665,False,False,False,False
+BAC Credomatic,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.50880575,False,False,False,False
+BAC Credomatic,random_split-io_20251129T175048.png,RANDOM,unknown,0.5087076,False,False,False,False
+BAC Credomatic,random_android-com_20251129T163812.png,RANDOM,unknown,0.5084846,False,False,False,False
+BAC Credomatic,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.50797474,False,False,False,False
+BAC Credomatic,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.507354,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.50731075,False,False,False,False
+BAC Credomatic,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.50687253,False,False,False,False
+BAC Credomatic,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.5068493,False,False,False,False
+BAC Credomatic,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.5068249,False,False,False,False
+BAC Credomatic,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.50665486,False,False,False,False
+BAC Credomatic,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.5065427,False,False,False,False
+BAC Credomatic,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.50641197,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.50638163,False,False,False,False
+BAC Credomatic,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5063478,False,False,False,False
+BAC Credomatic,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.50564057,False,False,False,False
+BAC Credomatic,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.50561935,False,False,False,False
+BAC Credomatic,random_brave-com_20251129T172325.png,RANDOM,unknown,0.5055741,False,False,False,False
+BAC Credomatic,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.50557387,False,False,False,False
+BAC Credomatic,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5054168,False,False,False,False
+BAC Credomatic,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.50490284,False,False,False,False
+BAC Credomatic,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5043238,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5041725,False,False,False,False
+BAC Credomatic,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.5040177,False,False,False,False
+BAC Credomatic,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.5038384,False,False,False,False
+BAC Credomatic,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.5035331,False,False,False,False
+BAC Credomatic,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.50290227,False,False,False,False
+BAC Credomatic,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5028091,False,False,False,False
+BAC Credomatic,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5021627,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5015532,False,False,False,False
+BAC Credomatic,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.50103676,False,False,False,False
+BAC Credomatic,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.50051415,False,False,False,False
+BAC Credomatic,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5004653,False,False,False,False
+BAC Credomatic,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.5003828,False,False,False,False
+BAC Credomatic,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.4996915,False,False,False,False
+BAC Credomatic,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.49954486,False,False,False,False
+BAC Credomatic,random_gov-br_20251129T174615.png,RANDOM,unknown,0.4990489,False,False,False,False
+BAC Credomatic,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.49895817,False,False,False,False
+BAC Credomatic,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.49883592,False,False,False,False
+BAC Credomatic,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.4987508,False,False,False,False
+BAC Credomatic,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.4979744,False,False,False,False
+BAC Credomatic,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.49792868,False,False,False,False
+BAC Credomatic,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.4977373,False,False,False,False
+BAC Credomatic,random_notion-so_20251129T180340.png,RANDOM,unknown,0.49767318,False,False,False,False
+BAC Credomatic,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.49754846,False,False,False,False
+BAC Credomatic,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.49706492,False,False,False,False
+BAC Credomatic,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.49688998,False,False,False,False
+BAC Credomatic,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.49658272,False,False,False,False
+BAC Credomatic,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.49654567,False,False,False,False
+BAC Credomatic,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.49637985,False,False,False,False
+BAC Credomatic,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.4962228,False,False,False,False
+BAC Credomatic,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.4959265,False,False,False,False
+BAC Credomatic,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.49582583,False,False,False,False
+BAC Credomatic,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.49551302,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.49444234,False,False,False,False
+BAC Credomatic,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.49353796,False,False,False,False
+BAC Credomatic,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.4934209,False,False,False,False
+BAC Credomatic,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.49326342,False,False,False,False
+BAC Credomatic,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.4924691,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.49215743,False,False,False,False
+BAC Credomatic,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.49176896,False,False,False,False
+BAC Credomatic,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.49170637,False,False,False,False
+BAC Credomatic,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.491582,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.49129134,False,False,False,False
+BAC Credomatic,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.49103957,False,False,False,False
+BAC Credomatic,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.4903621,False,False,False,False
+BAC Credomatic,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.48960412,False,False,False,False
+BAC Credomatic,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.4894137,False,False,False,False
+BAC Credomatic,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.48924038,False,False,False,False
+BAC Credomatic,random_time-com_20251129T170629.png,RANDOM,unknown,0.48923284,False,False,False,False
+BAC Credomatic,random_att-net_20251129T170227.png,RANDOM,unknown,0.48918504,False,False,False,False
+BAC Credomatic,random_media-net_20251129T164538.png,RANDOM,unknown,0.4891585,False,False,False,False
+BAC Credomatic,random_att-com_20251129T180955.png,RANDOM,unknown,0.48912054,False,False,False,False
+BAC Credomatic,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.4888541,False,False,False,False
+BAC Credomatic,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.48846555,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.48796433,False,False,False,False
+BAC Credomatic,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.48742503,False,False,False,False
+BAC Credomatic,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.48732787,False,False,False,False
+BAC Credomatic,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.48692507,False,False,False,False
+BAC Credomatic,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.48685154,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.4867918,False,False,False,False
+BAC Credomatic,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.48671702,False,False,False,False
+BAC Credomatic,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.4865911,False,False,False,False
+BAC Credomatic,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.4858386,False,False,False,False
+BAC Credomatic,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.48571944,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.4855944,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.48526695,False,False,False,False
+BAC Credomatic,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.48522204,False,False,False,False
+BAC Credomatic,random_finn-no_20251129T180303.png,RANDOM,unknown,0.4850759,False,False,False,False
+BAC Credomatic,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.48506543,False,False,False,False
+BAC Credomatic,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.48486274,False,False,False,False
+BAC Credomatic,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.48484176,False,False,False,False
+BAC Credomatic,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.48480815,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.48407537,False,False,False,False
+BAC Credomatic,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.48272842,False,False,False,False
+BAC Credomatic,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.48151788,False,False,False,False
+BAC Credomatic,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.4807564,False,False,False,False
+BAC Credomatic,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.48060483,False,False,False,False
+BAC Credomatic,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.48054764,False,False,False,False
+BAC Credomatic,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.48044044,False,False,False,False
+BAC Credomatic,random_target-com_20251129T171437.png,RANDOM,unknown,0.4796394,False,False,False,False
+BAC Credomatic,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.47955942,False,False,False,False
+BAC Credomatic,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.4794974,False,False,False,False
+BAC Credomatic,random_daum-net_20251129T174537.png,RANDOM,unknown,0.4791111,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.47898382,False,False,False,False
+BAC Credomatic,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.47697353,False,False,False,False
+BAC Credomatic,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.47651577,False,False,False,False
+BAC Credomatic,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.47640246,False,False,False,False
+BAC Credomatic,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.47544873,False,False,False,False
+BAC Credomatic,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.47486442,False,False,False,False
+BAC Credomatic,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.4737461,False,False,False,False
+BAC Credomatic,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.47368205,False,False,False,False
+BAC Credomatic,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.4729564,False,False,False,False
+BAC Credomatic,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.4728317,False,False,False,False
+BAC Credomatic,random_globo-com_20251129T165541.png,RANDOM,unknown,0.4726411,False,False,False,False
+BAC Credomatic,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.47253793,False,False,False,False
+BAC Credomatic,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.47206357,False,False,False,False
+BAC Credomatic,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.47203565,False,False,False,False
+BAC Credomatic,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.47146273,False,False,False,False
+BAC Credomatic,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.4714223,False,False,False,False
+BAC Credomatic,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.47125846,False,False,False,False
+BAC Credomatic,random_booking-com_20251129T164752.png,RANDOM,unknown,0.4711449,False,False,False,False
+BAC Credomatic,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.47077245,False,False,False,False
+BAC Credomatic,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.47064066,False,False,False,False
+BAC Credomatic,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.4701086,False,False,False,False
+BAC Credomatic,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.4699901,False,False,False,False
+BAC Credomatic,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.4694959,False,False,False,False
+BAC Credomatic,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.4688922,False,False,False,False
+BAC Credomatic,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.46888027,False,False,False,False
+BAC Credomatic,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.46864367,False,False,False,False
+BAC Credomatic,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.46856624,False,False,False,False
+BAC Credomatic,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.46834818,False,False,False,False
+BAC Credomatic,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.46829563,False,False,False,False
+BAC Credomatic,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.46825367,False,False,False,False
+BAC Credomatic,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.4679569,False,False,False,False
+BAC Credomatic,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.46740547,False,False,False,False
+BAC Credomatic,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.46736938,False,False,False,False
+BAC Credomatic,random_xing-com_20251129T175042.png,RANDOM,unknown,0.46735635,False,False,False,False
+BAC Credomatic,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.46630394,False,False,False,False
+BAC Credomatic,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.4662656,False,False,False,False
+BAC Credomatic,random_qq-com_20251129T162834.png,RANDOM,unknown,0.4653393,False,False,False,False
+BAC Credomatic,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.46530086,False,False,False,False
+BAC Credomatic,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.4649713,False,False,False,False
+BAC Credomatic,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.4646956,False,False,False,False
+BAC Credomatic,random_360-cn_20251129T173141.png,RANDOM,unknown,0.4646858,False,False,False,False
+BAC Credomatic,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.46412748,False,False,False,False
+BAC Credomatic,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.4636191,False,False,False,False
+BAC Credomatic,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.4634506,False,False,False,False
+BAC Credomatic,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.46342602,False,False,False,False
+BAC Credomatic,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.4629304,False,False,False,False
+BAC Credomatic,random_eset-com_20251129T171424.png,RANDOM,unknown,0.46279803,False,False,False,False
+BAC Credomatic,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.46251458,False,False,False,False
+BAC Credomatic,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.46216857,False,False,False,False
+BAC Credomatic,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.46215683,False,False,False,False
+BAC Credomatic,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.4618736,False,False,False,False
+BAC Credomatic,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.46182448,False,False,False,False
+BAC Credomatic,random_bild-de_20251129T173827.png,RANDOM,unknown,0.4615525,False,False,False,False
+BAC Credomatic,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.460866,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.46084532,False,False,False,False
+BAC Credomatic,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.46056256,False,False,False,False
+BAC Credomatic,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.46053922,False,False,False,False
+BAC Credomatic,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.4604195,False,False,False,False
+BAC Credomatic,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.46035075,False,False,False,False
+BAC Credomatic,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.46009067,False,False,False,False
+BAC Credomatic,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.4595617,False,False,False,False
+BAC Credomatic,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.4592911,False,False,False,False
+BAC Credomatic,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.45909542,False,False,False,False
+BAC Credomatic,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.4588359,False,False,False,False
+BAC Credomatic,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.45882845,False,False,False,False
+BAC Credomatic,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.45873478,False,False,False,False
+BAC Credomatic,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.45855957,False,False,False,False
+BAC Credomatic,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.45849413,False,False,False,False
+BAC Credomatic,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.4584479,False,False,False,False
+BAC Credomatic,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.45824915,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.45786786,False,False,False,False
+BAC Credomatic,random_character-ai_20251129T174433.png,RANDOM,unknown,0.45768714,False,False,False,False
+BAC Credomatic,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.45768166,False,False,False,False
+BAC Credomatic,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.4571879,False,False,False,False
+BAC Credomatic,random_usps-com_20251129T173658.png,RANDOM,unknown,0.45668852,False,False,False,False
+BAC Credomatic,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.45652354,False,False,False,False
+BAC Credomatic,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.4564596,False,False,False,False
+BAC Credomatic,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.45597437,False,False,False,False
+BAC Credomatic,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.45557407,False,False,False,False
+BAC Credomatic,random_segment-io_20251129T174400.png,RANDOM,unknown,0.4548024,False,False,False,False
+BAC Credomatic,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.45472673,False,False,False,False
+BAC Credomatic,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.45463228,False,False,False,False
+BAC Credomatic,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.45424446,False,False,False,False
+BAC Credomatic,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.45412958,False,False,False,False
+BAC Credomatic,random_note-com_20251129T174642.png,RANDOM,unknown,0.45411703,False,False,False,False
+BAC Credomatic,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.45362616,False,False,False,False
+BAC Credomatic,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.45337057,False,False,False,False
+BAC Credomatic,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.45326683,False,False,False,False
+BAC Credomatic,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.4526281,False,False,False,False
+BAC Credomatic,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.4525377,False,False,False,False
+BAC Credomatic,random_avast-com_20251129T164855.png,RANDOM,unknown,0.45202452,False,False,False,False
+BAC Credomatic,random_ring-com_20251129T172743.png,RANDOM,unknown,0.4520026,False,False,False,False
+BAC Credomatic,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.4518484,False,False,False,False
+BAC Credomatic,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.45151764,False,False,False,False
+BAC Credomatic,random_line-me_20251129T170140.png,RANDOM,unknown,0.451326,False,False,False,False
+BAC Credomatic,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.4508109,False,False,False,False
+BAC Credomatic,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.45012885,False,False,False,False
+BAC Credomatic,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.44961524,False,False,False,False
+BAC Credomatic,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.44937238,False,False,False,False
+BAC Credomatic,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.4489564,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.44870085,False,False,False,False
+BAC Credomatic,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.44862524,False,False,False,False
+BAC Credomatic,random_slack-com_20251129T164623.png,RANDOM,unknown,0.44842696,False,False,False,False
+BAC Credomatic,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.4468919,False,False,False,False
+BAC Credomatic,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.44670928,False,False,False,False
+BAC Credomatic,random_jd-com_20251129T174954.png,RANDOM,unknown,0.4459379,False,False,False,False
+BAC Credomatic,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.44553816,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.445258,False,False,False,False
+BAC Credomatic,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.44482827,False,False,False,False
+BAC Credomatic,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.44461465,False,False,False,False
+BAC Credomatic,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.44459894,False,False,False,False
+BAC Credomatic,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.44435817,False,False,False,False
+BAC Credomatic,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.4442308,False,False,False,False
+BAC Credomatic,random_naver-com_20251129T164929.png,RANDOM,unknown,0.4440833,False,False,False,False
+BAC Credomatic,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.44387284,False,False,False,False
+BAC Credomatic,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.44353306,False,False,False,False
+BAC Credomatic,random_as-com_20251129T175716.png,RANDOM,unknown,0.44352657,False,False,False,False
+BAC Credomatic,random_substack-com_20251129T171941.png,RANDOM,unknown,0.44341418,False,False,False,False
+BAC Credomatic,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.44330958,False,False,False,False
+BAC Credomatic,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.4430283,False,False,False,False
+BAC Credomatic,random_plos-org_20251129T180524.png,RANDOM,unknown,0.44294658,False,False,False,False
+BAC Credomatic,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.44261354,False,False,False,False
+BAC Credomatic,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.44259626,False,False,False,False
+BAC Credomatic,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.44232982,False,False,False,False
+BAC Credomatic,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.442256,False,False,False,False
+BAC Credomatic,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.44214252,False,False,False,False
+BAC Credomatic,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.44162416,False,False,False,False
+BAC Credomatic,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.44161433,False,False,False,False
+BAC Credomatic,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.44146147,False,False,False,False
+BAC Credomatic,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.44032705,False,False,False,False
+BAC Credomatic,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.43992308,False,False,False,False
+BAC Credomatic,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.43972236,False,False,False,False
+BAC Credomatic,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.43969628,False,False,False,False
+BAC Credomatic,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.43966785,False,False,False,False
+BAC Credomatic,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.43941456,False,False,False,False
+BAC Credomatic,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.4388401,False,False,False,False
+BAC Credomatic,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.43818626,False,False,False,False
+BAC Credomatic,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.43743092,False,False,False,False
+BAC Credomatic,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.4371918,False,False,False,False
+BAC Credomatic,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.43696386,False,False,False,False
+BAC Credomatic,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.43647513,False,False,False,False
+BAC Credomatic,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.43635324,False,False,False,False
+BAC Credomatic,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.43550283,False,False,False,False
+BAC Credomatic,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.43525764,False,False,False,False
+BAC Credomatic,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.43477523,False,False,False,False
+BAC Credomatic,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.4343885,False,False,False,False
+BAC Credomatic,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.43436968,False,False,False,False
+BAC Credomatic,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.43357044,False,False,False,False
+BAC Credomatic,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.43330032,False,False,False,False
+BAC Credomatic,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.43231922,False,False,False,False
+BAC Credomatic,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.43134075,False,False,False,False
+BAC Credomatic,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.43129712,False,False,False,False
+BAC Credomatic,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.43118352,False,False,False,False
+BAC Credomatic,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.4308273,False,False,False,False
+BAC Credomatic,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.43058258,False,False,False,False
+BAC Credomatic,random_viber-com_20251129T172210.png,RANDOM,unknown,0.43051696,False,False,False,False
+BAC Credomatic,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.43006772,False,False,False,False
+BAC Credomatic,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.42967576,False,False,False,False
+BAC Credomatic,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.42960775,False,False,False,False
+BAC Credomatic,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.42940944,False,False,False,False
+BAC Credomatic,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.42924345,False,False,False,False
+BAC Credomatic,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.42884317,False,False,False,False
+BAC Credomatic,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.42868927,False,False,False,False
+BAC Credomatic,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.42867202,False,False,False,False
+BAC Credomatic,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.42676085,False,False,False,False
+BAC Credomatic,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.42658955,False,False,False,False
+BAC Credomatic,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.42630148,False,False,False,False
+BAC Credomatic,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.42628425,False,False,False,False
+BAC Credomatic,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.42619243,False,False,False,False
+BAC Credomatic,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.4261455,False,False,False,False
+BAC Credomatic,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.42563206,False,False,False,False
+BAC Credomatic,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.42552355,False,False,False,False
+BAC Credomatic,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.42528534,False,False,False,False
+BAC Credomatic,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.42524388,False,False,False,False
+BAC Credomatic,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.42445463,False,False,False,False
+BAC Credomatic,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.4241491,False,False,False,False
+BAC Credomatic,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.42383283,False,False,False,False
+BAC Credomatic,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.4237792,False,False,False,False
+BAC Credomatic,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.42371982,False,False,False,False
+BAC Credomatic,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.42366695,False,False,False,False
+BAC Credomatic,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.42342407,False,False,False,False
+BAC Credomatic,random_wise-com_20251129T180312.png,RANDOM,unknown,0.42314667,False,False,False,False
+BAC Credomatic,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.42161453,False,False,False,False
+BAC Credomatic,random_forter-com_20251129T164642.png,RANDOM,unknown,0.4215274,False,False,False,False
+BAC Credomatic,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.4215243,False,False,False,False
+BAC Credomatic,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.4212314,False,False,False,False
+BAC Credomatic,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.41989815,False,False,False,False
+BAC Credomatic,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.41901135,False,False,False,False
+BAC Credomatic,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.41899487,False,False,False,False
+BAC Credomatic,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.41862285,False,False,False,False
+BAC Credomatic,random_wix-com_20251129T171207.png,RANDOM,unknown,0.4183694,False,False,False,False
+BAC Credomatic,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.41835344,False,False,False,False
+BAC Credomatic,random_w3-org_20251129T163751.png,RANDOM,unknown,0.41773567,False,False,False,False
+BAC Credomatic,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.41762733,False,False,False,False
+BAC Credomatic,random_braze-com_20251129T171458.png,RANDOM,unknown,0.41635203,False,False,False,False
+BAC Credomatic,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.41565004,False,False,False,False
+BAC Credomatic,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.41559425,False,False,False,False
+BAC Credomatic,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.41522437,False,False,False,False
+BAC Credomatic,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.41501677,False,False,False,False
+BAC Credomatic,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.4145416,False,False,False,False
+BAC Credomatic,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.41448808,False,False,False,False
+BAC Credomatic,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.41428483,False,False,False,False
+BAC Credomatic,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.414168,False,False,False,False
+BAC Credomatic,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.4141439,False,False,False,False
+BAC Credomatic,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.4140777,False,False,False,False
+BAC Credomatic,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.41407043,False,False,False,False
+BAC Credomatic,random_figma-com_20251129T173914.png,RANDOM,unknown,0.41359216,False,False,False,False
+BAC Credomatic,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.41351148,False,False,False,False
+BAC Credomatic,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.41346672,False,False,False,False
+BAC Credomatic,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.41323933,False,False,False,False
+BAC Credomatic,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.4130997,False,False,False,False
+BAC Credomatic,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.41293257,False,False,False,False
+BAC Credomatic,random_youku-com_20251129T174026.png,RANDOM,unknown,0.4128021,False,False,False,False
+BAC Credomatic,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.4126618,False,False,False,False
+BAC Credomatic,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.41238612,False,False,False,False
+BAC Credomatic,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.41236353,False,False,False,False
+BAC Credomatic,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.4121135,False,False,False,False
+BAC Credomatic,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.411959,False,False,False,False
+BAC Credomatic,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.41174576,False,False,False,False
+BAC Credomatic,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.41165054,False,False,False,False
+BAC Credomatic,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.41128772,False,False,False,False
+BAC Credomatic,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.4111513,False,False,False,False
+BAC Credomatic,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.41079158,False,False,False,False
+BAC Credomatic,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.4101344,False,False,False,False
+BAC Credomatic,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.40995288,False,False,False,False
+BAC Credomatic,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.40971524,False,False,False,False
+BAC Credomatic,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.40947604,False,False,False,False
+BAC Credomatic,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.40944302,False,False,False,False
+BAC Credomatic,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.4089635,False,False,False,False
+BAC Credomatic,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.40874553,False,False,False,False
+BAC Credomatic,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.40833113,False,False,False,False
+BAC Credomatic,random_espn-com_20251129T165100.png,RANDOM,unknown,0.40817407,False,False,False,False
+BAC Credomatic,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.40763217,False,False,False,False
+BAC Credomatic,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.40747446,False,False,False,False
+BAC Credomatic,random_vk-com_20251129T163202.png,RANDOM,unknown,0.40739077,False,False,False,False
+BAC Credomatic,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.4072438,False,False,False,False
+BAC Credomatic,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.40712968,False,False,False,False
+BAC Credomatic,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.40697062,False,False,False,False
+BAC Credomatic,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.40660545,False,False,False,False
+BAC Credomatic,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.4064771,False,False,False,False
+BAC Credomatic,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.40621737,False,False,False,False
+BAC Credomatic,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.406043,False,False,False,False
+BAC Credomatic,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.4060048,False,False,False,False
+BAC Credomatic,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.4057353,False,False,False,False
+BAC Credomatic,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.40563247,False,False,False,False
+BAC Credomatic,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.40540215,False,False,False,False
+BAC Credomatic,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.40532547,False,False,False,False
+BAC Credomatic,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.4049455,False,False,False,False
+BAC Credomatic,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.4047193,False,False,False,False
+BAC Credomatic,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.4046916,False,False,False,False
+BAC Credomatic,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.40448755,False,False,False,False
+BAC Credomatic,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.40429628,False,False,False,False
+BAC Credomatic,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.40425986,False,False,False,False
+BAC Credomatic,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.4042205,False,False,False,False
+BAC Credomatic,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.40348586,False,False,False,False
+BAC Credomatic,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.4029976,False,False,False,False
+BAC Credomatic,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.4025358,False,False,False,False
+BAC Credomatic,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.40247378,False,False,False,False
+BAC Credomatic,random_india-com_20251129T180557.png,RANDOM,unknown,0.4023197,False,False,False,False
+BAC Credomatic,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.40199316,False,False,False,False
+BAC Credomatic,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.40157777,False,False,False,False
+BAC Credomatic,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.4013006,False,False,False,False
+BAC Credomatic,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.40118998,False,False,False,False
+BAC Credomatic,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.40083098,False,False,False,False
+BAC Credomatic,random_one-one_20251129T163318.png,RANDOM,unknown,0.40057528,False,False,False,False
+BAC Credomatic,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.40026242,False,False,False,False
+BAC Credomatic,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.40009168,False,False,False,False
+BAC Credomatic,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.39983523,False,False,False,False
+BAC Credomatic,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.3994778,False,False,False,False
+BAC Credomatic,random_statista-com_20251129T165822.png,RANDOM,unknown,0.3987943,False,False,False,False
+BAC Credomatic,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.3986166,False,False,False,False
+BAC Credomatic,random_branch-io_20251129T171524.png,RANDOM,unknown,0.39837444,False,False,False,False
+BAC Credomatic,random_apa-org_20251129T180433.png,RANDOM,unknown,0.3981198,False,False,False,False
+BAC Credomatic,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.39796808,False,False,False,False
+BAC Credomatic,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.3979587,False,False,False,False
+BAC Credomatic,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.3976001,False,False,False,False
+BAC Credomatic,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.39758354,False,False,False,False
+BAC Credomatic,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.39730513,False,False,False,False
+BAC Credomatic,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.39697272,False,False,False,False
+BAC Credomatic,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.39678255,False,False,False,False
+BAC Credomatic,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.39629233,False,False,False,False
+BAC Credomatic,random_otto-de_20251129T174331.png,RANDOM,unknown,0.3959638,False,False,False,False
+BAC Credomatic,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.39576727,False,False,False,False
+BAC Credomatic,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.39523593,False,False,False,False
+BAC Credomatic,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.39509666,False,False,False,False
+BAC Credomatic,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.39500356,False,False,False,False
+BAC Credomatic,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.39493608,False,False,False,False
+BAC Credomatic,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.39477003,False,False,False,False
+BAC Credomatic,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.39459336,False,False,False,False
+BAC Credomatic,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.39419502,False,False,False,False
+BAC Credomatic,random_name-com_20251129T171101.png,RANDOM,unknown,0.39411798,False,False,False,False
+BAC Credomatic,random_uber-com_20251129T170129.png,RANDOM,unknown,0.39320377,False,False,False,False
+BAC Credomatic,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.3928882,False,False,False,False
+BAC Credomatic,random_t-me_20251129T163150.png,RANDOM,unknown,0.39272183,False,False,False,False
+BAC Credomatic,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.3925087,False,False,False,False
+BAC Credomatic,random_okta-com_20251129T171946.png,RANDOM,unknown,0.39245892,False,False,False,False
+BAC Credomatic,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.39230505,False,False,False,False
+BAC Credomatic,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.3919449,False,False,False,False
+BAC Credomatic,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.3912335,False,False,False,False
+BAC Credomatic,random_canva-com_20251129T164231.png,RANDOM,unknown,0.39045042,False,False,False,False
+BAC Credomatic,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.39040065,False,False,False,False
+BAC Credomatic,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.39023772,False,False,False,False
+BAC Credomatic,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.3900342,False,False,False,False
+BAC Credomatic,random_poki-com_20251129T180027.png,RANDOM,unknown,0.3898151,False,False,False,False
+BAC Credomatic,random_chess-com_20251129T173919.png,RANDOM,unknown,0.3897855,False,False,False,False
+BAC Credomatic,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.38953838,False,False,False,False
+BAC Credomatic,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.38928336,False,False,False,False
+BAC Credomatic,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.38896453,False,False,False,False
+BAC Credomatic,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.38855785,False,False,False,False
+BAC Credomatic,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.3885213,False,False,False,False
+BAC Credomatic,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.3879786,False,False,False,False
+BAC Credomatic,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.38793314,False,False,False,False
+BAC Credomatic,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.3874985,False,False,False,False
+BAC Credomatic,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.3869254,False,False,False,False
+BAC Credomatic,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.38675463,False,False,False,False
+BAC Credomatic,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.38670275,False,False,False,False
+BAC Credomatic,random_free-fr_20251129T171241.png,RANDOM,unknown,0.38646182,False,False,False,False
+BAC Credomatic,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.38642305,False,False,False,False
+BAC Credomatic,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.38600832,False,False,False,False
+BAC Credomatic,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.38599724,False,False,False,False
+BAC Credomatic,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.38580352,False,False,False,False
+BAC Credomatic,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.38557214,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.3851397,False,False,False,False
+BAC Credomatic,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.38513553,False,False,False,False
+BAC Credomatic,random_office365-com_20251129T162902.png,RANDOM,unknown,0.38506898,False,False,False,False
+BAC Credomatic,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.38475472,False,False,False,False
+BAC Credomatic,random_focus-de_20251129T175031.png,RANDOM,unknown,0.38468528,False,False,False,False
+BAC Credomatic,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.38457486,False,False,False,False
+BAC Credomatic,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.38422328,False,False,False,False
+BAC Credomatic,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.38400954,False,False,False,False
+BAC Credomatic,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.38374197,False,False,False,False
+BAC Credomatic,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.38373023,False,False,False,False
+BAC Credomatic,random_binance-com_20251129T174935.png,RANDOM,unknown,0.38366824,False,False,False,False
+BAC Credomatic,random_roku-com_20251129T164128.png,RANDOM,unknown,0.38345498,False,False,False,False
+BAC Credomatic,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.38317743,False,False,False,False
+BAC Credomatic,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.38307935,False,False,False,False
+BAC Credomatic,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.38278,False,False,False,False
+BAC Credomatic,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.38242957,False,False,False,False
+BAC Credomatic,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.38233775,False,False,False,False
+BAC Credomatic,random_clever-com_20251129T173500.png,RANDOM,unknown,0.38227722,False,False,False,False
+BAC Credomatic,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.38197404,False,False,False,False
+BAC Credomatic,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.38189137,False,False,False,False
+BAC Credomatic,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.3817339,False,False,False,False
+BAC Credomatic,random_synology-com_20251129T173948.png,RANDOM,unknown,0.38157365,False,False,False,False
+BAC Credomatic,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.38129845,False,False,False,False
+BAC Credomatic,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.3812239,False,False,False,False
+BAC Credomatic,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.38112295,False,False,False,False
+BAC Credomatic,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.3805601,False,False,False,False
+BAC Credomatic,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.38050887,False,False,False,False
+BAC Credomatic,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.38045144,False,False,False,False
+BAC Credomatic,random_github-com_20251129T162456.png,RANDOM,unknown,0.38016728,False,False,False,False
+BAC Credomatic,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.37996525,False,False,False,False
+BAC Credomatic,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.37938312,False,False,False,False
+BAC Credomatic,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.37905276,False,False,False,False
+BAC Credomatic,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.37883738,False,False,False,False
+BAC Credomatic,random_skype-com_20251129T162718.png,RANDOM,unknown,0.3785289,False,False,False,False
+BAC Credomatic,random_threads-com_20251129T174157.png,RANDOM,unknown,0.3784336,False,False,False,False
+BAC Credomatic,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.37840855,False,False,False,False
+BAC Credomatic,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.37799966,False,False,False,False
+BAC Credomatic,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.37765974,False,False,False,False
+BAC Credomatic,random_welt-de_20251129T173821.png,RANDOM,unknown,0.3774503,False,False,False,False
+BAC Credomatic,random_opera-com_20251129T163028.png,RANDOM,unknown,0.3774187,False,False,False,False
+BAC Credomatic,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.3773946,False,False,False,False
+BAC Credomatic,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.37726808,False,False,False,False
+BAC Credomatic,random_go-com_20251129T164609.png,RANDOM,unknown,0.37681907,False,False,False,False
+BAC Credomatic,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.37675583,False,False,False,False
+BAC Credomatic,random_npr-org_20251129T170056.png,RANDOM,unknown,0.3766817,False,False,False,False
+BAC Credomatic,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.37632146,False,False,False,False
+BAC Credomatic,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.3762604,False,False,False,False
+BAC Credomatic,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.37623283,False,False,False,False
+BAC Credomatic,random_f5-com_20251129T163706.png,RANDOM,unknown,0.3757835,False,False,False,False
+BAC Credomatic,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.37565938,False,False,False,False
+BAC Credomatic,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.3752514,False,False,False,False
+BAC Credomatic,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.3751794,False,False,False,False
+BAC Credomatic,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.37471113,False,False,False,False
+BAC Credomatic,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.37462175,False,False,False,False
+BAC Credomatic,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.3746072,False,False,False,False
+BAC Credomatic,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.37460473,False,False,False,False
+BAC Credomatic,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.37434122,False,False,False,False
+BAC Credomatic,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.37346423,False,False,False,False
+BAC Credomatic,random_example-com_20251129T163930.png,RANDOM,unknown,0.3732338,False,False,False,False
+BAC Credomatic,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.37314036,False,False,False,False
+BAC Credomatic,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.37299934,False,False,False,False
+BAC Credomatic,random_ted-com_20251129T172015.png,RANDOM,unknown,0.37247285,False,False,False,False
+BAC Credomatic,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.37223303,False,False,False,False
+BAC Credomatic,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.3721256,False,False,False,False
+BAC Credomatic,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.37121832,False,False,False,False
+BAC Credomatic,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.37078625,False,False,False,False
+BAC Credomatic,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.37064782,False,False,False,False
+BAC Credomatic,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.37048954,False,False,False,False
+BAC Credomatic,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.3699688,False,False,False,False
+BAC Credomatic,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.36988038,False,False,False,False
+BAC Credomatic,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.36983788,False,False,False,False
+BAC Credomatic,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.3693254,False,False,False,False
+BAC Credomatic,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.36916664,False,False,False,False
+BAC Credomatic,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.36888528,False,False,False,False
+BAC Credomatic,random_cox-net_20251129T170452.png,RANDOM,unknown,0.36831677,False,False,False,False
+BAC Credomatic,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.36824417,False,False,False,False
+BAC Credomatic,random_uk-com_20251129T171638.png,RANDOM,unknown,0.36792144,False,False,False,False
+BAC Credomatic,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.36782846,False,False,False,False
+BAC Credomatic,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.3671258,False,False,False,False
+BAC Credomatic,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.36592916,False,False,False,False
+BAC Credomatic,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.36586556,False,False,False,False
+BAC Credomatic,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.36583972,False,False,False,False
+BAC Credomatic,random_docker-com_20251129T170827.png,RANDOM,unknown,0.36563587,False,False,False,False
+BAC Credomatic,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.36523372,False,False,False,False
+BAC Credomatic,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.3649968,False,False,False,False
+BAC Credomatic,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.36389536,False,False,False,False
+BAC Credomatic,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.3638781,False,False,False,False
+BAC Credomatic,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.3636041,False,False,False,False
+BAC Credomatic,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.36330885,False,False,False,False
+BAC Credomatic,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.3632237,False,False,False,False
+BAC Credomatic,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.36312583,False,False,False,False
+BAC Credomatic,random_web-de_20251129T175220.png,RANDOM,unknown,0.36263788,False,False,False,False
+BAC Credomatic,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.3624625,False,False,False,False
+BAC Credomatic,random_apple-com_20251129T162353.png,RANDOM,unknown,0.36206943,False,False,False,False
+BAC Credomatic,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.36204752,False,False,False,False
+BAC Credomatic,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.36154893,False,False,False,False
+BAC Credomatic,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.36137295,False,False,False,False
+BAC Credomatic,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.36124608,False,False,False,False
+BAC Credomatic,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.36124298,False,False,False,False
+BAC Credomatic,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.36116803,False,False,False,False
+BAC Credomatic,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.36101753,False,False,False,False
+BAC Credomatic,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.3608929,False,False,False,False
+BAC Credomatic,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.36040753,False,False,False,False
+BAC Credomatic,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.35976827,False,False,False,False
+BAC Credomatic,random_linode-com_20251129T173059.png,RANDOM,unknown,0.35922998,False,False,False,False
+BAC Credomatic,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.35908002,False,False,False,False
+BAC Credomatic,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.3585665,False,False,False,False
+BAC Credomatic,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.35817665,False,False,False,False
+BAC Credomatic,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.35771298,False,False,False,False
+BAC Credomatic,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.35751662,False,False,False,False
+BAC Credomatic,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.35746872,False,False,False,False
+BAC Credomatic,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.35691673,False,False,False,False
+BAC Credomatic,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.35580626,False,False,False,False
+BAC Credomatic,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.35561597,False,False,False,False
+BAC Credomatic,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.35552797,False,False,False,False
+BAC Credomatic,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.35529348,False,False,False,False
+BAC Credomatic,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.35514244,False,False,False,False
+BAC Credomatic,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.3549224,False,False,False,False
+BAC Credomatic,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.35456675,False,False,False,False
+BAC Credomatic,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.35440984,False,False,False,False
+BAC Credomatic,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.35408223,False,False,False,False
+BAC Credomatic,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.35384536,False,False,False,False
+BAC Credomatic,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.3534433,False,False,False,False
+BAC Credomatic,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.3533765,False,False,False,False
+BAC Credomatic,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.35274774,False,False,False,False
+BAC Credomatic,random_bing-com_20251129T162459.png,RANDOM,unknown,0.35243174,False,False,False,False
+BAC Credomatic,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.35227686,False,False,False,False
+BAC Credomatic,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.3520015,False,False,False,False
+BAC Credomatic,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.35187563,False,False,False,False
+BAC Credomatic,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.35162944,False,False,False,False
+BAC Credomatic,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.35124373,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.35092822,False,False,False,False
+BAC Credomatic,random_vg-no_20251129T180754.png,RANDOM,unknown,0.35081917,False,False,False,False
+BAC Credomatic,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.35077608,False,False,False,False
+BAC Credomatic,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.3503896,False,False,False,False
+BAC Credomatic,random_agora-io_20251129T175439.png,RANDOM,unknown,0.35016042,False,False,False,False
+BAC Credomatic,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.34979707,False,False,False,False
+BAC Credomatic,random_moe-video_20251129T164430.png,RANDOM,unknown,0.34975845,False,False,False,False
+BAC Credomatic,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.34973884,False,False,False,False
+BAC Credomatic,random_he-net_20251129T172135.png,RANDOM,unknown,0.34964845,False,False,False,False
+BAC Credomatic,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.3494765,False,False,False,False
+BAC Credomatic,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.34926823,False,False,False,False
+BAC Credomatic,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.3491893,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.34875414,False,False,False,False
+BAC Credomatic,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.3487326,False,False,False,False
+BAC Credomatic,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.34860337,False,False,False,False
+BAC Credomatic,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.34826013,False,False,False,False
+BAC Credomatic,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.34818494,False,False,False,False
+BAC Credomatic,random_springer-com_20251129T164823.png,RANDOM,unknown,0.34810662,False,False,False,False
+BAC Credomatic,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.34799433,False,False,False,False
+BAC Credomatic,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.34695724,False,False,False,False
+BAC Credomatic,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.3469121,False,False,False,False
+BAC Credomatic,random_windows-com_20251129T163112.png,RANDOM,unknown,0.34628212,False,False,False,False
+BAC Credomatic,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.34467405,False,False,False,False
+BAC Credomatic,random_wps-com_20251129T174320.png,RANDOM,unknown,0.3445207,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.34427175,False,False,False,False
+BAC Credomatic,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.34378737,False,False,False,False
+BAC Credomatic,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.3437357,False,False,False,False
+BAC Credomatic,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.34369975,False,False,False,False
+BAC Credomatic,random_apache-org_20251129T163228.png,RANDOM,unknown,0.34357008,False,False,False,False
+BAC Credomatic,random_trello-com_20251129T180351.png,RANDOM,unknown,0.3435139,False,False,False,False
+BAC Credomatic,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.34302613,False,False,False,False
+BAC Credomatic,random_asus-com_20251129T172748.png,RANDOM,unknown,0.34272957,False,False,False,False
+BAC Credomatic,random_tds-net_20251129T174115.png,RANDOM,unknown,0.34265554,False,False,False,False
+BAC Credomatic,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.3426041,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.34240207,False,False,False,False
+BAC Credomatic,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.34235334,False,False,False,False
+BAC Credomatic,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.3421484,False,False,False,False
+BAC Credomatic,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.34178117,False,False,False,False
+BAC Credomatic,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.34157687,False,False,False,False
+BAC Credomatic,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.34127235,False,False,False,False
+BAC Credomatic,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.34122896,False,False,False,False
+BAC Credomatic,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.34115404,False,False,False,False
+BAC Credomatic,random_shein-com_20251129T170736.png,RANDOM,unknown,0.34110257,False,False,False,False
+BAC Credomatic,random_ft-com_20251129T170724.png,RANDOM,unknown,0.3401609,False,False,False,False
+BAC Credomatic,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.34009463,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.34001148,False,False,False,False
+BAC Credomatic,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.33989403,False,False,False,False
+BAC Credomatic,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.33973885,False,False,False,False
+BAC Credomatic,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.33937532,False,False,False,False
+BAC Credomatic,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.33906025,False,False,False,False
+BAC Credomatic,random_t-co_20251129T163912.png,RANDOM,unknown,0.33886117,False,False,False,False
+BAC Credomatic,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.3388602,False,False,False,False
+BAC Credomatic,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.3382932,False,False,False,False
+BAC Credomatic,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.33775562,False,False,False,False
+BAC Credomatic,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.3375675,False,False,False,False
+BAC Credomatic,random_python-org_20251129T173738.png,RANDOM,unknown,0.33734316,False,False,False,False
+BAC Credomatic,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.33730167,False,False,False,False
+BAC Credomatic,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.3372789,False,False,False,False
+BAC Credomatic,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.3372381,False,False,False,False
+BAC Credomatic,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.3369615,False,False,False,False
+BAC Credomatic,random_dns-google_20251129T163231.png,RANDOM,unknown,0.3364101,False,False,False,False
+BAC Credomatic,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.33608904,False,False,False,False
+BAC Credomatic,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.33591366,False,False,False,False
+BAC Credomatic,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.33582398,False,False,False,False
+BAC Credomatic,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.33575067,False,False,False,False
+BAC Credomatic,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.33571863,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.33568448,False,False,False,False
+BAC Credomatic,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.33559158,False,False,False,False
+BAC Credomatic,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.3354988,False,False,False,False
+BAC Credomatic,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.33540624,False,False,False,False
+BAC Credomatic,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.33459437,False,False,False,False
+BAC Credomatic,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.333689,False,False,False,False
+BAC Credomatic,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.33341247,False,False,False,False
+BAC Credomatic,random_bol-com_20251129T174941.png,RANDOM,unknown,0.33339265,False,False,False,False
+BAC Credomatic,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.33322167,False,False,False,False
+BAC Credomatic,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.3331035,False,False,False,False
+BAC Credomatic,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.33302486,False,False,False,False
+BAC Credomatic,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.33291548,False,False,False,False
+BAC Credomatic,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.33275783,False,False,False,False
+BAC Credomatic,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.3326186,False,False,False,False
+BAC Credomatic,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.33250207,False,False,False,False
+BAC Credomatic,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.33241075,False,False,False,False
+BAC Credomatic,random_google-cn_20251129T172939.png,RANDOM,unknown,0.3323987,False,False,False,False
+BAC Credomatic,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.33171344,False,False,False,False
+BAC Credomatic,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.3304493,False,False,False,False
+BAC Credomatic,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.32992393,False,False,False,False
+BAC Credomatic,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.32965568,False,False,False,False
+BAC Credomatic,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.32884273,False,False,False,False
+BAC Credomatic,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.3280825,False,False,False,False
+BAC Credomatic,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.32760274,False,False,False,False
+BAC Credomatic,random_live-com_20251129T162413.png,RANDOM,unknown,0.32749575,False,False,False,False
+BAC Credomatic,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.3274725,False,False,False,False
+BAC Credomatic,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.32742697,False,False,False,False
+BAC Credomatic,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.32725158,False,False,False,False
+BAC Credomatic,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.32722652,False,False,False,False
+BAC Credomatic,random_github-io_20251129T163235.png,RANDOM,unknown,0.32720494,False,False,False,False
+BAC Credomatic,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.32669386,False,False,False,False
+BAC Credomatic,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.32669324,False,False,False,False
+BAC Credomatic,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.3264726,False,False,False,False
+BAC Credomatic,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.3264166,False,False,False,False
+BAC Credomatic,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.32582688,False,False,False,False
+BAC Credomatic,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.325702,False,False,False,False
+BAC Credomatic,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.32550144,False,False,False,False
+BAC Credomatic,random_php-net_20251129T164521.png,RANDOM,unknown,0.325319,False,False,False,False
+BAC Credomatic,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.32528028,False,False,False,False
+BAC Credomatic,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.3242175,False,False,False,False
+BAC Credomatic,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.32416087,False,False,False,False
+BAC Credomatic,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.32382518,False,False,False,False
+BAC Credomatic,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.32351783,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.3233625,False,False,False,False
+BAC Credomatic,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.3233592,False,False,False,False
+BAC Credomatic,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.32334477,False,False,False,False
+BAC Credomatic,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.32289517,False,False,False,False
+BAC Credomatic,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.32231617,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.32220295,False,False,False,False
+BAC Credomatic,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.32194138,False,False,False,False
+BAC Credomatic,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.3218063,False,False,False,False
+BAC Credomatic,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.32179984,False,False,False,False
+BAC Credomatic,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.3216757,False,False,False,False
+BAC Credomatic,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.3197212,False,False,False,False
+BAC Credomatic,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.31684533,False,False,False,False
+BAC Credomatic,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.3167077,False,False,False,False
+BAC Credomatic,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.31607646,False,False,False,False
+BAC Credomatic,random_wired-com_20251129T170401.png,RANDOM,unknown,0.31531653,False,False,False,False
+BAC Credomatic,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.3144877,False,False,False,False
+BAC Credomatic,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.3138731,False,False,False,False
+BAC Credomatic,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.3131164,False,False,False,False
+BAC Credomatic,random_debian-org_20251129T164620.png,RANDOM,unknown,0.3126558,False,False,False,False
+BAC Credomatic,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.3117879,False,False,False,False
+BAC Credomatic,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.3113602,False,False,False,False
+BAC Credomatic,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.31125158,False,False,False,False
+BAC Credomatic,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.31114924,False,False,False,False
+BAC Credomatic,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.31103754,False,False,False,False
+BAC Credomatic,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.31083414,False,False,False,False
+BAC Credomatic,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.31038207,False,False,False,False
+BAC Credomatic,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.31019104,False,False,False,False
+BAC Credomatic,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.30997622,False,False,False,False
+BAC Credomatic,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.3098148,False,False,False,False
+BAC Credomatic,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.30966467,False,False,False,False
+BAC Credomatic,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.30964932,False,False,False,False
+BAC Credomatic,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.30961174,False,False,False,False
+BAC Credomatic,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.3091944,False,False,False,False
+BAC Credomatic,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.30904263,False,False,False,False
+BAC Credomatic,random_discord-media_20251129T170414.png,RANDOM,unknown,0.3080112,False,False,False,False
+BAC Credomatic,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.30794317,False,False,False,False
+BAC Credomatic,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.307313,False,False,False,False
+BAC Credomatic,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.3065698,False,False,False,False
+BAC Credomatic,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.30637175,False,False,False,False
+BAC Credomatic,random_miui-com_20251129T163719.png,RANDOM,unknown,0.30581224,False,False,False,False
+BAC Credomatic,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.30507267,False,False,False,False
+BAC Credomatic,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.3050542,False,False,False,False
+BAC Credomatic,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.30459753,False,False,False,False
+BAC Credomatic,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.30459517,False,False,False,False
+BAC Credomatic,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.30443916,False,False,False,False
+BAC Credomatic,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.30208355,False,False,False,False
+BAC Credomatic,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.30200613,False,False,False,False
+BAC Credomatic,random_singular-net_20251129T175446.png,RANDOM,unknown,0.30186465,False,False,False,False
+BAC Credomatic,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.30185252,False,False,False,False
+BAC Credomatic,random_office-com_20251129T162404.png,RANDOM,unknown,0.29977012,False,False,False,False
+BAC Credomatic,random_overload-su_20251129T170747.png,RANDOM,unknown,0.29960382,False,False,False,False
+BAC Credomatic,random_nature-com_20251129T164547.png,RANDOM,unknown,0.2995277,False,False,False,False
+BAC Credomatic,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.29875308,False,False,False,False
+BAC Credomatic,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.29839963,False,False,False,False
+BAC Credomatic,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.2983932,False,False,False,False
+BAC Credomatic,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.29834032,False,False,False,False
+BAC Credomatic,random_doi-org_20251129T164112.png,RANDOM,unknown,0.29822156,False,False,False,False
+BAC Credomatic,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.29627517,False,False,False,False
+BAC Credomatic,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.29616192,False,False,False,False
+BAC Credomatic,random_medium-com_20251129T163655.png,RANDOM,unknown,0.29512638,False,False,False,False
+BAC Credomatic,random_people-com_20251129T172859.png,RANDOM,unknown,0.2944671,False,False,False,False
+BAC Credomatic,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.29432747,False,False,False,False
+BAC Credomatic,random_genius-com_20251129T174000.png,RANDOM,unknown,0.29428542,False,False,False,False
+BAC Credomatic,random_ui-com_20251129T163127.png,RANDOM,unknown,0.2940231,False,False,False,False
+BAC Credomatic,random_nic-io_20251129T173852.png,RANDOM,unknown,0.2939726,False,False,False,False
+BAC Credomatic,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.29363245,False,False,False,False
+BAC Credomatic,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.29279017,False,False,False,False
+BAC Credomatic,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.29057503,False,False,False,False
+BAC Credomatic,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.29020822,False,False,False,False
+BAC Credomatic,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.28985074,False,False,False,False
+BAC Credomatic,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.2883945,False,False,False,False
+BAC Credomatic,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.286905,False,False,False,False
+BAC Credomatic,random_health-mil_20251129T163619.png,RANDOM,unknown,0.28635514,False,False,False,False
+BAC Credomatic,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.2848213,False,False,False,False
+BAC Credomatic,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.28458717,False,False,False,False
+BAC Credomatic,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.28445268,False,False,False,False
+BAC Credomatic,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.28439555,False,False,False,False
+BAC Credomatic,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.28319478,False,False,False,False
+BAC Credomatic,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.28281105,False,False,False,False
+BAC Credomatic,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.28212255,False,False,False,False
+BAC Credomatic,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.28134245,False,False,False,False
+BAC Credomatic,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.28113645,False,False,False,False
+BAC Credomatic,random_archive-org_20251129T163406.png,RANDOM,unknown,0.2802617,False,False,False,False
+BAC Credomatic,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.27885467,False,False,False,False
+BAC Credomatic,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.27847567,False,False,False,False
+BAC Credomatic,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.2759486,False,False,False,False
+BAC Credomatic,random_fast-com_20251129T171226.png,RANDOM,unknown,0.2751844,False,False,False,False
+BAC Credomatic,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.274463,False,False,False,False
+BAC Credomatic,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.27401543,False,False,False,False
+BAC Credomatic,random_azure-com_20251129T162438.png,RANDOM,unknown,0.27207536,False,False,False,False
+BAC Credomatic,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.2706374,False,False,False,False
+BAC Credomatic,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.2701833,False,False,False,False
+BAC Credomatic,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.26908633,False,False,False,False
+BAC Credomatic,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.26873994,False,False,False,False
+BAC Credomatic,random_g-co_20251129T171804.png,RANDOM,unknown,0.26684406,False,False,False,False
+BAC Credomatic,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.26423967,False,False,False,False
+BAC Credomatic,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.25904733,False,False,False,False
+BAC Credomatic,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.2590444,False,False,False,False
+BAC Credomatic,random_openai-com_20251129T164132.png,RANDOM,unknown,0.25809485,False,False,False,False
+BAC Credomatic,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.25659567,False,False,False,False
+BAC Credomatic,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.2563219,False,False,False,False
+BAC Credomatic,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.25339282,False,False,False,False
+BAC Credomatic,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.25278115,False,False,False,False
+BAC Credomatic,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.25207287,False,False,False,False
+BAC Credomatic,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.25186875,False,False,False,False
+BAC Credomatic,random_erome-com_20251129T165107.png,RANDOM,unknown,0.25056085,False,False,False,False
+BAC Credomatic,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.24931854,False,False,False,False
+BAC Credomatic,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.24727423,False,False,False,False
+BAC Credomatic,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.24383023,False,False,False,False
+BAC Credomatic,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.24199593,False,False,False,False
+BAC Credomatic,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.24172413,False,False,False,False
+BAC Credomatic,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.23866199,False,False,False,False
+BAC Credomatic,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.23761512,False,False,False,False
+BAC Credomatic,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.23740122,False,False,False,False
+BAC Credomatic,random_state-gov_20251129T174508.png,RANDOM,unknown,0.22922556,False,False,False,False
+BAC Credomatic,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.22898653,False,False,False,False
+BAC Credomatic,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.22480538,False,False,False,False
+BAC Credomatic,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.2199947,False,False,False,False
+BAC Credomatic,random_who-int_20251129T164225.png,RANDOM,unknown,0.20988744,False,False,False,False
+BAC Credomatic,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.20544818,False,False,False,False
+BAC Credomatic,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.19940156,False,False,False,False
+BAC Credomatic,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.18895373,False,False,False,False

@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+Banco Safra,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,1.0,True,True,False,True
+Banco Safra,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.9881785,True,True,False,False
+Banco Safra,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.984946,True,True,False,False
+Banco Safra,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.98373705,True,True,False,False
+Banco Safra,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.9735486,True,True,False,False
+Banco Safra,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.97213733,True,True,False,False
+Banco Safra,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.9695735,True,True,False,False
+Banco Safra,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.96893084,True,True,False,False
+Banco Safra,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.96230865,True,True,False,False
+Banco Safra,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.96132207,True,True,False,False
+Banco Safra,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.9479137,True,True,False,False
+Banco Safra,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.6453595,False,False,False,False
+Banco Safra,random_360-cn_20251129T173141.png,RANDOM,unknown,0.574637,False,False,False,False
+Banco Safra,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.5616066,False,False,False,False
+Banco Safra,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.53966135,False,False,False,False
+Banco Safra,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.5258193,False,False,False,False
+Banco Safra,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.5245943,False,False,False,False
+Banco Safra,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.52053255,False,False,False,False
+Banco Safra,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5205276,False,False,False,False
+Banco Safra,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.51441383,False,False,False,False
+Banco Safra,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.5130296,False,False,False,False
+Banco Safra,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.51196516,False,False,False,False
+Banco Safra,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.5095782,False,False,False,False
+Banco Safra,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.5095602,False,False,False,False
+Banco Safra,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.5058664,False,False,False,False
+Banco Safra,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.50489295,False,False,False,False
+Banco Safra,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.50378186,False,False,False,False
+Banco Safra,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.49994507,False,False,False,False
+Banco Safra,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.49817613,False,False,False,False
+Banco Safra,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.4944492,False,False,False,False
+Banco Safra,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.49410176,False,False,False,False
+Banco Safra,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.49235493,False,False,False,False
+Banco Safra,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.49199092,False,False,False,False
+Banco Safra,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.4913994,False,False,False,False
+Banco Safra,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.49101293,False,False,False,False
+Banco Safra,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.490446,False,False,False,False
+Banco Safra,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.4903095,False,False,False,False
+Banco Safra,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.48987016,False,False,False,False
+Banco Safra,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.48970503,False,False,False,False
+Banco Safra,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.48690218,False,False,False,False
+Banco Safra,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.48641154,False,False,False,False
+Banco Safra,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.4853933,False,False,False,False
+Banco Safra,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.48385358,False,False,False,False
+Banco Safra,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.4817696,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.47965902,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.4785016,False,False,False,False
+Banco Safra,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.47834092,False,False,False,False
+Banco Safra,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.47813153,False,False,False,False
+Banco Safra,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.4772337,False,False,False,False
+Banco Safra,random_notion-so_20251129T180340.png,RANDOM,unknown,0.47712827,False,False,False,False
+Banco Safra,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.4766252,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.47615975,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.47454548,False,False,False,False
+Banco Safra,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.4708786,False,False,False,False
+Banco Safra,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.47025877,False,False,False,False
+Banco Safra,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.4700352,False,False,False,False
+Banco Safra,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.4686809,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.46836686,False,False,False,False
+Banco Safra,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.46583205,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.4655914,False,False,False,False
+Banco Safra,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.4652194,False,False,False,False
+Banco Safra,random_temu-com_20251129T165219.png,RANDOM,unknown,0.46510178,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.4647184,False,False,False,False
+Banco Safra,random_moe-video_20251129T164430.png,RANDOM,unknown,0.46418083,False,False,False,False
+Banco Safra,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.46192592,False,False,False,False
+Banco Safra,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.46167862,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.46164423,False,False,False,False
+Banco Safra,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.46128538,False,False,False,False
+Banco Safra,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.4603603,False,False,False,False
+Banco Safra,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.4597138,False,False,False,False
+Banco Safra,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.45887673,False,False,False,False
+Banco Safra,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.45799232,False,False,False,False
+Banco Safra,random_office-com_20251129T162404.png,RANDOM,unknown,0.45468837,False,False,False,False
+Banco Safra,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.45432174,False,False,False,False
+Banco Safra,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.4531116,False,False,False,False
+Banco Safra,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.45266643,False,False,False,False
+Banco Safra,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.45237696,False,False,False,False
+Banco Safra,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.45188177,False,False,False,False
+Banco Safra,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.45080894,False,False,False,False
+Banco Safra,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.44944578,False,False,False,False
+Banco Safra,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.44804776,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.4474638,False,False,False,False
+Banco Safra,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.4466502,False,False,False,False
+Banco Safra,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.44627184,False,False,False,False
+Banco Safra,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.4449376,False,False,False,False
+Banco Safra,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.44493288,False,False,False,False
+Banco Safra,random_roku-com_20251129T164128.png,RANDOM,unknown,0.44389546,False,False,False,False
+Banco Safra,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.44359913,False,False,False,False
+Banco Safra,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.44168848,False,False,False,False
+Banco Safra,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.44163558,False,False,False,False
+Banco Safra,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.4414974,False,False,False,False
+Banco Safra,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.44031817,False,False,False,False
+Banco Safra,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.44001102,False,False,False,False
+Banco Safra,random_apache-org_20251129T163228.png,RANDOM,unknown,0.43976176,False,False,False,False
+Banco Safra,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.43944716,False,False,False,False
+Banco Safra,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.43784794,False,False,False,False
+Banco Safra,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.43767533,False,False,False,False
+Banco Safra,random_target-com_20251129T171437.png,RANDOM,unknown,0.43678895,False,False,False,False
+Banco Safra,random_android-com_20251129T163812.png,RANDOM,unknown,0.43610826,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.4360937,False,False,False,False
+Banco Safra,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.43451703,False,False,False,False
+Banco Safra,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.43332773,False,False,False,False
+Banco Safra,random_skype-com_20251129T162718.png,RANDOM,unknown,0.4318982,False,False,False,False
+Banco Safra,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.43078414,False,False,False,False
+Banco Safra,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.43034056,False,False,False,False
+Banco Safra,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.42974043,False,False,False,False
+Banco Safra,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.42962962,False,False,False,False
+Banco Safra,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.42872873,False,False,False,False
+Banco Safra,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.4282999,False,False,False,False
+Banco Safra,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.4280575,False,False,False,False
+Banco Safra,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.42660457,False,False,False,False
+Banco Safra,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.42642984,False,False,False,False
+Banco Safra,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.4251091,False,False,False,False
+Banco Safra,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.4236942,False,False,False,False
+Banco Safra,random_wired-com_20251129T170401.png,RANDOM,unknown,0.4233959,False,False,False,False
+Banco Safra,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.42137504,False,False,False,False
+Banco Safra,random_t-me_20251129T163150.png,RANDOM,unknown,0.41972646,False,False,False,False
+Banco Safra,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.4185344,False,False,False,False
+Banco Safra,random_wps-com_20251129T174320.png,RANDOM,unknown,0.4174513,False,False,False,False
+Banco Safra,random_att-com_20251129T180955.png,RANDOM,unknown,0.41728872,False,False,False,False
+Banco Safra,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.41701528,False,False,False,False
+Banco Safra,random_weather-com_20251129T164102.png,RANDOM,unknown,0.4165423,False,False,False,False
+Banco Safra,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.41641384,False,False,False,False
+Banco Safra,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.4157091,False,False,False,False
+Banco Safra,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.41448718,False,False,False,False
+Banco Safra,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.4141329,False,False,False,False
+Banco Safra,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.41328448,False,False,False,False
+Banco Safra,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.4118222,False,False,False,False
+Banco Safra,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.41163474,False,False,False,False
+Banco Safra,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.41125107,False,False,False,False
+Banco Safra,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.4111842,False,False,False,False
+Banco Safra,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.4108148,False,False,False,False
+Banco Safra,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.40918833,False,False,False,False
+Banco Safra,random_fast-com_20251129T171226.png,RANDOM,unknown,0.40904975,False,False,False,False
+Banco Safra,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.40859944,False,False,False,False
+Banco Safra,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.4085061,False,False,False,False
+Banco Safra,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.406497,False,False,False,False
+Banco Safra,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.40619612,False,False,False,False
+Banco Safra,random_ui-com_20251129T163127.png,RANDOM,unknown,0.4059726,False,False,False,False
+Banco Safra,random_uk-com_20251129T171638.png,RANDOM,unknown,0.40549073,False,False,False,False
+Banco Safra,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.4050156,False,False,False,False
+Banco Safra,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.40363455,False,False,False,False
+Banco Safra,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.40346783,False,False,False,False
+Banco Safra,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.40297604,False,False,False,False
+Banco Safra,random_opera-com_20251129T163028.png,RANDOM,unknown,0.40262994,False,False,False,False
+Banco Safra,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.4026264,False,False,False,False
+Banco Safra,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.40091354,False,False,False,False
+Banco Safra,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.4007397,False,False,False,False
+Banco Safra,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.39741078,False,False,False,False
+Banco Safra,random_forter-com_20251129T164642.png,RANDOM,unknown,0.3964075,False,False,False,False
+Banco Safra,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.39495707,False,False,False,False
+Banco Safra,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.3948076,False,False,False,False
+Banco Safra,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.394159,False,False,False,False
+Banco Safra,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.39380985,False,False,False,False
+Banco Safra,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.3936255,False,False,False,False
+Banco Safra,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.3924397,False,False,False,False
+Banco Safra,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.39198264,False,False,False,False
+Banco Safra,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.3913539,False,False,False,False
+Banco Safra,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.39054227,False,False,False,False
+Banco Safra,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.3899223,False,False,False,False
+Banco Safra,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.3892606,False,False,False,False
+Banco Safra,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.38920832,False,False,False,False
+Banco Safra,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.38894355,False,False,False,False
+Banco Safra,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.38889772,False,False,False,False
+Banco Safra,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.38772085,False,False,False,False
+Banco Safra,random_ft-com_20251129T170724.png,RANDOM,unknown,0.38708028,False,False,False,False
+Banco Safra,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.38680995,False,False,False,False
+Banco Safra,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.38542676,False,False,False,False
+Banco Safra,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.38520426,False,False,False,False
+Banco Safra,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.38461345,False,False,False,False
+Banco Safra,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.38441277,False,False,False,False
+Banco Safra,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.3843015,False,False,False,False
+Banco Safra,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.38381928,False,False,False,False
+Banco Safra,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.38306487,False,False,False,False
+Banco Safra,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.3827045,False,False,False,False
+Banco Safra,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.38246518,False,False,False,False
+Banco Safra,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.38211554,False,False,False,False
+Banco Safra,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.3816747,False,False,False,False
+Banco Safra,random_okta-com_20251129T171946.png,RANDOM,unknown,0.38158238,False,False,False,False
+Banco Safra,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.38109455,False,False,False,False
+Banco Safra,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.3809997,False,False,False,False
+Banco Safra,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.3808769,False,False,False,False
+Banco Safra,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.3804075,False,False,False,False
+Banco Safra,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.37946364,False,False,False,False
+Banco Safra,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.3792292,False,False,False,False
+Banco Safra,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.3791192,False,False,False,False
+Banco Safra,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.37909904,False,False,False,False
+Banco Safra,random_agora-io_20251129T175439.png,RANDOM,unknown,0.3790086,False,False,False,False
+Banco Safra,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.37874722,False,False,False,False
+Banco Safra,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.37849814,False,False,False,False
+Banco Safra,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.37816867,False,False,False,False
+Banco Safra,random_split-io_20251129T175048.png,RANDOM,unknown,0.37769377,False,False,False,False
+Banco Safra,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.37761974,False,False,False,False
+Banco Safra,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.37745023,False,False,False,False
+Banco Safra,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.3767913,False,False,False,False
+Banco Safra,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.37649196,False,False,False,False
+Banco Safra,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.3755461,False,False,False,False
+Banco Safra,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.37550277,False,False,False,False
+Banco Safra,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.37515563,False,False,False,False
+Banco Safra,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.3746986,False,False,False,False
+Banco Safra,random_braze-com_20251129T171458.png,RANDOM,unknown,0.37456056,False,False,False,False
+Banco Safra,random_segment-io_20251129T174400.png,RANDOM,unknown,0.3741064,False,False,False,False
+Banco Safra,random_branch-io_20251129T171524.png,RANDOM,unknown,0.37384754,False,False,False,False
+Banco Safra,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.37384123,False,False,False,False
+Banco Safra,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.3736235,False,False,False,False
+Banco Safra,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.37319106,False,False,False,False
+Banco Safra,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.3723162,False,False,False,False
+Banco Safra,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.37204885,False,False,False,False
+Banco Safra,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.37125257,False,False,False,False
+Banco Safra,random_windows-com_20251129T163112.png,RANDOM,unknown,0.37093818,False,False,False,False
+Banco Safra,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.3709028,False,False,False,False
+Banco Safra,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.3708501,False,False,False,False
+Banco Safra,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.37060213,False,False,False,False
+Banco Safra,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.37051773,False,False,False,False
+Banco Safra,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.3704182,False,False,False,False
+Banco Safra,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.36960816,False,False,False,False
+Banco Safra,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.36956716,False,False,False,False
+Banco Safra,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.36952776,False,False,False,False
+Banco Safra,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.3685884,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.36755988,False,False,False,False
+Banco Safra,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.3675573,False,False,False,False
+Banco Safra,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.36746663,False,False,False,False
+Banco Safra,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.3671674,False,False,False,False
+Banco Safra,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.36571935,False,False,False,False
+Banco Safra,random_eset-com_20251129T171424.png,RANDOM,unknown,0.36561108,False,False,False,False
+Banco Safra,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.36523995,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.36455816,False,False,False,False
+Banco Safra,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.3642898,False,False,False,False
+Banco Safra,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.36417535,False,False,False,False
+Banco Safra,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.3640699,False,False,False,False
+Banco Safra,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.36383817,False,False,False,False
+Banco Safra,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.36376986,False,False,False,False
+Banco Safra,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.3636701,False,False,False,False
+Banco Safra,random_otto-de_20251129T174331.png,RANDOM,unknown,0.36341172,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.36309877,False,False,False,False
+Banco Safra,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.36302435,False,False,False,False
+Banco Safra,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.36302048,False,False,False,False
+Banco Safra,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.3625955,False,False,False,False
+Banco Safra,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.3625513,False,False,False,False
+Banco Safra,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.36154878,False,False,False,False
+Banco Safra,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.36143756,False,False,False,False
+Banco Safra,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.36126772,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.36121655,False,False,False,False
+Banco Safra,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.3605078,False,False,False,False
+Banco Safra,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.36013553,False,False,False,False
+Banco Safra,random_apple-com_20251129T162353.png,RANDOM,unknown,0.36008152,False,False,False,False
+Banco Safra,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.35970294,False,False,False,False
+Banco Safra,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.3596648,False,False,False,False
+Banco Safra,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.358553,False,False,False,False
+Banco Safra,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.35846382,False,False,False,False
+Banco Safra,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.35826284,False,False,False,False
+Banco Safra,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.3577885,False,False,False,False
+Banco Safra,random_openai-com_20251129T164132.png,RANDOM,unknown,0.35766715,False,False,False,False
+Banco Safra,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.35764778,False,False,False,False
+Banco Safra,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.35746688,False,False,False,False
+Banco Safra,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.35741863,False,False,False,False
+Banco Safra,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.35723755,False,False,False,False
+Banco Safra,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.35720092,False,False,False,False
+Banco Safra,random_daum-net_20251129T174537.png,RANDOM,unknown,0.3571189,False,False,False,False
+Banco Safra,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.35662064,False,False,False,False
+Banco Safra,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.35621697,False,False,False,False
+Banco Safra,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.35579067,False,False,False,False
+Banco Safra,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.35550857,False,False,False,False
+Banco Safra,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.35540575,False,False,False,False
+Banco Safra,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.35509852,False,False,False,False
+Banco Safra,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.35479495,False,False,False,False
+Banco Safra,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.3543064,False,False,False,False
+Banco Safra,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.35397014,False,False,False,False
+Banco Safra,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.3531869,False,False,False,False
+Banco Safra,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.3529878,False,False,False,False
+Banco Safra,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.35292453,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.3526382,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.35203817,False,False,False,False
+Banco Safra,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.35199422,False,False,False,False
+Banco Safra,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.35197842,False,False,False,False
+Banco Safra,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.351819,False,False,False,False
+Banco Safra,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.35119107,False,False,False,False
+Banco Safra,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.35113212,False,False,False,False
+Banco Safra,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.35086578,False,False,False,False
+Banco Safra,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.35053945,False,False,False,False
+Banco Safra,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.3500349,False,False,False,False
+Banco Safra,random_viber-com_20251129T172210.png,RANDOM,unknown,0.3498982,False,False,False,False
+Banco Safra,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.34964454,False,False,False,False
+Banco Safra,random_g-page_20251129T170201.png,RANDOM,unknown,0.34938437,False,False,False,False
+Banco Safra,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.3487857,False,False,False,False
+Banco Safra,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.34818816,False,False,False,False
+Banco Safra,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.3478352,False,False,False,False
+Banco Safra,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.34772828,False,False,False,False
+Banco Safra,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.34749448,False,False,False,False
+Banco Safra,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.34748048,False,False,False,False
+Banco Safra,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.34690976,False,False,False,False
+Banco Safra,random_wix-com_20251129T171207.png,RANDOM,unknown,0.3465427,False,False,False,False
+Banco Safra,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.3464653,False,False,False,False
+Banco Safra,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.34620243,False,False,False,False
+Banco Safra,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.34598523,False,False,False,False
+Banco Safra,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.34591407,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.3456524,False,False,False,False
+Banco Safra,random_vg-no_20251129T180754.png,RANDOM,unknown,0.34548676,False,False,False,False
+Banco Safra,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.34535104,False,False,False,False
+Banco Safra,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.3452584,False,False,False,False
+Banco Safra,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.343849,False,False,False,False
+Banco Safra,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.3434788,False,False,False,False
+Banco Safra,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.34320012,False,False,False,False
+Banco Safra,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.34290045,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.3427018,False,False,False,False
+Banco Safra,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.34264234,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.3426317,False,False,False,False
+Banco Safra,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.3421618,False,False,False,False
+Banco Safra,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.3415919,False,False,False,False
+Banco Safra,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.34103417,False,False,False,False
+Banco Safra,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.34102708,False,False,False,False
+Banco Safra,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.340715,False,False,False,False
+Banco Safra,random_linode-com_20251129T173059.png,RANDOM,unknown,0.3406621,False,False,False,False
+Banco Safra,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.3403506,False,False,False,False
+Banco Safra,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.34030437,False,False,False,False
+Banco Safra,random_figma-com_20251129T173914.png,RANDOM,unknown,0.34026676,False,False,False,False
+Banco Safra,random_msn-com_20251129T162722.png,RANDOM,unknown,0.3395851,False,False,False,False
+Banco Safra,random_nic-io_20251129T173852.png,RANDOM,unknown,0.33939272,False,False,False,False
+Banco Safra,random_change-org_20251129T173929.png,RANDOM,unknown,0.33832607,False,False,False,False
+Banco Safra,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.33801615,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.33789828,False,False,False,False
+Banco Safra,random_jd-com_20251129T174954.png,RANDOM,unknown,0.3373031,False,False,False,False
+Banco Safra,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.33722776,False,False,False,False
+Banco Safra,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.33716267,False,False,False,False
+Banco Safra,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.33714736,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.33685163,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.33673006,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.33606595,False,False,False,False
+Banco Safra,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.335802,False,False,False,False
+Banco Safra,random_bol-com_20251129T174941.png,RANDOM,unknown,0.33572668,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.33463615,False,False,False,False
+Banco Safra,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.3340494,False,False,False,False
+Banco Safra,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.3339104,False,False,False,False
+Banco Safra,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.33379275,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.3331714,False,False,False,False
+Banco Safra,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.33283222,False,False,False,False
+Banco Safra,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.33236706,False,False,False,False
+Banco Safra,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.3316499,False,False,False,False
+Banco Safra,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.33158973,False,False,False,False
+Banco Safra,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.33098742,False,False,False,False
+Banco Safra,random_singular-net_20251129T175446.png,RANDOM,unknown,0.33064288,False,False,False,False
+Banco Safra,random_erome-com_20251129T165107.png,RANDOM,unknown,0.33060023,False,False,False,False
+Banco Safra,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.33048567,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.33047783,False,False,False,False
+Banco Safra,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.3299663,False,False,False,False
+Banco Safra,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.3292533,False,False,False,False
+Banco Safra,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.3282017,False,False,False,False
+Banco Safra,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.3278998,False,False,False,False
+Banco Safra,random_npr-org_20251129T170056.png,RANDOM,unknown,0.327862,False,False,False,False
+Banco Safra,random_free-fr_20251129T171241.png,RANDOM,unknown,0.32768056,False,False,False,False
+Banco Safra,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.32768053,False,False,False,False
+Banco Safra,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.32757843,False,False,False,False
+Banco Safra,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.32747686,False,False,False,False
+Banco Safra,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.32734567,False,False,False,False
+Banco Safra,random_marca-com_20251129T175532.png,RANDOM,unknown,0.32679495,False,False,False,False
+Banco Safra,random_genius-com_20251129T174000.png,RANDOM,unknown,0.32651567,False,False,False,False
+Banco Safra,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.3264772,False,False,False,False
+Banco Safra,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.32631406,False,False,False,False
+Banco Safra,random_web-de_20251129T175220.png,RANDOM,unknown,0.32630873,False,False,False,False
+Banco Safra,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.3261724,False,False,False,False
+Banco Safra,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.32567337,False,False,False,False
+Banco Safra,random_binance-com_20251129T174935.png,RANDOM,unknown,0.32539442,False,False,False,False
+Banco Safra,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.32529545,False,False,False,False
+Banco Safra,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.32503635,False,False,False,False
+Banco Safra,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.32484034,False,False,False,False
+Banco Safra,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.32475972,False,False,False,False
+Banco Safra,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.32475317,False,False,False,False
+Banco Safra,random_overload-su_20251129T170747.png,RANDOM,unknown,0.3244629,False,False,False,False
+Banco Safra,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.32402503,False,False,False,False
+Banco Safra,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.3239854,False,False,False,False
+Banco Safra,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.32350445,False,False,False,False
+Banco Safra,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.32337147,False,False,False,False
+Banco Safra,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.3230495,False,False,False,False
+Banco Safra,random_ring-com_20251129T172743.png,RANDOM,unknown,0.3229157,False,False,False,False
+Banco Safra,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.32230788,False,False,False,False
+Banco Safra,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.32211328,False,False,False,False
+Banco Safra,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.32206503,False,False,False,False
+Banco Safra,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.32182842,False,False,False,False
+Banco Safra,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.32113057,False,False,False,False
+Banco Safra,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.32034427,False,False,False,False
+Banco Safra,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.32026213,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.32010663,False,False,False,False
+Banco Safra,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.32006785,False,False,False,False
+Banco Safra,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.31974146,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.31949514,False,False,False,False
+Banco Safra,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.31919867,False,False,False,False
+Banco Safra,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.31905055,False,False,False,False
+Banco Safra,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.3190272,False,False,False,False
+Banco Safra,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.31881413,False,False,False,False
+Banco Safra,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.31843883,False,False,False,False
+Banco Safra,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.31818005,False,False,False,False
+Banco Safra,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.31759912,False,False,False,False
+Banco Safra,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.3174955,False,False,False,False
+Banco Safra,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.3172676,False,False,False,False
+Banco Safra,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.31714183,False,False,False,False
+Banco Safra,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.3169916,False,False,False,False
+Banco Safra,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.31681496,False,False,False,False
+Banco Safra,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.3167606,False,False,False,False
+Banco Safra,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.31675315,False,False,False,False
+Banco Safra,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.31659707,False,False,False,False
+Banco Safra,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.3165676,False,False,False,False
+Banco Safra,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.3163557,False,False,False,False
+Banco Safra,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.31620625,False,False,False,False
+Banco Safra,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.3161406,False,False,False,False
+Banco Safra,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.3156173,False,False,False,False
+Banco Safra,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.31527323,False,False,False,False
+Banco Safra,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.31525266,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.31500196,False,False,False,False
+Banco Safra,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.3147562,False,False,False,False
+Banco Safra,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.31466863,False,False,False,False
+Banco Safra,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.3141175,False,False,False,False
+Banco Safra,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.3139815,False,False,False,False
+Banco Safra,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.31395382,False,False,False,False
+Banco Safra,random_slack-com_20251129T164623.png,RANDOM,unknown,0.3138885,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.31374592,False,False,False,False
+Banco Safra,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.31373197,False,False,False,False
+Banco Safra,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.31354508,False,False,False,False
+Banco Safra,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.31338155,False,False,False,False
+Banco Safra,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.31304348,False,False,False,False
+Banco Safra,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.3129074,False,False,False,False
+Banco Safra,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.31275707,False,False,False,False
+Banco Safra,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.31262904,False,False,False,False
+Banco Safra,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.31248745,False,False,False,False
+Banco Safra,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.31214342,False,False,False,False
+Banco Safra,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.31187388,False,False,False,False
+Banco Safra,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.31183413,False,False,False,False
+Banco Safra,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.31147152,False,False,False,False
+Banco Safra,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.31143945,False,False,False,False
+Banco Safra,random_google-cn_20251129T172939.png,RANDOM,unknown,0.31134382,False,False,False,False
+Banco Safra,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.31117833,False,False,False,False
+Banco Safra,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.31019795,False,False,False,False
+Banco Safra,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.31011024,False,False,False,False
+Banco Safra,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.30975577,False,False,False,False
+Banco Safra,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.30967736,False,False,False,False
+Banco Safra,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.30965957,False,False,False,False
+Banco Safra,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.30960518,False,False,False,False
+Banco Safra,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.30949175,False,False,False,False
+Banco Safra,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.3091187,False,False,False,False
+Banco Safra,random_archive-org_20251129T163406.png,RANDOM,unknown,0.30868137,False,False,False,False
+Banco Safra,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.30859166,False,False,False,False
+Banco Safra,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.308128,False,False,False,False
+Banco Safra,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.30791062,False,False,False,False
+Banco Safra,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.3076629,False,False,False,False
+Banco Safra,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.3072829,False,False,False,False
+Banco Safra,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.30705586,False,False,False,False
+Banco Safra,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.30699095,False,False,False,False
+Banco Safra,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.30684835,False,False,False,False
+Banco Safra,random_xing-com_20251129T175042.png,RANDOM,unknown,0.3068147,False,False,False,False
+Banco Safra,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.3064881,False,False,False,False
+Banco Safra,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.3062051,False,False,False,False
+Banco Safra,random_state-gov_20251129T174508.png,RANDOM,unknown,0.30613685,False,False,False,False
+Banco Safra,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.3060965,False,False,False,False
+Banco Safra,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.30604553,False,False,False,False
+Banco Safra,random_avast-com_20251129T164855.png,RANDOM,unknown,0.3058849,False,False,False,False
+Banco Safra,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.30586845,False,False,False,False
+Banco Safra,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.30526942,False,False,False,False
+Banco Safra,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.30498004,False,False,False,False
+Banco Safra,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.30459183,False,False,False,False
+Banco Safra,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.3044858,False,False,False,False
+Banco Safra,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.30401415,False,False,False,False
+Banco Safra,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.30389515,False,False,False,False
+Banco Safra,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.30385268,False,False,False,False
+Banco Safra,random_uber-com_20251129T170129.png,RANDOM,unknown,0.30360818,False,False,False,False
+Banco Safra,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.30354598,False,False,False,False
+Banco Safra,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.30338073,False,False,False,False
+Banco Safra,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.30322838,False,False,False,False
+Banco Safra,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.30292267,False,False,False,False
+Banco Safra,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.30258057,False,False,False,False
+Banco Safra,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.30256903,False,False,False,False
+Banco Safra,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.30245978,False,False,False,False
+Banco Safra,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.302381,False,False,False,False
+Banco Safra,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.3023703,False,False,False,False
+Banco Safra,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.30141923,False,False,False,False
+Banco Safra,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.30129337,False,False,False,False
+Banco Safra,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.30100882,False,False,False,False
+Banco Safra,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.30099663,False,False,False,False
+Banco Safra,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.30091903,False,False,False,False
+Banco Safra,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.3007257,False,False,False,False
+Banco Safra,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.30071628,False,False,False,False
+Banco Safra,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.30069846,False,False,False,False
+Banco Safra,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.30043894,False,False,False,False
+Banco Safra,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.30016458,False,False,False,False
+Banco Safra,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.29978704,False,False,False,False
+Banco Safra,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.29975605,False,False,False,False
+Banco Safra,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.2993241,False,False,False,False
+Banco Safra,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.29918885,False,False,False,False
+Banco Safra,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.29862046,False,False,False,False
+Banco Safra,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.29826334,False,False,False,False
+Banco Safra,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.2982373,False,False,False,False
+Banco Safra,random_character-ai_20251129T174433.png,RANDOM,unknown,0.2982355,False,False,False,False
+Banco Safra,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.29801297,False,False,False,False
+Banco Safra,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.29760247,False,False,False,False
+Banco Safra,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.29749805,False,False,False,False
+Banco Safra,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.29745582,False,False,False,False
+Banco Safra,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.2972673,False,False,False,False
+Banco Safra,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.29718426,False,False,False,False
+Banco Safra,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.29696545,False,False,False,False
+Banco Safra,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.29690748,False,False,False,False
+Banco Safra,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.2965009,False,False,False,False
+Banco Safra,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.29637897,False,False,False,False
+Banco Safra,random_brave-com_20251129T172325.png,RANDOM,unknown,0.29583645,False,False,False,False
+Banco Safra,random_youku-com_20251129T174026.png,RANDOM,unknown,0.295701,False,False,False,False
+Banco Safra,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.29548353,False,False,False,False
+Banco Safra,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.29507297,False,False,False,False
+Banco Safra,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.29501268,False,False,False,False
+Banco Safra,random_debian-org_20251129T164620.png,RANDOM,unknown,0.29495686,False,False,False,False
+Banco Safra,random_aol-com_20251129T170152.png,RANDOM,unknown,0.29453725,False,False,False,False
+Banco Safra,random_f5-com_20251129T163706.png,RANDOM,unknown,0.29440033,False,False,False,False
+Banco Safra,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.2942595,False,False,False,False
+Banco Safra,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.29411674,False,False,False,False
+Banco Safra,random_go-com_20251129T164609.png,RANDOM,unknown,0.29406106,False,False,False,False
+Banco Safra,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.29385316,False,False,False,False
+Banco Safra,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.29385048,False,False,False,False
+Banco Safra,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.293755,False,False,False,False
+Banco Safra,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.29314804,False,False,False,False
+Banco Safra,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.29301482,False,False,False,False
+Banco Safra,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.29279223,False,False,False,False
+Banco Safra,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.2926575,False,False,False,False
+Banco Safra,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.29244906,False,False,False,False
+Banco Safra,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.29230395,False,False,False,False
+Banco Safra,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.29211664,False,False,False,False
+Banco Safra,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.29125357,False,False,False,False
+Banco Safra,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.29123175,False,False,False,False
+Banco Safra,random_shein-com_20251129T170736.png,RANDOM,unknown,0.2912138,False,False,False,False
+Banco Safra,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.29096425,False,False,False,False
+Banco Safra,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.29087806,False,False,False,False
+Banco Safra,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.29084116,False,False,False,False
+Banco Safra,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.29038277,False,False,False,False
+Banco Safra,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.29029644,False,False,False,False
+Banco Safra,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.2901017,False,False,False,False
+Banco Safra,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.2896459,False,False,False,False
+Banco Safra,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.2896327,False,False,False,False
+Banco Safra,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.289411,False,False,False,False
+Banco Safra,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.28934088,False,False,False,False
+Banco Safra,random_doi-org_20251129T164112.png,RANDOM,unknown,0.28912282,False,False,False,False
+Banco Safra,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.28866363,False,False,False,False
+Banco Safra,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.28858137,False,False,False,False
+Banco Safra,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.2884853,False,False,False,False
+Banco Safra,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.28842056,False,False,False,False
+Banco Safra,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.28824422,False,False,False,False
+Banco Safra,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.28782552,False,False,False,False
+Banco Safra,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.2877851,False,False,False,False
+Banco Safra,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.28777686,False,False,False,False
+Banco Safra,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.28757364,False,False,False,False
+Banco Safra,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.28757,False,False,False,False
+Banco Safra,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.28751284,False,False,False,False
+Banco Safra,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.28747207,False,False,False,False
+Banco Safra,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.2873127,False,False,False,False
+Banco Safra,random_w3-org_20251129T163751.png,RANDOM,unknown,0.2871117,False,False,False,False
+Banco Safra,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.28692448,False,False,False,False
+Banco Safra,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.2868949,False,False,False,False
+Banco Safra,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.2865256,False,False,False,False
+Banco Safra,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.28642645,False,False,False,False
+Banco Safra,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.28630304,False,False,False,False
+Banco Safra,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.28609353,False,False,False,False
+Banco Safra,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.2860756,False,False,False,False
+Banco Safra,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.2860477,False,False,False,False
+Banco Safra,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.2859622,False,False,False,False
+Banco Safra,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.2859452,False,False,False,False
+Banco Safra,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.28586757,False,False,False,False
+Banco Safra,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.2857618,False,False,False,False
+Banco Safra,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.28571266,False,False,False,False
+Banco Safra,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.2856558,False,False,False,False
+Banco Safra,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.28554633,False,False,False,False
+Banco Safra,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.28553993,False,False,False,False
+Banco Safra,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.28552228,False,False,False,False
+Banco Safra,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.2852783,False,False,False,False
+Banco Safra,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.28519547,False,False,False,False
+Banco Safra,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.28515708,False,False,False,False
+Banco Safra,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.28488693,False,False,False,False
+Banco Safra,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.28477204,False,False,False,False
+Banco Safra,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.2847389,False,False,False,False
+Banco Safra,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.28468707,False,False,False,False
+Banco Safra,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.28454408,False,False,False,False
+Banco Safra,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.284146,False,False,False,False
+Banco Safra,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.28391612,False,False,False,False
+Banco Safra,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.2839,False,False,False,False
+Banco Safra,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.2838112,False,False,False,False
+Banco Safra,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.28349137,False,False,False,False
+Banco Safra,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.28326324,False,False,False,False
+Banco Safra,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.28319126,False,False,False,False
+Banco Safra,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.28268826,False,False,False,False
+Banco Safra,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.282578,False,False,False,False
+Banco Safra,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.28242645,False,False,False,False
+Banco Safra,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.2824133,False,False,False,False
+Banco Safra,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.28239274,False,False,False,False
+Banco Safra,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.28228927,False,False,False,False
+Banco Safra,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.28212994,False,False,False,False
+Banco Safra,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.28200284,False,False,False,False
+Banco Safra,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.28180444,False,False,False,False
+Banco Safra,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.28173602,False,False,False,False
+Banco Safra,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.2815136,False,False,False,False
+Banco Safra,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.28129977,False,False,False,False
+Banco Safra,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.28128216,False,False,False,False
+Banco Safra,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.28113425,False,False,False,False
+Banco Safra,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.28109843,False,False,False,False
+Banco Safra,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.28109586,False,False,False,False
+Banco Safra,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.28081182,False,False,False,False
+Banco Safra,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.28079176,False,False,False,False
+Banco Safra,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.28070647,False,False,False,False
+Banco Safra,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.28067455,False,False,False,False
+Banco Safra,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.2805415,False,False,False,False
+Banco Safra,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.28033048,False,False,False,False
+Banco Safra,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.28025562,False,False,False,False
+Banco Safra,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.28010148,False,False,False,False
+Banco Safra,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.2800979,False,False,False,False
+Banco Safra,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.28003764,False,False,False,False
+Banco Safra,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.27988344,False,False,False,False
+Banco Safra,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.27945656,False,False,False,False
+Banco Safra,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.2791148,False,False,False,False
+Banco Safra,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.27877122,False,False,False,False
+Banco Safra,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.27869886,False,False,False,False
+Banco Safra,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.27862692,False,False,False,False
+Banco Safra,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.27842194,False,False,False,False
+Banco Safra,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.2782905,False,False,False,False
+Banco Safra,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.2781189,False,False,False,False
+Banco Safra,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.27777702,False,False,False,False
+Banco Safra,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.27765757,False,False,False,False
+Banco Safra,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.27751073,False,False,False,False
+Banco Safra,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.2774034,False,False,False,False
+Banco Safra,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.2772621,False,False,False,False
+Banco Safra,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.27715048,False,False,False,False
+Banco Safra,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.27713424,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.27706614,False,False,False,False
+Banco Safra,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.2768922,False,False,False,False
+Banco Safra,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.2767405,False,False,False,False
+Banco Safra,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.27659488,False,False,False,False
+Banco Safra,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.2764112,False,False,False,False
+Banco Safra,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.2762978,False,False,False,False
+Banco Safra,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.27537495,False,False,False,False
+Banco Safra,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.27523315,False,False,False,False
+Banco Safra,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.27518195,False,False,False,False
+Banco Safra,random_bild-de_20251129T173827.png,RANDOM,unknown,0.2750711,False,False,False,False
+Banco Safra,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.27501816,False,False,False,False
+Banco Safra,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.27495384,False,False,False,False
+Banco Safra,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.2743466,False,False,False,False
+Banco Safra,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.2742074,False,False,False,False
+Banco Safra,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.2738789,False,False,False,False
+Banco Safra,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.27387628,False,False,False,False
+Banco Safra,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.27387553,False,False,False,False
+Banco Safra,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.27372286,False,False,False,False
+Banco Safra,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.2732152,False,False,False,False
+Banco Safra,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.27315852,False,False,False,False
+Banco Safra,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.2731123,False,False,False,False
+Banco Safra,random_wise-com_20251129T180312.png,RANDOM,unknown,0.27307904,False,False,False,False
+Banco Safra,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.27274227,False,False,False,False
+Banco Safra,random_discord-media_20251129T170414.png,RANDOM,unknown,0.2726195,False,False,False,False
+Banco Safra,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.27256545,False,False,False,False
+Banco Safra,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.2725382,False,False,False,False
+Banco Safra,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.2725122,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.27248234,False,False,False,False
+Banco Safra,random_canva-com_20251129T164231.png,RANDOM,unknown,0.27235523,False,False,False,False
+Banco Safra,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.27226818,False,False,False,False
+Banco Safra,random_nature-com_20251129T164547.png,RANDOM,unknown,0.27226526,False,False,False,False
+Banco Safra,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.2722374,False,False,False,False
+Banco Safra,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.2722274,False,False,False,False
+Banco Safra,random_asus-com_20251129T172748.png,RANDOM,unknown,0.27187526,False,False,False,False
+Banco Safra,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.27182636,False,False,False,False
+Banco Safra,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.27181327,False,False,False,False
+Banco Safra,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.27179146,False,False,False,False
+Banco Safra,random_tds-net_20251129T174115.png,RANDOM,unknown,0.27166173,False,False,False,False
+Banco Safra,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.27156317,False,False,False,False
+Banco Safra,random_php-net_20251129T164521.png,RANDOM,unknown,0.27132532,False,False,False,False
+Banco Safra,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.27131116,False,False,False,False
+Banco Safra,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.27112246,False,False,False,False
+Banco Safra,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.27111924,False,False,False,False
+Banco Safra,random_trello-com_20251129T180351.png,RANDOM,unknown,0.27094465,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.27059,False,False,False,False
+Banco Safra,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.27049863,False,False,False,False
+Banco Safra,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.27022672,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.27008533,False,False,False,False
+Banco Safra,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.2698494,False,False,False,False
+Banco Safra,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.26976314,False,False,False,False
+Banco Safra,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.2697493,False,False,False,False
+Banco Safra,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.26970464,False,False,False,False
+Banco Safra,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.26968086,False,False,False,False
+Banco Safra,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.269598,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.26956278,False,False,False,False
+Banco Safra,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.2694605,False,False,False,False
+Banco Safra,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.26897737,False,False,False,False
+Banco Safra,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.2687964,False,False,False,False
+Banco Safra,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.26874125,False,False,False,False
+Banco Safra,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.268654,False,False,False,False
+Banco Safra,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.26849595,False,False,False,False
+Banco Safra,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.26846883,False,False,False,False
+Banco Safra,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.2683262,False,False,False,False
+Banco Safra,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.2681591,False,False,False,False
+Banco Safra,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.26810265,False,False,False,False
+Banco Safra,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.2680462,False,False,False,False
+Banco Safra,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.26793933,False,False,False,False
+Banco Safra,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.2679268,False,False,False,False
+Banco Safra,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.26780337,False,False,False,False
+Banco Safra,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.26737198,False,False,False,False
+Banco Safra,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.26732153,False,False,False,False
+Banco Safra,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.2672828,False,False,False,False
+Banco Safra,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.26689675,False,False,False,False
+Banco Safra,random_intel-com_20251129T171229.png,RANDOM,unknown,0.2666916,False,False,False,False
+Banco Safra,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.26579797,False,False,False,False
+Banco Safra,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.26577973,False,False,False,False
+Banco Safra,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.26562947,False,False,False,False
+Banco Safra,random_dns-google_20251129T163231.png,RANDOM,unknown,0.26541036,False,False,False,False
+Banco Safra,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.26497686,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.2649156,False,False,False,False
+Banco Safra,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.26441026,False,False,False,False
+Banco Safra,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.26435733,False,False,False,False
+Banco Safra,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.2643268,False,False,False,False
+Banco Safra,random_hp-com_20251129T164248.png,RANDOM,unknown,0.26430574,False,False,False,False
+Banco Safra,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.26388058,False,False,False,False
+Banco Safra,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.2638337,False,False,False,False
+Banco Safra,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.26381028,False,False,False,False
+Banco Safra,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.26358926,False,False,False,False
+Banco Safra,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.26327166,False,False,False,False
+Banco Safra,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.26324308,False,False,False,False
+Banco Safra,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.26319253,False,False,False,False
+Banco Safra,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.2631309,False,False,False,False
+Banco Safra,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.2630356,False,False,False,False
+Banco Safra,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.26294827,False,False,False,False
+Banco Safra,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.26205564,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.26193225,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.26193017,False,False,False,False
+Banco Safra,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.26191074,False,False,False,False
+Banco Safra,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.26146957,False,False,False,False
+Banco Safra,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.26146734,False,False,False,False
+Banco Safra,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.2613949,False,False,False,False
+Banco Safra,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.26136163,False,False,False,False
+Banco Safra,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.26115385,False,False,False,False
+Banco Safra,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.26074493,False,False,False,False
+Banco Safra,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.26067707,False,False,False,False
+Banco Safra,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.26014042,False,False,False,False
+Banco Safra,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.26007083,False,False,False,False
+Banco Safra,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.2600169,False,False,False,False
+Banco Safra,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.25939086,False,False,False,False
+Banco Safra,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.25925916,False,False,False,False
+Banco Safra,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.25923336,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.2592041,False,False,False,False
+Banco Safra,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.25893414,False,False,False,False
+Banco Safra,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.25890404,False,False,False,False
+Banco Safra,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.2587841,False,False,False,False
+Banco Safra,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.2587577,False,False,False,False
+Banco Safra,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.2585768,False,False,False,False
+Banco Safra,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.25855094,False,False,False,False
+Banco Safra,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.25854093,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.2585169,False,False,False,False
+Banco Safra,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.25847137,False,False,False,False
+Banco Safra,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.25787768,False,False,False,False
+Banco Safra,random_docker-com_20251129T170827.png,RANDOM,unknown,0.25753558,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.25741652,False,False,False,False
+Banco Safra,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.25737602,False,False,False,False
+Banco Safra,random_focus-de_20251129T175031.png,RANDOM,unknown,0.25716072,False,False,False,False
+Banco Safra,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.2570779,False,False,False,False
+Banco Safra,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.2568783,False,False,False,False
+Banco Safra,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.2567907,False,False,False,False
+Banco Safra,random_office365-com_20251129T162902.png,RANDOM,unknown,0.2567676,False,False,False,False
+Banco Safra,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.25672045,False,False,False,False
+Banco Safra,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.25607997,False,False,False,False
+Banco Safra,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.25570843,False,False,False,False
+Banco Safra,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.2555605,False,False,False,False
+Banco Safra,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.25544313,False,False,False,False
+Banco Safra,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.25522894,False,False,False,False
+Banco Safra,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.25500375,False,False,False,False
+Banco Safra,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.25499105,False,False,False,False
+Banco Safra,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.25495622,False,False,False,False
+Banco Safra,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.25487638,False,False,False,False
+Banco Safra,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.25485727,False,False,False,False
+Banco Safra,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.2547063,False,False,False,False
+Banco Safra,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.2546758,False,False,False,False
+Banco Safra,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.25460356,False,False,False,False
+Banco Safra,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.25432804,False,False,False,False
+Banco Safra,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.2542445,False,False,False,False
+Banco Safra,random_he-net_20251129T172135.png,RANDOM,unknown,0.25371623,False,False,False,False
+Banco Safra,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.25346243,False,False,False,False
+Banco Safra,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.25342047,False,False,False,False
+Banco Safra,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.25299793,False,False,False,False
+Banco Safra,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.25293463,False,False,False,False
+Banco Safra,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.25293234,False,False,False,False
+Banco Safra,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.2526365,False,False,False,False
+Banco Safra,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.2525758,False,False,False,False
+Banco Safra,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.25254753,False,False,False,False
+Banco Safra,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.25200897,False,False,False,False
+Banco Safra,random_medium-com_20251129T163655.png,RANDOM,unknown,0.25156784,False,False,False,False
+Banco Safra,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.2515601,False,False,False,False
+Banco Safra,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.25150314,False,False,False,False
+Banco Safra,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.25147575,False,False,False,False
+Banco Safra,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.25143394,False,False,False,False
+Banco Safra,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.25119638,False,False,False,False
+Banco Safra,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.25108752,False,False,False,False
+Banco Safra,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.2510457,False,False,False,False
+Banco Safra,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.25061336,False,False,False,False
+Banco Safra,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.25032014,False,False,False,False
+Banco Safra,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.25031686,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.24993145,False,False,False,False
+Banco Safra,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.24955481,False,False,False,False
+Banco Safra,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.24951094,False,False,False,False
+Banco Safra,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.24947913,False,False,False,False
+Banco Safra,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.24947605,False,False,False,False
+Banco Safra,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.24903798,False,False,False,False
+Banco Safra,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.24892119,False,False,False,False
+Banco Safra,random_springer-com_20251129T164823.png,RANDOM,unknown,0.24872686,False,False,False,False
+Banco Safra,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.24827862,False,False,False,False
+Banco Safra,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.2480368,False,False,False,False
+Banco Safra,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.24797027,False,False,False,False
+Banco Safra,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.24791946,False,False,False,False
+Banco Safra,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.24766912,False,False,False,False
+Banco Safra,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.24750957,False,False,False,False
+Banco Safra,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.24749617,False,False,False,False
+Banco Safra,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.24731773,False,False,False,False
+Banco Safra,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.24692914,False,False,False,False
+Banco Safra,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.24687633,False,False,False,False
+Banco Safra,random_substack-com_20251129T171941.png,RANDOM,unknown,0.24656664,False,False,False,False
+Banco Safra,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.24632141,False,False,False,False
+Banco Safra,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.2462959,False,False,False,False
+Banco Safra,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.24619268,False,False,False,False
+Banco Safra,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.2457017,False,False,False,False
+Banco Safra,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.24564534,False,False,False,False
+Banco Safra,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.24556233,False,False,False,False
+Banco Safra,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.24538317,False,False,False,False
+Banco Safra,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.24495348,False,False,False,False
+Banco Safra,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.24477696,False,False,False,False
+Banco Safra,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.24467915,False,False,False,False
+Banco Safra,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.2445791,False,False,False,False
+Banco Safra,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.24438414,False,False,False,False
+Banco Safra,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.24424988,False,False,False,False
+Banco Safra,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.24421245,False,False,False,False
+Banco Safra,random_github-com_20251129T162456.png,RANDOM,unknown,0.24404137,False,False,False,False
+Banco Safra,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.24349909,False,False,False,False
+Banco Safra,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.24314761,False,False,False,False
+Banco Safra,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.24284624,False,False,False,False
+Banco Safra,random_abc-es_20251129T175348.png,RANDOM,unknown,0.242073,False,False,False,False
+Banco Safra,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.24204725,False,False,False,False
+Banco Safra,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.24199682,False,False,False,False
+Banco Safra,random_name-com_20251129T171101.png,RANDOM,unknown,0.2418578,False,False,False,False
+Banco Safra,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.24183111,False,False,False,False
+Banco Safra,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.24172907,False,False,False,False
+Banco Safra,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.24142236,False,False,False,False
+Banco Safra,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.24104083,False,False,False,False
+Banco Safra,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.24090856,False,False,False,False
+Banco Safra,random_gov-br_20251129T174615.png,RANDOM,unknown,0.24054231,False,False,False,False
+Banco Safra,random_welt-de_20251129T173821.png,RANDOM,unknown,0.24053577,False,False,False,False
+Banco Safra,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.24049029,False,False,False,False
+Banco Safra,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.24038726,False,False,False,False
+Banco Safra,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.24038216,False,False,False,False
+Banco Safra,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.23986527,False,False,False,False
+Banco Safra,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.23974895,False,False,False,False
+Banco Safra,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.23872197,False,False,False,False
+Banco Safra,random_media-net_20251129T164538.png,RANDOM,unknown,0.23836029,False,False,False,False
+Banco Safra,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.23832017,False,False,False,False
+Banco Safra,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.23828763,False,False,False,False
+Banco Safra,random_apa-org_20251129T180433.png,RANDOM,unknown,0.23795116,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.23781478,False,False,False,False
+Banco Safra,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.23773517,False,False,False,False
+Banco Safra,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.23768288,False,False,False,False
+Banco Safra,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.23735143,False,False,False,False
+Banco Safra,random_google-com_20251129T162253.png,RANDOM,unknown,0.23732184,False,False,False,False
+Banco Safra,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.23710191,False,False,False,False
+Banco Safra,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.23708726,False,False,False,False
+Banco Safra,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.23707336,False,False,False,False
+Banco Safra,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.23697609,False,False,False,False
+Banco Safra,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.23695317,False,False,False,False
+Banco Safra,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.2363251,False,False,False,False
+Banco Safra,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.23631704,False,False,False,False
+Banco Safra,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.23611806,False,False,False,False
+Banco Safra,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.23564231,False,False,False,False
+Banco Safra,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.23531538,False,False,False,False
+Banco Safra,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.23463619,False,False,False,False
+Banco Safra,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.23440382,False,False,False,False
+Banco Safra,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.23429874,False,False,False,False
+Banco Safra,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.23408881,False,False,False,False
+Banco Safra,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.23393583,False,False,False,False
+Banco Safra,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.23378536,False,False,False,False
+Banco Safra,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.23361383,False,False,False,False
+Banco Safra,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.23358577,False,False,False,False
+Banco Safra,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.23189217,False,False,False,False
+Banco Safra,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.23132882,False,False,False,False
+Banco Safra,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.23117633,False,False,False,False
+Banco Safra,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.23113483,False,False,False,False
+Banco Safra,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.2309267,False,False,False,False
+Banco Safra,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.23075217,False,False,False,False
+Banco Safra,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.230634,False,False,False,False
+Banco Safra,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.23052372,False,False,False,False
+Banco Safra,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.23037903,False,False,False,False
+Banco Safra,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.22986768,False,False,False,False
+Banco Safra,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.22984725,False,False,False,False
+Banco Safra,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.2297591,False,False,False,False
+Banco Safra,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.22960205,False,False,False,False
+Banco Safra,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.22959094,False,False,False,False
+Banco Safra,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.2295827,False,False,False,False
+Banco Safra,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.22955334,False,False,False,False
+Banco Safra,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.22905257,False,False,False,False
+Banco Safra,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.22893414,False,False,False,False
+Banco Safra,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.22885995,False,False,False,False
+Banco Safra,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.22877574,False,False,False,False
+Banco Safra,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.22877184,False,False,False,False
+Banco Safra,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.22798981,False,False,False,False
+Banco Safra,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.22793236,False,False,False,False
+Banco Safra,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.2277318,False,False,False,False
+Banco Safra,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.22764483,False,False,False,False
+Banco Safra,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.22716162,False,False,False,False
+Banco Safra,random_finn-no_20251129T180303.png,RANDOM,unknown,0.22710313,False,False,False,False
+Banco Safra,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.22698662,False,False,False,False
+Banco Safra,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.22632323,False,False,False,False
+Banco Safra,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.22603765,False,False,False,False
+Banco Safra,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.22525989,False,False,False,False
+Banco Safra,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.2250763,False,False,False,False
+Banco Safra,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.22491422,False,False,False,False
+Banco Safra,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.22490445,False,False,False,False
+Banco Safra,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.22473533,False,False,False,False
+Banco Safra,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.22444034,False,False,False,False
+Banco Safra,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.22423297,False,False,False,False
+Banco Safra,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.22416052,False,False,False,False
+Banco Safra,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.22403383,False,False,False,False
+Banco Safra,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.22392744,False,False,False,False
+Banco Safra,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.2236229,False,False,False,False
+Banco Safra,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.22327317,False,False,False,False
+Banco Safra,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.22324686,False,False,False,False
+Banco Safra,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.22303277,False,False,False,False
+Banco Safra,random_chess-com_20251129T173919.png,RANDOM,unknown,0.22265735,False,False,False,False
+Banco Safra,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.22258931,False,False,False,False
+Banco Safra,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.22224799,False,False,False,False
+Banco Safra,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.22210276,False,False,False,False
+Banco Safra,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.22208107,False,False,False,False
+Banco Safra,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.22192761,False,False,False,False
+Banco Safra,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.2216629,False,False,False,False
+Banco Safra,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.22127886,False,False,False,False
+Banco Safra,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.22119644,False,False,False,False
+Banco Safra,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.22116315,False,False,False,False
+Banco Safra,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.2209787,False,False,False,False
+Banco Safra,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.22073656,False,False,False,False
+Banco Safra,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.22059932,False,False,False,False
+Banco Safra,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.22052252,False,False,False,False
+Banco Safra,random_att-net_20251129T170227.png,RANDOM,unknown,0.22031944,False,False,False,False
+Banco Safra,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.22030276,False,False,False,False
+Banco Safra,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.22019032,False,False,False,False
+Banco Safra,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.22016647,False,False,False,False
+Banco Safra,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.22008628,False,False,False,False
+Banco Safra,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.22007224,False,False,False,False
+Banco Safra,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.22006434,False,False,False,False
+Banco Safra,random_qq-com_20251129T162834.png,RANDOM,unknown,0.21993212,False,False,False,False
+Banco Safra,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.2197349,False,False,False,False
+Banco Safra,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.21956533,False,False,False,False
+Banco Safra,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.2195465,False,False,False,False
+Banco Safra,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.21939215,False,False,False,False
+Banco Safra,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.21937627,False,False,False,False
+Banco Safra,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.21929906,False,False,False,False
+Banco Safra,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.21897599,False,False,False,False
+Banco Safra,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.21879005,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.21866198,False,False,False,False
+Banco Safra,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.21866041,False,False,False,False
+Banco Safra,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.21864255,False,False,False,False
+Banco Safra,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.21859711,False,False,False,False
+Banco Safra,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.21858145,False,False,False,False
+Banco Safra,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.21857479,False,False,False,False
+Banco Safra,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.21827167,False,False,False,False
+Banco Safra,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.21769354,False,False,False,False
+Banco Safra,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.21767838,False,False,False,False
+Banco Safra,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.21745917,False,False,False,False
+Banco Safra,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.21738791,False,False,False,False
+Banco Safra,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.21721461,False,False,False,False
+Banco Safra,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.2169306,False,False,False,False
+Banco Safra,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.21678987,False,False,False,False
+Banco Safra,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.21653646,False,False,False,False
+Banco Safra,random_github-io_20251129T163235.png,RANDOM,unknown,0.2165112,False,False,False,False
+Banco Safra,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.21642783,False,False,False,False
+Banco Safra,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.21639016,False,False,False,False
+Banco Safra,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.21617028,False,False,False,False
+Banco Safra,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.21596241,False,False,False,False
+Banco Safra,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.21590753,False,False,False,False
+Banco Safra,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.21567783,False,False,False,False
+Banco Safra,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.21562338,False,False,False,False
+Banco Safra,random_t-co_20251129T163912.png,RANDOM,unknown,0.21554257,False,False,False,False
+Banco Safra,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.21506439,False,False,False,False
+Banco Safra,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.21501178,False,False,False,False
+Banco Safra,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.21459572,False,False,False,False
+Banco Safra,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.21448764,False,False,False,False
+Banco Safra,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.21437943,False,False,False,False
+Banco Safra,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.21423972,False,False,False,False
+Banco Safra,random_usps-com_20251129T173658.png,RANDOM,unknown,0.21421383,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.21414782,False,False,False,False
+Banco Safra,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.21406294,False,False,False,False
+Banco Safra,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.21391863,False,False,False,False
+Banco Safra,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.21388602,False,False,False,False
+Banco Safra,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.21376981,False,False,False,False
+Banco Safra,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.21373734,False,False,False,False
+Banco Safra,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.21367276,False,False,False,False
+Banco Safra,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.21345621,False,False,False,False
+Banco Safra,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.21328127,False,False,False,False
+Banco Safra,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.21324752,False,False,False,False
+Banco Safra,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.21324444,False,False,False,False
+Banco Safra,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.21267468,False,False,False,False
+Banco Safra,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.21260841,False,False,False,False
+Banco Safra,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.21250758,False,False,False,False
+Banco Safra,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.21205524,False,False,False,False
+Banco Safra,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.21191862,False,False,False,False
+Banco Safra,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.21188885,False,False,False,False
+Banco Safra,random_cox-net_20251129T170452.png,RANDOM,unknown,0.21171294,False,False,False,False
+Banco Safra,random_statista-com_20251129T165822.png,RANDOM,unknown,0.21169996,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.21162617,False,False,False,False
+Banco Safra,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.21156433,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.2114954,False,False,False,False
+Banco Safra,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.21144798,False,False,False,False
+Banco Safra,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.21129005,False,False,False,False
+Banco Safra,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.21124527,False,False,False,False
+Banco Safra,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.2112171,False,False,False,False
+Banco Safra,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.21108633,False,False,False,False
+Banco Safra,random_g-co_20251129T171804.png,RANDOM,unknown,0.21104276,False,False,False,False
+Banco Safra,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.21069582,False,False,False,False
+Banco Safra,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.21031988,False,False,False,False
+Banco Safra,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.21008332,False,False,False,False
+Banco Safra,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.20976809,False,False,False,False
+Banco Safra,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.20974648,False,False,False,False
+Banco Safra,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.20968911,False,False,False,False
+Banco Safra,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.20895898,False,False,False,False
+Banco Safra,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.20873857,False,False,False,False
+Banco Safra,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.20837885,False,False,False,False
+Banco Safra,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.2083551,False,False,False,False
+Banco Safra,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.20831525,False,False,False,False
+Banco Safra,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.20753513,False,False,False,False
+Banco Safra,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.20735072,False,False,False,False
+Banco Safra,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.20719798,False,False,False,False
+Banco Safra,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.20647871,False,False,False,False
+Banco Safra,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.20623909,False,False,False,False
+Banco Safra,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.20621315,False,False,False,False
+Banco Safra,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.20598437,False,False,False,False
+Banco Safra,random_example-com_20251129T163930.png,RANDOM,unknown,0.20597187,False,False,False,False
+Banco Safra,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.20590402,False,False,False,False
+Banco Safra,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.20588195,False,False,False,False
+Banco Safra,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.20580453,False,False,False,False
+Banco Safra,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.20565614,False,False,False,False
+Banco Safra,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.20559987,False,False,False,False
+Banco Safra,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.2054434,False,False,False,False
+Banco Safra,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.20507379,False,False,False,False
+Banco Safra,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.20500451,False,False,False,False
+Banco Safra,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.20443612,False,False,False,False
+Banco Safra,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.20423378,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.20417094,False,False,False,False
+Banco Safra,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.2039223,False,False,False,False
+Banco Safra,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.20366219,False,False,False,False
+Banco Safra,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.2035661,False,False,False,False
+Banco Safra,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.20335558,False,False,False,False
+Banco Safra,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.20288384,False,False,False,False
+Banco Safra,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.20270666,False,False,False,False
+Banco Safra,random_miui-com_20251129T163719.png,RANDOM,unknown,0.20269805,False,False,False,False
+Banco Safra,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.20193243,False,False,False,False
+Banco Safra,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.20170994,False,False,False,False
+Banco Safra,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.20156208,False,False,False,False
+Banco Safra,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.20155603,False,False,False,False
+Banco Safra,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.2015473,False,False,False,False
+Banco Safra,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.20152743,False,False,False,False
+Banco Safra,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.20128426,False,False,False,False
+Banco Safra,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.20082709,False,False,False,False
+Banco Safra,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.20038077,False,False,False,False
+Banco Safra,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.2002727,False,False,False,False
+Banco Safra,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.20018995,False,False,False,False
+Banco Safra,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.2001826,False,False,False,False
+Banco Safra,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.19958514,False,False,False,False
+Banco Safra,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.19914003,False,False,False,False
+Banco Safra,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.19887947,False,False,False,False
+Banco Safra,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.19855493,False,False,False,False
+Banco Safra,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.19834387,False,False,False,False
+Banco Safra,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.1978983,False,False,False,False
+Banco Safra,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.19789162,False,False,False,False
+Banco Safra,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.19752303,False,False,False,False
+Banco Safra,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.19741109,False,False,False,False
+Banco Safra,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.19732544,False,False,False,False
+Banco Safra,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.19711667,False,False,False,False
+Banco Safra,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.1966844,False,False,False,False
+Banco Safra,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.19609226,False,False,False,False
+Banco Safra,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.19546178,False,False,False,False
+Banco Safra,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.19525957,False,False,False,False
+Banco Safra,random_note-com_20251129T174642.png,RANDOM,unknown,0.19500428,False,False,False,False
+Banco Safra,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.19447461,False,False,False,False
+Banco Safra,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.19424313,False,False,False,False
+Banco Safra,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.19398682,False,False,False,False
+Banco Safra,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.19353357,False,False,False,False
+Banco Safra,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.19278288,False,False,False,False
+Banco Safra,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.19251758,False,False,False,False
+Banco Safra,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.19212218,False,False,False,False
+Banco Safra,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.19185257,False,False,False,False
+Banco Safra,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.19109906,False,False,False,False
+Banco Safra,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.19077855,False,False,False,False
+Banco Safra,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.19033769,False,False,False,False
+Banco Safra,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.19012323,False,False,False,False
+Banco Safra,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.18962833,False,False,False,False
+Banco Safra,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.18917608,False,False,False,False
+Banco Safra,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.18879586,False,False,False,False
+Banco Safra,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.18819378,False,False,False,False
+Banco Safra,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.18790174,False,False,False,False
+Banco Safra,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.18760094,False,False,False,False
+Banco Safra,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.18749604,False,False,False,False
+Banco Safra,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.1870697,False,False,False,False
+Banco Safra,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.18682462,False,False,False,False
+Banco Safra,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.18665358,False,False,False,False
+Banco Safra,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.18591028,False,False,False,False
+Banco Safra,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.1858273,False,False,False,False
+Banco Safra,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.18578663,False,False,False,False
+Banco Safra,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.18535727,False,False,False,False
+Banco Safra,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.18525612,False,False,False,False
+Banco Safra,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.18506157,False,False,False,False
+Banco Safra,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.18475966,False,False,False,False
+Banco Safra,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.18456164,False,False,False,False
+Banco Safra,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.18423393,False,False,False,False
+Banco Safra,random_synology-com_20251129T173948.png,RANDOM,unknown,0.18380126,False,False,False,False
+Banco Safra,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.18318032,False,False,False,False
+Banco Safra,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.18314755,False,False,False,False
+Banco Safra,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.18297015,False,False,False,False
+Banco Safra,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.18258339,False,False,False,False
+Banco Safra,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.18256746,False,False,False,False
+Banco Safra,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.18179534,False,False,False,False
+Banco Safra,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.18142554,False,False,False,False
+Banco Safra,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.18127438,False,False,False,False
+Banco Safra,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.18054637,False,False,False,False
+Banco Safra,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.18034771,False,False,False,False
+Banco Safra,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.18015155,False,False,False,False
+Banco Safra,random_one-one_20251129T163318.png,RANDOM,unknown,0.17884864,False,False,False,False
+Banco Safra,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.17847252,False,False,False,False
+Banco Safra,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.1775237,False,False,False,False
+Banco Safra,random_vk-com_20251129T163202.png,RANDOM,unknown,0.17664962,False,False,False,False
+Banco Safra,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.17563851,False,False,False,False
+Banco Safra,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.17520958,False,False,False,False
+Banco Safra,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.17457387,False,False,False,False
+Banco Safra,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.17453642,False,False,False,False
+Banco Safra,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.17429708,False,False,False,False
+Banco Safra,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.17415203,False,False,False,False
+Banco Safra,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.1739037,False,False,False,False
+Banco Safra,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.17347367,False,False,False,False
+Banco Safra,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.17344594,False,False,False,False
+Banco Safra,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.17334731,False,False,False,False
+Banco Safra,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.1732597,False,False,False,False
+Banco Safra,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.17297535,False,False,False,False
+Banco Safra,random_python-org_20251129T173738.png,RANDOM,unknown,0.17280251,False,False,False,False
+Banco Safra,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.17165416,False,False,False,False
+Banco Safra,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.17153275,False,False,False,False
+Banco Safra,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.17102505,False,False,False,False
+Banco Safra,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.17100406,False,False,False,False
+Banco Safra,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.17078596,False,False,False,False
+Banco Safra,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.16981058,False,False,False,False
+Banco Safra,random_people-com_20251129T172859.png,RANDOM,unknown,0.16975549,False,False,False,False
+Banco Safra,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.16954497,False,False,False,False
+Banco Safra,random_booking-com_20251129T164752.png,RANDOM,unknown,0.16932356,False,False,False,False
+Banco Safra,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.16872784,False,False,False,False
+Banco Safra,random_ted-com_20251129T172015.png,RANDOM,unknown,0.16830802,False,False,False,False
+Banco Safra,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.16819337,False,False,False,False
+Banco Safra,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.16817874,False,False,False,False
+Banco Safra,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.16813812,False,False,False,False
+Banco Safra,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.1681225,False,False,False,False
+Banco Safra,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.16642341,False,False,False,False
+Banco Safra,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.16577597,False,False,False,False
+Banco Safra,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.16570956,False,False,False,False
+Banco Safra,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.16512564,False,False,False,False
+Banco Safra,random_live-com_20251129T162413.png,RANDOM,unknown,0.16467561,False,False,False,False
+Banco Safra,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.16420782,False,False,False,False
+Banco Safra,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.16414921,False,False,False,False
+Banco Safra,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.16402823,False,False,False,False
+Banco Safra,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.16358471,False,False,False,False
+Banco Safra,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.16354457,False,False,False,False
+Banco Safra,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.1630607,False,False,False,False
+Banco Safra,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.16226976,False,False,False,False
+Banco Safra,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.16207483,False,False,False,False
+Banco Safra,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.15984316,False,False,False,False
+Banco Safra,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.15941334,False,False,False,False
+Banco Safra,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.15837121,False,False,False,False
+Banco Safra,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.15828574,False,False,False,False
+Banco Safra,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.15814146,False,False,False,False
+Banco Safra,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.15642592,False,False,False,False
+Banco Safra,random_poki-com_20251129T180027.png,RANDOM,unknown,0.1564038,False,False,False,False
+Banco Safra,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.15556782,False,False,False,False
+Banco Safra,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.15533045,False,False,False,False
+Banco Safra,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.15445659,False,False,False,False
+Banco Safra,random_naver-com_20251129T164929.png,RANDOM,unknown,0.15441677,False,False,False,False
+Banco Safra,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.15371436,False,False,False,False
+Banco Safra,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.15314403,False,False,False,False
+Banco Safra,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.15285659,False,False,False,False
+Banco Safra,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.15201728,False,False,False,False
+Banco Safra,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.1514171,False,False,False,False
+Banco Safra,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.14854673,False,False,False,False
+Banco Safra,random_line-me_20251129T170140.png,RANDOM,unknown,0.14853133,False,False,False,False
+Banco Safra,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.14709051,False,False,False,False
+Banco Safra,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.14523119,False,False,False,False
+Banco Safra,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.14366905,False,False,False,False
+Banco Safra,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.14301917,False,False,False,False
+Banco Safra,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.14298958,False,False,False,False
+Banco Safra,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.14190531,False,False,False,False
+Banco Safra,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.14144018,False,False,False,False
+Banco Safra,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.14083908,False,False,False,False
+Banco Safra,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.1402927,False,False,False,False
+Banco Safra,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.13733257,False,False,False,False
+Banco Safra,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.13645905,False,False,False,False
+Banco Safra,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.13559817,False,False,False,False
+Banco Safra,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.13502689,False,False,False,False
+Banco Safra,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.13137569,False,False,False,False
+Banco Safra,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.12985876,False,False,False,False
+Banco Safra,random_india-com_20251129T180557.png,RANDOM,unknown,0.12908837,False,False,False,False
+Banco Safra,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.12832975,False,False,False,False
+Banco Safra,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.12790084,False,False,False,False
+Banco Safra,random_espn-com_20251129T165100.png,RANDOM,unknown,0.12734449,False,False,False,False
+Banco Safra,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.12679821,False,False,False,False
+Banco Safra,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.1267882,False,False,False,False
+Banco Safra,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.124249704,False,False,False,False
+Banco Safra,random_threads-com_20251129T174157.png,RANDOM,unknown,0.12406739,False,False,False,False
+Banco Safra,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.120115414,False,False,False,False
+Banco Safra,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.11932953,False,False,False,False
+Banco Safra,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.11869756,False,False,False,False
+Banco Safra,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.1174674,False,False,False,False
+Banco Safra,random_plos-org_20251129T180524.png,RANDOM,unknown,0.11437062,False,False,False,False
+Banco Safra,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.11378396,False,False,False,False
+Banco Safra,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.108991325,False,False,False,False
+Banco Safra,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.10682537,False,False,False,False
+Banco Safra,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.10468227,False,False,False,False
+Banco Safra,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.10367634,False,False,False,False
+Banco Safra,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.10271129,False,False,False,False
+Banco Safra,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.10210101,False,False,False,False
+Banco Safra,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.101945765,False,False,False,False
+Banco Safra,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.100687,False,False,False,False
+Banco Safra,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.096924864,False,False,False,False
+Banco Safra,random_as-com_20251129T175716.png,RANDOM,unknown,0.09601494,False,False,False,False
+Banco Safra,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.09596045,False,False,False,False
+Banco Safra,random_clever-com_20251129T173500.png,RANDOM,unknown,0.09408575,False,False,False,False
+Banco Safra,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.08394532,False,False,False,False
+Banco Safra,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.08252352,False,False,False,False
+Banco Safra,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.0823352,False,False,False,False
+Banco Safra,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.08170655,False,False,False,False
+Banco Safra,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.0805853,False,False,False,False
+Banco Safra,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.07875271,False,False,False,False
+Banco Safra,random_health-mil_20251129T163619.png,RANDOM,unknown,0.07850096,False,False,False,False
+Banco Safra,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.07649952,False,False,False,False
+Banco Safra,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.07550682,False,False,False,False
+Banco Safra,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.07536518,False,False,False,False
+Banco Safra,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.07385233,False,False,False,False
+Banco Safra,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.07339379,False,False,False,False
+Banco Safra,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.06990907,False,False,False,False
+Banco Safra,random_who-int_20251129T164225.png,RANDOM,unknown,0.06967121,False,False,False,False
+Banco Safra,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.069226645,False,False,False,False
+Banco Safra,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.06863462,False,False,False,False
+Banco Safra,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.06702737,False,False,False,False
+Banco Safra,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.0656448,False,False,False,False
+Banco Safra,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.06137274,False,False,False,False
+Banco Safra,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.060251135,False,False,False,False
+Banco Safra,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.060072258,False,False,False,False
+Banco Safra,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.05963922,False,False,False,False
+Banco Safra,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.057594076,False,False,False,False
+Banco Safra,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.056521513,False,False,False,False
+Banco Safra,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.05608274,False,False,False,False
+Banco Safra,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.055762522,False,False,False,False
+Banco Safra,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.055369847,False,False,False,False
+Banco Safra,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.053245887,False,False,False,False
+Banco Safra,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.052603625,False,False,False,False
+Banco Safra,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.050654575,False,False,False,False
+Banco Safra,random_azure-com_20251129T162438.png,RANDOM,unknown,0.050041296,False,False,False,False
+Banco Safra,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.049473893,False,False,False,False
+Banco Safra,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.049236428,False,False,False,False
+Banco Safra,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.04742927,False,False,False,False
+Banco Safra,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.04626104,False,False,False,False
+Banco Safra,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.046224043,False,False,False,False
+Banco Safra,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.04609423,False,False,False,False
+Banco Safra,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.045404732,False,False,False,False
+Banco Safra,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.045397084,False,False,False,False
+Banco Safra,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.045125097,False,False,False,False
+Banco Safra,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.04509028,False,False,False,False
+Banco Safra,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.04480936,False,False,False,False
+Banco Safra,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.043788113,False,False,False,False
+Banco Safra,random_time-com_20251129T170629.png,RANDOM,unknown,0.043706268,False,False,False,False
+Banco Safra,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.042253353,False,False,False,False
+Banco Safra,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.04202792,False,False,False,False
+Banco Safra,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.040187687,False,False,False,False
+Banco Safra,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.03954808,False,False,False,False
+Banco Safra,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.036490906,False,False,False,False
+Banco Safra,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.03114025,False,False,False,False
+Banco Safra,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.025537351,False,False,False,False
+Banco Safra,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.01845743,False,False,False,False
+Banco Safra,random_globo-com_20251129T165541.png,RANDOM,unknown,0.016925124,False,False,False,False
+Banco Safra,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.0024502967,False,False,False,False
+Banco Safra,random_bing-com_20251129T162459.png,RANDOM,unknown,0.00023197755,False,False,False,False
+Banco Safra,random_healthline-com_20251129T173751.png,RANDOM,unknown,-0.0024571782,False,False,False,False
+Banco Safra,random_cisco-com_20251129T164139.png,RANDOM,unknown,-0.0027553877,False,False,False,False
+Banco Safra,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,-0.010010772,False,False,False,False
+Banco Safra,random_yelp-com_20251129T171935.png,RANDOM,unknown,-0.010515686,False,False,False,False

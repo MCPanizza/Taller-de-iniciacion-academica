@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+Banco Itaú Chile,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,1.0,True,True,False,True
+Banco Itaú Chile,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.90493196,True,True,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.9023551,True,True,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.89966536,True,True,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.89380014,True,True,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.89361674,True,True,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.890038,True,True,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.88890266,True,True,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.8850039,True,True,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.8846441,True,True,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.8322036,True,True,False,False
+Banco Itaú Chile,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6818284,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6811195,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6655537,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6645552,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.66308045,False,False,False,False
+Banco Itaú Chile,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.66152155,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.64799994,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.6442841,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6410606,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.63834375,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.63810366,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.6251546,False,False,False,False
+Banco Itaú Chile,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.6243329,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6239985,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.6232543,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.62245995,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6222553,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.62200475,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.6206602,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6200075,False,False,False,False
+Banco Itaú Chile,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.6177243,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.61643195,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6161058,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6159917,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.61556154,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6147537,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6135428,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6133965,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.6132418,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6100924,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.60922456,False,False,False,False
+Banco Itaú Chile,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.60869455,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.60819554,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6079022,False,False,False,False
+Banco Itaú Chile,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.60711324,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6062534,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6057419,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6048185,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6038016,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.60335004,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.60055757,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6003411,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.59967446,False,False,False,False
+Banco Itaú Chile,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.59723336,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.5966661,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.59510946,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.592957,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.59251106,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5919246,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.591838,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5896469,False,False,False,False
+Banco Itaú Chile,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.5894824,False,False,False,False
+Banco Itaú Chile,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.5894543,False,False,False,False
+Banco Itaú Chile,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.58880734,False,False,False,False
+Banco Itaú Chile,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.58879423,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.58797127,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5873373,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.5869961,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.5862698,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.58619475,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.58610773,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5847489,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.58403254,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5831655,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.5831528,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.58289677,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.58285683,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.58237576,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.58196723,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.58195657,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5819087,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.58185387,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.58156973,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5813633,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5804933,False,False,False,False
+Banco Itaú Chile,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5804752,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.58013797,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5800801,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5795539,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.57927084,False,False,False,False
+Banco Itaú Chile,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.57916903,False,False,False,False
+Banco Itaú Chile,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.5789525,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5789392,False,False,False,False
+Banco Itaú Chile,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.5786424,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5780326,False,False,False,False
+Banco Itaú Chile,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.5778668,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.57773364,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5774869,False,False,False,False
+Banco Itaú Chile,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.5754878,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5752659,False,False,False,False
+Banco Itaú Chile,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.5752365,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5751585,False,False,False,False
+Banco Itaú Chile,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.57494867,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5748806,False,False,False,False
+Banco Itaú Chile,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.5746468,False,False,False,False
+Banco Itaú Chile,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.57457614,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.57363045,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.57294273,False,False,False,False
+Banco Itaú Chile,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.572922,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.57283044,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.57272434,False,False,False,False
+Banco Itaú Chile,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.57201266,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.57197976,False,False,False,False
+Banco Itaú Chile,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.571969,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5715374,False,False,False,False
+Banco Itaú Chile,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.57073796,False,False,False,False
+Banco Itaú Chile,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.5705453,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5703897,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5703249,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.57031995,False,False,False,False
+Banco Itaú Chile,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.5701935,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5699283,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5694322,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.56920695,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.56892073,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.56885344,False,False,False,False
+Banco Itaú Chile,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5686021,False,False,False,False
+Banco Itaú Chile,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.5684055,False,False,False,False
+Banco Itaú Chile,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5683622,False,False,False,False
+Banco Itaú Chile,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.5681747,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.5679556,False,False,False,False
+Banco Itaú Chile,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5677347,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.56749254,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.56732327,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.56725615,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.56705344,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.56688106,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5660438,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.56602997,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.56591976,False,False,False,False
+Banco Itaú Chile,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.5653515,False,False,False,False
+Banco Itaú Chile,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.5652981,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.56527305,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.56520516,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.56502867,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5648459,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.56445885,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.5643466,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5643374,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.56423235,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.56421787,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5639979,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5639935,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.5636108,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5636078,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.56358606,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.56357837,False,False,False,False
+Banco Itaú Chile,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.5635301,False,False,False,False
+Banco Itaú Chile,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.5634973,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.56348777,False,False,False,False
+Banco Itaú Chile,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.56340384,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5627138,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5626997,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.56266177,False,False,False,False
+Banco Itaú Chile,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.56247765,False,False,False,False
+Banco Itaú Chile,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.56244326,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.56241095,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5622282,False,False,False,False
+Banco Itaú Chile,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.5622167,False,False,False,False
+Banco Itaú Chile,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.56209534,False,False,False,False
+Banco Itaú Chile,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.56206083,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.5618123,False,False,False,False
+Banco Itaú Chile,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.56160027,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5615727,False,False,False,False
+Banco Itaú Chile,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.5615321,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5612856,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5611323,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5610274,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5608343,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5606453,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.56056464,False,False,False,False
+Banco Itaú Chile,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.5604754,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.55964184,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.55938214,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.5592965,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.5592026,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5591675,False,False,False,False
+Banco Itaú Chile,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.55902964,False,False,False,False
+Banco Itaú Chile,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.5581486,False,False,False,False
+Banco Itaú Chile,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.55794907,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5576216,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5573681,False,False,False,False
+Banco Itaú Chile,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.55735826,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5569297,False,False,False,False
+Banco Itaú Chile,random_msn-com_20251129T162722.png,RANDOM,unknown,0.5569222,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.5568937,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5568287,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.55658674,False,False,False,False
+Banco Itaú Chile,random_brave-com_20251129T172325.png,RANDOM,unknown,0.5565086,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.55613285,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5560629,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.5560528,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5555673,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5554905,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5554252,False,False,False,False
+Banco Itaú Chile,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.5554059,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.55537,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.555205,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.55459666,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.55452245,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.55426455,False,False,False,False
+Banco Itaú Chile,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.5542636,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.55406845,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5540652,False,False,False,False
+Banco Itaú Chile,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.55404747,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.55394316,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.5539231,False,False,False,False
+Banco Itaú Chile,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.5536444,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.55347085,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5534007,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.55323863,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.5531783,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5530803,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5530449,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.55304253,False,False,False,False
+Banco Itaú Chile,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.5523123,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5521007,False,False,False,False
+Banco Itaú Chile,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.5518805,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.5511954,False,False,False,False
+Banco Itaú Chile,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.55098796,False,False,False,False
+Banco Itaú Chile,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.55078006,False,False,False,False
+Banco Itaú Chile,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.5505965,False,False,False,False
+Banco Itaú Chile,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.5502681,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.55006975,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5498802,False,False,False,False
+Banco Itaú Chile,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.5498248,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.54966795,False,False,False,False
+Banco Itaú Chile,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.54958975,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.54930294,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5492171,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.54916525,False,False,False,False
+Banco Itaú Chile,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.54903734,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.548864,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5480441,False,False,False,False
+Banco Itaú Chile,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.54801404,False,False,False,False
+Banco Itaú Chile,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.5479975,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.54775244,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5475149,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.54743874,False,False,False,False
+Banco Itaú Chile,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.5473715,False,False,False,False
+Banco Itaú Chile,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.54735035,False,False,False,False
+Banco Itaú Chile,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.5472337,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5469674,False,False,False,False
+Banco Itaú Chile,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5467724,False,False,False,False
+Banco Itaú Chile,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.5464242,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.5459632,False,False,False,False
+Banco Itaú Chile,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.5457328,False,False,False,False
+Banco Itaú Chile,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.5457312,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5456673,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5454012,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.545344,False,False,False,False
+Banco Itaú Chile,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5453319,False,False,False,False
+Banco Itaú Chile,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.5451797,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5448782,False,False,False,False
+Banco Itaú Chile,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.54486823,False,False,False,False
+Banco Itaú Chile,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.5446206,False,False,False,False
+Banco Itaú Chile,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.54456913,False,False,False,False
+Banco Itaú Chile,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.5441816,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5439672,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.5435679,False,False,False,False
+Banco Itaú Chile,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.5434085,False,False,False,False
+Banco Itaú Chile,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.5430915,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5430705,False,False,False,False
+Banco Itaú Chile,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.5429288,False,False,False,False
+Banco Itaú Chile,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.5428722,False,False,False,False
+Banco Itaú Chile,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.5427181,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.542559,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.54237175,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.54235655,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5421751,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.54214394,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5420017,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.54194844,False,False,False,False
+Banco Itaú Chile,random_g-page_20251129T170201.png,RANDOM,unknown,0.541804,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5414296,False,False,False,False
+Banco Itaú Chile,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.54138565,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.54135615,False,False,False,False
+Banco Itaú Chile,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.5410044,False,False,False,False
+Banco Itaú Chile,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.5409899,False,False,False,False
+Banco Itaú Chile,random_hp-com_20251129T164248.png,RANDOM,unknown,0.54091275,False,False,False,False
+Banco Itaú Chile,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.54086316,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.54073393,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5405268,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5403192,False,False,False,False
+Banco Itaú Chile,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.5399861,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5399083,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5398442,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5397061,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5394014,False,False,False,False
+Banco Itaú Chile,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.53924376,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.53919125,False,False,False,False
+Banco Itaú Chile,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.53905666,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.53893816,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5386976,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.53868234,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.53838897,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5376983,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5376478,False,False,False,False
+Banco Itaú Chile,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.53758484,False,False,False,False
+Banco Itaú Chile,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.53748375,False,False,False,False
+Banco Itaú Chile,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.5373397,False,False,False,False
+Banco Itaú Chile,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.536402,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5360892,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.53585076,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.5356006,False,False,False,False
+Banco Itaú Chile,random_android-com_20251129T163812.png,RANDOM,unknown,0.5355717,False,False,False,False
+Banco Itaú Chile,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.5353216,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.53529346,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5352011,False,False,False,False
+Banco Itaú Chile,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.5351012,False,False,False,False
+Banco Itaú Chile,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.53470886,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5346652,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5346638,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.5342472,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.5341608,False,False,False,False
+Banco Itaú Chile,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.53412247,False,False,False,False
+Banco Itaú Chile,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.53409004,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5339509,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5338137,False,False,False,False
+Banco Itaú Chile,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.53378147,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5334456,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.53336847,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.5332837,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.53262436,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5324621,False,False,False,False
+Banco Itaú Chile,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.5324536,False,False,False,False
+Banco Itaú Chile,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.5323589,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5323326,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.53202546,False,False,False,False
+Banco Itaú Chile,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.5318831,False,False,False,False
+Banco Itaú Chile,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.53177583,False,False,False,False
+Banco Itaú Chile,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.53165317,False,False,False,False
+Banco Itaú Chile,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.5309988,False,False,False,False
+Banco Itaú Chile,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.5308786,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5305899,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.53055656,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5304415,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.53036165,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.53035975,False,False,False,False
+Banco Itaú Chile,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.530311,False,False,False,False
+Banco Itaú Chile,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.5301672,False,False,False,False
+Banco Itaú Chile,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.5300683,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5299221,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5298599,False,False,False,False
+Banco Itaú Chile,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.5297343,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.5297288,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.5296397,False,False,False,False
+Banco Itaú Chile,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.5295061,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5293225,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.5289209,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.52880496,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.52855307,False,False,False,False
+Banco Itaú Chile,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.5280707,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5280688,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5279416,False,False,False,False
+Banco Itaú Chile,random_intel-com_20251129T171229.png,RANDOM,unknown,0.52782065,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.527807,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5275315,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.52724457,False,False,False,False
+Banco Itaú Chile,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.5268381,False,False,False,False
+Banco Itaú Chile,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.52642536,False,False,False,False
+Banco Itaú Chile,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.52629817,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5262592,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.52603054,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.5258754,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.52578926,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.5257757,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.52526116,False,False,False,False
+Banco Itaú Chile,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.5251727,False,False,False,False
+Banco Itaú Chile,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.5248491,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.5242158,False,False,False,False
+Banco Itaú Chile,random_change-org_20251129T173929.png,RANDOM,unknown,0.5240749,False,False,False,False
+Banco Itaú Chile,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.52339315,False,False,False,False
+Banco Itaú Chile,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.5233101,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.5224589,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.52143943,False,False,False,False
+Banco Itaú Chile,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.52124816,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.52120745,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.52113277,False,False,False,False
+Banco Itaú Chile,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.5208391,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.52040017,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5203068,False,False,False,False
+Banco Itaú Chile,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.5200008,False,False,False,False
+Banco Itaú Chile,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.5199491,False,False,False,False
+Banco Itaú Chile,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.51952934,False,False,False,False
+Banco Itaú Chile,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.5192187,False,False,False,False
+Banco Itaú Chile,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.51887476,False,False,False,False
+Banco Itaú Chile,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.5188046,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5186266,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.51844114,False,False,False,False
+Banco Itaú Chile,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.5181081,False,False,False,False
+Banco Itaú Chile,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.5179724,False,False,False,False
+Banco Itaú Chile,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.51753557,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.5174999,False,False,False,False
+Banco Itaú Chile,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.5174714,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5173069,False,False,False,False
+Banco Itaú Chile,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.5172895,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.51721835,False,False,False,False
+Banco Itaú Chile,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.51708996,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.51685584,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.5167853,False,False,False,False
+Banco Itaú Chile,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.51659906,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.51653767,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.5164162,False,False,False,False
+Banco Itaú Chile,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.51616824,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.5159028,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.5157166,False,False,False,False
+Banco Itaú Chile,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.51564795,False,False,False,False
+Banco Itaú Chile,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.51535064,False,False,False,False
+Banco Itaú Chile,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.5147149,False,False,False,False
+Banco Itaú Chile,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.51332045,False,False,False,False
+Banco Itaú Chile,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.5127356,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.51265156,False,False,False,False
+Banco Itaú Chile,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.51173294,False,False,False,False
+Banco Itaú Chile,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.51125056,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.5108723,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5106427,False,False,False,False
+Banco Itaú Chile,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.51039666,False,False,False,False
+Banco Itaú Chile,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5100689,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5099221,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5097127,False,False,False,False
+Banco Itaú Chile,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.508779,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.5087071,False,False,False,False
+Banco Itaú Chile,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.5086305,False,False,False,False
+Banco Itaú Chile,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.5085522,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.50823045,False,False,False,False
+Banco Itaú Chile,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.50763875,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.50748473,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.50736976,False,False,False,False
+Banco Itaú Chile,random_avast-com_20251129T164855.png,RANDOM,unknown,0.507096,False,False,False,False
+Banco Itaú Chile,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.5058969,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5058898,False,False,False,False
+Banco Itaú Chile,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.50584114,False,False,False,False
+Banco Itaú Chile,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.50548464,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5054617,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.5046084,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.5044656,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.50420624,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.5040261,False,False,False,False
+Banco Itaú Chile,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.50385666,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5033957,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5032986,False,False,False,False
+Banco Itaú Chile,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.5029362,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.5026456,False,False,False,False
+Banco Itaú Chile,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.5024335,False,False,False,False
+Banco Itaú Chile,random_canva-com_20251129T164231.png,RANDOM,unknown,0.50205606,False,False,False,False
+Banco Itaú Chile,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.50060356,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.5002494,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.4999926,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.49906164,False,False,False,False
+Banco Itaú Chile,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.49899262,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.49885795,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.4983567,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.4983359,False,False,False,False
+Banco Itaú Chile,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.4979111,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.49762,False,False,False,False
+Banco Itaú Chile,random_temu-com_20251129T165219.png,RANDOM,unknown,0.49759784,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.4971551,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.4969511,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.49564055,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.4955443,False,False,False,False
+Banco Itaú Chile,random_marca-com_20251129T175532.png,RANDOM,unknown,0.4942383,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.4940408,False,False,False,False
+Banco Itaú Chile,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.4934828,False,False,False,False
+Banco Itaú Chile,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.49300545,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.49297526,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.4928391,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.4926652,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.49239635,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.49218935,False,False,False,False
+Banco Itaú Chile,random_ring-com_20251129T172743.png,RANDOM,unknown,0.49101225,False,False,False,False
+Banco Itaú Chile,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.48982778,False,False,False,False
+Banco Itaú Chile,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.48980957,False,False,False,False
+Banco Itaú Chile,random_notion-so_20251129T180340.png,RANDOM,unknown,0.48876655,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.48860535,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.4885071,False,False,False,False
+Banco Itaú Chile,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.4878934,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.48683882,False,False,False,False
+Banco Itaú Chile,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.48662567,False,False,False,False
+Banco Itaú Chile,random_google-com_20251129T162253.png,RANDOM,unknown,0.48624277,False,False,False,False
+Banco Itaú Chile,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.4861978,False,False,False,False
+Banco Itaú Chile,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.48602608,False,False,False,False
+Banco Itaú Chile,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.4849932,False,False,False,False
+Banco Itaú Chile,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.48469412,False,False,False,False
+Banco Itaú Chile,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.4844948,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.48329997,False,False,False,False
+Banco Itaú Chile,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.48214155,False,False,False,False
+Banco Itaú Chile,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.48213795,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.48179388,False,False,False,False
+Banco Itaú Chile,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.48105907,False,False,False,False
+Banco Itaú Chile,random_apa-org_20251129T180433.png,RANDOM,unknown,0.48066148,False,False,False,False
+Banco Itaú Chile,random_character-ai_20251129T174433.png,RANDOM,unknown,0.48063,False,False,False,False
+Banco Itaú Chile,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.4792303,False,False,False,False
+Banco Itaú Chile,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.4792283,False,False,False,False
+Banco Itaú Chile,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.47868106,False,False,False,False
+Banco Itaú Chile,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.4776991,False,False,False,False
+Banco Itaú Chile,random_viber-com_20251129T172210.png,RANDOM,unknown,0.4769947,False,False,False,False
+Banco Itaú Chile,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.47592095,False,False,False,False
+Banco Itaú Chile,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.47578624,False,False,False,False
+Banco Itaú Chile,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.4754001,False,False,False,False
+Banco Itaú Chile,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.47522,False,False,False,False
+Banco Itaú Chile,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.47436142,False,False,False,False
+Banco Itaú Chile,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.4742844,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.47416466,False,False,False,False
+Banco Itaú Chile,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.4714474,False,False,False,False
+Banco Itaú Chile,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.4712885,False,False,False,False
+Banco Itaú Chile,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.47012973,False,False,False,False
+Banco Itaú Chile,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.46998167,False,False,False,False
+Banco Itaú Chile,random_weather-com_20251129T164102.png,RANDOM,unknown,0.4689848,False,False,False,False
+Banco Itaú Chile,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.46880496,False,False,False,False
+Banco Itaú Chile,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.46854866,False,False,False,False
+Banco Itaú Chile,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.46829563,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.4676488,False,False,False,False
+Banco Itaú Chile,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.46738273,False,False,False,False
+Banco Itaú Chile,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.46720827,False,False,False,False
+Banco Itaú Chile,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.4668224,False,False,False,False
+Banco Itaú Chile,random_substack-com_20251129T171941.png,RANDOM,unknown,0.4665587,False,False,False,False
+Banco Itaú Chile,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.46654952,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.46614504,False,False,False,False
+Banco Itaú Chile,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.46606815,False,False,False,False
+Banco Itaú Chile,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.46545476,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.46411338,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.46273077,False,False,False,False
+Banco Itaú Chile,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.4625842,False,False,False,False
+Banco Itaú Chile,random_gov-br_20251129T174615.png,RANDOM,unknown,0.4620638,False,False,False,False
+Banco Itaú Chile,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.46200085,False,False,False,False
+Banco Itaú Chile,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.46180767,False,False,False,False
+Banco Itaú Chile,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.4610718,False,False,False,False
+Banco Itaú Chile,random_eset-com_20251129T171424.png,RANDOM,unknown,0.4609427,False,False,False,False
+Banco Itaú Chile,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.45987973,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.45921344,False,False,False,False
+Banco Itaú Chile,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.45887554,False,False,False,False
+Banco Itaú Chile,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.45837164,False,False,False,False
+Banco Itaú Chile,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.45804703,False,False,False,False
+Banco Itaú Chile,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.4580282,False,False,False,False
+Banco Itaú Chile,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.4577037,False,False,False,False
+Banco Itaú Chile,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.4576407,False,False,False,False
+Banco Itaú Chile,random_abc-es_20251129T175348.png,RANDOM,unknown,0.4572091,False,False,False,False
+Banco Itaú Chile,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.45694637,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.4569344,False,False,False,False
+Banco Itaú Chile,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.45681608,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.45672864,False,False,False,False
+Banco Itaú Chile,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.4566217,False,False,False,False
+Banco Itaú Chile,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.4564883,False,False,False,False
+Banco Itaú Chile,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.45609337,False,False,False,False
+Banco Itaú Chile,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.45575267,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.45562568,False,False,False,False
+Banco Itaú Chile,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.45540816,False,False,False,False
+Banco Itaú Chile,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.45454997,False,False,False,False
+Banco Itaú Chile,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.4545086,False,False,False,False
+Banco Itaú Chile,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.45450416,False,False,False,False
+Banco Itaú Chile,random_finn-no_20251129T180303.png,RANDOM,unknown,0.45413485,False,False,False,False
+Banco Itaú Chile,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.45367783,False,False,False,False
+Banco Itaú Chile,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.4533289,False,False,False,False
+Banco Itaú Chile,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.4532759,False,False,False,False
+Banco Itaú Chile,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.45321065,False,False,False,False
+Banco Itaú Chile,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.4528417,False,False,False,False
+Banco Itaú Chile,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.4526584,False,False,False,False
+Banco Itaú Chile,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.4522671,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.45213664,False,False,False,False
+Banco Itaú Chile,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.4516448,False,False,False,False
+Banco Itaú Chile,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.45109838,False,False,False,False
+Banco Itaú Chile,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.45087197,False,False,False,False
+Banco Itaú Chile,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.45006096,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.44971278,False,False,False,False
+Banco Itaú Chile,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.4496242,False,False,False,False
+Banco Itaú Chile,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.4487878,False,False,False,False
+Banco Itaú Chile,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.4486816,False,False,False,False
+Banco Itaú Chile,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.4486245,False,False,False,False
+Banco Itaú Chile,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.44842297,False,False,False,False
+Banco Itaú Chile,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.4483348,False,False,False,False
+Banco Itaú Chile,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.44763803,False,False,False,False
+Banco Itaú Chile,random_att-com_20251129T180955.png,RANDOM,unknown,0.4472666,False,False,False,False
+Banco Itaú Chile,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.44720346,False,False,False,False
+Banco Itaú Chile,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.44667915,False,False,False,False
+Banco Itaú Chile,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.446223,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.446155,False,False,False,False
+Banco Itaú Chile,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.44537497,False,False,False,False
+Banco Itaú Chile,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.4453123,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.4451217,False,False,False,False
+Banco Itaú Chile,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.44496328,False,False,False,False
+Banco Itaú Chile,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.44486892,False,False,False,False
+Banco Itaú Chile,random_okta-com_20251129T171946.png,RANDOM,unknown,0.44441652,False,False,False,False
+Banco Itaú Chile,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.44438356,False,False,False,False
+Banco Itaú Chile,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.4442883,False,False,False,False
+Banco Itaú Chile,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.44380137,False,False,False,False
+Banco Itaú Chile,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.44376472,False,False,False,False
+Banco Itaú Chile,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.44375813,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.44340503,False,False,False,False
+Banco Itaú Chile,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.44339317,False,False,False,False
+Banco Itaú Chile,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.44287366,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.44188347,False,False,False,False
+Banco Itaú Chile,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.4416657,False,False,False,False
+Banco Itaú Chile,random_bild-de_20251129T173827.png,RANDOM,unknown,0.44154543,False,False,False,False
+Banco Itaú Chile,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.4413523,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.44108933,False,False,False,False
+Banco Itaú Chile,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.4408071,False,False,False,False
+Banco Itaú Chile,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.44076645,False,False,False,False
+Banco Itaú Chile,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.4407195,False,False,False,False
+Banco Itaú Chile,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.44045985,False,False,False,False
+Banco Itaú Chile,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.43897438,False,False,False,False
+Banco Itaú Chile,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.4383888,False,False,False,False
+Banco Itaú Chile,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.43796372,False,False,False,False
+Banco Itaú Chile,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.4376794,False,False,False,False
+Banco Itaú Chile,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.4373497,False,False,False,False
+Banco Itaú Chile,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.437337,False,False,False,False
+Banco Itaú Chile,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.4373216,False,False,False,False
+Banco Itaú Chile,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.4373173,False,False,False,False
+Banco Itaú Chile,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.4373064,False,False,False,False
+Banco Itaú Chile,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.43719894,False,False,False,False
+Banco Itaú Chile,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.43694618,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.43573567,False,False,False,False
+Banco Itaú Chile,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.43535143,False,False,False,False
+Banco Itaú Chile,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.43465602,False,False,False,False
+Banco Itaú Chile,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.43432897,False,False,False,False
+Banco Itaú Chile,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.43398216,False,False,False,False
+Banco Itaú Chile,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.43375546,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.43353087,False,False,False,False
+Banco Itaú Chile,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.4331276,False,False,False,False
+Banco Itaú Chile,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.4328376,False,False,False,False
+Banco Itaú Chile,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.4328124,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.43267146,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.4325217,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.43209407,False,False,False,False
+Banco Itaú Chile,random_aol-com_20251129T170152.png,RANDOM,unknown,0.432046,False,False,False,False
+Banco Itaú Chile,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.43186444,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.4314442,False,False,False,False
+Banco Itaú Chile,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.43138862,False,False,False,False
+Banco Itaú Chile,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.43126965,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.4311148,False,False,False,False
+Banco Itaú Chile,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.43109575,False,False,False,False
+Banco Itaú Chile,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.4307887,False,False,False,False
+Banco Itaú Chile,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.43049112,False,False,False,False
+Banco Itaú Chile,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.4303987,False,False,False,False
+Banco Itaú Chile,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.42946512,False,False,False,False
+Banco Itaú Chile,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.42943436,False,False,False,False
+Banco Itaú Chile,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.42896503,False,False,False,False
+Banco Itaú Chile,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.42893344,False,False,False,False
+Banco Itaú Chile,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.42893147,False,False,False,False
+Banco Itaú Chile,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.4288581,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.42883497,False,False,False,False
+Banco Itaú Chile,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.42878187,False,False,False,False
+Banco Itaú Chile,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.42853862,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.4284811,False,False,False,False
+Banco Itaú Chile,random_vk-com_20251129T163202.png,RANDOM,unknown,0.42831016,False,False,False,False
+Banco Itaú Chile,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.42819396,False,False,False,False
+Banco Itaú Chile,random_t-me_20251129T163150.png,RANDOM,unknown,0.42815387,False,False,False,False
+Banco Itaú Chile,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.42799163,False,False,False,False
+Banco Itaú Chile,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.42793423,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.42788476,False,False,False,False
+Banco Itaú Chile,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.42788136,False,False,False,False
+Banco Itaú Chile,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.42776114,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.42754614,False,False,False,False
+Banco Itaú Chile,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.4275055,False,False,False,False
+Banco Itaú Chile,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.4273447,False,False,False,False
+Banco Itaú Chile,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.42714489,False,False,False,False
+Banco Itaú Chile,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.42710394,False,False,False,False
+Banco Itaú Chile,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.42668042,False,False,False,False
+Banco Itaú Chile,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.42665818,False,False,False,False
+Banco Itaú Chile,random_forter-com_20251129T164642.png,RANDOM,unknown,0.4265759,False,False,False,False
+Banco Itaú Chile,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.42599696,False,False,False,False
+Banco Itaú Chile,random_uber-com_20251129T170129.png,RANDOM,unknown,0.42592004,False,False,False,False
+Banco Itaú Chile,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.42578354,False,False,False,False
+Banco Itaú Chile,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.42535323,False,False,False,False
+Banco Itaú Chile,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.42521453,False,False,False,False
+Banco Itaú Chile,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.42513278,False,False,False,False
+Banco Itaú Chile,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.42484233,False,False,False,False
+Banco Itaú Chile,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.4246984,False,False,False,False
+Banco Itaú Chile,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.4244169,False,False,False,False
+Banco Itaú Chile,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.4243928,False,False,False,False
+Banco Itaú Chile,random_wix-com_20251129T171207.png,RANDOM,unknown,0.4240873,False,False,False,False
+Banco Itaú Chile,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.42385107,False,False,False,False
+Banco Itaú Chile,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.42359108,False,False,False,False
+Banco Itaú Chile,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.42349368,False,False,False,False
+Banco Itaú Chile,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.42349237,False,False,False,False
+Banco Itaú Chile,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.42337352,False,False,False,False
+Banco Itaú Chile,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.4224154,False,False,False,False
+Banco Itaú Chile,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.4221876,False,False,False,False
+Banco Itaú Chile,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.4220734,False,False,False,False
+Banco Itaú Chile,random_braze-com_20251129T171458.png,RANDOM,unknown,0.421978,False,False,False,False
+Banco Itaú Chile,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.4214206,False,False,False,False
+Banco Itaú Chile,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.42112848,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.42076477,False,False,False,False
+Banco Itaú Chile,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.4201424,False,False,False,False
+Banco Itaú Chile,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.41978312,False,False,False,False
+Banco Itaú Chile,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.41956472,False,False,False,False
+Banco Itaú Chile,random_media-net_20251129T164538.png,RANDOM,unknown,0.4195515,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.41938317,False,False,False,False
+Banco Itaú Chile,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.41923928,False,False,False,False
+Banco Itaú Chile,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.4191401,False,False,False,False
+Banco Itaú Chile,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.41892147,False,False,False,False
+Banco Itaú Chile,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.4187815,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.41872978,False,False,False,False
+Banco Itaú Chile,random_nic-io_20251129T173852.png,RANDOM,unknown,0.41870707,False,False,False,False
+Banco Itaú Chile,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.41824603,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.4176796,False,False,False,False
+Banco Itaú Chile,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.41756475,False,False,False,False
+Banco Itaú Chile,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.41729593,False,False,False,False
+Banco Itaú Chile,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.41712308,False,False,False,False
+Banco Itaú Chile,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.41682404,False,False,False,False
+Banco Itaú Chile,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.41679442,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.4166965,False,False,False,False
+Banco Itaú Chile,random_globo-com_20251129T165541.png,RANDOM,unknown,0.41653776,False,False,False,False
+Banco Itaú Chile,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.4163918,False,False,False,False
+Banco Itaú Chile,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.41638792,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.4163805,False,False,False,False
+Banco Itaú Chile,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.41619265,False,False,False,False
+Banco Itaú Chile,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.41609514,False,False,False,False
+Banco Itaú Chile,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.41579252,False,False,False,False
+Banco Itaú Chile,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.4157902,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.41562924,False,False,False,False
+Banco Itaú Chile,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.41549265,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.41543543,False,False,False,False
+Banco Itaú Chile,random_as-com_20251129T175716.png,RANDOM,unknown,0.41541418,False,False,False,False
+Banco Itaú Chile,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.4153853,False,False,False,False
+Banco Itaú Chile,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.41526523,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.4151088,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.41493422,False,False,False,False
+Banco Itaú Chile,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.41482824,False,False,False,False
+Banco Itaú Chile,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.41455936,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.41438574,False,False,False,False
+Banco Itaú Chile,random_statista-com_20251129T165822.png,RANDOM,unknown,0.4141226,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.41409796,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.41360268,False,False,False,False
+Banco Itaú Chile,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.4134459,False,False,False,False
+Banco Itaú Chile,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.4131245,False,False,False,False
+Banco Itaú Chile,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.41273844,False,False,False,False
+Banco Itaú Chile,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.41253263,False,False,False,False
+Banco Itaú Chile,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.4124834,False,False,False,False
+Banco Itaú Chile,random_figma-com_20251129T173914.png,RANDOM,unknown,0.41236144,False,False,False,False
+Banco Itaú Chile,random_xing-com_20251129T175042.png,RANDOM,unknown,0.41212994,False,False,False,False
+Banco Itaú Chile,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.41135067,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.41111833,False,False,False,False
+Banco Itaú Chile,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.4110945,False,False,False,False
+Banco Itaú Chile,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.41087526,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.41069505,False,False,False,False
+Banco Itaú Chile,random_jd-com_20251129T174954.png,RANDOM,unknown,0.41053808,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.4104753,False,False,False,False
+Banco Itaú Chile,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.41010812,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.409905,False,False,False,False
+Banco Itaú Chile,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.40986156,False,False,False,False
+Banco Itaú Chile,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.4092387,False,False,False,False
+Banco Itaú Chile,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.40919983,False,False,False,False
+Banco Itaú Chile,random_branch-io_20251129T171524.png,RANDOM,unknown,0.40895808,False,False,False,False
+Banco Itaú Chile,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.40884888,False,False,False,False
+Banco Itaú Chile,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.4085065,False,False,False,False
+Banco Itaú Chile,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.40833446,False,False,False,False
+Banco Itaú Chile,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.40811372,False,False,False,False
+Banco Itaú Chile,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.40806302,False,False,False,False
+Banco Itaú Chile,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.40737498,False,False,False,False
+Banco Itaú Chile,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.40680888,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.40680212,False,False,False,False
+Banco Itaú Chile,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.40661848,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.40661526,False,False,False,False
+Banco Itaú Chile,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.40660575,False,False,False,False
+Banco Itaú Chile,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.40643054,False,False,False,False
+Banco Itaú Chile,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.40638345,False,False,False,False
+Banco Itaú Chile,random_booking-com_20251129T164752.png,RANDOM,unknown,0.40628862,False,False,False,False
+Banco Itaú Chile,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.4061867,False,False,False,False
+Banco Itaú Chile,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.40607965,False,False,False,False
+Banco Itaú Chile,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.40592718,False,False,False,False
+Banco Itaú Chile,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.4056131,False,False,False,False
+Banco Itaú Chile,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.40545842,False,False,False,False
+Banco Itaú Chile,random_ft-com_20251129T170724.png,RANDOM,unknown,0.4049979,False,False,False,False
+Banco Itaú Chile,random_roku-com_20251129T164128.png,RANDOM,unknown,0.4049006,False,False,False,False
+Banco Itaú Chile,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.4046453,False,False,False,False
+Banco Itaú Chile,random_opera-com_20251129T163028.png,RANDOM,unknown,0.404572,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.4043315,False,False,False,False
+Banco Itaú Chile,random_skype-com_20251129T162718.png,RANDOM,unknown,0.40390497,False,False,False,False
+Banco Itaú Chile,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.40334654,False,False,False,False
+Banco Itaú Chile,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.40309936,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.4027789,False,False,False,False
+Banco Itaú Chile,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.40254176,False,False,False,False
+Banco Itaú Chile,random_trello-com_20251129T180351.png,RANDOM,unknown,0.40226358,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.40178204,False,False,False,False
+Banco Itaú Chile,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.40166375,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.40144995,False,False,False,False
+Banco Itaú Chile,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.40142244,False,False,False,False
+Banco Itaú Chile,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.40113813,False,False,False,False
+Banco Itaú Chile,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.4011219,False,False,False,False
+Banco Itaú Chile,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.4008584,False,False,False,False
+Banco Itaú Chile,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.4006156,False,False,False,False
+Banco Itaú Chile,random_name-com_20251129T171101.png,RANDOM,unknown,0.40050757,False,False,False,False
+Banco Itaú Chile,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.4000607,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.39964277,False,False,False,False
+Banco Itaú Chile,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.39922273,False,False,False,False
+Banco Itaú Chile,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.39916912,False,False,False,False
+Banco Itaú Chile,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.39893866,False,False,False,False
+Banco Itaú Chile,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.3989348,False,False,False,False
+Banco Itaú Chile,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.39826456,False,False,False,False
+Banco Itaú Chile,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.39798874,False,False,False,False
+Banco Itaú Chile,random_split-io_20251129T175048.png,RANDOM,unknown,0.3976522,False,False,False,False
+Banco Itaú Chile,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.39738196,False,False,False,False
+Banco Itaú Chile,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.39727223,False,False,False,False
+Banco Itaú Chile,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.39712703,False,False,False,False
+Banco Itaú Chile,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.3970417,False,False,False,False
+Banco Itaú Chile,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.39678788,False,False,False,False
+Banco Itaú Chile,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.39676327,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.39652294,False,False,False,False
+Banco Itaú Chile,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.3964927,False,False,False,False
+Banco Itaú Chile,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.3964275,False,False,False,False
+Banco Itaú Chile,random_medium-com_20251129T163655.png,RANDOM,unknown,0.39637756,False,False,False,False
+Banco Itaú Chile,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.39602935,False,False,False,False
+Banco Itaú Chile,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.39594424,False,False,False,False
+Banco Itaú Chile,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.39589012,False,False,False,False
+Banco Itaú Chile,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.39580008,False,False,False,False
+Banco Itaú Chile,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.39549574,False,False,False,False
+Banco Itaú Chile,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.39537844,False,False,False,False
+Banco Itaú Chile,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.39516014,False,False,False,False
+Banco Itaú Chile,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.39442366,False,False,False,False
+Banco Itaú Chile,random_moe-video_20251129T164430.png,RANDOM,unknown,0.39416316,False,False,False,False
+Banco Itaú Chile,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.39407644,False,False,False,False
+Banco Itaú Chile,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.39407092,False,False,False,False
+Banco Itaú Chile,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.39384037,False,False,False,False
+Banco Itaú Chile,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.39380264,False,False,False,False
+Banco Itaú Chile,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.39351267,False,False,False,False
+Banco Itaú Chile,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.3934183,False,False,False,False
+Banco Itaú Chile,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.39318478,False,False,False,False
+Banco Itaú Chile,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.39286572,False,False,False,False
+Banco Itaú Chile,random_cox-net_20251129T170452.png,RANDOM,unknown,0.3926254,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.3924901,False,False,False,False
+Banco Itaú Chile,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.39127624,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.39124689,False,False,False,False
+Banco Itaú Chile,random_line-me_20251129T170140.png,RANDOM,unknown,0.39100406,False,False,False,False
+Banco Itaú Chile,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.39077097,False,False,False,False
+Banco Itaú Chile,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.39030588,False,False,False,False
+Banco Itaú Chile,random_wps-com_20251129T174320.png,RANDOM,unknown,0.39015514,False,False,False,False
+Banco Itaú Chile,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.39008737,False,False,False,False
+Banco Itaú Chile,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.38973588,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.38951027,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.38946992,False,False,False,False
+Banco Itaú Chile,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.38918978,False,False,False,False
+Banco Itaú Chile,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.38887146,False,False,False,False
+Banco Itaú Chile,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.38875866,False,False,False,False
+Banco Itaú Chile,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.38864028,False,False,False,False
+Banco Itaú Chile,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.38846844,False,False,False,False
+Banco Itaú Chile,random_free-fr_20251129T171241.png,RANDOM,unknown,0.38846368,False,False,False,False
+Banco Itaú Chile,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.3883249,False,False,False,False
+Banco Itaú Chile,random_dns-google_20251129T163231.png,RANDOM,unknown,0.38821983,False,False,False,False
+Banco Itaú Chile,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.3876258,False,False,False,False
+Banco Itaú Chile,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.38741386,False,False,False,False
+Banco Itaú Chile,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.38725013,False,False,False,False
+Banco Itaú Chile,random_w3-org_20251129T163751.png,RANDOM,unknown,0.38703063,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.386029,False,False,False,False
+Banco Itaú Chile,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.38600343,False,False,False,False
+Banco Itaú Chile,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.3858614,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.38582283,False,False,False,False
+Banco Itaú Chile,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.38573515,False,False,False,False
+Banco Itaú Chile,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.3854838,False,False,False,False
+Banco Itaú Chile,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.38531327,False,False,False,False
+Banco Itaú Chile,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.3849024,False,False,False,False
+Banco Itaú Chile,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.38483855,False,False,False,False
+Banco Itaú Chile,random_vg-no_20251129T180754.png,RANDOM,unknown,0.38456878,False,False,False,False
+Banco Itaú Chile,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.38412547,False,False,False,False
+Banco Itaú Chile,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.3835041,False,False,False,False
+Banco Itaú Chile,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.38322806,False,False,False,False
+Banco Itaú Chile,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.3831244,False,False,False,False
+Banco Itaú Chile,random_naver-com_20251129T164929.png,RANDOM,unknown,0.38305545,False,False,False,False
+Banco Itaú Chile,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.3829912,False,False,False,False
+Banco Itaú Chile,random_att-net_20251129T170227.png,RANDOM,unknown,0.38287738,False,False,False,False
+Banco Itaú Chile,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.3828767,False,False,False,False
+Banco Itaú Chile,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.38262945,False,False,False,False
+Banco Itaú Chile,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.38259906,False,False,False,False
+Banco Itaú Chile,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.38210684,False,False,False,False
+Banco Itaú Chile,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.38174146,False,False,False,False
+Banco Itaú Chile,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.3814547,False,False,False,False
+Banco Itaú Chile,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.38131195,False,False,False,False
+Banco Itaú Chile,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.38119674,False,False,False,False
+Banco Itaú Chile,random_office365-com_20251129T162902.png,RANDOM,unknown,0.38114998,False,False,False,False
+Banco Itaú Chile,random_slack-com_20251129T164623.png,RANDOM,unknown,0.38110775,False,False,False,False
+Banco Itaú Chile,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.3809751,False,False,False,False
+Banco Itaú Chile,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.38083112,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.3807571,False,False,False,False
+Banco Itaú Chile,random_web-de_20251129T175220.png,RANDOM,unknown,0.3802907,False,False,False,False
+Banco Itaú Chile,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.38018072,False,False,False,False
+Banco Itaú Chile,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.38015744,False,False,False,False
+Banco Itaú Chile,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.3797021,False,False,False,False
+Banco Itaú Chile,random_agora-io_20251129T175439.png,RANDOM,unknown,0.3790143,False,False,False,False
+Banco Itaú Chile,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.37897205,False,False,False,False
+Banco Itaú Chile,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.37886843,False,False,False,False
+Banco Itaú Chile,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.3787695,False,False,False,False
+Banco Itaú Chile,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.37855506,False,False,False,False
+Banco Itaú Chile,random_windows-com_20251129T163112.png,RANDOM,unknown,0.3785304,False,False,False,False
+Banco Itaú Chile,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.37852925,False,False,False,False
+Banco Itaú Chile,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.37800986,False,False,False,False
+Banco Itaú Chile,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.37785688,False,False,False,False
+Banco Itaú Chile,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.37769032,False,False,False,False
+Banco Itaú Chile,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.37695938,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.3768308,False,False,False,False
+Banco Itaú Chile,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.37674135,False,False,False,False
+Banco Itaú Chile,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.37657738,False,False,False,False
+Banco Itaú Chile,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.37623948,False,False,False,False
+Banco Itaú Chile,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.3761167,False,False,False,False
+Banco Itaú Chile,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.37584066,False,False,False,False
+Banco Itaú Chile,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.37577787,False,False,False,False
+Banco Itaú Chile,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.37576658,False,False,False,False
+Banco Itaú Chile,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.37511328,False,False,False,False
+Banco Itaú Chile,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.37506887,False,False,False,False
+Banco Itaú Chile,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.3748939,False,False,False,False
+Banco Itaú Chile,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.3740886,False,False,False,False
+Banco Itaú Chile,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.3740336,False,False,False,False
+Banco Itaú Chile,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.37398,False,False,False,False
+Banco Itaú Chile,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.37308383,False,False,False,False
+Banco Itaú Chile,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.37294263,False,False,False,False
+Banco Itaú Chile,random_youku-com_20251129T174026.png,RANDOM,unknown,0.37291336,False,False,False,False
+Banco Itaú Chile,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.37271532,False,False,False,False
+Banco Itaú Chile,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.37262747,False,False,False,False
+Banco Itaú Chile,random_segment-io_20251129T174400.png,RANDOM,unknown,0.37246585,False,False,False,False
+Banco Itaú Chile,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.3723039,False,False,False,False
+Banco Itaú Chile,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.37206084,False,False,False,False
+Banco Itaú Chile,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.3717568,False,False,False,False
+Banco Itaú Chile,random_example-com_20251129T163930.png,RANDOM,unknown,0.37097502,False,False,False,False
+Banco Itaú Chile,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.37088373,False,False,False,False
+Banco Itaú Chile,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.37085098,False,False,False,False
+Banco Itaú Chile,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.37070072,False,False,False,False
+Banco Itaú Chile,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.370572,False,False,False,False
+Banco Itaú Chile,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.36993766,False,False,False,False
+Banco Itaú Chile,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.3692408,False,False,False,False
+Banco Itaú Chile,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.36890012,False,False,False,False
+Banco Itaú Chile,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.36885452,False,False,False,False
+Banco Itaú Chile,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.36870056,False,False,False,False
+Banco Itaú Chile,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.36864945,False,False,False,False
+Banco Itaú Chile,random_target-com_20251129T171437.png,RANDOM,unknown,0.36796278,False,False,False,False
+Banco Itaú Chile,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.36780468,False,False,False,False
+Banco Itaú Chile,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.36780423,False,False,False,False
+Banco Itaú Chile,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.36762792,False,False,False,False
+Banco Itaú Chile,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.36755782,False,False,False,False
+Banco Itaú Chile,random_daum-net_20251129T174537.png,RANDOM,unknown,0.36755317,False,False,False,False
+Banco Itaú Chile,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.36754012,False,False,False,False
+Banco Itaú Chile,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.367456,False,False,False,False
+Banco Itaú Chile,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.36725736,False,False,False,False
+Banco Itaú Chile,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.3672158,False,False,False,False
+Banco Itaú Chile,random_note-com_20251129T174642.png,RANDOM,unknown,0.3671835,False,False,False,False
+Banco Itaú Chile,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.36690623,False,False,False,False
+Banco Itaú Chile,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.36688888,False,False,False,False
+Banco Itaú Chile,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.36645946,False,False,False,False
+Banco Itaú Chile,random_tds-net_20251129T174115.png,RANDOM,unknown,0.36631954,False,False,False,False
+Banco Itaú Chile,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.36626387,False,False,False,False
+Banco Itaú Chile,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.3654508,False,False,False,False
+Banco Itaú Chile,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.36535075,False,False,False,False
+Banco Itaú Chile,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.36528668,False,False,False,False
+Banco Itaú Chile,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.36477837,False,False,False,False
+Banco Itaú Chile,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.36434737,False,False,False,False
+Banco Itaú Chile,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.36401814,False,False,False,False
+Banco Itaú Chile,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.36381727,False,False,False,False
+Banco Itaú Chile,random_miui-com_20251129T163719.png,RANDOM,unknown,0.36333963,False,False,False,False
+Banco Itaú Chile,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.3630572,False,False,False,False
+Banco Itaú Chile,random_synology-com_20251129T173948.png,RANDOM,unknown,0.3628705,False,False,False,False
+Banco Itaú Chile,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.36277577,False,False,False,False
+Banco Itaú Chile,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.36266366,False,False,False,False
+Banco Itaú Chile,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.36256796,False,False,False,False
+Banco Itaú Chile,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.3624779,False,False,False,False
+Banco Itaú Chile,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.36221826,False,False,False,False
+Banco Itaú Chile,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.3615746,False,False,False,False
+Banco Itaú Chile,random_ui-com_20251129T163127.png,RANDOM,unknown,0.36147785,False,False,False,False
+Banco Itaú Chile,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.3612914,False,False,False,False
+Banco Itaú Chile,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.36125943,False,False,False,False
+Banco Itaú Chile,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.36118066,False,False,False,False
+Banco Itaú Chile,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.36106378,False,False,False,False
+Banco Itaú Chile,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.36085713,False,False,False,False
+Banco Itaú Chile,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.36050266,False,False,False,False
+Banco Itaú Chile,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.36026612,False,False,False,False
+Banco Itaú Chile,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.36006367,False,False,False,False
+Banco Itaú Chile,random_github-io_20251129T163235.png,RANDOM,unknown,0.3600523,False,False,False,False
+Banco Itaú Chile,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.36004817,False,False,False,False
+Banco Itaú Chile,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.3597108,False,False,False,False
+Banco Itaú Chile,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.35953325,False,False,False,False
+Banco Itaú Chile,random_discord-media_20251129T170414.png,RANDOM,unknown,0.35951185,False,False,False,False
+Banco Itaú Chile,random_one-one_20251129T163318.png,RANDOM,unknown,0.3593648,False,False,False,False
+Banco Itaú Chile,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.3593524,False,False,False,False
+Banco Itaú Chile,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.35894486,False,False,False,False
+Banco Itaú Chile,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.3587258,False,False,False,False
+Banco Itaú Chile,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.35811698,False,False,False,False
+Banco Itaú Chile,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.3578485,False,False,False,False
+Banco Itaú Chile,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.3576542,False,False,False,False
+Banco Itaú Chile,random_t-co_20251129T163912.png,RANDOM,unknown,0.35763532,False,False,False,False
+Banco Itaú Chile,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.3575579,False,False,False,False
+Banco Itaú Chile,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.3572999,False,False,False,False
+Banco Itaú Chile,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.3572158,False,False,False,False
+Banco Itaú Chile,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.35719058,False,False,False,False
+Banco Itaú Chile,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.3569085,False,False,False,False
+Banco Itaú Chile,random_360-cn_20251129T173141.png,RANDOM,unknown,0.35678822,False,False,False,False
+Banco Itaú Chile,random_he-net_20251129T172135.png,RANDOM,unknown,0.35648504,False,False,False,False
+Banco Itaú Chile,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.35642081,False,False,False,False
+Banco Itaú Chile,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.3562324,False,False,False,False
+Banco Itaú Chile,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.35536292,False,False,False,False
+Banco Itaú Chile,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.3551696,False,False,False,False
+Banco Itaú Chile,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.3550362,False,False,False,False
+Banco Itaú Chile,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.35471994,False,False,False,False
+Banco Itaú Chile,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.35465467,False,False,False,False
+Banco Itaú Chile,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.35346264,False,False,False,False
+Banco Itaú Chile,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.35291946,False,False,False,False
+Banco Itaú Chile,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.35275316,False,False,False,False
+Banco Itaú Chile,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.35271206,False,False,False,False
+Banco Itaú Chile,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.35263285,False,False,False,False
+Banco Itaú Chile,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.3525831,False,False,False,False
+Banco Itaú Chile,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.3524564,False,False,False,False
+Banco Itaú Chile,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.3523106,False,False,False,False
+Banco Itaú Chile,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.35197932,False,False,False,False
+Banco Itaú Chile,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.3519317,False,False,False,False
+Banco Itaú Chile,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.35188475,False,False,False,False
+Banco Itaú Chile,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.3509627,False,False,False,False
+Banco Itaú Chile,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.35051036,False,False,False,False
+Banco Itaú Chile,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.34913647,False,False,False,False
+Banco Itaú Chile,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.34862274,False,False,False,False
+Banco Itaú Chile,random_chess-com_20251129T173919.png,RANDOM,unknown,0.34854954,False,False,False,False
+Banco Itaú Chile,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.34841633,False,False,False,False
+Banco Itaú Chile,random_wise-com_20251129T180312.png,RANDOM,unknown,0.34798428,False,False,False,False
+Banco Itaú Chile,random_linode-com_20251129T173059.png,RANDOM,unknown,0.34769398,False,False,False,False
+Banco Itaú Chile,random_ted-com_20251129T172015.png,RANDOM,unknown,0.34764236,False,False,False,False
+Banco Itaú Chile,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.34709698,False,False,False,False
+Banco Itaú Chile,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.34674954,False,False,False,False
+Banco Itaú Chile,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.34673208,False,False,False,False
+Banco Itaú Chile,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.34657973,False,False,False,False
+Banco Itaú Chile,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.34601617,False,False,False,False
+Banco Itaú Chile,random_npr-org_20251129T170056.png,RANDOM,unknown,0.34594893,False,False,False,False
+Banco Itaú Chile,random_qq-com_20251129T162834.png,RANDOM,unknown,0.34570193,False,False,False,False
+Banco Itaú Chile,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.34527645,False,False,False,False
+Banco Itaú Chile,random_plos-org_20251129T180524.png,RANDOM,unknown,0.34442544,False,False,False,False
+Banco Itaú Chile,random_bol-com_20251129T174941.png,RANDOM,unknown,0.34421477,False,False,False,False
+Banco Itaú Chile,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.34419608,False,False,False,False
+Banco Itaú Chile,random_asus-com_20251129T172748.png,RANDOM,unknown,0.34413046,False,False,False,False
+Banco Itaú Chile,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.34408444,False,False,False,False
+Banco Itaú Chile,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.34399983,False,False,False,False
+Banco Itaú Chile,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.34332925,False,False,False,False
+Banco Itaú Chile,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.34332657,False,False,False,False
+Banco Itaú Chile,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.34274322,False,False,False,False
+Banco Itaú Chile,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.34266222,False,False,False,False
+Banco Itaú Chile,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.3423651,False,False,False,False
+Banco Itaú Chile,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.34229666,False,False,False,False
+Banco Itaú Chile,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.34201828,False,False,False,False
+Banco Itaú Chile,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.34188378,False,False,False,False
+Banco Itaú Chile,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.34186083,False,False,False,False
+Banco Itaú Chile,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.3399762,False,False,False,False
+Banco Itaú Chile,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.33982316,False,False,False,False
+Banco Itaú Chile,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.3396687,False,False,False,False
+Banco Itaú Chile,random_shein-com_20251129T170736.png,RANDOM,unknown,0.33950853,False,False,False,False
+Banco Itaú Chile,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.33941513,False,False,False,False
+Banco Itaú Chile,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.3391703,False,False,False,False
+Banco Itaú Chile,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.3391699,False,False,False,False
+Banco Itaú Chile,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.33908004,False,False,False,False
+Banco Itaú Chile,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.33895275,False,False,False,False
+Banco Itaú Chile,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.33883536,False,False,False,False
+Banco Itaú Chile,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.3387236,False,False,False,False
+Banco Itaú Chile,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.33863756,False,False,False,False
+Banco Itaú Chile,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.338435,False,False,False,False
+Banco Itaú Chile,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.3382733,False,False,False,False
+Banco Itaú Chile,random_google-cn_20251129T172939.png,RANDOM,unknown,0.338131,False,False,False,False
+Banco Itaú Chile,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.338117,False,False,False,False
+Banco Itaú Chile,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.33805022,False,False,False,False
+Banco Itaú Chile,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.33781832,False,False,False,False
+Banco Itaú Chile,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.33765283,False,False,False,False
+Banco Itaú Chile,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.3376392,False,False,False,False
+Banco Itaú Chile,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.3376125,False,False,False,False
+Banco Itaú Chile,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.33735716,False,False,False,False
+Banco Itaú Chile,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.33735096,False,False,False,False
+Banco Itaú Chile,random_live-com_20251129T162413.png,RANDOM,unknown,0.3372384,False,False,False,False
+Banco Itaú Chile,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.33678794,False,False,False,False
+Banco Itaú Chile,random_poki-com_20251129T180027.png,RANDOM,unknown,0.3366139,False,False,False,False
+Banco Itaú Chile,random_openai-com_20251129T164132.png,RANDOM,unknown,0.33630493,False,False,False,False
+Banco Itaú Chile,random_archive-org_20251129T163406.png,RANDOM,unknown,0.33627307,False,False,False,False
+Banco Itaú Chile,random_welt-de_20251129T173821.png,RANDOM,unknown,0.33610344,False,False,False,False
+Banco Itaú Chile,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.33606422,False,False,False,False
+Banco Itaú Chile,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.33601165,False,False,False,False
+Banco Itaú Chile,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.33555263,False,False,False,False
+Banco Itaú Chile,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.33540517,False,False,False,False
+Banco Itaú Chile,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.33490527,False,False,False,False
+Banco Itaú Chile,random_focus-de_20251129T175031.png,RANDOM,unknown,0.33438754,False,False,False,False
+Banco Itaú Chile,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.33385962,False,False,False,False
+Banco Itaú Chile,random_genius-com_20251129T174000.png,RANDOM,unknown,0.33353356,False,False,False,False
+Banco Itaú Chile,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.3332621,False,False,False,False
+Banco Itaú Chile,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.33303595,False,False,False,False
+Banco Itaú Chile,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.3324387,False,False,False,False
+Banco Itaú Chile,random_singular-net_20251129T175446.png,RANDOM,unknown,0.33240727,False,False,False,False
+Banco Itaú Chile,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.33234927,False,False,False,False
+Banco Itaú Chile,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.33230597,False,False,False,False
+Banco Itaú Chile,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.3322953,False,False,False,False
+Banco Itaú Chile,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.3322696,False,False,False,False
+Banco Itaú Chile,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.3317299,False,False,False,False
+Banco Itaú Chile,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.33156538,False,False,False,False
+Banco Itaú Chile,random_doi-org_20251129T164112.png,RANDOM,unknown,0.33149052,False,False,False,False
+Banco Itaú Chile,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.33129662,False,False,False,False
+Banco Itaú Chile,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.33115005,False,False,False,False
+Banco Itaú Chile,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.3310448,False,False,False,False
+Banco Itaú Chile,random_nature-com_20251129T164547.png,RANDOM,unknown,0.33065706,False,False,False,False
+Banco Itaú Chile,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.32984155,False,False,False,False
+Banco Itaú Chile,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.32965326,False,False,False,False
+Banco Itaú Chile,random_docker-com_20251129T170827.png,RANDOM,unknown,0.3295691,False,False,False,False
+Banco Itaú Chile,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.32956615,False,False,False,False
+Banco Itaú Chile,random_github-com_20251129T162456.png,RANDOM,unknown,0.32935858,False,False,False,False
+Banco Itaú Chile,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.3292815,False,False,False,False
+Banco Itaú Chile,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.32872885,False,False,False,False
+Banco Itaú Chile,random_espn-com_20251129T165100.png,RANDOM,unknown,0.3283762,False,False,False,False
+Banco Itaú Chile,random_time-com_20251129T170629.png,RANDOM,unknown,0.32808638,False,False,False,False
+Banco Itaú Chile,random_india-com_20251129T180557.png,RANDOM,unknown,0.32767037,False,False,False,False
+Banco Itaú Chile,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.32756525,False,False,False,False
+Banco Itaú Chile,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.32754338,False,False,False,False
+Banco Itaú Chile,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.3275418,False,False,False,False
+Banco Itaú Chile,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.3264033,False,False,False,False
+Banco Itaú Chile,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.32622325,False,False,False,False
+Banco Itaú Chile,random_springer-com_20251129T164823.png,RANDOM,unknown,0.3256613,False,False,False,False
+Banco Itaú Chile,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.32539648,False,False,False,False
+Banco Itaú Chile,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.32488793,False,False,False,False
+Banco Itaú Chile,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.32436317,False,False,False,False
+Banco Itaú Chile,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.324251,False,False,False,False
+Banco Itaú Chile,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.32419157,False,False,False,False
+Banco Itaú Chile,random_office-com_20251129T162404.png,RANDOM,unknown,0.32380944,False,False,False,False
+Banco Itaú Chile,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.32356238,False,False,False,False
+Banco Itaú Chile,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.32344663,False,False,False,False
+Banco Itaú Chile,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.3234462,False,False,False,False
+Banco Itaú Chile,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.32288748,False,False,False,False
+Banco Itaú Chile,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.32232982,False,False,False,False
+Banco Itaú Chile,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.32206544,False,False,False,False
+Banco Itaú Chile,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.3218879,False,False,False,False
+Banco Itaú Chile,random_uk-com_20251129T171638.png,RANDOM,unknown,0.32141972,False,False,False,False
+Banco Itaú Chile,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.32114312,False,False,False,False
+Banco Itaú Chile,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.3204897,False,False,False,False
+Banco Itaú Chile,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.31958193,False,False,False,False
+Banco Itaú Chile,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.31929806,False,False,False,False
+Banco Itaú Chile,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.31917065,False,False,False,False
+Banco Itaú Chile,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.31906614,False,False,False,False
+Banco Itaú Chile,random_go-com_20251129T164609.png,RANDOM,unknown,0.3186803,False,False,False,False
+Banco Itaú Chile,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.31856912,False,False,False,False
+Banco Itaú Chile,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.31813878,False,False,False,False
+Banco Itaú Chile,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.31812954,False,False,False,False
+Banco Itaú Chile,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.31806377,False,False,False,False
+Banco Itaú Chile,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.3180014,False,False,False,False
+Banco Itaú Chile,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.31718838,False,False,False,False
+Banco Itaú Chile,random_usps-com_20251129T173658.png,RANDOM,unknown,0.3171625,False,False,False,False
+Banco Itaú Chile,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.3167266,False,False,False,False
+Banco Itaú Chile,random_otto-de_20251129T174331.png,RANDOM,unknown,0.31654847,False,False,False,False
+Banco Itaú Chile,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.3160994,False,False,False,False
+Banco Itaú Chile,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.31588674,False,False,False,False
+Banco Itaú Chile,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.31548858,False,False,False,False
+Banco Itaú Chile,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.3149293,False,False,False,False
+Banco Itaú Chile,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.3144168,False,False,False,False
+Banco Itaú Chile,random_clever-com_20251129T173500.png,RANDOM,unknown,0.31427297,False,False,False,False
+Banco Itaú Chile,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.3140515,False,False,False,False
+Banco Itaú Chile,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.31366614,False,False,False,False
+Banco Itaú Chile,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.3133365,False,False,False,False
+Banco Itaú Chile,random_python-org_20251129T173738.png,RANDOM,unknown,0.31333637,False,False,False,False
+Banco Itaú Chile,random_g-co_20251129T171804.png,RANDOM,unknown,0.31330365,False,False,False,False
+Banco Itaú Chile,random_fast-com_20251129T171226.png,RANDOM,unknown,0.31263196,False,False,False,False
+Banco Itaú Chile,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.31134677,False,False,False,False
+Banco Itaú Chile,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.31059355,False,False,False,False
+Banco Itaú Chile,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.310578,False,False,False,False
+Banco Itaú Chile,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.31051463,False,False,False,False
+Banco Itaú Chile,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.3094325,False,False,False,False
+Banco Itaú Chile,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.3093128,False,False,False,False
+Banco Itaú Chile,random_apple-com_20251129T162353.png,RANDOM,unknown,0.30877587,False,False,False,False
+Banco Itaú Chile,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.30859625,False,False,False,False
+Banco Itaú Chile,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.30822438,False,False,False,False
+Banco Itaú Chile,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.3075636,False,False,False,False
+Banco Itaú Chile,random_binance-com_20251129T174935.png,RANDOM,unknown,0.30743092,False,False,False,False
+Banco Itaú Chile,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.3072499,False,False,False,False
+Banco Itaú Chile,random_bing-com_20251129T162459.png,RANDOM,unknown,0.30609313,False,False,False,False
+Banco Itaú Chile,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.30599114,False,False,False,False
+Banco Itaú Chile,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.30534187,False,False,False,False
+Banco Itaú Chile,random_wired-com_20251129T170401.png,RANDOM,unknown,0.30489525,False,False,False,False
+Banco Itaú Chile,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.3045444,False,False,False,False
+Banco Itaú Chile,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.30424088,False,False,False,False
+Banco Itaú Chile,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.3040999,False,False,False,False
+Banco Itaú Chile,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.30338,False,False,False,False
+Banco Itaú Chile,random_f5-com_20251129T163706.png,RANDOM,unknown,0.30285144,False,False,False,False
+Banco Itaú Chile,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.3023897,False,False,False,False
+Banco Itaú Chile,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.30224678,False,False,False,False
+Banco Itaú Chile,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.3021373,False,False,False,False
+Banco Itaú Chile,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.3016144,False,False,False,False
+Banco Itaú Chile,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.30145586,False,False,False,False
+Banco Itaú Chile,random_overload-su_20251129T170747.png,RANDOM,unknown,0.30071616,False,False,False,False
+Banco Itaú Chile,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.29986942,False,False,False,False
+Banco Itaú Chile,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.29955935,False,False,False,False
+Banco Itaú Chile,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.2993806,False,False,False,False
+Banco Itaú Chile,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.29914913,False,False,False,False
+Banco Itaú Chile,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.29845706,False,False,False,False
+Banco Itaú Chile,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.29821205,False,False,False,False
+Banco Itaú Chile,random_apache-org_20251129T163228.png,RANDOM,unknown,0.29808754,False,False,False,False
+Banco Itaú Chile,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.2973073,False,False,False,False
+Banco Itaú Chile,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.29686588,False,False,False,False
+Banco Itaú Chile,random_threads-com_20251129T174157.png,RANDOM,unknown,0.29683352,False,False,False,False
+Banco Itaú Chile,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.29642263,False,False,False,False
+Banco Itaú Chile,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.2957965,False,False,False,False
+Banco Itaú Chile,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.29493666,False,False,False,False
+Banco Itaú Chile,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.29419726,False,False,False,False
+Banco Itaú Chile,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.29311067,False,False,False,False
+Banco Itaú Chile,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.29246324,False,False,False,False
+Banco Itaú Chile,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.2921576,False,False,False,False
+Banco Itaú Chile,random_debian-org_20251129T164620.png,RANDOM,unknown,0.29165027,False,False,False,False
+Banco Itaú Chile,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.2910492,False,False,False,False
+Banco Itaú Chile,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.29040954,False,False,False,False
+Banco Itaú Chile,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.28971732,False,False,False,False
+Banco Itaú Chile,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.2894832,False,False,False,False
+Banco Itaú Chile,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.28900373,False,False,False,False
+Banco Itaú Chile,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.28803748,False,False,False,False
+Banco Itaú Chile,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.28741777,False,False,False,False
+Banco Itaú Chile,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.28710455,False,False,False,False
+Banco Itaú Chile,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.28671944,False,False,False,False
+Banco Itaú Chile,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.28647858,False,False,False,False
+Banco Itaú Chile,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.28602114,False,False,False,False
+Banco Itaú Chile,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.2859403,False,False,False,False
+Banco Itaú Chile,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.28588188,False,False,False,False
+Banco Itaú Chile,random_php-net_20251129T164521.png,RANDOM,unknown,0.2848637,False,False,False,False
+Banco Itaú Chile,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.28446937,False,False,False,False
+Banco Itaú Chile,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.28361297,False,False,False,False
+Banco Itaú Chile,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.2830428,False,False,False,False
+Banco Itaú Chile,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.28302062,False,False,False,False
+Banco Itaú Chile,random_people-com_20251129T172859.png,RANDOM,unknown,0.28296185,False,False,False,False
+Banco Itaú Chile,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.2826662,False,False,False,False
+Banco Itaú Chile,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.28236157,False,False,False,False
+Banco Itaú Chile,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.28128913,False,False,False,False
+Banco Itaú Chile,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.2803821,False,False,False,False
+Banco Itaú Chile,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.28024364,False,False,False,False
+Banco Itaú Chile,random_azure-com_20251129T162438.png,RANDOM,unknown,0.27996784,False,False,False,False
+Banco Itaú Chile,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.2795589,False,False,False,False
+Banco Itaú Chile,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.2784641,False,False,False,False
+Banco Itaú Chile,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.27786952,False,False,False,False
+Banco Itaú Chile,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.27682287,False,False,False,False
+Banco Itaú Chile,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.27560502,False,False,False,False
+Banco Itaú Chile,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.2755524,False,False,False,False
+Banco Itaú Chile,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.2743824,False,False,False,False
+Banco Itaú Chile,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.2733168,False,False,False,False
+Banco Itaú Chile,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.2727592,False,False,False,False
+Banco Itaú Chile,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.27221298,False,False,False,False
+Banco Itaú Chile,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.27203608,False,False,False,False
+Banco Itaú Chile,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.27199584,False,False,False,False
+Banco Itaú Chile,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.27023327,False,False,False,False
+Banco Itaú Chile,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.2668042,False,False,False,False
+Banco Itaú Chile,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.2660516,False,False,False,False
+Banco Itaú Chile,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.26600707,False,False,False,False
+Banco Itaú Chile,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.26466346,False,False,False,False
+Banco Itaú Chile,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.26436695,False,False,False,False
+Banco Itaú Chile,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.26376617,False,False,False,False
+Banco Itaú Chile,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.26362884,False,False,False,False
+Banco Itaú Chile,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.2632609,False,False,False,False
+Banco Itaú Chile,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.26290786,False,False,False,False
+Banco Itaú Chile,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.26282623,False,False,False,False
+Banco Itaú Chile,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.26144797,False,False,False,False
+Banco Itaú Chile,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.261419,False,False,False,False
+Banco Itaú Chile,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.2613629,False,False,False,False
+Banco Itaú Chile,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.25929463,False,False,False,False
+Banco Itaú Chile,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.25492564,False,False,False,False
+Banco Itaú Chile,random_erome-com_20251129T165107.png,RANDOM,unknown,0.2508368,False,False,False,False
+Banco Itaú Chile,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.24780944,False,False,False,False
+Banco Itaú Chile,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.24570692,False,False,False,False
+Banco Itaú Chile,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.244155,False,False,False,False
+Banco Itaú Chile,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.24006161,False,False,False,False
+Banco Itaú Chile,random_state-gov_20251129T174508.png,RANDOM,unknown,0.23900852,False,False,False,False
+Banco Itaú Chile,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.23753023,False,False,False,False
+Banco Itaú Chile,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.23740442,False,False,False,False
+Banco Itaú Chile,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.23729342,False,False,False,False
+Banco Itaú Chile,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.23716465,False,False,False,False
+Banco Itaú Chile,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.23316048,False,False,False,False
+Banco Itaú Chile,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.23314595,False,False,False,False
+Banco Itaú Chile,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.2281418,False,False,False,False
+Banco Itaú Chile,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.22810423,False,False,False,False
+Banco Itaú Chile,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.2279367,False,False,False,False
+Banco Itaú Chile,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.22057515,False,False,False,False
+Banco Itaú Chile,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.21822554,False,False,False,False
+Banco Itaú Chile,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.21813972,False,False,False,False
+Banco Itaú Chile,random_who-int_20251129T164225.png,RANDOM,unknown,0.21515286,False,False,False,False
+Banco Itaú Chile,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.21273765,False,False,False,False
+Banco Itaú Chile,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.20486431,False,False,False,False
+Banco Itaú Chile,random_health-mil_20251129T163619.png,RANDOM,unknown,0.19505042,False,False,False,False
+Banco Itaú Chile,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.1916883,False,False,False,False

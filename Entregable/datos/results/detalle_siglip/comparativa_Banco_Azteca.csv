@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+Banco Azteca,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,1.0000002,True,True,False,True
+Banco Azteca,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.97122765,True,True,False,False
+Banco Azteca,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.9574278,True,True,False,False
+Banco Azteca,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.95050174,True,True,False,False
+Banco Azteca,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.9491894,True,True,False,False
+Banco Azteca,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.947281,True,True,False,False
+Banco Azteca,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.929798,True,True,False,False
+Banco Azteca,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.9184846,True,True,False,False
+Banco Azteca,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.90586627,True,True,False,False
+Banco Azteca,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.90024173,True,True,False,False
+Banco Azteca,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.8892821,True,True,False,False
+Banco Azteca,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.81229126,True,False,True,False
+Banco Azteca,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.80897725,True,False,True,False
+Banco Azteca,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.80606925,True,False,True,False
+Banco Azteca,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.8030429,True,False,True,False
+Banco Azteca,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.79919857,False,False,False,False
+Banco Azteca,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7987188,False,False,False,False
+Banco Azteca,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.79534346,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7935801,False,False,False,False
+Banco Azteca,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.7933582,False,False,False,False
+Banco Azteca,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.7929137,False,False,False,False
+Banco Azteca,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.7919387,False,False,False,False
+Banco Azteca,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7906655,False,False,False,False
+Banco Azteca,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.7901684,False,False,False,False
+Banco Azteca,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.7873403,False,False,False,False
+Banco Azteca,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.7864269,False,False,False,False
+Banco Azteca,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.78517056,False,False,False,False
+Banco Azteca,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.7851695,False,False,False,False
+Banco Azteca,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.7850251,False,False,False,False
+Banco Azteca,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.7846503,False,False,False,False
+Banco Azteca,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7839374,False,False,False,False
+Banco Azteca,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7839275,False,False,False,False
+Banco Azteca,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.78343606,False,False,False,False
+Banco Azteca,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7830996,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.78261244,False,False,False,False
+Banco Azteca,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.78257585,False,False,False,False
+Banco Azteca,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.7818725,False,False,False,False
+Banco Azteca,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.78157794,False,False,False,False
+Banco Azteca,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7813698,False,False,False,False
+Banco Azteca,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.78072935,False,False,False,False
+Banco Azteca,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.779501,False,False,False,False
+Banco Azteca,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.77932346,False,False,False,False
+Banco Azteca,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.7790946,False,False,False,False
+Banco Azteca,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.77894795,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.7788964,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7787827,False,False,False,False
+Banco Azteca,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.77854383,False,False,False,False
+Banco Azteca,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7780104,False,False,False,False
+Banco Azteca,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7779108,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7775354,False,False,False,False
+Banco Azteca,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.77718735,False,False,False,False
+Banco Azteca,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7771822,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.77690077,False,False,False,False
+Banco Azteca,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.7765514,False,False,False,False
+Banco Azteca,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.77635455,False,False,False,False
+Banco Azteca,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7762752,False,False,False,False
+Banco Azteca,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.77566457,False,False,False,False
+Banco Azteca,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.77527404,False,False,False,False
+Banco Azteca,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.77455425,False,False,False,False
+Banco Azteca,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.77453285,False,False,False,False
+Banco Azteca,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.77401614,False,False,False,False
+Banco Azteca,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7739912,False,False,False,False
+Banco Azteca,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7739146,False,False,False,False
+Banco Azteca,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7738346,False,False,False,False
+Banco Azteca,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7735891,False,False,False,False
+Banco Azteca,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.7735415,False,False,False,False
+Banco Azteca,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.77346224,False,False,False,False
+Banco Azteca,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.773408,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.773329,False,False,False,False
+Banco Azteca,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.77276963,False,False,False,False
+Banco Azteca,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.7726081,False,False,False,False
+Banco Azteca,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.77193034,False,False,False,False
+Banco Azteca,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7718413,False,False,False,False
+Banco Azteca,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7717322,False,False,False,False
+Banco Azteca,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.77158225,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.77148753,False,False,False,False
+Banco Azteca,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.77148575,False,False,False,False
+Banco Azteca,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.7711323,False,False,False,False
+Banco Azteca,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.77107704,False,False,False,False
+Banco Azteca,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7709794,False,False,False,False
+Banco Azteca,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.77072704,False,False,False,False
+Banco Azteca,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7703849,False,False,False,False
+Banco Azteca,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.76962423,False,False,False,False
+Banco Azteca,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.76952726,False,False,False,False
+Banco Azteca,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7692171,False,False,False,False
+Banco Azteca,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7686451,False,False,False,False
+Banco Azteca,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.76863897,False,False,False,False
+Banco Azteca,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.76682454,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.76662177,False,False,False,False
+Banco Azteca,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.7665559,False,False,False,False
+Banco Azteca,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.76644015,False,False,False,False
+Banco Azteca,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.76618063,False,False,False,False
+Banco Azteca,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.76599,False,False,False,False
+Banco Azteca,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.7659154,False,False,False,False
+Banco Azteca,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7655578,False,False,False,False
+Banco Azteca,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.76553905,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.7650825,False,False,False,False
+Banco Azteca,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.76505643,False,False,False,False
+Banco Azteca,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.76459426,False,False,False,False
+Banco Azteca,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7644039,False,False,False,False
+Banco Azteca,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.7640302,False,False,False,False
+Banco Azteca,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.7635313,False,False,False,False
+Banco Azteca,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.76349825,False,False,False,False
+Banco Azteca,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.76314306,False,False,False,False
+Banco Azteca,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7622765,False,False,False,False
+Banco Azteca,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7613872,False,False,False,False
+Banco Azteca,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.76126266,False,False,False,False
+Banco Azteca,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.7610687,False,False,False,False
+Banco Azteca,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.7607292,False,False,False,False
+Banco Azteca,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.76051354,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.76002795,False,False,False,False
+Banco Azteca,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.7598833,False,False,False,False
+Banco Azteca,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.7597647,False,False,False,False
+Banco Azteca,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.75976086,False,False,False,False
+Banco Azteca,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.759744,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.75888705,False,False,False,False
+Banco Azteca,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.75816256,False,False,False,False
+Banco Azteca,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.75802624,False,False,False,False
+Banco Azteca,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.75754714,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7566618,False,False,False,False
+Banco Azteca,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.7565284,False,False,False,False
+Banco Azteca,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7563484,False,False,False,False
+Banco Azteca,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.7563382,False,False,False,False
+Banco Azteca,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.75621736,False,False,False,False
+Banco Azteca,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.7547225,False,False,False,False
+Banco Azteca,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.75466996,False,False,False,False
+Banco Azteca,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.75454086,False,False,False,False
+Banco Azteca,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7542485,False,False,False,False
+Banco Azteca,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.75413555,False,False,False,False
+Banco Azteca,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.7532319,False,False,False,False
+Banco Azteca,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.75316846,False,False,False,False
+Banco Azteca,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7528806,False,False,False,False
+Banco Azteca,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.75277925,False,False,False,False
+Banco Azteca,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7524829,False,False,False,False
+Banco Azteca,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.7524585,False,False,False,False
+Banco Azteca,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.7523227,False,False,False,False
+Banco Azteca,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.75209063,False,False,False,False
+Banco Azteca,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.752079,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.75203574,False,False,False,False
+Banco Azteca,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.75197184,False,False,False,False
+Banco Azteca,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.751759,False,False,False,False
+Banco Azteca,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7516329,False,False,False,False
+Banco Azteca,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.7512204,False,False,False,False
+Banco Azteca,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.75099635,False,False,False,False
+Banco Azteca,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7509034,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.75085074,False,False,False,False
+Banco Azteca,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.75061536,False,False,False,False
+Banco Azteca,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.7496812,False,False,False,False
+Banco Azteca,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.7496712,False,False,False,False
+Banco Azteca,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7496548,False,False,False,False
+Banco Azteca,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.74951935,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7494449,False,False,False,False
+Banco Azteca,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7489658,False,False,False,False
+Banco Azteca,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.74894094,False,False,False,False
+Banco Azteca,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.7488845,False,False,False,False
+Banco Azteca,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.74787325,False,False,False,False
+Banco Azteca,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.747636,False,False,False,False
+Banco Azteca,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7475685,False,False,False,False
+Banco Azteca,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.74704623,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.74602646,False,False,False,False
+Banco Azteca,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.74517584,False,False,False,False
+Banco Azteca,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.74508935,False,False,False,False
+Banco Azteca,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.74497795,False,False,False,False
+Banco Azteca,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.74465966,False,False,False,False
+Banco Azteca,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7446032,False,False,False,False
+Banco Azteca,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.74435383,False,False,False,False
+Banco Azteca,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.7441069,False,False,False,False
+Banco Azteca,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.74407744,False,False,False,False
+Banco Azteca,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.74366796,False,False,False,False
+Banco Azteca,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.74338883,False,False,False,False
+Banco Azteca,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.74337447,False,False,False,False
+Banco Azteca,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.7430683,False,False,False,False
+Banco Azteca,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.74243504,False,False,False,False
+Banco Azteca,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.74235606,False,False,False,False
+Banco Azteca,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.7423112,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.74223495,False,False,False,False
+Banco Azteca,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7420559,False,False,False,False
+Banco Azteca,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.74176455,False,False,False,False
+Banco Azteca,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7416109,False,False,False,False
+Banco Azteca,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7413971,False,False,False,False
+Banco Azteca,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.7413408,False,False,False,False
+Banco Azteca,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.7411631,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7411089,False,False,False,False
+Banco Azteca,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.7410871,False,False,False,False
+Banco Azteca,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.7407094,False,False,False,False
+Banco Azteca,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7405404,False,False,False,False
+Banco Azteca,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7403644,False,False,False,False
+Banco Azteca,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.74030554,False,False,False,False
+Banco Azteca,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7402626,False,False,False,False
+Banco Azteca,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7400197,False,False,False,False
+Banco Azteca,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.73953986,False,False,False,False
+Banco Azteca,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7394985,False,False,False,False
+Banco Azteca,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.73904467,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.73902667,False,False,False,False
+Banco Azteca,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.7385128,False,False,False,False
+Banco Azteca,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.73832977,False,False,False,False
+Banco Azteca,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7374239,False,False,False,False
+Banco Azteca,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.73738223,False,False,False,False
+Banco Azteca,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7370375,False,False,False,False
+Banco Azteca,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.7359634,False,False,False,False
+Banco Azteca,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.7356403,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7356267,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.735441,False,False,False,False
+Banco Azteca,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.73542434,False,False,False,False
+Banco Azteca,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7352227,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.73478264,False,False,False,False
+Banco Azteca,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.7344363,False,False,False,False
+Banco Azteca,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.7343353,False,False,False,False
+Banco Azteca,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.73424196,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.73404855,False,False,False,False
+Banco Azteca,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.7337171,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.7334856,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.73338324,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7332239,False,False,False,False
+Banco Azteca,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.7327039,False,False,False,False
+Banco Azteca,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.73247534,False,False,False,False
+Banco Azteca,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.7321577,False,False,False,False
+Banco Azteca,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.7320925,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.731526,False,False,False,False
+Banco Azteca,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.73149216,False,False,False,False
+Banco Azteca,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7312343,False,False,False,False
+Banco Azteca,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.731184,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.73102206,False,False,False,False
+Banco Azteca,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.7307686,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7307357,False,False,False,False
+Banco Azteca,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7307334,False,False,False,False
+Banco Azteca,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.7307269,False,False,False,False
+Banco Azteca,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.73040724,False,False,False,False
+Banco Azteca,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.730003,False,False,False,False
+Banco Azteca,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.72993493,False,False,False,False
+Banco Azteca,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.7297424,False,False,False,False
+Banco Azteca,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7292826,False,False,False,False
+Banco Azteca,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.72913986,False,False,False,False
+Banco Azteca,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7290751,False,False,False,False
+Banco Azteca,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.72904456,False,False,False,False
+Banco Azteca,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.7289518,False,False,False,False
+Banco Azteca,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.7285714,False,False,False,False
+Banco Azteca,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.7283779,False,False,False,False
+Banco Azteca,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.72829103,False,False,False,False
+Banco Azteca,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.72811204,False,False,False,False
+Banco Azteca,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7276633,False,False,False,False
+Banco Azteca,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7272723,False,False,False,False
+Banco Azteca,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.7272154,False,False,False,False
+Banco Azteca,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.7271262,False,False,False,False
+Banco Azteca,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.72696483,False,False,False,False
+Banco Azteca,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.72596365,False,False,False,False
+Banco Azteca,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.7259453,False,False,False,False
+Banco Azteca,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.72590137,False,False,False,False
+Banco Azteca,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.7255711,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7254982,False,False,False,False
+Banco Azteca,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7253882,False,False,False,False
+Banco Azteca,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.72508407,False,False,False,False
+Banco Azteca,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.72456044,False,False,False,False
+Banco Azteca,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7245498,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.72419167,False,False,False,False
+Banco Azteca,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7240788,False,False,False,False
+Banco Azteca,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.7237098,False,False,False,False
+Banco Azteca,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.7236926,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.72369254,False,False,False,False
+Banco Azteca,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7234849,False,False,False,False
+Banco Azteca,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.72342527,False,False,False,False
+Banco Azteca,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.72330904,False,False,False,False
+Banco Azteca,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.723266,False,False,False,False
+Banco Azteca,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.72324526,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.7232261,False,False,False,False
+Banco Azteca,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.72290397,False,False,False,False
+Banco Azteca,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.722891,False,False,False,False
+Banco Azteca,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.722654,False,False,False,False
+Banco Azteca,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.72228265,False,False,False,False
+Banco Azteca,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7217891,False,False,False,False
+Banco Azteca,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7217765,False,False,False,False
+Banco Azteca,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.72110057,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.72097665,False,False,False,False
+Banco Azteca,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.720936,False,False,False,False
+Banco Azteca,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.72059005,False,False,False,False
+Banco Azteca,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.7205168,False,False,False,False
+Banco Azteca,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.72043604,False,False,False,False
+Banco Azteca,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.72029847,False,False,False,False
+Banco Azteca,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.7202536,False,False,False,False
+Banco Azteca,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7201406,False,False,False,False
+Banco Azteca,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.7201276,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7200138,False,False,False,False
+Banco Azteca,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.7198906,False,False,False,False
+Banco Azteca,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.7198653,False,False,False,False
+Banco Azteca,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.71979684,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7194885,False,False,False,False
+Banco Azteca,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.7192782,False,False,False,False
+Banco Azteca,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7192023,False,False,False,False
+Banco Azteca,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.7188435,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.71875566,False,False,False,False
+Banco Azteca,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.7187314,False,False,False,False
+Banco Azteca,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7184261,False,False,False,False
+Banco Azteca,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7181772,False,False,False,False
+Banco Azteca,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.71791047,False,False,False,False
+Banco Azteca,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.71776605,False,False,False,False
+Banco Azteca,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.71756035,False,False,False,False
+Banco Azteca,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.7175219,False,False,False,False
+Banco Azteca,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.71744394,False,False,False,False
+Banco Azteca,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.7172711,False,False,False,False
+Banco Azteca,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.717211,False,False,False,False
+Banco Azteca,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.7171415,False,False,False,False
+Banco Azteca,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7170119,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.71646917,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7161333,False,False,False,False
+Banco Azteca,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.71595603,False,False,False,False
+Banco Azteca,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.7156404,False,False,False,False
+Banco Azteca,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.71558785,False,False,False,False
+Banco Azteca,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.7152986,False,False,False,False
+Banco Azteca,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7148775,False,False,False,False
+Banco Azteca,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.7147331,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.7141151,False,False,False,False
+Banco Azteca,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.71411455,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.71400934,False,False,False,False
+Banco Azteca,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.7138367,False,False,False,False
+Banco Azteca,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.7134307,False,False,False,False
+Banco Azteca,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7131543,False,False,False,False
+Banco Azteca,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7126612,False,False,False,False
+Banco Azteca,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.71254104,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.712499,False,False,False,False
+Banco Azteca,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.7121214,False,False,False,False
+Banco Azteca,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.7120272,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7116643,False,False,False,False
+Banco Azteca,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.71148133,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7111123,False,False,False,False
+Banco Azteca,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.71088123,False,False,False,False
+Banco Azteca,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.71071416,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.71064377,False,False,False,False
+Banco Azteca,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7105886,False,False,False,False
+Banco Azteca,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7095419,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.70934016,False,False,False,False
+Banco Azteca,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.7091423,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7089622,False,False,False,False
+Banco Azteca,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.70864475,False,False,False,False
+Banco Azteca,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.70856,False,False,False,False
+Banco Azteca,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7081866,False,False,False,False
+Banco Azteca,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.70808876,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7078358,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.70765173,False,False,False,False
+Banco Azteca,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.70743406,False,False,False,False
+Banco Azteca,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.70688665,False,False,False,False
+Banco Azteca,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7068786,False,False,False,False
+Banco Azteca,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.7067734,False,False,False,False
+Banco Azteca,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7065923,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.7065503,False,False,False,False
+Banco Azteca,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.70650405,False,False,False,False
+Banco Azteca,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.70624906,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7060168,False,False,False,False
+Banco Azteca,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7059373,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7057656,False,False,False,False
+Banco Azteca,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.70533115,False,False,False,False
+Banco Azteca,random_temu-com_20251129T165219.png,RANDOM,unknown,0.7050206,False,False,False,False
+Banco Azteca,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7049515,False,False,False,False
+Banco Azteca,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.70474327,False,False,False,False
+Banco Azteca,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7031889,False,False,False,False
+Banco Azteca,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7030946,False,False,False,False
+Banco Azteca,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.7027687,False,False,False,False
+Banco Azteca,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.702661,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7025428,False,False,False,False
+Banco Azteca,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.7021973,False,False,False,False
+Banco Azteca,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.70199066,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.70194536,False,False,False,False
+Banco Azteca,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.70161486,False,False,False,False
+Banco Azteca,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.70124936,False,False,False,False
+Banco Azteca,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.70092475,False,False,False,False
+Banco Azteca,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.70089877,False,False,False,False
+Banco Azteca,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.70070314,False,False,False,False
+Banco Azteca,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.700584,False,False,False,False
+Banco Azteca,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.70035577,False,False,False,False
+Banco Azteca,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.7002924,False,False,False,False
+Banco Azteca,random_google-com_20251129T162253.png,RANDOM,unknown,0.7000964,False,False,False,False
+Banco Azteca,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.700087,False,False,False,False
+Banco Azteca,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.69920355,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.69906765,False,False,False,False
+Banco Azteca,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.69893086,False,False,False,False
+Banco Azteca,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6986428,False,False,False,False
+Banco Azteca,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.69851786,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6978613,False,False,False,False
+Banco Azteca,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.69772804,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.69756347,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.69755656,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.69723,False,False,False,False
+Banco Azteca,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.69687617,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.69685054,False,False,False,False
+Banco Azteca,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6966117,False,False,False,False
+Banco Azteca,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6961344,False,False,False,False
+Banco Azteca,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.6958694,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6957542,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6957241,False,False,False,False
+Banco Azteca,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.695351,False,False,False,False
+Banco Azteca,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.69530547,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.69522274,False,False,False,False
+Banco Azteca,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.6950021,False,False,False,False
+Banco Azteca,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.6948806,False,False,False,False
+Banco Azteca,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.69484246,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6947629,False,False,False,False
+Banco Azteca,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.69393724,False,False,False,False
+Banco Azteca,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.693728,False,False,False,False
+Banco Azteca,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.6936209,False,False,False,False
+Banco Azteca,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.693444,False,False,False,False
+Banco Azteca,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.6934247,False,False,False,False
+Banco Azteca,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.69338876,False,False,False,False
+Banco Azteca,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.6933571,False,False,False,False
+Banco Azteca,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6927601,False,False,False,False
+Banco Azteca,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.6927303,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6923904,False,False,False,False
+Banco Azteca,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.6919868,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.69173074,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.69168437,False,False,False,False
+Banco Azteca,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.69133824,False,False,False,False
+Banco Azteca,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.6907406,False,False,False,False
+Banco Azteca,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.69070625,False,False,False,False
+Banco Azteca,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6900668,False,False,False,False
+Banco Azteca,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.689675,False,False,False,False
+Banco Azteca,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.68834895,False,False,False,False
+Banco Azteca,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.688295,False,False,False,False
+Banco Azteca,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6877756,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.68726015,False,False,False,False
+Banco Azteca,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.6870873,False,False,False,False
+Banco Azteca,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.68701804,False,False,False,False
+Banco Azteca,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.6869874,False,False,False,False
+Banco Azteca,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6860678,False,False,False,False
+Banco Azteca,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6857931,False,False,False,False
+Banco Azteca,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.6851803,False,False,False,False
+Banco Azteca,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.6846274,False,False,False,False
+Banco Azteca,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.6845393,False,False,False,False
+Banco Azteca,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6844654,False,False,False,False
+Banco Azteca,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6844227,False,False,False,False
+Banco Azteca,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.683816,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6837474,False,False,False,False
+Banco Azteca,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.6833365,False,False,False,False
+Banco Azteca,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6831402,False,False,False,False
+Banco Azteca,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.68312407,False,False,False,False
+Banco Azteca,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.68294984,False,False,False,False
+Banco Azteca,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.6829361,False,False,False,False
+Banco Azteca,random_change-org_20251129T173929.png,RANDOM,unknown,0.6826842,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6826755,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6824032,False,False,False,False
+Banco Azteca,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.6819807,False,False,False,False
+Banco Azteca,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.6818491,False,False,False,False
+Banco Azteca,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.68118703,False,False,False,False
+Banco Azteca,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.68054885,False,False,False,False
+Banco Azteca,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.68036413,False,False,False,False
+Banco Azteca,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.67995846,False,False,False,False
+Banco Azteca,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6799153,False,False,False,False
+Banco Azteca,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.67983913,False,False,False,False
+Banco Azteca,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.6798058,False,False,False,False
+Banco Azteca,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6797992,False,False,False,False
+Banco Azteca,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.67858374,False,False,False,False
+Banco Azteca,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.67855823,False,False,False,False
+Banco Azteca,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.6782564,False,False,False,False
+Banco Azteca,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6780853,False,False,False,False
+Banco Azteca,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6778881,False,False,False,False
+Banco Azteca,random_marca-com_20251129T175532.png,RANDOM,unknown,0.6762203,False,False,False,False
+Banco Azteca,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.6756886,False,False,False,False
+Banco Azteca,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.67563653,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6755461,False,False,False,False
+Banco Azteca,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.67484635,False,False,False,False
+Banco Azteca,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.67481756,False,False,False,False
+Banco Azteca,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.6747204,False,False,False,False
+Banco Azteca,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.673491,False,False,False,False
+Banco Azteca,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.67346543,False,False,False,False
+Banco Azteca,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.6734045,False,False,False,False
+Banco Azteca,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.673349,False,False,False,False
+Banco Azteca,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.673304,False,False,False,False
+Banco Azteca,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.67305404,False,False,False,False
+Banco Azteca,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.6729938,False,False,False,False
+Banco Azteca,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6728313,False,False,False,False
+Banco Azteca,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.67264223,False,False,False,False
+Banco Azteca,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.67204475,False,False,False,False
+Banco Azteca,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.6717093,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.671655,False,False,False,False
+Banco Azteca,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6714043,False,False,False,False
+Banco Azteca,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.67131805,False,False,False,False
+Banco Azteca,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.67063046,False,False,False,False
+Banco Azteca,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.67037356,False,False,False,False
+Banco Azteca,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.67029864,False,False,False,False
+Banco Azteca,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.6702198,False,False,False,False
+Banco Azteca,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.66931003,False,False,False,False
+Banco Azteca,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.6690694,False,False,False,False
+Banco Azteca,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.669069,False,False,False,False
+Banco Azteca,random_weather-com_20251129T164102.png,RANDOM,unknown,0.6689955,False,False,False,False
+Banco Azteca,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.66846377,False,False,False,False
+Banco Azteca,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.6684575,False,False,False,False
+Banco Azteca,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.66821253,False,False,False,False
+Banco Azteca,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.6681323,False,False,False,False
+Banco Azteca,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.6680625,False,False,False,False
+Banco Azteca,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.6679648,False,False,False,False
+Banco Azteca,random_msn-com_20251129T162722.png,RANDOM,unknown,0.6675157,False,False,False,False
+Banco Azteca,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.66738844,False,False,False,False
+Banco Azteca,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.6672226,False,False,False,False
+Banco Azteca,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.66688716,False,False,False,False
+Banco Azteca,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6668416,False,False,False,False
+Banco Azteca,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.6667118,False,False,False,False
+Banco Azteca,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.66658974,False,False,False,False
+Banco Azteca,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.666584,False,False,False,False
+Banco Azteca,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.66655916,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6662775,False,False,False,False
+Banco Azteca,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6658015,False,False,False,False
+Banco Azteca,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.6655081,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6652887,False,False,False,False
+Banco Azteca,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.66526276,False,False,False,False
+Banco Azteca,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.66525525,False,False,False,False
+Banco Azteca,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.66496944,False,False,False,False
+Banco Azteca,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.66450286,False,False,False,False
+Banco Azteca,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.6643028,False,False,False,False
+Banco Azteca,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.66418636,False,False,False,False
+Banco Azteca,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.66401494,False,False,False,False
+Banco Azteca,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.6631083,False,False,False,False
+Banco Azteca,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6629003,False,False,False,False
+Banco Azteca,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.66257167,False,False,False,False
+Banco Azteca,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6625576,False,False,False,False
+Banco Azteca,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.66216904,False,False,False,False
+Banco Azteca,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6621674,False,False,False,False
+Banco Azteca,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.66186506,False,False,False,False
+Banco Azteca,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.6614577,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6614312,False,False,False,False
+Banco Azteca,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6611495,False,False,False,False
+Banco Azteca,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6604986,False,False,False,False
+Banco Azteca,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.66039836,False,False,False,False
+Banco Azteca,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.6603755,False,False,False,False
+Banco Azteca,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.66027236,False,False,False,False
+Banco Azteca,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6596253,False,False,False,False
+Banco Azteca,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.65928435,False,False,False,False
+Banco Azteca,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.65926933,False,False,False,False
+Banco Azteca,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.6591588,False,False,False,False
+Banco Azteca,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.6591016,False,False,False,False
+Banco Azteca,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.65896297,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6589531,False,False,False,False
+Banco Azteca,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.6578527,False,False,False,False
+Banco Azteca,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.6576702,False,False,False,False
+Banco Azteca,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6576404,False,False,False,False
+Banco Azteca,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.65725446,False,False,False,False
+Banco Azteca,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.657251,False,False,False,False
+Banco Azteca,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.656953,False,False,False,False
+Banco Azteca,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6568887,False,False,False,False
+Banco Azteca,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6568375,False,False,False,False
+Banco Azteca,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.6568247,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.65670776,False,False,False,False
+Banco Azteca,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.6566936,False,False,False,False
+Banco Azteca,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.6565739,False,False,False,False
+Banco Azteca,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.655756,False,False,False,False
+Banco Azteca,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.65565777,False,False,False,False
+Banco Azteca,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6556257,False,False,False,False
+Banco Azteca,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.65532124,False,False,False,False
+Banco Azteca,random_avast-com_20251129T164855.png,RANDOM,unknown,0.6543019,False,False,False,False
+Banco Azteca,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.654289,False,False,False,False
+Banco Azteca,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.654216,False,False,False,False
+Banco Azteca,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.65404135,False,False,False,False
+Banco Azteca,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.6534109,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.65329677,False,False,False,False
+Banco Azteca,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.6531464,False,False,False,False
+Banco Azteca,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.65270996,False,False,False,False
+Banco Azteca,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.6522268,False,False,False,False
+Banco Azteca,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.6522172,False,False,False,False
+Banco Azteca,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.65172535,False,False,False,False
+Banco Azteca,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.65130997,False,False,False,False
+Banco Azteca,random_g-page_20251129T170201.png,RANDOM,unknown,0.65130305,False,False,False,False
+Banco Azteca,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.65124726,False,False,False,False
+Banco Azteca,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6512408,False,False,False,False
+Banco Azteca,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6508843,False,False,False,False
+Banco Azteca,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.65069956,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6504899,False,False,False,False
+Banco Azteca,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.6503589,False,False,False,False
+Banco Azteca,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.6502494,False,False,False,False
+Banco Azteca,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.65021443,False,False,False,False
+Banco Azteca,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.6500095,False,False,False,False
+Banco Azteca,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.65000594,False,False,False,False
+Banco Azteca,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6498738,False,False,False,False
+Banco Azteca,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.64986277,False,False,False,False
+Banco Azteca,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.64969224,False,False,False,False
+Banco Azteca,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.64967465,False,False,False,False
+Banco Azteca,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.6485652,False,False,False,False
+Banco Azteca,random_hp-com_20251129T164248.png,RANDOM,unknown,0.64854914,False,False,False,False
+Banco Azteca,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6482954,False,False,False,False
+Banco Azteca,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.64805245,False,False,False,False
+Banco Azteca,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.64791244,False,False,False,False
+Banco Azteca,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.64786804,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.64777935,False,False,False,False
+Banco Azteca,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6472674,False,False,False,False
+Banco Azteca,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.6470232,False,False,False,False
+Banco Azteca,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.6449407,False,False,False,False
+Banco Azteca,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.64474,False,False,False,False
+Banco Azteca,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.64439756,False,False,False,False
+Banco Azteca,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.64424706,False,False,False,False
+Banco Azteca,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.6434102,False,False,False,False
+Banco Azteca,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6432207,False,False,False,False
+Banco Azteca,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.64287734,False,False,False,False
+Banco Azteca,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.64281607,False,False,False,False
+Banco Azteca,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.64272463,False,False,False,False
+Banco Azteca,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.64256644,False,False,False,False
+Banco Azteca,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.6422591,False,False,False,False
+Banco Azteca,random_gov-br_20251129T174615.png,RANDOM,unknown,0.6419809,False,False,False,False
+Banco Azteca,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6408866,False,False,False,False
+Banco Azteca,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.6407656,False,False,False,False
+Banco Azteca,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.64062226,False,False,False,False
+Banco Azteca,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.64055306,False,False,False,False
+Banco Azteca,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.6403564,False,False,False,False
+Banco Azteca,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6396085,False,False,False,False
+Banco Azteca,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.63928354,False,False,False,False
+Banco Azteca,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.6384247,False,False,False,False
+Banco Azteca,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.63642246,False,False,False,False
+Banco Azteca,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.63512826,False,False,False,False
+Banco Azteca,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.63488406,False,False,False,False
+Banco Azteca,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6341293,False,False,False,False
+Banco Azteca,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.6334152,False,False,False,False
+Banco Azteca,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.63327783,False,False,False,False
+Banco Azteca,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.63299644,False,False,False,False
+Banco Azteca,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.63226056,False,False,False,False
+Banco Azteca,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.631808,False,False,False,False
+Banco Azteca,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6314441,False,False,False,False
+Banco Azteca,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.6314018,False,False,False,False
+Banco Azteca,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.63120633,False,False,False,False
+Banco Azteca,random_ring-com_20251129T172743.png,RANDOM,unknown,0.63086385,False,False,False,False
+Banco Azteca,random_eset-com_20251129T171424.png,RANDOM,unknown,0.63061774,False,False,False,False
+Banco Azteca,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6304537,False,False,False,False
+Banco Azteca,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.62900376,False,False,False,False
+Banco Azteca,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.62877905,False,False,False,False
+Banco Azteca,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.6287504,False,False,False,False
+Banco Azteca,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.6268693,False,False,False,False
+Banco Azteca,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.6261866,False,False,False,False
+Banco Azteca,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.62597084,False,False,False,False
+Banco Azteca,random_wix-com_20251129T171207.png,RANDOM,unknown,0.62583715,False,False,False,False
+Banco Azteca,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6257771,False,False,False,False
+Banco Azteca,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.6257138,False,False,False,False
+Banco Azteca,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.6241182,False,False,False,False
+Banco Azteca,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.62411106,False,False,False,False
+Banco Azteca,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.62373006,False,False,False,False
+Banco Azteca,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.62362707,False,False,False,False
+Banco Azteca,random_intel-com_20251129T171229.png,RANDOM,unknown,0.6232419,False,False,False,False
+Banco Azteca,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.6231252,False,False,False,False
+Banco Azteca,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.6227957,False,False,False,False
+Banco Azteca,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.62269115,False,False,False,False
+Banco Azteca,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.6226751,False,False,False,False
+Banco Azteca,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.6215472,False,False,False,False
+Banco Azteca,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6211221,False,False,False,False
+Banco Azteca,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.6209449,False,False,False,False
+Banco Azteca,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.61969036,False,False,False,False
+Banco Azteca,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.618721,False,False,False,False
+Banco Azteca,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.6181823,False,False,False,False
+Banco Azteca,random_att-com_20251129T180955.png,RANDOM,unknown,0.61787254,False,False,False,False
+Banco Azteca,random_xing-com_20251129T175042.png,RANDOM,unknown,0.6177817,False,False,False,False
+Banco Azteca,random_wise-com_20251129T180312.png,RANDOM,unknown,0.61742663,False,False,False,False
+Banco Azteca,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.61689675,False,False,False,False
+Banco Azteca,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.61653805,False,False,False,False
+Banco Azteca,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.6161996,False,False,False,False
+Banco Azteca,random_canva-com_20251129T164231.png,RANDOM,unknown,0.61534816,False,False,False,False
+Banco Azteca,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.61519,False,False,False,False
+Banco Azteca,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.614879,False,False,False,False
+Banco Azteca,random_viber-com_20251129T172210.png,RANDOM,unknown,0.61431754,False,False,False,False
+Banco Azteca,random_figma-com_20251129T173914.png,RANDOM,unknown,0.6133916,False,False,False,False
+Banco Azteca,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.61285543,False,False,False,False
+Banco Azteca,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6128274,False,False,False,False
+Banco Azteca,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.61269104,False,False,False,False
+Banco Azteca,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.61239135,False,False,False,False
+Banco Azteca,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.6123631,False,False,False,False
+Banco Azteca,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.6123053,False,False,False,False
+Banco Azteca,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.6121263,False,False,False,False
+Banco Azteca,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.61207986,False,False,False,False
+Banco Azteca,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.61145264,False,False,False,False
+Banco Azteca,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.6114074,False,False,False,False
+Banco Azteca,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.6109636,False,False,False,False
+Banco Azteca,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.6107827,False,False,False,False
+Banco Azteca,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.6106657,False,False,False,False
+Banco Azteca,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.60943425,False,False,False,False
+Banco Azteca,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.6089392,False,False,False,False
+Banco Azteca,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.6089282,False,False,False,False
+Banco Azteca,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.6083426,False,False,False,False
+Banco Azteca,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.6080798,False,False,False,False
+Banco Azteca,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.6079696,False,False,False,False
+Banco Azteca,random_att-net_20251129T170227.png,RANDOM,unknown,0.6077123,False,False,False,False
+Banco Azteca,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.60644126,False,False,False,False
+Banco Azteca,random_abc-es_20251129T175348.png,RANDOM,unknown,0.60633594,False,False,False,False
+Banco Azteca,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.605718,False,False,False,False
+Banco Azteca,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.60513896,False,False,False,False
+Banco Azteca,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.6050349,False,False,False,False
+Banco Azteca,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.6049192,False,False,False,False
+Banco Azteca,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.6049166,False,False,False,False
+Banco Azteca,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.6044663,False,False,False,False
+Banco Azteca,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.60405684,False,False,False,False
+Banco Azteca,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.6009408,False,False,False,False
+Banco Azteca,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.6004028,False,False,False,False
+Banco Azteca,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.6003511,False,False,False,False
+Banco Azteca,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.6000662,False,False,False,False
+Banco Azteca,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.6000595,False,False,False,False
+Banco Azteca,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.6000259,False,False,False,False
+Banco Azteca,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.5998131,False,False,False,False
+Banco Azteca,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.599519,False,False,False,False
+Banco Azteca,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.5988994,False,False,False,False
+Banco Azteca,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.5987295,False,False,False,False
+Banco Azteca,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.59826696,False,False,False,False
+Banco Azteca,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.59719324,False,False,False,False
+Banco Azteca,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.5970775,False,False,False,False
+Banco Azteca,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.5970389,False,False,False,False
+Banco Azteca,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.5965121,False,False,False,False
+Banco Azteca,random_one-one_20251129T163318.png,RANDOM,unknown,0.59592044,False,False,False,False
+Banco Azteca,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.59568965,False,False,False,False
+Banco Azteca,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.5956058,False,False,False,False
+Banco Azteca,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.5953239,False,False,False,False
+Banco Azteca,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.59530497,False,False,False,False
+Banco Azteca,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.5949535,False,False,False,False
+Banco Azteca,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.59474945,False,False,False,False
+Banco Azteca,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.5938996,False,False,False,False
+Banco Azteca,random_name-com_20251129T171101.png,RANDOM,unknown,0.5931096,False,False,False,False
+Banco Azteca,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.59282935,False,False,False,False
+Banco Azteca,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.59190476,False,False,False,False
+Banco Azteca,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.5919033,False,False,False,False
+Banco Azteca,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.5912641,False,False,False,False
+Banco Azteca,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.5908441,False,False,False,False
+Banco Azteca,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.5905218,False,False,False,False
+Banco Azteca,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.5903201,False,False,False,False
+Banco Azteca,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.5902118,False,False,False,False
+Banco Azteca,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.5898215,False,False,False,False
+Banco Azteca,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.5897311,False,False,False,False
+Banco Azteca,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.58947796,False,False,False,False
+Banco Azteca,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.5893556,False,False,False,False
+Banco Azteca,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.5893417,False,False,False,False
+Banco Azteca,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.58923024,False,False,False,False
+Banco Azteca,random_naver-com_20251129T164929.png,RANDOM,unknown,0.5890307,False,False,False,False
+Banco Azteca,random_web-de_20251129T175220.png,RANDOM,unknown,0.58854795,False,False,False,False
+Banco Azteca,random_okta-com_20251129T171946.png,RANDOM,unknown,0.5883266,False,False,False,False
+Banco Azteca,random_apa-org_20251129T180433.png,RANDOM,unknown,0.5879263,False,False,False,False
+Banco Azteca,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.5876829,False,False,False,False
+Banco Azteca,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.5875617,False,False,False,False
+Banco Azteca,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.587116,False,False,False,False
+Banco Azteca,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.5871013,False,False,False,False
+Banco Azteca,random_nature-com_20251129T164547.png,RANDOM,unknown,0.58702064,False,False,False,False
+Banco Azteca,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.5869929,False,False,False,False
+Banco Azteca,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.58698297,False,False,False,False
+Banco Azteca,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.5864934,False,False,False,False
+Banco Azteca,random_segment-io_20251129T174400.png,RANDOM,unknown,0.5861708,False,False,False,False
+Banco Azteca,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.58511657,False,False,False,False
+Banco Azteca,random_as-com_20251129T175716.png,RANDOM,unknown,0.5850445,False,False,False,False
+Banco Azteca,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.58489835,False,False,False,False
+Banco Azteca,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.58449227,False,False,False,False
+Banco Azteca,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.584239,False,False,False,False
+Banco Azteca,random_android-com_20251129T163812.png,RANDOM,unknown,0.58400834,False,False,False,False
+Banco Azteca,random_springer-com_20251129T164823.png,RANDOM,unknown,0.5839753,False,False,False,False
+Banco Azteca,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.58397335,False,False,False,False
+Banco Azteca,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.58395565,False,False,False,False
+Banco Azteca,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.5837543,False,False,False,False
+Banco Azteca,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.583308,False,False,False,False
+Banco Azteca,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.58307934,False,False,False,False
+Banco Azteca,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5830731,False,False,False,False
+Banco Azteca,random_character-ai_20251129T174433.png,RANDOM,unknown,0.58288336,False,False,False,False
+Banco Azteca,random_welt-de_20251129T173821.png,RANDOM,unknown,0.58281904,False,False,False,False
+Banco Azteca,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.5826061,False,False,False,False
+Banco Azteca,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.58254343,False,False,False,False
+Banco Azteca,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.5822892,False,False,False,False
+Banco Azteca,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.58169055,False,False,False,False
+Banco Azteca,random_focus-de_20251129T175031.png,RANDOM,unknown,0.58166975,False,False,False,False
+Banco Azteca,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.5814842,False,False,False,False
+Banco Azteca,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.58131087,False,False,False,False
+Banco Azteca,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.5812873,False,False,False,False
+Banco Azteca,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.5810755,False,False,False,False
+Banco Azteca,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.5806863,False,False,False,False
+Banco Azteca,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.5806507,False,False,False,False
+Banco Azteca,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.5802578,False,False,False,False
+Banco Azteca,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.58021253,False,False,False,False
+Banco Azteca,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.58007884,False,False,False,False
+Banco Azteca,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.57986534,False,False,False,False
+Banco Azteca,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.57966304,False,False,False,False
+Banco Azteca,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.57964313,False,False,False,False
+Banco Azteca,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.57952845,False,False,False,False
+Banco Azteca,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.5794567,False,False,False,False
+Banco Azteca,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.579456,False,False,False,False
+Banco Azteca,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.5793091,False,False,False,False
+Banco Azteca,random_jd-com_20251129T174954.png,RANDOM,unknown,0.5791712,False,False,False,False
+Banco Azteca,random_globo-com_20251129T165541.png,RANDOM,unknown,0.5786251,False,False,False,False
+Banco Azteca,random_target-com_20251129T171437.png,RANDOM,unknown,0.57820725,False,False,False,False
+Banco Azteca,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.57781243,False,False,False,False
+Banco Azteca,random_uber-com_20251129T170129.png,RANDOM,unknown,0.5776377,False,False,False,False
+Banco Azteca,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.5773567,False,False,False,False
+Banco Azteca,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.57685673,False,False,False,False
+Banco Azteca,random_binance-com_20251129T174935.png,RANDOM,unknown,0.5767705,False,False,False,False
+Banco Azteca,random_statista-com_20251129T165822.png,RANDOM,unknown,0.57662654,False,False,False,False
+Banco Azteca,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.57653487,False,False,False,False
+Banco Azteca,random_brave-com_20251129T172325.png,RANDOM,unknown,0.57651484,False,False,False,False
+Banco Azteca,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5764464,False,False,False,False
+Banco Azteca,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.5762445,False,False,False,False
+Banco Azteca,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.5762281,False,False,False,False
+Banco Azteca,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.57615256,False,False,False,False
+Banco Azteca,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.5759486,False,False,False,False
+Banco Azteca,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.5759202,False,False,False,False
+Banco Azteca,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.575858,False,False,False,False
+Banco Azteca,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.5755635,False,False,False,False
+Banco Azteca,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.5752158,False,False,False,False
+Banco Azteca,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.57502115,False,False,False,False
+Banco Azteca,random_otto-de_20251129T174331.png,RANDOM,unknown,0.57501924,False,False,False,False
+Banco Azteca,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.5747267,False,False,False,False
+Banco Azteca,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.5737151,False,False,False,False
+Banco Azteca,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.5736538,False,False,False,False
+Banco Azteca,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.57308817,False,False,False,False
+Banco Azteca,random_google-cn_20251129T172939.png,RANDOM,unknown,0.5730589,False,False,False,False
+Banco Azteca,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.57220817,False,False,False,False
+Banco Azteca,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.5721624,False,False,False,False
+Banco Azteca,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.57205904,False,False,False,False
+Banco Azteca,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.5719292,False,False,False,False
+Banco Azteca,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.57177943,False,False,False,False
+Banco Azteca,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.57156837,False,False,False,False
+Banco Azteca,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.5715479,False,False,False,False
+Banco Azteca,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.5715209,False,False,False,False
+Banco Azteca,random_skype-com_20251129T162718.png,RANDOM,unknown,0.5713327,False,False,False,False
+Banco Azteca,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.5704498,False,False,False,False
+Banco Azteca,random_moe-video_20251129T164430.png,RANDOM,unknown,0.5702982,False,False,False,False
+Banco Azteca,random_opera-com_20251129T163028.png,RANDOM,unknown,0.5699134,False,False,False,False
+Banco Azteca,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.5698931,False,False,False,False
+Banco Azteca,random_substack-com_20251129T171941.png,RANDOM,unknown,0.5697092,False,False,False,False
+Banco Azteca,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.5694157,False,False,False,False
+Banco Azteca,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.56941044,False,False,False,False
+Banco Azteca,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.5692651,False,False,False,False
+Banco Azteca,random_note-com_20251129T174642.png,RANDOM,unknown,0.56924075,False,False,False,False
+Banco Azteca,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.56920123,False,False,False,False
+Banco Azteca,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.5689564,False,False,False,False
+Banco Azteca,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.56893337,False,False,False,False
+Banco Azteca,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.5683052,False,False,False,False
+Banco Azteca,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.56814516,False,False,False,False
+Banco Azteca,random_vk-com_20251129T163202.png,RANDOM,unknown,0.5681044,False,False,False,False
+Banco Azteca,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.56791914,False,False,False,False
+Banco Azteca,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.5677822,False,False,False,False
+Banco Azteca,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.5677806,False,False,False,False
+Banco Azteca,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.5677165,False,False,False,False
+Banco Azteca,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.5675205,False,False,False,False
+Banco Azteca,random_discord-media_20251129T170414.png,RANDOM,unknown,0.5674962,False,False,False,False
+Banco Azteca,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.5673125,False,False,False,False
+Banco Azteca,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.56700766,False,False,False,False
+Banco Azteca,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.5669137,False,False,False,False
+Banco Azteca,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.56686985,False,False,False,False
+Banco Azteca,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.56676203,False,False,False,False
+Banco Azteca,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.56609106,False,False,False,False
+Banco Azteca,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.5657957,False,False,False,False
+Banco Azteca,random_youku-com_20251129T174026.png,RANDOM,unknown,0.56570053,False,False,False,False
+Banco Azteca,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.56510216,False,False,False,False
+Banco Azteca,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.56493753,False,False,False,False
+Banco Azteca,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.5648175,False,False,False,False
+Banco Azteca,random_usps-com_20251129T173658.png,RANDOM,unknown,0.56467605,False,False,False,False
+Banco Azteca,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.5645528,False,False,False,False
+Banco Azteca,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.56394035,False,False,False,False
+Banco Azteca,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.5638623,False,False,False,False
+Banco Azteca,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.5635997,False,False,False,False
+Banco Azteca,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.56328213,False,False,False,False
+Banco Azteca,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.5627868,False,False,False,False
+Banco Azteca,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.5627867,False,False,False,False
+Banco Azteca,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.56237113,False,False,False,False
+Banco Azteca,random_split-io_20251129T175048.png,RANDOM,unknown,0.56227034,False,False,False,False
+Banco Azteca,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.5618106,False,False,False,False
+Banco Azteca,random_dns-google_20251129T163231.png,RANDOM,unknown,0.5618071,False,False,False,False
+Banco Azteca,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.5612333,False,False,False,False
+Banco Azteca,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.5611038,False,False,False,False
+Banco Azteca,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.56103504,False,False,False,False
+Banco Azteca,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.56089115,False,False,False,False
+Banco Azteca,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.560803,False,False,False,False
+Banco Azteca,random_shein-com_20251129T170736.png,RANDOM,unknown,0.56060624,False,False,False,False
+Banco Azteca,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.56057465,False,False,False,False
+Banco Azteca,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.56053674,False,False,False,False
+Banco Azteca,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.56023747,False,False,False,False
+Banco Azteca,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.5600511,False,False,False,False
+Banco Azteca,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.55992794,False,False,False,False
+Banco Azteca,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.5597604,False,False,False,False
+Banco Azteca,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.55968344,False,False,False,False
+Banco Azteca,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.55966884,False,False,False,False
+Banco Azteca,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.5595193,False,False,False,False
+Banco Azteca,random_aol-com_20251129T170152.png,RANDOM,unknown,0.55946237,False,False,False,False
+Banco Azteca,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.55934906,False,False,False,False
+Banco Azteca,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.55900586,False,False,False,False
+Banco Azteca,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.5588997,False,False,False,False
+Banco Azteca,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.55861604,False,False,False,False
+Banco Azteca,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.5583599,False,False,False,False
+Banco Azteca,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.55814767,False,False,False,False
+Banco Azteca,random_slack-com_20251129T164623.png,RANDOM,unknown,0.55809,False,False,False,False
+Banco Azteca,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.55794686,False,False,False,False
+Banco Azteca,random_cox-net_20251129T170452.png,RANDOM,unknown,0.5577588,False,False,False,False
+Banco Azteca,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.55775636,False,False,False,False
+Banco Azteca,random_forter-com_20251129T164642.png,RANDOM,unknown,0.5577097,False,False,False,False
+Banco Azteca,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.55746317,False,False,False,False
+Banco Azteca,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.55737036,False,False,False,False
+Banco Azteca,random_branch-io_20251129T171524.png,RANDOM,unknown,0.557278,False,False,False,False
+Banco Azteca,random_g-co_20251129T171804.png,RANDOM,unknown,0.55693394,False,False,False,False
+Banco Azteca,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.5565928,False,False,False,False
+Banco Azteca,random_finn-no_20251129T180303.png,RANDOM,unknown,0.5565108,False,False,False,False
+Banco Azteca,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.5564697,False,False,False,False
+Banco Azteca,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.5562901,False,False,False,False
+Banco Azteca,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.5560257,False,False,False,False
+Banco Azteca,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.55584735,False,False,False,False
+Banco Azteca,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.5558183,False,False,False,False
+Banco Azteca,random_tds-net_20251129T174115.png,RANDOM,unknown,0.55580294,False,False,False,False
+Banco Azteca,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.5552694,False,False,False,False
+Banco Azteca,random_booking-com_20251129T164752.png,RANDOM,unknown,0.5551227,False,False,False,False
+Banco Azteca,random_daum-net_20251129T174537.png,RANDOM,unknown,0.5545224,False,False,False,False
+Banco Azteca,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.55438244,False,False,False,False
+Banco Azteca,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.5539764,False,False,False,False
+Banco Azteca,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.5537114,False,False,False,False
+Banco Azteca,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5535491,False,False,False,False
+Banco Azteca,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.5533056,False,False,False,False
+Banco Azteca,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.55317605,False,False,False,False
+Banco Azteca,random_360-cn_20251129T173141.png,RANDOM,unknown,0.5531708,False,False,False,False
+Banco Azteca,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.55302006,False,False,False,False
+Banco Azteca,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.5530071,False,False,False,False
+Banco Azteca,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.55291224,False,False,False,False
+Banco Azteca,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.5529106,False,False,False,False
+Banco Azteca,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.5527688,False,False,False,False
+Banco Azteca,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.5527655,False,False,False,False
+Banco Azteca,random_office365-com_20251129T162902.png,RANDOM,unknown,0.55221033,False,False,False,False
+Banco Azteca,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.5520483,False,False,False,False
+Banco Azteca,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.5520193,False,False,False,False
+Banco Azteca,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.5519506,False,False,False,False
+Banco Azteca,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.55186987,False,False,False,False
+Banco Azteca,random_ui-com_20251129T163127.png,RANDOM,unknown,0.5517993,False,False,False,False
+Banco Azteca,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.5517809,False,False,False,False
+Banco Azteca,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.5517117,False,False,False,False
+Banco Azteca,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.5511878,False,False,False,False
+Banco Azteca,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.5511076,False,False,False,False
+Banco Azteca,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.55076885,False,False,False,False
+Banco Azteca,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.5503789,False,False,False,False
+Banco Azteca,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.5498448,False,False,False,False
+Banco Azteca,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.54946065,False,False,False,False
+Banco Azteca,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.5491373,False,False,False,False
+Banco Azteca,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.54880965,False,False,False,False
+Banco Azteca,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.5487118,False,False,False,False
+Banco Azteca,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.5484478,False,False,False,False
+Banco Azteca,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.5483219,False,False,False,False
+Banco Azteca,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.54768574,False,False,False,False
+Banco Azteca,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.54747975,False,False,False,False
+Banco Azteca,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.5473155,False,False,False,False
+Banco Azteca,random_live-com_20251129T162413.png,RANDOM,unknown,0.54701245,False,False,False,False
+Banco Azteca,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.54669106,False,False,False,False
+Banco Azteca,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.54655045,False,False,False,False
+Banco Azteca,random_apple-com_20251129T162353.png,RANDOM,unknown,0.54640484,False,False,False,False
+Banco Azteca,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.54633236,False,False,False,False
+Banco Azteca,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.5461887,False,False,False,False
+Banco Azteca,random_media-net_20251129T164538.png,RANDOM,unknown,0.54599524,False,False,False,False
+Banco Azteca,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.5457958,False,False,False,False
+Banco Azteca,random_espn-com_20251129T165100.png,RANDOM,unknown,0.5456351,False,False,False,False
+Banco Azteca,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.545446,False,False,False,False
+Banco Azteca,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.5450131,False,False,False,False
+Banco Azteca,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.54460406,False,False,False,False
+Banco Azteca,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.5444275,False,False,False,False
+Banco Azteca,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.54415405,False,False,False,False
+Banco Azteca,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.54409814,False,False,False,False
+Banco Azteca,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.5438721,False,False,False,False
+Banco Azteca,random_india-com_20251129T180557.png,RANDOM,unknown,0.54375887,False,False,False,False
+Banco Azteca,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.5435556,False,False,False,False
+Banco Azteca,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.54347855,False,False,False,False
+Banco Azteca,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.5433563,False,False,False,False
+Banco Azteca,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.54325753,False,False,False,False
+Banco Azteca,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.5431869,False,False,False,False
+Banco Azteca,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.5431119,False,False,False,False
+Banco Azteca,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.5430607,False,False,False,False
+Banco Azteca,random_synology-com_20251129T173948.png,RANDOM,unknown,0.54288244,False,False,False,False
+Banco Azteca,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.54270613,False,False,False,False
+Banco Azteca,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.54216474,False,False,False,False
+Banco Azteca,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.54214215,False,False,False,False
+Banco Azteca,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.5419656,False,False,False,False
+Banco Azteca,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.54181355,False,False,False,False
+Banco Azteca,random_windows-com_20251129T163112.png,RANDOM,unknown,0.5417149,False,False,False,False
+Banco Azteca,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.54163134,False,False,False,False
+Banco Azteca,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.5415244,False,False,False,False
+Banco Azteca,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.54139626,False,False,False,False
+Banco Azteca,random_qq-com_20251129T162834.png,RANDOM,unknown,0.5412306,False,False,False,False
+Banco Azteca,random_github-io_20251129T163235.png,RANDOM,unknown,0.54116666,False,False,False,False
+Banco Azteca,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.5409021,False,False,False,False
+Banco Azteca,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.5409006,False,False,False,False
+Banco Azteca,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.5408225,False,False,False,False
+Banco Azteca,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.5407182,False,False,False,False
+Banco Azteca,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.5406334,False,False,False,False
+Banco Azteca,random_bild-de_20251129T173827.png,RANDOM,unknown,0.540022,False,False,False,False
+Banco Azteca,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5399244,False,False,False,False
+Banco Azteca,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.5399084,False,False,False,False
+Banco Azteca,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.5398973,False,False,False,False
+Banco Azteca,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.5398434,False,False,False,False
+Banco Azteca,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.53980666,False,False,False,False
+Banco Azteca,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5396444,False,False,False,False
+Banco Azteca,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.5396269,False,False,False,False
+Banco Azteca,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.53879374,False,False,False,False
+Banco Azteca,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.5387627,False,False,False,False
+Banco Azteca,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.53874904,False,False,False,False
+Banco Azteca,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.5387444,False,False,False,False
+Banco Azteca,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.53851676,False,False,False,False
+Banco Azteca,random_notion-so_20251129T180340.png,RANDOM,unknown,0.5379837,False,False,False,False
+Banco Azteca,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.5379106,False,False,False,False
+Banco Azteca,random_time-com_20251129T170629.png,RANDOM,unknown,0.53766876,False,False,False,False
+Banco Azteca,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.53761554,False,False,False,False
+Banco Azteca,random_chess-com_20251129T173919.png,RANDOM,unknown,0.5375673,False,False,False,False
+Banco Azteca,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.53689367,False,False,False,False
+Banco Azteca,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.53683305,False,False,False,False
+Banco Azteca,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.5366532,False,False,False,False
+Banco Azteca,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.5360698,False,False,False,False
+Banco Azteca,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.536008,False,False,False,False
+Banco Azteca,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.53553903,False,False,False,False
+Banco Azteca,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.5352796,False,False,False,False
+Banco Azteca,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.53518283,False,False,False,False
+Banco Azteca,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.535067,False,False,False,False
+Banco Azteca,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.5350503,False,False,False,False
+Banco Azteca,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.53470176,False,False,False,False
+Banco Azteca,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.53445727,False,False,False,False
+Banco Azteca,random_t-me_20251129T163150.png,RANDOM,unknown,0.5344326,False,False,False,False
+Banco Azteca,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.53439236,False,False,False,False
+Banco Azteca,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.53425014,False,False,False,False
+Banco Azteca,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.5339293,False,False,False,False
+Banco Azteca,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.5337695,False,False,False,False
+Banco Azteca,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.5332691,False,False,False,False
+Banco Azteca,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.5329623,False,False,False,False
+Banco Azteca,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.53279144,False,False,False,False
+Banco Azteca,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.5327076,False,False,False,False
+Banco Azteca,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.53267133,False,False,False,False
+Banco Azteca,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.53231835,False,False,False,False
+Banco Azteca,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.53207755,False,False,False,False
+Banco Azteca,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.53133816,False,False,False,False
+Banco Azteca,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.5312619,False,False,False,False
+Banco Azteca,random_braze-com_20251129T171458.png,RANDOM,unknown,0.5309856,False,False,False,False
+Banco Azteca,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.5306236,False,False,False,False
+Banco Azteca,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.5298252,False,False,False,False
+Banco Azteca,random_line-me_20251129T170140.png,RANDOM,unknown,0.52961683,False,False,False,False
+Banco Azteca,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.5294821,False,False,False,False
+Banco Azteca,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.52899325,False,False,False,False
+Banco Azteca,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.52878463,False,False,False,False
+Banco Azteca,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.5287044,False,False,False,False
+Banco Azteca,random_clever-com_20251129T173500.png,RANDOM,unknown,0.5285711,False,False,False,False
+Banco Azteca,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.52831656,False,False,False,False
+Banco Azteca,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.52795756,False,False,False,False
+Banco Azteca,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.52765703,False,False,False,False
+Banco Azteca,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.5275941,False,False,False,False
+Banco Azteca,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.5271214,False,False,False,False
+Banco Azteca,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.5268486,False,False,False,False
+Banco Azteca,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.5266921,False,False,False,False
+Banco Azteca,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.526359,False,False,False,False
+Banco Azteca,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.52617395,False,False,False,False
+Banco Azteca,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.5259234,False,False,False,False
+Banco Azteca,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.5251386,False,False,False,False
+Banco Azteca,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.5248491,False,False,False,False
+Banco Azteca,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.5247353,False,False,False,False
+Banco Azteca,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.5233643,False,False,False,False
+Banco Azteca,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.52320457,False,False,False,False
+Banco Azteca,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.52276886,False,False,False,False
+Banco Azteca,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.5225657,False,False,False,False
+Banco Azteca,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.52238095,False,False,False,False
+Banco Azteca,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.52188796,False,False,False,False
+Banco Azteca,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.5217337,False,False,False,False
+Banco Azteca,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.5216907,False,False,False,False
+Banco Azteca,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.5216879,False,False,False,False
+Banco Azteca,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.52161026,False,False,False,False
+Banco Azteca,random_uk-com_20251129T171638.png,RANDOM,unknown,0.5215942,False,False,False,False
+Banco Azteca,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.5214026,False,False,False,False
+Banco Azteca,random_free-fr_20251129T171241.png,RANDOM,unknown,0.5213387,False,False,False,False
+Banco Azteca,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.5212044,False,False,False,False
+Banco Azteca,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.5210978,False,False,False,False
+Banco Azteca,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.52088255,False,False,False,False
+Banco Azteca,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.5208378,False,False,False,False
+Banco Azteca,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.52054197,False,False,False,False
+Banco Azteca,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.5205399,False,False,False,False
+Banco Azteca,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.5198673,False,False,False,False
+Banco Azteca,random_ft-com_20251129T170724.png,RANDOM,unknown,0.5196376,False,False,False,False
+Banco Azteca,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.51960367,False,False,False,False
+Banco Azteca,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.51952624,False,False,False,False
+Banco Azteca,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.5193905,False,False,False,False
+Banco Azteca,random_w3-org_20251129T163751.png,RANDOM,unknown,0.5192588,False,False,False,False
+Banco Azteca,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.51902133,False,False,False,False
+Banco Azteca,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.5183631,False,False,False,False
+Banco Azteca,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.5183177,False,False,False,False
+Banco Azteca,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.5182953,False,False,False,False
+Banco Azteca,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.51808274,False,False,False,False
+Banco Azteca,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.517517,False,False,False,False
+Banco Azteca,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.51715565,False,False,False,False
+Banco Azteca,random_miui-com_20251129T163719.png,RANDOM,unknown,0.5166485,False,False,False,False
+Banco Azteca,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.5162461,False,False,False,False
+Banco Azteca,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.51587456,False,False,False,False
+Banco Azteca,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.5158039,False,False,False,False
+Banco Azteca,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.51561725,False,False,False,False
+Banco Azteca,random_example-com_20251129T163930.png,RANDOM,unknown,0.5155892,False,False,False,False
+Banco Azteca,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.5152531,False,False,False,False
+Banco Azteca,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.5152241,False,False,False,False
+Banco Azteca,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.51498055,False,False,False,False
+Banco Azteca,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.5148369,False,False,False,False
+Banco Azteca,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.51473653,False,False,False,False
+Banco Azteca,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.51455367,False,False,False,False
+Banco Azteca,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.5141699,False,False,False,False
+Banco Azteca,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.5140356,False,False,False,False
+Banco Azteca,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.51359856,False,False,False,False
+Banco Azteca,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.51320314,False,False,False,False
+Banco Azteca,random_wired-com_20251129T170401.png,RANDOM,unknown,0.51319957,False,False,False,False
+Banco Azteca,random_docker-com_20251129T170827.png,RANDOM,unknown,0.5129186,False,False,False,False
+Banco Azteca,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.5128495,False,False,False,False
+Banco Azteca,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.5126177,False,False,False,False
+Banco Azteca,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.51251405,False,False,False,False
+Banco Azteca,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.5120667,False,False,False,False
+Banco Azteca,random_bol-com_20251129T174941.png,RANDOM,unknown,0.51206326,False,False,False,False
+Banco Azteca,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.51192397,False,False,False,False
+Banco Azteca,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.51188654,False,False,False,False
+Banco Azteca,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.51147085,False,False,False,False
+Banco Azteca,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.51130414,False,False,False,False
+Banco Azteca,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.51126325,False,False,False,False
+Banco Azteca,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.5111603,False,False,False,False
+Banco Azteca,random_people-com_20251129T172859.png,RANDOM,unknown,0.5111421,False,False,False,False
+Banco Azteca,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.51104116,False,False,False,False
+Banco Azteca,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.51099515,False,False,False,False
+Banco Azteca,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.5105917,False,False,False,False
+Banco Azteca,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.51032025,False,False,False,False
+Banco Azteca,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.51023847,False,False,False,False
+Banco Azteca,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.5095414,False,False,False,False
+Banco Azteca,random_linode-com_20251129T173059.png,RANDOM,unknown,0.5095128,False,False,False,False
+Banco Azteca,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.5094747,False,False,False,False
+Banco Azteca,random_php-net_20251129T164521.png,RANDOM,unknown,0.50916964,False,False,False,False
+Banco Azteca,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.5091024,False,False,False,False
+Banco Azteca,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.5088188,False,False,False,False
+Banco Azteca,random_office-com_20251129T162404.png,RANDOM,unknown,0.5084458,False,False,False,False
+Banco Azteca,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.50815713,False,False,False,False
+Banco Azteca,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.506618,False,False,False,False
+Banco Azteca,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.50657666,False,False,False,False
+Banco Azteca,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.5060273,False,False,False,False
+Banco Azteca,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.50576055,False,False,False,False
+Banco Azteca,random_trello-com_20251129T180351.png,RANDOM,unknown,0.5054411,False,False,False,False
+Banco Azteca,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.5054375,False,False,False,False
+Banco Azteca,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.5054303,False,False,False,False
+Banco Azteca,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.50541395,False,False,False,False
+Banco Azteca,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.5052999,False,False,False,False
+Banco Azteca,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.5052123,False,False,False,False
+Banco Azteca,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.50460577,False,False,False,False
+Banco Azteca,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.5041335,False,False,False,False
+Banco Azteca,random_medium-com_20251129T163655.png,RANDOM,unknown,0.50411177,False,False,False,False
+Banco Azteca,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.5039023,False,False,False,False
+Banco Azteca,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.5036793,False,False,False,False
+Banco Azteca,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.50330186,False,False,False,False
+Banco Azteca,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.5031015,False,False,False,False
+Banco Azteca,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.50293815,False,False,False,False
+Banco Azteca,random_vg-no_20251129T180754.png,RANDOM,unknown,0.502701,False,False,False,False
+Banco Azteca,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.5025153,False,False,False,False
+Banco Azteca,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.50229794,False,False,False,False
+Banco Azteca,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.5021835,False,False,False,False
+Banco Azteca,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.5019151,False,False,False,False
+Banco Azteca,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.5016929,False,False,False,False
+Banco Azteca,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.50164413,False,False,False,False
+Banco Azteca,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.50156903,False,False,False,False
+Banco Azteca,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.50143397,False,False,False,False
+Banco Azteca,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.50069356,False,False,False,False
+Banco Azteca,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.50051117,False,False,False,False
+Banco Azteca,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.50051,False,False,False,False
+Banco Azteca,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.50036573,False,False,False,False
+Banco Azteca,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.5003087,False,False,False,False
+Banco Azteca,random_t-co_20251129T163912.png,RANDOM,unknown,0.49984345,False,False,False,False
+Banco Azteca,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.499703,False,False,False,False
+Banco Azteca,random_roku-com_20251129T164128.png,RANDOM,unknown,0.49960172,False,False,False,False
+Banco Azteca,random_archive-org_20251129T163406.png,RANDOM,unknown,0.49919775,False,False,False,False
+Banco Azteca,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.49876082,False,False,False,False
+Banco Azteca,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.49865344,False,False,False,False
+Banco Azteca,random_erome-com_20251129T165107.png,RANDOM,unknown,0.49859077,False,False,False,False
+Banco Azteca,random_f5-com_20251129T163706.png,RANDOM,unknown,0.49839324,False,False,False,False
+Banco Azteca,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.49822843,False,False,False,False
+Banco Azteca,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.4979155,False,False,False,False
+Banco Azteca,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.49773628,False,False,False,False
+Banco Azteca,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.49743298,False,False,False,False
+Banco Azteca,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.49705434,False,False,False,False
+Banco Azteca,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.49703747,False,False,False,False
+Banco Azteca,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.49694926,False,False,False,False
+Banco Azteca,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.4964578,False,False,False,False
+Banco Azteca,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.49621403,False,False,False,False
+Banco Azteca,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.4951636,False,False,False,False
+Banco Azteca,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.49515346,False,False,False,False
+Banco Azteca,random_python-org_20251129T173738.png,RANDOM,unknown,0.49492145,False,False,False,False
+Banco Azteca,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.49450213,False,False,False,False
+Banco Azteca,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.4945014,False,False,False,False
+Banco Azteca,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.49434608,False,False,False,False
+Banco Azteca,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.4943278,False,False,False,False
+Banco Azteca,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.494119,False,False,False,False
+Banco Azteca,random_github-com_20251129T162456.png,RANDOM,unknown,0.49350786,False,False,False,False
+Banco Azteca,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.4920447,False,False,False,False
+Banco Azteca,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.4917456,False,False,False,False
+Banco Azteca,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.49138504,False,False,False,False
+Banco Azteca,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.4913235,False,False,False,False
+Banco Azteca,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.49107113,False,False,False,False
+Banco Azteca,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.49105063,False,False,False,False
+Banco Azteca,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.4902618,False,False,False,False
+Banco Azteca,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.48974356,False,False,False,False
+Banco Azteca,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.4897143,False,False,False,False
+Banco Azteca,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.4894277,False,False,False,False
+Banco Azteca,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.4892426,False,False,False,False
+Banco Azteca,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.4889552,False,False,False,False
+Banco Azteca,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.4888376,False,False,False,False
+Banco Azteca,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.48877633,False,False,False,False
+Banco Azteca,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.4886654,False,False,False,False
+Banco Azteca,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.4883934,False,False,False,False
+Banco Azteca,random_nic-io_20251129T173852.png,RANDOM,unknown,0.4880197,False,False,False,False
+Banco Azteca,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.4876644,False,False,False,False
+Banco Azteca,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.4875816,False,False,False,False
+Banco Azteca,random_wps-com_20251129T174320.png,RANDOM,unknown,0.486083,False,False,False,False
+Banco Azteca,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.48602647,False,False,False,False
+Banco Azteca,random_openai-com_20251129T164132.png,RANDOM,unknown,0.48544836,False,False,False,False
+Banco Azteca,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.4853907,False,False,False,False
+Banco Azteca,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.48500162,False,False,False,False
+Banco Azteca,random_ted-com_20251129T172015.png,RANDOM,unknown,0.48470026,False,False,False,False
+Banco Azteca,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.48453522,False,False,False,False
+Banco Azteca,random_state-gov_20251129T174508.png,RANDOM,unknown,0.48403955,False,False,False,False
+Banco Azteca,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.4839744,False,False,False,False
+Banco Azteca,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.48324138,False,False,False,False
+Banco Azteca,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.48272023,False,False,False,False
+Banco Azteca,random_plos-org_20251129T180524.png,RANDOM,unknown,0.4800983,False,False,False,False
+Banco Azteca,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.47902334,False,False,False,False
+Banco Azteca,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.47822043,False,False,False,False
+Banco Azteca,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.47627372,False,False,False,False
+Banco Azteca,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.47579598,False,False,False,False
+Banco Azteca,random_overload-su_20251129T170747.png,RANDOM,unknown,0.4752433,False,False,False,False
+Banco Azteca,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.47507235,False,False,False,False
+Banco Azteca,random_genius-com_20251129T174000.png,RANDOM,unknown,0.47498384,False,False,False,False
+Banco Azteca,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.47467694,False,False,False,False
+Banco Azteca,random_debian-org_20251129T164620.png,RANDOM,unknown,0.47417903,False,False,False,False
+Banco Azteca,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.47409767,False,False,False,False
+Banco Azteca,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.4740677,False,False,False,False
+Banco Azteca,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.47377068,False,False,False,False
+Banco Azteca,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.47358683,False,False,False,False
+Banco Azteca,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.4731844,False,False,False,False
+Banco Azteca,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.4729806,False,False,False,False
+Banco Azteca,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.4714873,False,False,False,False
+Banco Azteca,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.47141474,False,False,False,False
+Banco Azteca,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.47129655,False,False,False,False
+Banco Azteca,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.47098634,False,False,False,False
+Banco Azteca,random_singular-net_20251129T175446.png,RANDOM,unknown,0.47054604,False,False,False,False
+Banco Azteca,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.46993655,False,False,False,False
+Banco Azteca,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.4698357,False,False,False,False
+Banco Azteca,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.46893457,False,False,False,False
+Banco Azteca,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.46834227,False,False,False,False
+Banco Azteca,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.46748546,False,False,False,False
+Banco Azteca,random_go-com_20251129T164609.png,RANDOM,unknown,0.46678293,False,False,False,False
+Banco Azteca,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.46615526,False,False,False,False
+Banco Azteca,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.46336383,False,False,False,False
+Banco Azteca,random_agora-io_20251129T175439.png,RANDOM,unknown,0.46335098,False,False,False,False
+Banco Azteca,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.46315265,False,False,False,False
+Banco Azteca,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.4622523,False,False,False,False
+Banco Azteca,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.4621864,False,False,False,False
+Banco Azteca,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.4615906,False,False,False,False
+Banco Azteca,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.46140373,False,False,False,False
+Banco Azteca,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.4607252,False,False,False,False
+Banco Azteca,random_fast-com_20251129T171226.png,RANDOM,unknown,0.4595893,False,False,False,False
+Banco Azteca,random_asus-com_20251129T172748.png,RANDOM,unknown,0.4595214,False,False,False,False
+Banco Azteca,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.4575288,False,False,False,False
+Banco Azteca,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.45607942,False,False,False,False
+Banco Azteca,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.45546484,False,False,False,False
+Banco Azteca,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.45523724,False,False,False,False
+Banco Azteca,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.45371205,False,False,False,False
+Banco Azteca,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.4526021,False,False,False,False
+Banco Azteca,random_bing-com_20251129T162459.png,RANDOM,unknown,0.45214143,False,False,False,False
+Banco Azteca,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.4518085,False,False,False,False
+Banco Azteca,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.44910315,False,False,False,False
+Banco Azteca,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.44806477,False,False,False,False
+Banco Azteca,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.44682914,False,False,False,False
+Banco Azteca,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.44608927,False,False,False,False
+Banco Azteca,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.4454988,False,False,False,False
+Banco Azteca,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.44526595,False,False,False,False
+Banco Azteca,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.44524384,False,False,False,False
+Banco Azteca,random_doi-org_20251129T164112.png,RANDOM,unknown,0.44378155,False,False,False,False
+Banco Azteca,random_npr-org_20251129T170056.png,RANDOM,unknown,0.44323432,False,False,False,False
+Banco Azteca,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.44276488,False,False,False,False
+Banco Azteca,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.4425864,False,False,False,False
+Banco Azteca,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.44173667,False,False,False,False
+Banco Azteca,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.43893424,False,False,False,False
+Banco Azteca,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.43671405,False,False,False,False
+Banco Azteca,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.4335692,False,False,False,False
+Banco Azteca,random_health-mil_20251129T163619.png,RANDOM,unknown,0.42999718,False,False,False,False
+Banco Azteca,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.428052,False,False,False,False
+Banco Azteca,random_apache-org_20251129T163228.png,RANDOM,unknown,0.42799926,False,False,False,False
+Banco Azteca,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.42770696,False,False,False,False
+Banco Azteca,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.42684454,False,False,False,False
+Banco Azteca,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.42611435,False,False,False,False
+Banco Azteca,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.42540208,False,False,False,False
+Banco Azteca,random_azure-com_20251129T162438.png,RANDOM,unknown,0.42537984,False,False,False,False
+Banco Azteca,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.4235836,False,False,False,False
+Banco Azteca,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.4183715,False,False,False,False
+Banco Azteca,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.41636962,False,False,False,False
+Banco Azteca,random_he-net_20251129T172135.png,RANDOM,unknown,0.41450036,False,False,False,False
+Banco Azteca,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.41286898,False,False,False,False
+Banco Azteca,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.4082198,False,False,False,False
+Banco Azteca,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.40758246,False,False,False,False
+Banco Azteca,random_poki-com_20251129T180027.png,RANDOM,unknown,0.40157437,False,False,False,False
+Banco Azteca,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.39476198,False,False,False,False
+Banco Azteca,random_who-int_20251129T164225.png,RANDOM,unknown,0.39081806,False,False,False,False
+Banco Azteca,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.38224012,False,False,False,False
+Banco Azteca,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.3369149,False,False,False,False
+Banco Azteca,random_threads-com_20251129T174157.png,RANDOM,unknown,0.3029496,False,False,False,False

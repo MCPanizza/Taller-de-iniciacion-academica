@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+Inbursa,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.9999998,True,True,False,True
+Inbursa,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.96210784,True,True,False,False
+Inbursa,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.96058404,True,True,False,False
+Inbursa,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.9599272,True,True,False,False
+Inbursa,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.9556124,True,True,False,False
+Inbursa,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.95535046,True,True,False,False
+Inbursa,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.9536501,True,True,False,False
+Inbursa,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.9491575,True,True,False,False
+Inbursa,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.9485657,True,True,False,False
+Inbursa,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.9409642,True,True,False,False
+Inbursa,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.9371545,True,True,False,False
+Inbursa,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.8654662,True,False,True,False
+Inbursa,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.85855556,True,False,True,False
+Inbursa,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.85614246,True,False,True,False
+Inbursa,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.85591495,True,False,True,False
+Inbursa,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.8556376,True,False,True,False
+Inbursa,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.8542417,True,False,True,False
+Inbursa,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.853945,True,False,True,False
+Inbursa,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.8538861,True,False,True,False
+Inbursa,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.85307586,True,False,True,False
+Inbursa,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.8521796,True,False,True,False
+Inbursa,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.85041195,True,False,True,False
+Inbursa,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.8503098,True,False,True,False
+Inbursa,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.84971017,True,False,True,False
+Inbursa,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.8492359,True,False,True,False
+Inbursa,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.84823704,True,False,True,False
+Inbursa,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.8481485,True,False,True,False
+Inbursa,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.8480686,True,False,True,False
+Inbursa,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.8479088,True,False,True,False
+Inbursa,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.84679675,True,False,True,False
+Inbursa,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.84672743,True,False,True,False
+Inbursa,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.8466646,True,False,True,False
+Inbursa,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.8464427,True,False,True,False
+Inbursa,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.84584874,True,False,True,False
+Inbursa,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.8456519,True,False,True,False
+Inbursa,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.8440251,True,False,True,False
+Inbursa,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.84380853,True,False,True,False
+Inbursa,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.8437184,True,False,True,False
+Inbursa,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.8417859,True,False,True,False
+Inbursa,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.8415718,True,False,True,False
+Inbursa,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.84029776,True,False,True,False
+Inbursa,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.84025097,True,False,True,False
+Inbursa,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.8399399,True,False,True,False
+Inbursa,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.8391497,True,False,True,False
+Inbursa,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.8371539,True,False,True,False
+Inbursa,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.8357838,True,False,True,False
+Inbursa,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.83572996,True,False,True,False
+Inbursa,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.83419067,True,False,True,False
+Inbursa,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.83376753,True,False,True,False
+Inbursa,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.83266884,True,False,True,False
+Inbursa,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.83197117,True,False,True,False
+Inbursa,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.8318405,True,False,True,False
+Inbursa,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.8318015,True,False,True,False
+Inbursa,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.83175826,True,False,True,False
+Inbursa,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.8316172,True,False,True,False
+Inbursa,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8310581,True,False,True,False
+Inbursa,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.829986,True,False,True,False
+Inbursa,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.82949686,True,False,True,False
+Inbursa,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.8288176,True,False,True,False
+Inbursa,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.8282144,True,False,True,False
+Inbursa,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.8275646,True,False,True,False
+Inbursa,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.8256342,True,False,True,False
+Inbursa,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8249816,True,False,True,False
+Inbursa,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8239625,True,False,True,False
+Inbursa,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.82340574,True,False,True,False
+Inbursa,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.82243705,True,False,True,False
+Inbursa,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.82226837,True,False,True,False
+Inbursa,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8220291,True,False,True,False
+Inbursa,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.82174265,True,False,True,False
+Inbursa,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.8212896,True,False,True,False
+Inbursa,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8208853,True,False,True,False
+Inbursa,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8205025,True,False,True,False
+Inbursa,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.81950146,True,False,True,False
+Inbursa,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.81932193,True,False,True,False
+Inbursa,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.8190479,True,False,True,False
+Inbursa,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.8184642,True,False,True,False
+Inbursa,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.8182843,True,False,True,False
+Inbursa,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.8180347,True,False,True,False
+Inbursa,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8178067,True,False,True,False
+Inbursa,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.8176074,True,False,True,False
+Inbursa,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.8175928,True,False,True,False
+Inbursa,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.81755614,True,False,True,False
+Inbursa,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.81722736,True,False,True,False
+Inbursa,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.817147,True,False,True,False
+Inbursa,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.81710684,True,False,True,False
+Inbursa,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8164365,True,False,True,False
+Inbursa,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8163859,True,False,True,False
+Inbursa,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.8161247,True,False,True,False
+Inbursa,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.8158797,True,False,True,False
+Inbursa,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8155962,True,False,True,False
+Inbursa,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.81453174,True,False,True,False
+Inbursa,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.8140216,True,False,True,False
+Inbursa,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.813979,True,False,True,False
+Inbursa,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.8137434,True,False,True,False
+Inbursa,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.8136759,True,False,True,False
+Inbursa,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.8135678,True,False,True,False
+Inbursa,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.81269145,True,False,True,False
+Inbursa,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.812191,True,False,True,False
+Inbursa,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.81185764,True,False,True,False
+Inbursa,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8115908,True,False,True,False
+Inbursa,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.81078595,True,False,True,False
+Inbursa,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.81074893,True,False,True,False
+Inbursa,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.81070876,True,False,True,False
+Inbursa,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.81041205,True,False,True,False
+Inbursa,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.8102188,True,False,True,False
+Inbursa,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.8101829,True,False,True,False
+Inbursa,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8097564,True,False,True,False
+Inbursa,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8097537,True,False,True,False
+Inbursa,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.80918795,True,False,True,False
+Inbursa,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.8086321,True,False,True,False
+Inbursa,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8082132,True,False,True,False
+Inbursa,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.808069,True,False,True,False
+Inbursa,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.80788565,True,False,True,False
+Inbursa,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.8078328,True,False,True,False
+Inbursa,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.8078144,True,False,True,False
+Inbursa,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8078054,True,False,True,False
+Inbursa,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.80752325,True,False,True,False
+Inbursa,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.8074936,True,False,True,False
+Inbursa,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.80743,True,False,True,False
+Inbursa,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.80726683,True,False,True,False
+Inbursa,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.80686855,True,False,True,False
+Inbursa,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.8065889,True,False,True,False
+Inbursa,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.8063505,True,False,True,False
+Inbursa,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8063497,True,False,True,False
+Inbursa,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.8059303,True,False,True,False
+Inbursa,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.80560666,True,False,True,False
+Inbursa,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.8055766,True,False,True,False
+Inbursa,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.8054778,True,False,True,False
+Inbursa,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.805331,True,False,True,False
+Inbursa,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.8052624,True,False,True,False
+Inbursa,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.8051025,True,False,True,False
+Inbursa,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.8049096,True,False,True,False
+Inbursa,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.8045747,True,False,True,False
+Inbursa,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.8045507,True,False,True,False
+Inbursa,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.8039241,True,False,True,False
+Inbursa,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.80389476,True,False,True,False
+Inbursa,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.80375683,True,False,True,False
+Inbursa,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.8034084,True,False,True,False
+Inbursa,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.80323267,True,False,True,False
+Inbursa,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.80315125,True,False,True,False
+Inbursa,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.80306715,True,False,True,False
+Inbursa,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.802832,True,False,True,False
+Inbursa,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.8028053,True,False,True,False
+Inbursa,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.8027339,True,False,True,False
+Inbursa,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.8021264,True,False,True,False
+Inbursa,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.80210257,True,False,True,False
+Inbursa,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.8017088,True,False,True,False
+Inbursa,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8014333,True,False,True,False
+Inbursa,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.80142665,True,False,True,False
+Inbursa,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.8010994,True,False,True,False
+Inbursa,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.8009401,True,False,True,False
+Inbursa,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.8009022,True,False,True,False
+Inbursa,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.8008691,True,False,True,False
+Inbursa,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.8007288,True,False,True,False
+Inbursa,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.80072033,True,False,True,False
+Inbursa,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.80060816,True,False,True,False
+Inbursa,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.80055237,True,False,True,False
+Inbursa,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.800376,True,False,True,False
+Inbursa,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.8001846,True,False,True,False
+Inbursa,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7999854,False,False,False,False
+Inbursa,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7998889,False,False,False,False
+Inbursa,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7998655,False,False,False,False
+Inbursa,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7997875,False,False,False,False
+Inbursa,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7993283,False,False,False,False
+Inbursa,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.798496,False,False,False,False
+Inbursa,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7978554,False,False,False,False
+Inbursa,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.79781896,False,False,False,False
+Inbursa,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.79760146,False,False,False,False
+Inbursa,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.79742306,False,False,False,False
+Inbursa,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7973096,False,False,False,False
+Inbursa,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.7971261,False,False,False,False
+Inbursa,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.7969245,False,False,False,False
+Inbursa,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.79687595,False,False,False,False
+Inbursa,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.7964887,False,False,False,False
+Inbursa,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7964563,False,False,False,False
+Inbursa,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.79641026,False,False,False,False
+Inbursa,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.79630625,False,False,False,False
+Inbursa,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7960818,False,False,False,False
+Inbursa,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.79599893,False,False,False,False
+Inbursa,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.7957011,False,False,False,False
+Inbursa,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7956416,False,False,False,False
+Inbursa,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.79535127,False,False,False,False
+Inbursa,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7952808,False,False,False,False
+Inbursa,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7950741,False,False,False,False
+Inbursa,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7949333,False,False,False,False
+Inbursa,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7947431,False,False,False,False
+Inbursa,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7946863,False,False,False,False
+Inbursa,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7944895,False,False,False,False
+Inbursa,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.79411834,False,False,False,False
+Inbursa,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.79393435,False,False,False,False
+Inbursa,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.79382193,False,False,False,False
+Inbursa,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7933572,False,False,False,False
+Inbursa,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.79320526,False,False,False,False
+Inbursa,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7931352,False,False,False,False
+Inbursa,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.79310834,False,False,False,False
+Inbursa,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7929808,False,False,False,False
+Inbursa,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.79295874,False,False,False,False
+Inbursa,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.7926728,False,False,False,False
+Inbursa,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7926318,False,False,False,False
+Inbursa,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7926196,False,False,False,False
+Inbursa,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.79261,False,False,False,False
+Inbursa,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.7923299,False,False,False,False
+Inbursa,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7914714,False,False,False,False
+Inbursa,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.79146737,False,False,False,False
+Inbursa,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.79136634,False,False,False,False
+Inbursa,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.7912355,False,False,False,False
+Inbursa,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7910888,False,False,False,False
+Inbursa,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7910247,False,False,False,False
+Inbursa,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7909348,False,False,False,False
+Inbursa,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7908129,False,False,False,False
+Inbursa,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.79068476,False,False,False,False
+Inbursa,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.79038614,False,False,False,False
+Inbursa,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.7903643,False,False,False,False
+Inbursa,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7902943,False,False,False,False
+Inbursa,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.7901112,False,False,False,False
+Inbursa,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7895387,False,False,False,False
+Inbursa,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.789164,False,False,False,False
+Inbursa,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7887218,False,False,False,False
+Inbursa,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.78850853,False,False,False,False
+Inbursa,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7880753,False,False,False,False
+Inbursa,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.78796756,False,False,False,False
+Inbursa,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.7874324,False,False,False,False
+Inbursa,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.78727275,False,False,False,False
+Inbursa,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7871745,False,False,False,False
+Inbursa,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.7870561,False,False,False,False
+Inbursa,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7870435,False,False,False,False
+Inbursa,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.7869586,False,False,False,False
+Inbursa,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.7863564,False,False,False,False
+Inbursa,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7862854,False,False,False,False
+Inbursa,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.7861859,False,False,False,False
+Inbursa,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.78601086,False,False,False,False
+Inbursa,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.7859535,False,False,False,False
+Inbursa,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7858782,False,False,False,False
+Inbursa,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.78568447,False,False,False,False
+Inbursa,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7855302,False,False,False,False
+Inbursa,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.78548324,False,False,False,False
+Inbursa,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.78532374,False,False,False,False
+Inbursa,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.7850539,False,False,False,False
+Inbursa,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7848938,False,False,False,False
+Inbursa,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.7847076,False,False,False,False
+Inbursa,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.784523,False,False,False,False
+Inbursa,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.78447294,False,False,False,False
+Inbursa,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7842526,False,False,False,False
+Inbursa,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.78423697,False,False,False,False
+Inbursa,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.78415406,False,False,False,False
+Inbursa,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7840766,False,False,False,False
+Inbursa,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.78385186,False,False,False,False
+Inbursa,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7837932,False,False,False,False
+Inbursa,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7836655,False,False,False,False
+Inbursa,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.7825813,False,False,False,False
+Inbursa,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.7825567,False,False,False,False
+Inbursa,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.78251123,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.7822068,False,False,False,False
+Inbursa,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.78215384,False,False,False,False
+Inbursa,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.78207153,False,False,False,False
+Inbursa,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.78170115,False,False,False,False
+Inbursa,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7816881,False,False,False,False
+Inbursa,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.7811128,False,False,False,False
+Inbursa,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.78110945,False,False,False,False
+Inbursa,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7804512,False,False,False,False
+Inbursa,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7801874,False,False,False,False
+Inbursa,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.78015,False,False,False,False
+Inbursa,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.77996373,False,False,False,False
+Inbursa,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7797544,False,False,False,False
+Inbursa,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.77962166,False,False,False,False
+Inbursa,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.7794705,False,False,False,False
+Inbursa,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7793679,False,False,False,False
+Inbursa,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7792235,False,False,False,False
+Inbursa,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.7789069,False,False,False,False
+Inbursa,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7788743,False,False,False,False
+Inbursa,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.7784643,False,False,False,False
+Inbursa,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.7784194,False,False,False,False
+Inbursa,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7781326,False,False,False,False
+Inbursa,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.77792495,False,False,False,False
+Inbursa,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.777473,False,False,False,False
+Inbursa,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.7773302,False,False,False,False
+Inbursa,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.7772843,False,False,False,False
+Inbursa,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.77706957,False,False,False,False
+Inbursa,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7770346,False,False,False,False
+Inbursa,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.77697754,False,False,False,False
+Inbursa,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7769748,False,False,False,False
+Inbursa,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7766774,False,False,False,False
+Inbursa,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7766408,False,False,False,False
+Inbursa,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7763101,False,False,False,False
+Inbursa,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7760515,False,False,False,False
+Inbursa,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.7758177,False,False,False,False
+Inbursa,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.775585,False,False,False,False
+Inbursa,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.7753694,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7752495,False,False,False,False
+Inbursa,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7746023,False,False,False,False
+Inbursa,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.77427524,False,False,False,False
+Inbursa,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7741954,False,False,False,False
+Inbursa,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7737907,False,False,False,False
+Inbursa,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7735187,False,False,False,False
+Inbursa,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7729522,False,False,False,False
+Inbursa,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7727708,False,False,False,False
+Inbursa,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7727448,False,False,False,False
+Inbursa,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7726965,False,False,False,False
+Inbursa,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7723474,False,False,False,False
+Inbursa,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.7722318,False,False,False,False
+Inbursa,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7718534,False,False,False,False
+Inbursa,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7717068,False,False,False,False
+Inbursa,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.77147466,False,False,False,False
+Inbursa,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7714233,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.77139777,False,False,False,False
+Inbursa,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.77119774,False,False,False,False
+Inbursa,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7711666,False,False,False,False
+Inbursa,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.7711158,False,False,False,False
+Inbursa,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.77109766,False,False,False,False
+Inbursa,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7700225,False,False,False,False
+Inbursa,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.76992285,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.7699108,False,False,False,False
+Inbursa,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.76985186,False,False,False,False
+Inbursa,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.76979053,False,False,False,False
+Inbursa,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7693948,False,False,False,False
+Inbursa,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.7690104,False,False,False,False
+Inbursa,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.7687872,False,False,False,False
+Inbursa,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.76842797,False,False,False,False
+Inbursa,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.7683966,False,False,False,False
+Inbursa,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7682629,False,False,False,False
+Inbursa,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.76798284,False,False,False,False
+Inbursa,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.76724386,False,False,False,False
+Inbursa,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.76715255,False,False,False,False
+Inbursa,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.7667037,False,False,False,False
+Inbursa,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.7666221,False,False,False,False
+Inbursa,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7666023,False,False,False,False
+Inbursa,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.76643693,False,False,False,False
+Inbursa,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.766369,False,False,False,False
+Inbursa,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.76603585,False,False,False,False
+Inbursa,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.7660161,False,False,False,False
+Inbursa,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.7658556,False,False,False,False
+Inbursa,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7658192,False,False,False,False
+Inbursa,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.76543105,False,False,False,False
+Inbursa,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.7652106,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.76481146,False,False,False,False
+Inbursa,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.76480734,False,False,False,False
+Inbursa,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.76439494,False,False,False,False
+Inbursa,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.764092,False,False,False,False
+Inbursa,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.7640381,False,False,False,False
+Inbursa,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.7638185,False,False,False,False
+Inbursa,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7636835,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7632246,False,False,False,False
+Inbursa,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.76280904,False,False,False,False
+Inbursa,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7626088,False,False,False,False
+Inbursa,random_weather-com_20251129T164102.png,RANDOM,unknown,0.7624295,False,False,False,False
+Inbursa,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.7622208,False,False,False,False
+Inbursa,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.76195186,False,False,False,False
+Inbursa,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.76154625,False,False,False,False
+Inbursa,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.7614372,False,False,False,False
+Inbursa,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.7612232,False,False,False,False
+Inbursa,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.76090634,False,False,False,False
+Inbursa,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.76068175,False,False,False,False
+Inbursa,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.76042676,False,False,False,False
+Inbursa,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.76029253,False,False,False,False
+Inbursa,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7600913,False,False,False,False
+Inbursa,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7590271,False,False,False,False
+Inbursa,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.7588256,False,False,False,False
+Inbursa,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7584493,False,False,False,False
+Inbursa,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7576116,False,False,False,False
+Inbursa,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.757393,False,False,False,False
+Inbursa,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7572354,False,False,False,False
+Inbursa,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.7565284,False,False,False,False
+Inbursa,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.75648713,False,False,False,False
+Inbursa,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.7562457,False,False,False,False
+Inbursa,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.75608766,False,False,False,False
+Inbursa,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.75607157,False,False,False,False
+Inbursa,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7560388,False,False,False,False
+Inbursa,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7558732,False,False,False,False
+Inbursa,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7557658,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7547977,False,False,False,False
+Inbursa,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.75458795,False,False,False,False
+Inbursa,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7545053,False,False,False,False
+Inbursa,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7544819,False,False,False,False
+Inbursa,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.7542447,False,False,False,False
+Inbursa,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7540475,False,False,False,False
+Inbursa,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.7540325,False,False,False,False
+Inbursa,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.75372165,False,False,False,False
+Inbursa,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.75357115,False,False,False,False
+Inbursa,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.75310266,False,False,False,False
+Inbursa,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.75300825,False,False,False,False
+Inbursa,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.75195664,False,False,False,False
+Inbursa,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.7518743,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.75093454,False,False,False,False
+Inbursa,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.75077415,False,False,False,False
+Inbursa,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.7507276,False,False,False,False
+Inbursa,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7506719,False,False,False,False
+Inbursa,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.75052166,False,False,False,False
+Inbursa,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.75015163,False,False,False,False
+Inbursa,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.7499304,False,False,False,False
+Inbursa,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.7497264,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.74950707,False,False,False,False
+Inbursa,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.7494817,False,False,False,False
+Inbursa,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7491351,False,False,False,False
+Inbursa,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.74861175,False,False,False,False
+Inbursa,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.74712753,False,False,False,False
+Inbursa,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.7470734,False,False,False,False
+Inbursa,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7463006,False,False,False,False
+Inbursa,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.74610144,False,False,False,False
+Inbursa,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.7460114,False,False,False,False
+Inbursa,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7459438,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.7456244,False,False,False,False
+Inbursa,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.74542224,False,False,False,False
+Inbursa,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.74532276,False,False,False,False
+Inbursa,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.7445994,False,False,False,False
+Inbursa,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7443055,False,False,False,False
+Inbursa,random_msn-com_20251129T162722.png,RANDOM,unknown,0.7440378,False,False,False,False
+Inbursa,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.74399185,False,False,False,False
+Inbursa,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.74387956,False,False,False,False
+Inbursa,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.74382895,False,False,False,False
+Inbursa,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.74342674,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.74341154,False,False,False,False
+Inbursa,random_avast-com_20251129T164855.png,RANDOM,unknown,0.74332374,False,False,False,False
+Inbursa,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.7430463,False,False,False,False
+Inbursa,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.74288815,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7428404,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.74239415,False,False,False,False
+Inbursa,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.74194074,False,False,False,False
+Inbursa,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.741595,False,False,False,False
+Inbursa,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.74153364,False,False,False,False
+Inbursa,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.7413653,False,False,False,False
+Inbursa,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7410011,False,False,False,False
+Inbursa,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.7402746,False,False,False,False
+Inbursa,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.740192,False,False,False,False
+Inbursa,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.73939013,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.73917764,False,False,False,False
+Inbursa,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.73911566,False,False,False,False
+Inbursa,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.73872864,False,False,False,False
+Inbursa,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.73847437,False,False,False,False
+Inbursa,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.73827374,False,False,False,False
+Inbursa,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.7380527,False,False,False,False
+Inbursa,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.73802084,False,False,False,False
+Inbursa,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7370955,False,False,False,False
+Inbursa,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.7369877,False,False,False,False
+Inbursa,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.7368419,False,False,False,False
+Inbursa,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.73682255,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.736809,False,False,False,False
+Inbursa,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.73626924,False,False,False,False
+Inbursa,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.73549473,False,False,False,False
+Inbursa,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.7351077,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.73485225,False,False,False,False
+Inbursa,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.73459715,False,False,False,False
+Inbursa,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.734476,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.7341355,False,False,False,False
+Inbursa,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.73345524,False,False,False,False
+Inbursa,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.73343754,False,False,False,False
+Inbursa,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.73333544,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.73315424,False,False,False,False
+Inbursa,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.7327812,False,False,False,False
+Inbursa,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.7327579,False,False,False,False
+Inbursa,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.73234844,False,False,False,False
+Inbursa,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.7321374,False,False,False,False
+Inbursa,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7321,False,False,False,False
+Inbursa,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.73200965,False,False,False,False
+Inbursa,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.7319994,False,False,False,False
+Inbursa,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.7319037,False,False,False,False
+Inbursa,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.73177,False,False,False,False
+Inbursa,random_google-com_20251129T162253.png,RANDOM,unknown,0.7309569,False,False,False,False
+Inbursa,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.7307334,False,False,False,False
+Inbursa,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.7305261,False,False,False,False
+Inbursa,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.73041826,False,False,False,False
+Inbursa,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7304126,False,False,False,False
+Inbursa,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.73004264,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7298708,False,False,False,False
+Inbursa,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.72978854,False,False,False,False
+Inbursa,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.72953045,False,False,False,False
+Inbursa,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.72912127,False,False,False,False
+Inbursa,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.728816,False,False,False,False
+Inbursa,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.72839034,False,False,False,False
+Inbursa,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.7282502,False,False,False,False
+Inbursa,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7280157,False,False,False,False
+Inbursa,random_gov-br_20251129T174615.png,RANDOM,unknown,0.7274412,False,False,False,False
+Inbursa,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.726257,False,False,False,False
+Inbursa,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.72604644,False,False,False,False
+Inbursa,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.72560644,False,False,False,False
+Inbursa,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.7255305,False,False,False,False
+Inbursa,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.72518194,False,False,False,False
+Inbursa,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.7248672,False,False,False,False
+Inbursa,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.72440505,False,False,False,False
+Inbursa,random_hp-com_20251129T164248.png,RANDOM,unknown,0.72399366,False,False,False,False
+Inbursa,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.72352666,False,False,False,False
+Inbursa,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.7234647,False,False,False,False
+Inbursa,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.72321236,False,False,False,False
+Inbursa,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.72275066,False,False,False,False
+Inbursa,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.72274363,False,False,False,False
+Inbursa,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.72240543,False,False,False,False
+Inbursa,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.72236097,False,False,False,False
+Inbursa,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7220608,False,False,False,False
+Inbursa,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7217993,False,False,False,False
+Inbursa,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.72142947,False,False,False,False
+Inbursa,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.7213975,False,False,False,False
+Inbursa,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.7213298,False,False,False,False
+Inbursa,random_change-org_20251129T173929.png,RANDOM,unknown,0.72111136,False,False,False,False
+Inbursa,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.72105366,False,False,False,False
+Inbursa,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.7208307,False,False,False,False
+Inbursa,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.72079825,False,False,False,False
+Inbursa,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.72056353,False,False,False,False
+Inbursa,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.7202263,False,False,False,False
+Inbursa,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.7200321,False,False,False,False
+Inbursa,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7192991,False,False,False,False
+Inbursa,random_marca-com_20251129T175532.png,RANDOM,unknown,0.7191311,False,False,False,False
+Inbursa,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.7189057,False,False,False,False
+Inbursa,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.71841383,False,False,False,False
+Inbursa,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.71841294,False,False,False,False
+Inbursa,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.71834195,False,False,False,False
+Inbursa,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.717925,False,False,False,False
+Inbursa,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.71783954,False,False,False,False
+Inbursa,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.71727973,False,False,False,False
+Inbursa,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.71687365,False,False,False,False
+Inbursa,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.71663785,False,False,False,False
+Inbursa,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.716526,False,False,False,False
+Inbursa,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.7162744,False,False,False,False
+Inbursa,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.71615446,False,False,False,False
+Inbursa,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.71578634,False,False,False,False
+Inbursa,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.7146491,False,False,False,False
+Inbursa,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.71461236,False,False,False,False
+Inbursa,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.7146102,False,False,False,False
+Inbursa,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.7139219,False,False,False,False
+Inbursa,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7136758,False,False,False,False
+Inbursa,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.713508,False,False,False,False
+Inbursa,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.71339023,False,False,False,False
+Inbursa,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.7131827,False,False,False,False
+Inbursa,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.7130245,False,False,False,False
+Inbursa,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.7121099,False,False,False,False
+Inbursa,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7120664,False,False,False,False
+Inbursa,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.7107095,False,False,False,False
+Inbursa,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.71061075,False,False,False,False
+Inbursa,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.7097037,False,False,False,False
+Inbursa,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.70941305,False,False,False,False
+Inbursa,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.70907575,False,False,False,False
+Inbursa,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.708632,False,False,False,False
+Inbursa,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7083382,False,False,False,False
+Inbursa,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.7082948,False,False,False,False
+Inbursa,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.7080753,False,False,False,False
+Inbursa,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.7077118,False,False,False,False
+Inbursa,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.7067522,False,False,False,False
+Inbursa,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.7066479,False,False,False,False
+Inbursa,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.7066264,False,False,False,False
+Inbursa,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.7063477,False,False,False,False
+Inbursa,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.70622224,False,False,False,False
+Inbursa,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.7060393,False,False,False,False
+Inbursa,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.7059367,False,False,False,False
+Inbursa,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.7055911,False,False,False,False
+Inbursa,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.70546377,False,False,False,False
+Inbursa,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7049093,False,False,False,False
+Inbursa,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.7044028,False,False,False,False
+Inbursa,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.70438594,False,False,False,False
+Inbursa,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.70362073,False,False,False,False
+Inbursa,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.7030201,False,False,False,False
+Inbursa,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.7030144,False,False,False,False
+Inbursa,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.7028405,False,False,False,False
+Inbursa,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.70239085,False,False,False,False
+Inbursa,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7023059,False,False,False,False
+Inbursa,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.7012888,False,False,False,False
+Inbursa,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.7008593,False,False,False,False
+Inbursa,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.7006227,False,False,False,False
+Inbursa,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.7003887,False,False,False,False
+Inbursa,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.6996567,False,False,False,False
+Inbursa,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.69907475,False,False,False,False
+Inbursa,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.6985916,False,False,False,False
+Inbursa,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.6981491,False,False,False,False
+Inbursa,random_canva-com_20251129T164231.png,RANDOM,unknown,0.6969178,False,False,False,False
+Inbursa,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.69685423,False,False,False,False
+Inbursa,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.6967245,False,False,False,False
+Inbursa,random_jd-com_20251129T174954.png,RANDOM,unknown,0.69667137,False,False,False,False
+Inbursa,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.6962223,False,False,False,False
+Inbursa,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.69559616,False,False,False,False
+Inbursa,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.6949545,False,False,False,False
+Inbursa,random_wix-com_20251129T171207.png,RANDOM,unknown,0.6948764,False,False,False,False
+Inbursa,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.69478846,False,False,False,False
+Inbursa,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.69464016,False,False,False,False
+Inbursa,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.69456935,False,False,False,False
+Inbursa,random_temu-com_20251129T165219.png,RANDOM,unknown,0.6935772,False,False,False,False
+Inbursa,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.693262,False,False,False,False
+Inbursa,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.69309473,False,False,False,False
+Inbursa,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.6927992,False,False,False,False
+Inbursa,random_vk-com_20251129T163202.png,RANDOM,unknown,0.6927073,False,False,False,False
+Inbursa,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.69251645,False,False,False,False
+Inbursa,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.69243795,False,False,False,False
+Inbursa,random_figma-com_20251129T173914.png,RANDOM,unknown,0.69241667,False,False,False,False
+Inbursa,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.6922371,False,False,False,False
+Inbursa,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.6920574,False,False,False,False
+Inbursa,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.69167686,False,False,False,False
+Inbursa,random_intel-com_20251129T171229.png,RANDOM,unknown,0.69138485,False,False,False,False
+Inbursa,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.69125044,False,False,False,False
+Inbursa,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.6911952,False,False,False,False
+Inbursa,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.6909954,False,False,False,False
+Inbursa,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.6908555,False,False,False,False
+Inbursa,random_welt-de_20251129T173821.png,RANDOM,unknown,0.6905515,False,False,False,False
+Inbursa,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.69026506,False,False,False,False
+Inbursa,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.6898064,False,False,False,False
+Inbursa,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.6895878,False,False,False,False
+Inbursa,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.689533,False,False,False,False
+Inbursa,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.6895328,False,False,False,False
+Inbursa,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.68867373,False,False,False,False
+Inbursa,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.688234,False,False,False,False
+Inbursa,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.688138,False,False,False,False
+Inbursa,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6878009,False,False,False,False
+Inbursa,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.68745595,False,False,False,False
+Inbursa,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.6868714,False,False,False,False
+Inbursa,random_segment-io_20251129T174400.png,RANDOM,unknown,0.68667567,False,False,False,False
+Inbursa,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.68601096,False,False,False,False
+Inbursa,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.68564785,False,False,False,False
+Inbursa,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.6854924,False,False,False,False
+Inbursa,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.68503284,False,False,False,False
+Inbursa,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.6850296,False,False,False,False
+Inbursa,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.6849367,False,False,False,False
+Inbursa,random_xing-com_20251129T175042.png,RANDOM,unknown,0.6847186,False,False,False,False
+Inbursa,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.6846336,False,False,False,False
+Inbursa,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.6844087,False,False,False,False
+Inbursa,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.6842854,False,False,False,False
+Inbursa,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.68417656,False,False,False,False
+Inbursa,random_naver-com_20251129T164929.png,RANDOM,unknown,0.68412304,False,False,False,False
+Inbursa,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.68386614,False,False,False,False
+Inbursa,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.68384063,False,False,False,False
+Inbursa,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.6838025,False,False,False,False
+Inbursa,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.6835528,False,False,False,False
+Inbursa,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.68347645,False,False,False,False
+Inbursa,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.6830195,False,False,False,False
+Inbursa,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.6828533,False,False,False,False
+Inbursa,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.6815055,False,False,False,False
+Inbursa,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6812571,False,False,False,False
+Inbursa,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.68113995,False,False,False,False
+Inbursa,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.6808437,False,False,False,False
+Inbursa,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.6802039,False,False,False,False
+Inbursa,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.67987984,False,False,False,False
+Inbursa,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.67945147,False,False,False,False
+Inbursa,random_eset-com_20251129T171424.png,RANDOM,unknown,0.67934453,False,False,False,False
+Inbursa,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.6792793,False,False,False,False
+Inbursa,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.67917174,False,False,False,False
+Inbursa,random_booking-com_20251129T164752.png,RANDOM,unknown,0.6790607,False,False,False,False
+Inbursa,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.67894554,False,False,False,False
+Inbursa,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.67880243,False,False,False,False
+Inbursa,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.67747766,False,False,False,False
+Inbursa,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.6771413,False,False,False,False
+Inbursa,random_g-page_20251129T170201.png,RANDOM,unknown,0.67693776,False,False,False,False
+Inbursa,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.6767583,False,False,False,False
+Inbursa,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.6764635,False,False,False,False
+Inbursa,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.67628384,False,False,False,False
+Inbursa,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.67546195,False,False,False,False
+Inbursa,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.67537534,False,False,False,False
+Inbursa,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.67525727,False,False,False,False
+Inbursa,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.6749606,False,False,False,False
+Inbursa,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.67433953,False,False,False,False
+Inbursa,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.67406094,False,False,False,False
+Inbursa,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.67399246,False,False,False,False
+Inbursa,random_viber-com_20251129T172210.png,RANDOM,unknown,0.67377484,False,False,False,False
+Inbursa,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.67253447,False,False,False,False
+Inbursa,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.6723795,False,False,False,False
+Inbursa,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.67211705,False,False,False,False
+Inbursa,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.6717625,False,False,False,False
+Inbursa,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.6712075,False,False,False,False
+Inbursa,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.6710171,False,False,False,False
+Inbursa,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.6702194,False,False,False,False
+Inbursa,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.66983247,False,False,False,False
+Inbursa,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.6696092,False,False,False,False
+Inbursa,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.6694239,False,False,False,False
+Inbursa,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.669224,False,False,False,False
+Inbursa,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.6687554,False,False,False,False
+Inbursa,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.66768426,False,False,False,False
+Inbursa,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.6670128,False,False,False,False
+Inbursa,random_discord-media_20251129T170414.png,RANDOM,unknown,0.66699564,False,False,False,False
+Inbursa,random_finn-no_20251129T180303.png,RANDOM,unknown,0.66698587,False,False,False,False
+Inbursa,random_focus-de_20251129T175031.png,RANDOM,unknown,0.6668531,False,False,False,False
+Inbursa,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.6666316,False,False,False,False
+Inbursa,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.66661525,False,False,False,False
+Inbursa,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.66652215,False,False,False,False
+Inbursa,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.666386,False,False,False,False
+Inbursa,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.6663234,False,False,False,False
+Inbursa,random_apa-org_20251129T180433.png,RANDOM,unknown,0.66615343,False,False,False,False
+Inbursa,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.66589797,False,False,False,False
+Inbursa,random_note-com_20251129T174642.png,RANDOM,unknown,0.6657897,False,False,False,False
+Inbursa,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.6653422,False,False,False,False
+Inbursa,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.665269,False,False,False,False
+Inbursa,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.66480017,False,False,False,False
+Inbursa,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6640479,False,False,False,False
+Inbursa,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.66295946,False,False,False,False
+Inbursa,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.6627805,False,False,False,False
+Inbursa,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.6623703,False,False,False,False
+Inbursa,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.66227263,False,False,False,False
+Inbursa,random_web-de_20251129T175220.png,RANDOM,unknown,0.66205686,False,False,False,False
+Inbursa,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.66196,False,False,False,False
+Inbursa,random_live-com_20251129T162413.png,RANDOM,unknown,0.66116196,False,False,False,False
+Inbursa,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.66076803,False,False,False,False
+Inbursa,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.66071486,False,False,False,False
+Inbursa,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.6605973,False,False,False,False
+Inbursa,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.659672,False,False,False,False
+Inbursa,random_windows-com_20251129T163112.png,RANDOM,unknown,0.6593042,False,False,False,False
+Inbursa,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.65927976,False,False,False,False
+Inbursa,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.65913975,False,False,False,False
+Inbursa,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.65886474,False,False,False,False
+Inbursa,random_ring-com_20251129T172743.png,RANDOM,unknown,0.65847737,False,False,False,False
+Inbursa,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.6584166,False,False,False,False
+Inbursa,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.65750825,False,False,False,False
+Inbursa,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.65669703,False,False,False,False
+Inbursa,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.65669495,False,False,False,False
+Inbursa,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6564605,False,False,False,False
+Inbursa,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6561731,False,False,False,False
+Inbursa,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6556343,False,False,False,False
+Inbursa,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.6555019,False,False,False,False
+Inbursa,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.6553267,False,False,False,False
+Inbursa,random_ui-com_20251129T163127.png,RANDOM,unknown,0.6546714,False,False,False,False
+Inbursa,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.6546381,False,False,False,False
+Inbursa,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.6544982,False,False,False,False
+Inbursa,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.65431607,False,False,False,False
+Inbursa,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.65421164,False,False,False,False
+Inbursa,random_usps-com_20251129T173658.png,RANDOM,unknown,0.65374947,False,False,False,False
+Inbursa,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.6535832,False,False,False,False
+Inbursa,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.6534171,False,False,False,False
+Inbursa,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.65336496,False,False,False,False
+Inbursa,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.6533384,False,False,False,False
+Inbursa,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.6532334,False,False,False,False
+Inbursa,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.65303427,False,False,False,False
+Inbursa,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.65283406,False,False,False,False
+Inbursa,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.6527989,False,False,False,False
+Inbursa,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.652367,False,False,False,False
+Inbursa,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.6520449,False,False,False,False
+Inbursa,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.6517832,False,False,False,False
+Inbursa,random_springer-com_20251129T164823.png,RANDOM,unknown,0.65121037,False,False,False,False
+Inbursa,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.65115994,False,False,False,False
+Inbursa,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.65082383,False,False,False,False
+Inbursa,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.650653,False,False,False,False
+Inbursa,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.6505525,False,False,False,False
+Inbursa,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.6502967,False,False,False,False
+Inbursa,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.6502075,False,False,False,False
+Inbursa,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6501075,False,False,False,False
+Inbursa,random_dns-google_20251129T163231.png,RANDOM,unknown,0.6495123,False,False,False,False
+Inbursa,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.6491401,False,False,False,False
+Inbursa,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.6491178,False,False,False,False
+Inbursa,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.648697,False,False,False,False
+Inbursa,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.64862907,False,False,False,False
+Inbursa,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.6478306,False,False,False,False
+Inbursa,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6475592,False,False,False,False
+Inbursa,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.647393,False,False,False,False
+Inbursa,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.6469636,False,False,False,False
+Inbursa,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.6469117,False,False,False,False
+Inbursa,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.64689016,False,False,False,False
+Inbursa,random_moe-video_20251129T164430.png,RANDOM,unknown,0.6468281,False,False,False,False
+Inbursa,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.6466685,False,False,False,False
+Inbursa,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.6465447,False,False,False,False
+Inbursa,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.64641035,False,False,False,False
+Inbursa,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.6463406,False,False,False,False
+Inbursa,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.6460502,False,False,False,False
+Inbursa,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.6454504,False,False,False,False
+Inbursa,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.64503753,False,False,False,False
+Inbursa,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.64489746,False,False,False,False
+Inbursa,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.64478076,False,False,False,False
+Inbursa,random_miui-com_20251129T163719.png,RANDOM,unknown,0.64477164,False,False,False,False
+Inbursa,random_wise-com_20251129T180312.png,RANDOM,unknown,0.6446835,False,False,False,False
+Inbursa,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.6446232,False,False,False,False
+Inbursa,random_att-com_20251129T180955.png,RANDOM,unknown,0.64452094,False,False,False,False
+Inbursa,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.6442852,False,False,False,False
+Inbursa,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.6438959,False,False,False,False
+Inbursa,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.64312947,False,False,False,False
+Inbursa,random_daum-net_20251129T174537.png,RANDOM,unknown,0.6429968,False,False,False,False
+Inbursa,random_nature-com_20251129T164547.png,RANDOM,unknown,0.6426481,False,False,False,False
+Inbursa,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.64225394,False,False,False,False
+Inbursa,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.6422126,False,False,False,False
+Inbursa,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.64208806,False,False,False,False
+Inbursa,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.6418375,False,False,False,False
+Inbursa,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.6418201,False,False,False,False
+Inbursa,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.6412231,False,False,False,False
+Inbursa,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.641079,False,False,False,False
+Inbursa,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.6408645,False,False,False,False
+Inbursa,random_statista-com_20251129T165822.png,RANDOM,unknown,0.64076436,False,False,False,False
+Inbursa,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6407193,False,False,False,False
+Inbursa,random_split-io_20251129T175048.png,RANDOM,unknown,0.64068073,False,False,False,False
+Inbursa,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.64026475,False,False,False,False
+Inbursa,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.64026374,False,False,False,False
+Inbursa,random_brave-com_20251129T172325.png,RANDOM,unknown,0.6400665,False,False,False,False
+Inbursa,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.63983333,False,False,False,False
+Inbursa,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.6394443,False,False,False,False
+Inbursa,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.6393167,False,False,False,False
+Inbursa,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.6392506,False,False,False,False
+Inbursa,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.6391871,False,False,False,False
+Inbursa,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.63915455,False,False,False,False
+Inbursa,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.6386171,False,False,False,False
+Inbursa,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.6385459,False,False,False,False
+Inbursa,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.6383653,False,False,False,False
+Inbursa,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.6383419,False,False,False,False
+Inbursa,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.6378887,False,False,False,False
+Inbursa,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.6376549,False,False,False,False
+Inbursa,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.6371623,False,False,False,False
+Inbursa,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.6369842,False,False,False,False
+Inbursa,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.6365929,False,False,False,False
+Inbursa,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.63642,False,False,False,False
+Inbursa,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.6363563,False,False,False,False
+Inbursa,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.6357293,False,False,False,False
+Inbursa,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.6355401,False,False,False,False
+Inbursa,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.63534135,False,False,False,False
+Inbursa,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.63529086,False,False,False,False
+Inbursa,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.6350944,False,False,False,False
+Inbursa,random_one-one_20251129T163318.png,RANDOM,unknown,0.6350908,False,False,False,False
+Inbursa,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.6349879,False,False,False,False
+Inbursa,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.6348909,False,False,False,False
+Inbursa,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6347904,False,False,False,False
+Inbursa,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.63431716,False,False,False,False
+Inbursa,random_character-ai_20251129T174433.png,RANDOM,unknown,0.6342225,False,False,False,False
+Inbursa,random_g-co_20251129T171804.png,RANDOM,unknown,0.6340684,False,False,False,False
+Inbursa,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.6338851,False,False,False,False
+Inbursa,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.63361585,False,False,False,False
+Inbursa,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.63359886,False,False,False,False
+Inbursa,random_linode-com_20251129T173059.png,RANDOM,unknown,0.63356215,False,False,False,False
+Inbursa,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6332097,False,False,False,False
+Inbursa,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.6331504,False,False,False,False
+Inbursa,random_cox-net_20251129T170452.png,RANDOM,unknown,0.6329106,False,False,False,False
+Inbursa,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.63272023,False,False,False,False
+Inbursa,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.6326989,False,False,False,False
+Inbursa,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.6324177,False,False,False,False
+Inbursa,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.6321334,False,False,False,False
+Inbursa,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.6320442,False,False,False,False
+Inbursa,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.6318896,False,False,False,False
+Inbursa,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.6318537,False,False,False,False
+Inbursa,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.6314776,False,False,False,False
+Inbursa,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.6312225,False,False,False,False
+Inbursa,random_t-me_20251129T163150.png,RANDOM,unknown,0.6310108,False,False,False,False
+Inbursa,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.6309495,False,False,False,False
+Inbursa,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.6308809,False,False,False,False
+Inbursa,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.6308414,False,False,False,False
+Inbursa,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.6307601,False,False,False,False
+Inbursa,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.63054365,False,False,False,False
+Inbursa,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.6298779,False,False,False,False
+Inbursa,random_erome-com_20251129T165107.png,RANDOM,unknown,0.62978095,False,False,False,False
+Inbursa,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.62963766,False,False,False,False
+Inbursa,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.62923914,False,False,False,False
+Inbursa,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.62913513,False,False,False,False
+Inbursa,random_aol-com_20251129T170152.png,RANDOM,unknown,0.6290794,False,False,False,False
+Inbursa,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.6289826,False,False,False,False
+Inbursa,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.628927,False,False,False,False
+Inbursa,random_synology-com_20251129T173948.png,RANDOM,unknown,0.62888205,False,False,False,False
+Inbursa,random_uber-com_20251129T170129.png,RANDOM,unknown,0.62846076,False,False,False,False
+Inbursa,random_abc-es_20251129T175348.png,RANDOM,unknown,0.6281479,False,False,False,False
+Inbursa,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.627746,False,False,False,False
+Inbursa,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.62751615,False,False,False,False
+Inbursa,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.62737304,False,False,False,False
+Inbursa,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.6272973,False,False,False,False
+Inbursa,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.6271713,False,False,False,False
+Inbursa,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.62716085,False,False,False,False
+Inbursa,random_opera-com_20251129T163028.png,RANDOM,unknown,0.6266377,False,False,False,False
+Inbursa,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.626147,False,False,False,False
+Inbursa,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.62608075,False,False,False,False
+Inbursa,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.625859,False,False,False,False
+Inbursa,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.62553465,False,False,False,False
+Inbursa,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.6254232,False,False,False,False
+Inbursa,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.62461746,False,False,False,False
+Inbursa,random_google-cn_20251129T172939.png,RANDOM,unknown,0.6245932,False,False,False,False
+Inbursa,random_okta-com_20251129T171946.png,RANDOM,unknown,0.62424695,False,False,False,False
+Inbursa,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.6240232,False,False,False,False
+Inbursa,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.6237072,False,False,False,False
+Inbursa,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.6236768,False,False,False,False
+Inbursa,random_binance-com_20251129T174935.png,RANDOM,unknown,0.62339735,False,False,False,False
+Inbursa,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.62316966,False,False,False,False
+Inbursa,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.6231113,False,False,False,False
+Inbursa,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.6226058,False,False,False,False
+Inbursa,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.6225611,False,False,False,False
+Inbursa,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.62254345,False,False,False,False
+Inbursa,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.6223115,False,False,False,False
+Inbursa,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.62218666,False,False,False,False
+Inbursa,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.62205195,False,False,False,False
+Inbursa,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.6220206,False,False,False,False
+Inbursa,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.6219714,False,False,False,False
+Inbursa,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.62193674,False,False,False,False
+Inbursa,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.62163496,False,False,False,False
+Inbursa,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.62158316,False,False,False,False
+Inbursa,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6215302,False,False,False,False
+Inbursa,random_substack-com_20251129T171941.png,RANDOM,unknown,0.6213649,False,False,False,False
+Inbursa,random_tds-net_20251129T174115.png,RANDOM,unknown,0.62128794,False,False,False,False
+Inbursa,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.6204408,False,False,False,False
+Inbursa,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.6203259,False,False,False,False
+Inbursa,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.62025535,False,False,False,False
+Inbursa,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.6199446,False,False,False,False
+Inbursa,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.6195223,False,False,False,False
+Inbursa,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.61940473,False,False,False,False
+Inbursa,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.6193045,False,False,False,False
+Inbursa,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.6191201,False,False,False,False
+Inbursa,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.61893684,False,False,False,False
+Inbursa,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.61850137,False,False,False,False
+Inbursa,random_example-com_20251129T163930.png,RANDOM,unknown,0.6184459,False,False,False,False
+Inbursa,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.61810267,False,False,False,False
+Inbursa,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.61799294,False,False,False,False
+Inbursa,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.6179896,False,False,False,False
+Inbursa,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.6179348,False,False,False,False
+Inbursa,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6177199,False,False,False,False
+Inbursa,random_globo-com_20251129T165541.png,RANDOM,unknown,0.61771035,False,False,False,False
+Inbursa,random_slack-com_20251129T164623.png,RANDOM,unknown,0.6175932,False,False,False,False
+Inbursa,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.6174128,False,False,False,False
+Inbursa,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.6172373,False,False,False,False
+Inbursa,random_office365-com_20251129T162902.png,RANDOM,unknown,0.6169861,False,False,False,False
+Inbursa,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6169311,False,False,False,False
+Inbursa,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.6163336,False,False,False,False
+Inbursa,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.61597586,False,False,False,False
+Inbursa,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.6157943,False,False,False,False
+Inbursa,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.6154504,False,False,False,False
+Inbursa,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.6154463,False,False,False,False
+Inbursa,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.61490226,False,False,False,False
+Inbursa,random_github-io_20251129T163235.png,RANDOM,unknown,0.61488867,False,False,False,False
+Inbursa,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.6148179,False,False,False,False
+Inbursa,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.6146486,False,False,False,False
+Inbursa,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.6145369,False,False,False,False
+Inbursa,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.6144025,False,False,False,False
+Inbursa,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.61415625,False,False,False,False
+Inbursa,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.6141399,False,False,False,False
+Inbursa,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.61410874,False,False,False,False
+Inbursa,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.61376524,False,False,False,False
+Inbursa,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.61321044,False,False,False,False
+Inbursa,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.6130825,False,False,False,False
+Inbursa,random_w3-org_20251129T163751.png,RANDOM,unknown,0.61277974,False,False,False,False
+Inbursa,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.61268485,False,False,False,False
+Inbursa,random_android-com_20251129T163812.png,RANDOM,unknown,0.6124674,False,False,False,False
+Inbursa,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.6119392,False,False,False,False
+Inbursa,random_target-com_20251129T171437.png,RANDOM,unknown,0.6116406,False,False,False,False
+Inbursa,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.6112673,False,False,False,False
+Inbursa,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.6111908,False,False,False,False
+Inbursa,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.6106967,False,False,False,False
+Inbursa,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.6105454,False,False,False,False
+Inbursa,random_vg-no_20251129T180754.png,RANDOM,unknown,0.6099949,False,False,False,False
+Inbursa,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.60993683,False,False,False,False
+Inbursa,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.6095868,False,False,False,False
+Inbursa,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.60957587,False,False,False,False
+Inbursa,random_bild-de_20251129T173827.png,RANDOM,unknown,0.6095175,False,False,False,False
+Inbursa,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.60947174,False,False,False,False
+Inbursa,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.6089574,False,False,False,False
+Inbursa,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.6086743,False,False,False,False
+Inbursa,random_qq-com_20251129T162834.png,RANDOM,unknown,0.6085564,False,False,False,False
+Inbursa,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.6081328,False,False,False,False
+Inbursa,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.6080706,False,False,False,False
+Inbursa,random_att-net_20251129T170227.png,RANDOM,unknown,0.6077224,False,False,False,False
+Inbursa,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.6074921,False,False,False,False
+Inbursa,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.60710555,False,False,False,False
+Inbursa,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.6067852,False,False,False,False
+Inbursa,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.6062051,False,False,False,False
+Inbursa,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.6058828,False,False,False,False
+Inbursa,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.6056691,False,False,False,False
+Inbursa,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.60538304,False,False,False,False
+Inbursa,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.6048751,False,False,False,False
+Inbursa,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.60386765,False,False,False,False
+Inbursa,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.60369706,False,False,False,False
+Inbursa,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.6035484,False,False,False,False
+Inbursa,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.6034638,False,False,False,False
+Inbursa,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.60307086,False,False,False,False
+Inbursa,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.60288244,False,False,False,False
+Inbursa,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.6024555,False,False,False,False
+Inbursa,random_360-cn_20251129T173141.png,RANDOM,unknown,0.60197175,False,False,False,False
+Inbursa,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.60140747,False,False,False,False
+Inbursa,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.60129744,False,False,False,False
+Inbursa,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.6009206,False,False,False,False
+Inbursa,random_openai-com_20251129T164132.png,RANDOM,unknown,0.600774,False,False,False,False
+Inbursa,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.60048586,False,False,False,False
+Inbursa,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.6003912,False,False,False,False
+Inbursa,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.60018575,False,False,False,False
+Inbursa,random_skype-com_20251129T162718.png,RANDOM,unknown,0.60014296,False,False,False,False
+Inbursa,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.5999944,False,False,False,False
+Inbursa,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.5995038,False,False,False,False
+Inbursa,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.5994804,False,False,False,False
+Inbursa,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.59942406,False,False,False,False
+Inbursa,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.5990268,False,False,False,False
+Inbursa,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.5982492,False,False,False,False
+Inbursa,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.59807926,False,False,False,False
+Inbursa,random_trello-com_20251129T180351.png,RANDOM,unknown,0.59776676,False,False,False,False
+Inbursa,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.59735477,False,False,False,False
+Inbursa,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.596376,False,False,False,False
+Inbursa,random_media-net_20251129T164538.png,RANDOM,unknown,0.59634495,False,False,False,False
+Inbursa,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.5958029,False,False,False,False
+Inbursa,random_bol-com_20251129T174941.png,RANDOM,unknown,0.59575737,False,False,False,False
+Inbursa,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.5955883,False,False,False,False
+Inbursa,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.59552014,False,False,False,False
+Inbursa,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.59537774,False,False,False,False
+Inbursa,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.5953536,False,False,False,False
+Inbursa,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.59511167,False,False,False,False
+Inbursa,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.59504265,False,False,False,False
+Inbursa,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.5949792,False,False,False,False
+Inbursa,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.59494776,False,False,False,False
+Inbursa,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.5946531,False,False,False,False
+Inbursa,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.5945131,False,False,False,False
+Inbursa,random_medium-com_20251129T163655.png,RANDOM,unknown,0.5942176,False,False,False,False
+Inbursa,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.5941371,False,False,False,False
+Inbursa,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.593801,False,False,False,False
+Inbursa,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.59368116,False,False,False,False
+Inbursa,random_espn-com_20251129T165100.png,RANDOM,unknown,0.5936801,False,False,False,False
+Inbursa,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.5936681,False,False,False,False
+Inbursa,random_python-org_20251129T173738.png,RANDOM,unknown,0.59349567,False,False,False,False
+Inbursa,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.59342587,False,False,False,False
+Inbursa,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.59320295,False,False,False,False
+Inbursa,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.5930065,False,False,False,False
+Inbursa,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.5928104,False,False,False,False
+Inbursa,random_php-net_20251129T164521.png,RANDOM,unknown,0.59238666,False,False,False,False
+Inbursa,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.5923132,False,False,False,False
+Inbursa,random_otto-de_20251129T174331.png,RANDOM,unknown,0.59182,False,False,False,False
+Inbursa,random_t-co_20251129T163912.png,RANDOM,unknown,0.59177136,False,False,False,False
+Inbursa,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.5915232,False,False,False,False
+Inbursa,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.59111,False,False,False,False
+Inbursa,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.5909426,False,False,False,False
+Inbursa,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.5909196,False,False,False,False
+Inbursa,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.5903334,False,False,False,False
+Inbursa,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.59025943,False,False,False,False
+Inbursa,random_branch-io_20251129T171524.png,RANDOM,unknown,0.58972025,False,False,False,False
+Inbursa,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.5896698,False,False,False,False
+Inbursa,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.58939034,False,False,False,False
+Inbursa,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.5892841,False,False,False,False
+Inbursa,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.589258,False,False,False,False
+Inbursa,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.5891347,False,False,False,False
+Inbursa,random_docker-com_20251129T170827.png,RANDOM,unknown,0.5884142,False,False,False,False
+Inbursa,random_as-com_20251129T175716.png,RANDOM,unknown,0.5883591,False,False,False,False
+Inbursa,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.5878436,False,False,False,False
+Inbursa,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.5876627,False,False,False,False
+Inbursa,random_office-com_20251129T162404.png,RANDOM,unknown,0.5872682,False,False,False,False
+Inbursa,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.5869427,False,False,False,False
+Inbursa,random_wired-com_20251129T170401.png,RANDOM,unknown,0.58689356,False,False,False,False
+Inbursa,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.58662575,False,False,False,False
+Inbursa,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.58632404,False,False,False,False
+Inbursa,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.58622867,False,False,False,False
+Inbursa,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.58601284,False,False,False,False
+Inbursa,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.585751,False,False,False,False
+Inbursa,random_f5-com_20251129T163706.png,RANDOM,unknown,0.58544976,False,False,False,False
+Inbursa,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.5852858,False,False,False,False
+Inbursa,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.5852223,False,False,False,False
+Inbursa,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.5850185,False,False,False,False
+Inbursa,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.58484745,False,False,False,False
+Inbursa,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.5843284,False,False,False,False
+Inbursa,random_apple-com_20251129T162353.png,RANDOM,unknown,0.5841263,False,False,False,False
+Inbursa,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.58394134,False,False,False,False
+Inbursa,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.58355486,False,False,False,False
+Inbursa,random_braze-com_20251129T171458.png,RANDOM,unknown,0.58348495,False,False,False,False
+Inbursa,random_forter-com_20251129T164642.png,RANDOM,unknown,0.583042,False,False,False,False
+Inbursa,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.5829223,False,False,False,False
+Inbursa,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.582674,False,False,False,False
+Inbursa,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.5826489,False,False,False,False
+Inbursa,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.58238596,False,False,False,False
+Inbursa,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.5822085,False,False,False,False
+Inbursa,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.5821676,False,False,False,False
+Inbursa,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.5817905,False,False,False,False
+Inbursa,random_genius-com_20251129T174000.png,RANDOM,unknown,0.58172894,False,False,False,False
+Inbursa,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.5816194,False,False,False,False
+Inbursa,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.5814953,False,False,False,False
+Inbursa,random_youku-com_20251129T174026.png,RANDOM,unknown,0.5814326,False,False,False,False
+Inbursa,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.58137953,False,False,False,False
+Inbursa,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.5803283,False,False,False,False
+Inbursa,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.58004344,False,False,False,False
+Inbursa,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.5795515,False,False,False,False
+Inbursa,random_github-com_20251129T162456.png,RANDOM,unknown,0.5791225,False,False,False,False
+Inbursa,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.5788679,False,False,False,False
+Inbursa,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.57872796,False,False,False,False
+Inbursa,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.5785649,False,False,False,False
+Inbursa,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.57847476,False,False,False,False
+Inbursa,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.5783773,False,False,False,False
+Inbursa,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.57828295,False,False,False,False
+Inbursa,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.57808614,False,False,False,False
+Inbursa,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.57775134,False,False,False,False
+Inbursa,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.57746214,False,False,False,False
+Inbursa,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.577176,False,False,False,False
+Inbursa,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.57713234,False,False,False,False
+Inbursa,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.5770848,False,False,False,False
+Inbursa,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.5769015,False,False,False,False
+Inbursa,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.5766358,False,False,False,False
+Inbursa,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.57625586,False,False,False,False
+Inbursa,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.57619196,False,False,False,False
+Inbursa,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.57612765,False,False,False,False
+Inbursa,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.576025,False,False,False,False
+Inbursa,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.5758568,False,False,False,False
+Inbursa,random_singular-net_20251129T175446.png,RANDOM,unknown,0.5758099,False,False,False,False
+Inbursa,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.57560575,False,False,False,False
+Inbursa,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.5751078,False,False,False,False
+Inbursa,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.57502973,False,False,False,False
+Inbursa,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.5750061,False,False,False,False
+Inbursa,random_time-com_20251129T170629.png,RANDOM,unknown,0.5744165,False,False,False,False
+Inbursa,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.573923,False,False,False,False
+Inbursa,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.573877,False,False,False,False
+Inbursa,random_uk-com_20251129T171638.png,RANDOM,unknown,0.5737322,False,False,False,False
+Inbursa,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.5731668,False,False,False,False
+Inbursa,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.57314384,False,False,False,False
+Inbursa,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.57290286,False,False,False,False
+Inbursa,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.5721972,False,False,False,False
+Inbursa,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.57219136,False,False,False,False
+Inbursa,random_free-fr_20251129T171241.png,RANDOM,unknown,0.57164466,False,False,False,False
+Inbursa,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.57134694,False,False,False,False
+Inbursa,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.571003,False,False,False,False
+Inbursa,random_clever-com_20251129T173500.png,RANDOM,unknown,0.5706805,False,False,False,False
+Inbursa,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.57008636,False,False,False,False
+Inbursa,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.5700525,False,False,False,False
+Inbursa,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.56996286,False,False,False,False
+Inbursa,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.56982577,False,False,False,False
+Inbursa,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.5696773,False,False,False,False
+Inbursa,random_india-com_20251129T180557.png,RANDOM,unknown,0.5696454,False,False,False,False
+Inbursa,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.56955093,False,False,False,False
+Inbursa,random_chess-com_20251129T173919.png,RANDOM,unknown,0.56951547,False,False,False,False
+Inbursa,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.56950474,False,False,False,False
+Inbursa,random_state-gov_20251129T174508.png,RANDOM,unknown,0.5694778,False,False,False,False
+Inbursa,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.5688665,False,False,False,False
+Inbursa,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.5686374,False,False,False,False
+Inbursa,random_name-com_20251129T171101.png,RANDOM,unknown,0.56862867,False,False,False,False
+Inbursa,random_line-me_20251129T170140.png,RANDOM,unknown,0.56823653,False,False,False,False
+Inbursa,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.56809247,False,False,False,False
+Inbursa,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.5679457,False,False,False,False
+Inbursa,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.56773245,False,False,False,False
+Inbursa,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.5673075,False,False,False,False
+Inbursa,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.5671023,False,False,False,False
+Inbursa,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.5670353,False,False,False,False
+Inbursa,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.5670037,False,False,False,False
+Inbursa,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.56698704,False,False,False,False
+Inbursa,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.56681573,False,False,False,False
+Inbursa,random_overload-su_20251129T170747.png,RANDOM,unknown,0.566754,False,False,False,False
+Inbursa,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.5666397,False,False,False,False
+Inbursa,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.5663607,False,False,False,False
+Inbursa,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.56630623,False,False,False,False
+Inbursa,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.56601214,False,False,False,False
+Inbursa,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.5657808,False,False,False,False
+Inbursa,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.5656704,False,False,False,False
+Inbursa,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.5656197,False,False,False,False
+Inbursa,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.5649942,False,False,False,False
+Inbursa,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.5648636,False,False,False,False
+Inbursa,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.564211,False,False,False,False
+Inbursa,random_ft-com_20251129T170724.png,RANDOM,unknown,0.56402916,False,False,False,False
+Inbursa,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.56379026,False,False,False,False
+Inbursa,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.5633339,False,False,False,False
+Inbursa,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.56324965,False,False,False,False
+Inbursa,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.562989,False,False,False,False
+Inbursa,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.5628982,False,False,False,False
+Inbursa,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.5628942,False,False,False,False
+Inbursa,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.56232834,False,False,False,False
+Inbursa,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.5621826,False,False,False,False
+Inbursa,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.56188166,False,False,False,False
+Inbursa,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.56095386,False,False,False,False
+Inbursa,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.56077224,False,False,False,False
+Inbursa,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.560735,False,False,False,False
+Inbursa,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.55997056,False,False,False,False
+Inbursa,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.5599177,False,False,False,False
+Inbursa,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.55947566,False,False,False,False
+Inbursa,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.5593597,False,False,False,False
+Inbursa,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.5593297,False,False,False,False
+Inbursa,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.55848587,False,False,False,False
+Inbursa,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.5584347,False,False,False,False
+Inbursa,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.5581146,False,False,False,False
+Inbursa,random_shein-com_20251129T170736.png,RANDOM,unknown,0.5571978,False,False,False,False
+Inbursa,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.557175,False,False,False,False
+Inbursa,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.5570861,False,False,False,False
+Inbursa,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.556507,False,False,False,False
+Inbursa,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.55626166,False,False,False,False
+Inbursa,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.5554384,False,False,False,False
+Inbursa,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.5548351,False,False,False,False
+Inbursa,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.55412495,False,False,False,False
+Inbursa,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.55375934,False,False,False,False
+Inbursa,random_notion-so_20251129T180340.png,RANDOM,unknown,0.55216575,False,False,False,False
+Inbursa,random_nic-io_20251129T173852.png,RANDOM,unknown,0.5520965,False,False,False,False
+Inbursa,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.5518813,False,False,False,False
+Inbursa,random_doi-org_20251129T164112.png,RANDOM,unknown,0.551859,False,False,False,False
+Inbursa,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.5517895,False,False,False,False
+Inbursa,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.5510617,False,False,False,False
+Inbursa,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.55065036,False,False,False,False
+Inbursa,random_roku-com_20251129T164128.png,RANDOM,unknown,0.5505769,False,False,False,False
+Inbursa,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.5504225,False,False,False,False
+Inbursa,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.54988027,False,False,False,False
+Inbursa,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.549804,False,False,False,False
+Inbursa,random_plos-org_20251129T180524.png,RANDOM,unknown,0.54970616,False,False,False,False
+Inbursa,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.54867643,False,False,False,False
+Inbursa,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.5475491,False,False,False,False
+Inbursa,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.547284,False,False,False,False
+Inbursa,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.5467299,False,False,False,False
+Inbursa,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.54604435,False,False,False,False
+Inbursa,random_wps-com_20251129T174320.png,RANDOM,unknown,0.5459747,False,False,False,False
+Inbursa,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.54547894,False,False,False,False
+Inbursa,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.5454626,False,False,False,False
+Inbursa,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.54522187,False,False,False,False
+Inbursa,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.54510343,False,False,False,False
+Inbursa,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.5447068,False,False,False,False
+Inbursa,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.5443547,False,False,False,False
+Inbursa,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.54428744,False,False,False,False
+Inbursa,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.5442517,False,False,False,False
+Inbursa,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.54375774,False,False,False,False
+Inbursa,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.5434561,False,False,False,False
+Inbursa,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.5429292,False,False,False,False
+Inbursa,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.5426593,False,False,False,False
+Inbursa,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.5421015,False,False,False,False
+Inbursa,random_fast-com_20251129T171226.png,RANDOM,unknown,0.5420505,False,False,False,False
+Inbursa,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.5419708,False,False,False,False
+Inbursa,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.5417667,False,False,False,False
+Inbursa,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.54146904,False,False,False,False
+Inbursa,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.54131544,False,False,False,False
+Inbursa,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.5411061,False,False,False,False
+Inbursa,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.54093933,False,False,False,False
+Inbursa,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.5384943,False,False,False,False
+Inbursa,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.5379548,False,False,False,False
+Inbursa,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.5375314,False,False,False,False
+Inbursa,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.5374237,False,False,False,False
+Inbursa,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.5369456,False,False,False,False
+Inbursa,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.53684336,False,False,False,False
+Inbursa,random_azure-com_20251129T162438.png,RANDOM,unknown,0.53650874,False,False,False,False
+Inbursa,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.5357081,False,False,False,False
+Inbursa,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.5354076,False,False,False,False
+Inbursa,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.5349144,False,False,False,False
+Inbursa,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.53169143,False,False,False,False
+Inbursa,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.52899915,False,False,False,False
+Inbursa,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.52877784,False,False,False,False
+Inbursa,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.52870345,False,False,False,False
+Inbursa,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.5281341,False,False,False,False
+Inbursa,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.52807665,False,False,False,False
+Inbursa,random_bing-com_20251129T162459.png,RANDOM,unknown,0.52784413,False,False,False,False
+Inbursa,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.5277157,False,False,False,False
+Inbursa,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.5272016,False,False,False,False
+Inbursa,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.52658564,False,False,False,False
+Inbursa,random_debian-org_20251129T164620.png,RANDOM,unknown,0.5263858,False,False,False,False
+Inbursa,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.5257204,False,False,False,False
+Inbursa,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.52414274,False,False,False,False
+Inbursa,random_asus-com_20251129T172748.png,RANDOM,unknown,0.52320725,False,False,False,False
+Inbursa,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.52269894,False,False,False,False
+Inbursa,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.52207184,False,False,False,False
+Inbursa,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.5218341,False,False,False,False
+Inbursa,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.52178156,False,False,False,False
+Inbursa,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.52166677,False,False,False,False
+Inbursa,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.5216393,False,False,False,False
+Inbursa,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.51906395,False,False,False,False
+Inbursa,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.51853395,False,False,False,False
+Inbursa,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.5174956,False,False,False,False
+Inbursa,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.51610595,False,False,False,False
+Inbursa,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.5158721,False,False,False,False
+Inbursa,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.51553166,False,False,False,False
+Inbursa,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.5152845,False,False,False,False
+Inbursa,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.5146863,False,False,False,False
+Inbursa,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.5127928,False,False,False,False
+Inbursa,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.5126,False,False,False,False
+Inbursa,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.51030695,False,False,False,False
+Inbursa,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.51029015,False,False,False,False
+Inbursa,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.5096805,False,False,False,False
+Inbursa,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.50787926,False,False,False,False
+Inbursa,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.50704783,False,False,False,False
+Inbursa,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.50608,False,False,False,False
+Inbursa,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.50539255,False,False,False,False
+Inbursa,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.50338846,False,False,False,False
+Inbursa,random_agora-io_20251129T175439.png,RANDOM,unknown,0.5025949,False,False,False,False
+Inbursa,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.50239205,False,False,False,False
+Inbursa,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.50169677,False,False,False,False
+Inbursa,random_npr-org_20251129T170056.png,RANDOM,unknown,0.5013212,False,False,False,False
+Inbursa,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.50091565,False,False,False,False
+Inbursa,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.5000546,False,False,False,False
+Inbursa,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.4998001,False,False,False,False
+Inbursa,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.49890044,False,False,False,False
+Inbursa,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.4976768,False,False,False,False
+Inbursa,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.49706325,False,False,False,False
+Inbursa,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.49620664,False,False,False,False
+Inbursa,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.49459696,False,False,False,False
+Inbursa,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.49378437,False,False,False,False
+Inbursa,random_go-com_20251129T164609.png,RANDOM,unknown,0.4930932,False,False,False,False
+Inbursa,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.49299508,False,False,False,False
+Inbursa,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.49234787,False,False,False,False
+Inbursa,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.49038756,False,False,False,False
+Inbursa,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.48911732,False,False,False,False
+Inbursa,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.48900065,False,False,False,False
+Inbursa,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.4889297,False,False,False,False
+Inbursa,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.48598605,False,False,False,False
+Inbursa,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.485196,False,False,False,False
+Inbursa,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.48289412,False,False,False,False
+Inbursa,random_apache-org_20251129T163228.png,RANDOM,unknown,0.47868374,False,False,False,False
+Inbursa,random_health-mil_20251129T163619.png,RANDOM,unknown,0.478423,False,False,False,False
+Inbursa,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.4775308,False,False,False,False
+Inbursa,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.47677916,False,False,False,False
+Inbursa,random_archive-org_20251129T163406.png,RANDOM,unknown,0.47566736,False,False,False,False
+Inbursa,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.47373635,False,False,False,False
+Inbursa,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.47359863,False,False,False,False
+Inbursa,random_ted-com_20251129T172015.png,RANDOM,unknown,0.4728849,False,False,False,False
+Inbursa,random_who-int_20251129T164225.png,RANDOM,unknown,0.47181314,False,False,False,False
+Inbursa,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.4716191,False,False,False,False
+Inbursa,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.4706882,False,False,False,False
+Inbursa,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.4687441,False,False,False,False
+Inbursa,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.46841663,False,False,False,False
+Inbursa,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.46386492,False,False,False,False
+Inbursa,random_he-net_20251129T172135.png,RANDOM,unknown,0.45488936,False,False,False,False
+Inbursa,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.4534745,False,False,False,False
+Inbursa,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.44618404,False,False,False,False
+Inbursa,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.44590503,False,False,False,False
+Inbursa,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.44016853,False,False,False,False
+Inbursa,random_poki-com_20251129T180027.png,RANDOM,unknown,0.44002616,False,False,False,False
+Inbursa,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.43814504,False,False,False,False
+Inbursa,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.43531033,False,False,False,False
+Inbursa,random_people-com_20251129T172859.png,RANDOM,unknown,0.43022925,False,False,False,False
+Inbursa,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.42650285,False,False,False,False
+Inbursa,random_threads-com_20251129T174157.png,RANDOM,unknown,0.32910475,False,False,False,False
+Inbursa,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.29523268,False,False,False,False

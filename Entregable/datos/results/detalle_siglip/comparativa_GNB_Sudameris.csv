@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+GNB Sudameris,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,1.0000004,True,True,False,True
+GNB Sudameris,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.91601443,True,True,False,False
+GNB Sudameris,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.907387,True,True,False,False
+GNB Sudameris,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.9054476,True,True,False,False
+GNB Sudameris,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.89639175,True,True,False,False
+GNB Sudameris,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.8782585,True,True,False,False
+GNB Sudameris,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.8673224,True,True,False,False
+GNB Sudameris,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.86632806,True,True,False,False
+GNB Sudameris,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.85916454,True,True,False,False
+GNB Sudameris,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.83916855,True,True,False,False
+GNB Sudameris,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.81978476,True,True,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7421801,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7375903,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.726948,False,False,False,False
+GNB Sudameris,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.71492267,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.71297157,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.712702,False,False,False,False
+GNB Sudameris,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.7083106,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7075441,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7072327,False,False,False,False
+GNB Sudameris,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.70465875,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.70450866,False,False,False,False
+GNB Sudameris,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.7018561,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.69954073,False,False,False,False
+GNB Sudameris,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.69807583,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.69794416,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6977575,False,False,False,False
+GNB Sudameris,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6965244,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6963358,False,False,False,False
+GNB Sudameris,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6963027,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6958556,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6958155,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.69453126,False,False,False,False
+GNB Sudameris,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.6941116,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.69387484,False,False,False,False
+GNB Sudameris,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.693697,False,False,False,False
+GNB Sudameris,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6935587,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6918845,False,False,False,False
+GNB Sudameris,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.69184816,False,False,False,False
+GNB Sudameris,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6918421,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.69147766,False,False,False,False
+GNB Sudameris,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.69132733,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.69120216,False,False,False,False
+GNB Sudameris,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6904498,False,False,False,False
+GNB Sudameris,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6904241,False,False,False,False
+GNB Sudameris,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6901398,False,False,False,False
+GNB Sudameris,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.68986607,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.68935317,False,False,False,False
+GNB Sudameris,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.68897194,False,False,False,False
+GNB Sudameris,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.6884203,False,False,False,False
+GNB Sudameris,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.68840766,False,False,False,False
+GNB Sudameris,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.68813884,False,False,False,False
+GNB Sudameris,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.68790185,False,False,False,False
+GNB Sudameris,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.68686116,False,False,False,False
+GNB Sudameris,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.68680626,False,False,False,False
+GNB Sudameris,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6866865,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.686261,False,False,False,False
+GNB Sudameris,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.68611395,False,False,False,False
+GNB Sudameris,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.68592715,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.68590766,False,False,False,False
+GNB Sudameris,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6858125,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.68479335,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6845167,False,False,False,False
+GNB Sudameris,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6841993,False,False,False,False
+GNB Sudameris,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6840565,False,False,False,False
+GNB Sudameris,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6839348,False,False,False,False
+GNB Sudameris,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.683773,False,False,False,False
+GNB Sudameris,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6834564,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.68342125,False,False,False,False
+GNB Sudameris,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.68306786,False,False,False,False
+GNB Sudameris,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.6829679,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.68290067,False,False,False,False
+GNB Sudameris,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6826212,False,False,False,False
+GNB Sudameris,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6816424,False,False,False,False
+GNB Sudameris,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.6812494,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.68080676,False,False,False,False
+GNB Sudameris,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.6803255,False,False,False,False
+GNB Sudameris,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.68032426,False,False,False,False
+GNB Sudameris,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.67995244,False,False,False,False
+GNB Sudameris,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.67966324,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6793222,False,False,False,False
+GNB Sudameris,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.67909646,False,False,False,False
+GNB Sudameris,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6790313,False,False,False,False
+GNB Sudameris,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.6789445,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6789002,False,False,False,False
+GNB Sudameris,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.6788615,False,False,False,False
+GNB Sudameris,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6787738,False,False,False,False
+GNB Sudameris,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.67862207,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.6783162,False,False,False,False
+GNB Sudameris,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6780008,False,False,False,False
+GNB Sudameris,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6775481,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6773745,False,False,False,False
+GNB Sudameris,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.6772128,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6768764,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.67658925,False,False,False,False
+GNB Sudameris,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.67637557,False,False,False,False
+GNB Sudameris,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.67546976,False,False,False,False
+GNB Sudameris,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.67544585,False,False,False,False
+GNB Sudameris,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.6753443,False,False,False,False
+GNB Sudameris,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.6751633,False,False,False,False
+GNB Sudameris,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.67490023,False,False,False,False
+GNB Sudameris,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6747689,False,False,False,False
+GNB Sudameris,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6744862,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.67405987,False,False,False,False
+GNB Sudameris,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.67395735,False,False,False,False
+GNB Sudameris,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.673512,False,False,False,False
+GNB Sudameris,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.67338467,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.671202,False,False,False,False
+GNB Sudameris,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.6704261,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6704234,False,False,False,False
+GNB Sudameris,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.6700251,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6699914,False,False,False,False
+GNB Sudameris,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6699302,False,False,False,False
+GNB Sudameris,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.66991204,False,False,False,False
+GNB Sudameris,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6698818,False,False,False,False
+GNB Sudameris,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.66964436,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6693327,False,False,False,False
+GNB Sudameris,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.66923964,False,False,False,False
+GNB Sudameris,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6687287,False,False,False,False
+GNB Sudameris,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.6685761,False,False,False,False
+GNB Sudameris,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6682892,False,False,False,False
+GNB Sudameris,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.66787773,False,False,False,False
+GNB Sudameris,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.66768914,False,False,False,False
+GNB Sudameris,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.6676302,False,False,False,False
+GNB Sudameris,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.66747224,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6674102,False,False,False,False
+GNB Sudameris,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6673837,False,False,False,False
+GNB Sudameris,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.6670452,False,False,False,False
+GNB Sudameris,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.666853,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6667737,False,False,False,False
+GNB Sudameris,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.6665826,False,False,False,False
+GNB Sudameris,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.666188,False,False,False,False
+GNB Sudameris,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.66588223,False,False,False,False
+GNB Sudameris,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.66587734,False,False,False,False
+GNB Sudameris,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6658147,False,False,False,False
+GNB Sudameris,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.66543996,False,False,False,False
+GNB Sudameris,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6652914,False,False,False,False
+GNB Sudameris,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.6649258,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6647845,False,False,False,False
+GNB Sudameris,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.663859,False,False,False,False
+GNB Sudameris,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.6637858,False,False,False,False
+GNB Sudameris,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6637247,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.66371834,False,False,False,False
+GNB Sudameris,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.66338855,False,False,False,False
+GNB Sudameris,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.6633622,False,False,False,False
+GNB Sudameris,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.66311127,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6630482,False,False,False,False
+GNB Sudameris,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6629613,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6626807,False,False,False,False
+GNB Sudameris,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.6626164,False,False,False,False
+GNB Sudameris,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.66230834,False,False,False,False
+GNB Sudameris,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.6622066,False,False,False,False
+GNB Sudameris,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.66219306,False,False,False,False
+GNB Sudameris,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.66211057,False,False,False,False
+GNB Sudameris,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.6620425,False,False,False,False
+GNB Sudameris,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6618271,False,False,False,False
+GNB Sudameris,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.66173196,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.661717,False,False,False,False
+GNB Sudameris,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6615001,False,False,False,False
+GNB Sudameris,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.661443,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6613656,False,False,False,False
+GNB Sudameris,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.66132224,False,False,False,False
+GNB Sudameris,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.66104794,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.66091603,False,False,False,False
+GNB Sudameris,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.660761,False,False,False,False
+GNB Sudameris,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.6605803,False,False,False,False
+GNB Sudameris,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.6604991,False,False,False,False
+GNB Sudameris,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.66017634,False,False,False,False
+GNB Sudameris,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.6600653,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6597848,False,False,False,False
+GNB Sudameris,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.6596588,False,False,False,False
+GNB Sudameris,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.6593175,False,False,False,False
+GNB Sudameris,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.6590501,False,False,False,False
+GNB Sudameris,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.6590149,False,False,False,False
+GNB Sudameris,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.65879333,False,False,False,False
+GNB Sudameris,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.65879023,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.65877134,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6585007,False,False,False,False
+GNB Sudameris,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.6581618,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6575922,False,False,False,False
+GNB Sudameris,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.65755653,False,False,False,False
+GNB Sudameris,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.6575306,False,False,False,False
+GNB Sudameris,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.6575209,False,False,False,False
+GNB Sudameris,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6575156,False,False,False,False
+GNB Sudameris,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6572103,False,False,False,False
+GNB Sudameris,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.6570939,False,False,False,False
+GNB Sudameris,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.6569296,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6568919,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.65660965,False,False,False,False
+GNB Sudameris,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6565788,False,False,False,False
+GNB Sudameris,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.65647465,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6563065,False,False,False,False
+GNB Sudameris,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.656232,False,False,False,False
+GNB Sudameris,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.6559402,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6557101,False,False,False,False
+GNB Sudameris,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.65559584,False,False,False,False
+GNB Sudameris,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.6554892,False,False,False,False
+GNB Sudameris,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6553885,False,False,False,False
+GNB Sudameris,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.6551383,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6551003,False,False,False,False
+GNB Sudameris,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6549828,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6549661,False,False,False,False
+GNB Sudameris,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.6548016,False,False,False,False
+GNB Sudameris,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.65473795,False,False,False,False
+GNB Sudameris,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.6541722,False,False,False,False
+GNB Sudameris,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.65377474,False,False,False,False
+GNB Sudameris,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6536882,False,False,False,False
+GNB Sudameris,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.6536268,False,False,False,False
+GNB Sudameris,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6535573,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6535229,False,False,False,False
+GNB Sudameris,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6534791,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.653345,False,False,False,False
+GNB Sudameris,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.65330017,False,False,False,False
+GNB Sudameris,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.65327907,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.65286416,False,False,False,False
+GNB Sudameris,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6527926,False,False,False,False
+GNB Sudameris,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.6525494,False,False,False,False
+GNB Sudameris,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.6524936,False,False,False,False
+GNB Sudameris,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.652223,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.65173423,False,False,False,False
+GNB Sudameris,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.651696,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.65141636,False,False,False,False
+GNB Sudameris,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.6508979,False,False,False,False
+GNB Sudameris,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.65057236,False,False,False,False
+GNB Sudameris,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.6505329,False,False,False,False
+GNB Sudameris,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.6504245,False,False,False,False
+GNB Sudameris,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.65037495,False,False,False,False
+GNB Sudameris,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.6502702,False,False,False,False
+GNB Sudameris,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.6502421,False,False,False,False
+GNB Sudameris,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6496524,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.64920545,False,False,False,False
+GNB Sudameris,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.6488257,False,False,False,False
+GNB Sudameris,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.6486696,False,False,False,False
+GNB Sudameris,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6485994,False,False,False,False
+GNB Sudameris,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.64859176,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6485807,False,False,False,False
+GNB Sudameris,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.64837724,False,False,False,False
+GNB Sudameris,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.64831173,False,False,False,False
+GNB Sudameris,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.64829326,False,False,False,False
+GNB Sudameris,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6481714,False,False,False,False
+GNB Sudameris,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.64803267,False,False,False,False
+GNB Sudameris,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.64798003,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.64791465,False,False,False,False
+GNB Sudameris,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.64781874,False,False,False,False
+GNB Sudameris,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.64776635,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6477531,False,False,False,False
+GNB Sudameris,random_intel-com_20251129T171229.png,RANDOM,unknown,0.64771354,False,False,False,False
+GNB Sudameris,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.6475061,False,False,False,False
+GNB Sudameris,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.64748657,False,False,False,False
+GNB Sudameris,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.64727855,False,False,False,False
+GNB Sudameris,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.64722383,False,False,False,False
+GNB Sudameris,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.64720976,False,False,False,False
+GNB Sudameris,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.647054,False,False,False,False
+GNB Sudameris,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.64695334,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6469312,False,False,False,False
+GNB Sudameris,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.6469304,False,False,False,False
+GNB Sudameris,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.64689344,False,False,False,False
+GNB Sudameris,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.64657587,False,False,False,False
+GNB Sudameris,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.64647645,False,False,False,False
+GNB Sudameris,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6463665,False,False,False,False
+GNB Sudameris,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.6463406,False,False,False,False
+GNB Sudameris,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6460974,False,False,False,False
+GNB Sudameris,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.64596957,False,False,False,False
+GNB Sudameris,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6459407,False,False,False,False
+GNB Sudameris,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6457807,False,False,False,False
+GNB Sudameris,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6455124,False,False,False,False
+GNB Sudameris,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.64544845,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.64535207,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6453483,False,False,False,False
+GNB Sudameris,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.64505017,False,False,False,False
+GNB Sudameris,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6450034,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.64497316,False,False,False,False
+GNB Sudameris,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.64483607,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.64478505,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6447409,False,False,False,False
+GNB Sudameris,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.64468807,False,False,False,False
+GNB Sudameris,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6442423,False,False,False,False
+GNB Sudameris,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.6442075,False,False,False,False
+GNB Sudameris,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.64414555,False,False,False,False
+GNB Sudameris,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.64375097,False,False,False,False
+GNB Sudameris,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.64357233,False,False,False,False
+GNB Sudameris,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.643501,False,False,False,False
+GNB Sudameris,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6430231,False,False,False,False
+GNB Sudameris,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6429747,False,False,False,False
+GNB Sudameris,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6429701,False,False,False,False
+GNB Sudameris,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.64289474,False,False,False,False
+GNB Sudameris,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6426486,False,False,False,False
+GNB Sudameris,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.6425898,False,False,False,False
+GNB Sudameris,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.6425312,False,False,False,False
+GNB Sudameris,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6425091,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6424253,False,False,False,False
+GNB Sudameris,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.6422065,False,False,False,False
+GNB Sudameris,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.6421719,False,False,False,False
+GNB Sudameris,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.64211184,False,False,False,False
+GNB Sudameris,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.642003,False,False,False,False
+GNB Sudameris,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6418456,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6417656,False,False,False,False
+GNB Sudameris,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.64160764,False,False,False,False
+GNB Sudameris,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6414763,False,False,False,False
+GNB Sudameris,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6413771,False,False,False,False
+GNB Sudameris,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.64120615,False,False,False,False
+GNB Sudameris,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.64113134,False,False,False,False
+GNB Sudameris,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6409259,False,False,False,False
+GNB Sudameris,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.6409198,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.64071214,False,False,False,False
+GNB Sudameris,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.6405635,False,False,False,False
+GNB Sudameris,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.6404567,False,False,False,False
+GNB Sudameris,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.64042085,False,False,False,False
+GNB Sudameris,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.64031637,False,False,False,False
+GNB Sudameris,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.6402914,False,False,False,False
+GNB Sudameris,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.6400836,False,False,False,False
+GNB Sudameris,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.6399692,False,False,False,False
+GNB Sudameris,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.63993853,False,False,False,False
+GNB Sudameris,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.6398294,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.6397561,False,False,False,False
+GNB Sudameris,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.63970804,False,False,False,False
+GNB Sudameris,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6395445,False,False,False,False
+GNB Sudameris,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6394729,False,False,False,False
+GNB Sudameris,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6393234,False,False,False,False
+GNB Sudameris,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6391005,False,False,False,False
+GNB Sudameris,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.6389405,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.63891786,False,False,False,False
+GNB Sudameris,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.63881767,False,False,False,False
+GNB Sudameris,random_weather-com_20251129T164102.png,RANDOM,unknown,0.63880116,False,False,False,False
+GNB Sudameris,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.6387744,False,False,False,False
+GNB Sudameris,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.63859785,False,False,False,False
+GNB Sudameris,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.63853455,False,False,False,False
+GNB Sudameris,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6382991,False,False,False,False
+GNB Sudameris,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6381818,False,False,False,False
+GNB Sudameris,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.63817847,False,False,False,False
+GNB Sudameris,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.63816607,False,False,False,False
+GNB Sudameris,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6378349,False,False,False,False
+GNB Sudameris,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6375736,False,False,False,False
+GNB Sudameris,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.63727164,False,False,False,False
+GNB Sudameris,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.63707364,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6370624,False,False,False,False
+GNB Sudameris,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.63694495,False,False,False,False
+GNB Sudameris,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6369134,False,False,False,False
+GNB Sudameris,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6366304,False,False,False,False
+GNB Sudameris,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.63612616,False,False,False,False
+GNB Sudameris,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.63592166,False,False,False,False
+GNB Sudameris,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.635885,False,False,False,False
+GNB Sudameris,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6357373,False,False,False,False
+GNB Sudameris,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.63572884,False,False,False,False
+GNB Sudameris,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.63566273,False,False,False,False
+GNB Sudameris,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.63564825,False,False,False,False
+GNB Sudameris,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6355508,False,False,False,False
+GNB Sudameris,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6353166,False,False,False,False
+GNB Sudameris,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.63520926,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6349016,False,False,False,False
+GNB Sudameris,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.6347923,False,False,False,False
+GNB Sudameris,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6346091,False,False,False,False
+GNB Sudameris,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.6345131,False,False,False,False
+GNB Sudameris,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6343148,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.63423073,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6340314,False,False,False,False
+GNB Sudameris,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6337268,False,False,False,False
+GNB Sudameris,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.63327783,False,False,False,False
+GNB Sudameris,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.633222,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6331897,False,False,False,False
+GNB Sudameris,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.6330528,False,False,False,False
+GNB Sudameris,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.63297904,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6326196,False,False,False,False
+GNB Sudameris,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.63251203,False,False,False,False
+GNB Sudameris,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.6324579,False,False,False,False
+GNB Sudameris,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.6323586,False,False,False,False
+GNB Sudameris,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.6323177,False,False,False,False
+GNB Sudameris,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.63229895,False,False,False,False
+GNB Sudameris,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.63216364,False,False,False,False
+GNB Sudameris,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.63209903,False,False,False,False
+GNB Sudameris,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6320854,False,False,False,False
+GNB Sudameris,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.6318134,False,False,False,False
+GNB Sudameris,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6317713,False,False,False,False
+GNB Sudameris,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.6317134,False,False,False,False
+GNB Sudameris,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6314283,False,False,False,False
+GNB Sudameris,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.63137203,False,False,False,False
+GNB Sudameris,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.6312402,False,False,False,False
+GNB Sudameris,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.63121754,False,False,False,False
+GNB Sudameris,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.63121665,False,False,False,False
+GNB Sudameris,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.6311358,False,False,False,False
+GNB Sudameris,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.63105273,False,False,False,False
+GNB Sudameris,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.63100636,False,False,False,False
+GNB Sudameris,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.6309972,False,False,False,False
+GNB Sudameris,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6307135,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6305951,False,False,False,False
+GNB Sudameris,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.63047475,False,False,False,False
+GNB Sudameris,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.63040376,False,False,False,False
+GNB Sudameris,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.6303624,False,False,False,False
+GNB Sudameris,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.63021255,False,False,False,False
+GNB Sudameris,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6300788,False,False,False,False
+GNB Sudameris,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.630004,False,False,False,False
+GNB Sudameris,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.62980425,False,False,False,False
+GNB Sudameris,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.6295824,False,False,False,False
+GNB Sudameris,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6295259,False,False,False,False
+GNB Sudameris,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.62914884,False,False,False,False
+GNB Sudameris,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6290599,False,False,False,False
+GNB Sudameris,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.6289315,False,False,False,False
+GNB Sudameris,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.62865174,False,False,False,False
+GNB Sudameris,random_temu-com_20251129T165219.png,RANDOM,unknown,0.62861466,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6285814,False,False,False,False
+GNB Sudameris,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.628532,False,False,False,False
+GNB Sudameris,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.628154,False,False,False,False
+GNB Sudameris,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.6281129,False,False,False,False
+GNB Sudameris,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.6280819,False,False,False,False
+GNB Sudameris,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.62794685,False,False,False,False
+GNB Sudameris,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.62775123,False,False,False,False
+GNB Sudameris,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.62771815,False,False,False,False
+GNB Sudameris,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.62761664,False,False,False,False
+GNB Sudameris,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.6275792,False,False,False,False
+GNB Sudameris,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.62749076,False,False,False,False
+GNB Sudameris,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.627475,False,False,False,False
+GNB Sudameris,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.62730646,False,False,False,False
+GNB Sudameris,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.6272397,False,False,False,False
+GNB Sudameris,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.62696403,False,False,False,False
+GNB Sudameris,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.62673986,False,False,False,False
+GNB Sudameris,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6266787,False,False,False,False
+GNB Sudameris,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.6263957,False,False,False,False
+GNB Sudameris,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6263187,False,False,False,False
+GNB Sudameris,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.62622607,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.626091,False,False,False,False
+GNB Sudameris,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6260636,False,False,False,False
+GNB Sudameris,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6258077,False,False,False,False
+GNB Sudameris,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.6256913,False,False,False,False
+GNB Sudameris,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.62560225,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6255046,False,False,False,False
+GNB Sudameris,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6252962,False,False,False,False
+GNB Sudameris,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.62508297,False,False,False,False
+GNB Sudameris,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6248198,False,False,False,False
+GNB Sudameris,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.62443674,False,False,False,False
+GNB Sudameris,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.62424207,False,False,False,False
+GNB Sudameris,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6238621,False,False,False,False
+GNB Sudameris,random_abc-es_20251129T175348.png,RANDOM,unknown,0.6238576,False,False,False,False
+GNB Sudameris,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.62383217,False,False,False,False
+GNB Sudameris,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.6237704,False,False,False,False
+GNB Sudameris,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.62340146,False,False,False,False
+GNB Sudameris,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.62327504,False,False,False,False
+GNB Sudameris,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.62298083,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.62289214,False,False,False,False
+GNB Sudameris,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.62282586,False,False,False,False
+GNB Sudameris,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6227464,False,False,False,False
+GNB Sudameris,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.6223631,False,False,False,False
+GNB Sudameris,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.6219723,False,False,False,False
+GNB Sudameris,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.62162006,False,False,False,False
+GNB Sudameris,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.620951,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.62086314,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6207642,False,False,False,False
+GNB Sudameris,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.620531,False,False,False,False
+GNB Sudameris,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6204074,False,False,False,False
+GNB Sudameris,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.620238,False,False,False,False
+GNB Sudameris,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.61999553,False,False,False,False
+GNB Sudameris,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.619962,False,False,False,False
+GNB Sudameris,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.619923,False,False,False,False
+GNB Sudameris,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.619876,False,False,False,False
+GNB Sudameris,random_hp-com_20251129T164248.png,RANDOM,unknown,0.6198431,False,False,False,False
+GNB Sudameris,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.6197933,False,False,False,False
+GNB Sudameris,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.6190677,False,False,False,False
+GNB Sudameris,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.61904836,False,False,False,False
+GNB Sudameris,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.61903167,False,False,False,False
+GNB Sudameris,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.6186688,False,False,False,False
+GNB Sudameris,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.61851186,False,False,False,False
+GNB Sudameris,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.61775196,False,False,False,False
+GNB Sudameris,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.6176536,False,False,False,False
+GNB Sudameris,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.61760354,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6169417,False,False,False,False
+GNB Sudameris,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.61669433,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.616249,False,False,False,False
+GNB Sudameris,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.61599344,False,False,False,False
+GNB Sudameris,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6155201,False,False,False,False
+GNB Sudameris,random_web-de_20251129T175220.png,RANDOM,unknown,0.6154175,False,False,False,False
+GNB Sudameris,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.61516404,False,False,False,False
+GNB Sudameris,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6149951,False,False,False,False
+GNB Sudameris,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6143468,False,False,False,False
+GNB Sudameris,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.61431897,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6142856,False,False,False,False
+GNB Sudameris,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.61412096,False,False,False,False
+GNB Sudameris,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.61366785,False,False,False,False
+GNB Sudameris,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6136537,False,False,False,False
+GNB Sudameris,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.61358464,False,False,False,False
+GNB Sudameris,random_msn-com_20251129T162722.png,RANDOM,unknown,0.6135734,False,False,False,False
+GNB Sudameris,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.61312985,False,False,False,False
+GNB Sudameris,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6128324,False,False,False,False
+GNB Sudameris,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6128247,False,False,False,False
+GNB Sudameris,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6127759,False,False,False,False
+GNB Sudameris,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.61272347,False,False,False,False
+GNB Sudameris,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.612507,False,False,False,False
+GNB Sudameris,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.6124071,False,False,False,False
+GNB Sudameris,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.61221385,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.61177754,False,False,False,False
+GNB Sudameris,random_avast-com_20251129T164855.png,RANDOM,unknown,0.61171544,False,False,False,False
+GNB Sudameris,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.61144316,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.61131215,False,False,False,False
+GNB Sudameris,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.6107385,False,False,False,False
+GNB Sudameris,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.61064184,False,False,False,False
+GNB Sudameris,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.6105497,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6096935,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6095473,False,False,False,False
+GNB Sudameris,random_google-com_20251129T162253.png,RANDOM,unknown,0.60922045,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6090002,False,False,False,False
+GNB Sudameris,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.60835123,False,False,False,False
+GNB Sudameris,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.6083287,False,False,False,False
+GNB Sudameris,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.607471,False,False,False,False
+GNB Sudameris,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6074255,False,False,False,False
+GNB Sudameris,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.60701734,False,False,False,False
+GNB Sudameris,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.60683763,False,False,False,False
+GNB Sudameris,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.60679376,False,False,False,False
+GNB Sudameris,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.60591006,False,False,False,False
+GNB Sudameris,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.6057521,False,False,False,False
+GNB Sudameris,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.60536677,False,False,False,False
+GNB Sudameris,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.6053514,False,False,False,False
+GNB Sudameris,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.6052352,False,False,False,False
+GNB Sudameris,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6051432,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.60498035,False,False,False,False
+GNB Sudameris,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.6048548,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.60481924,False,False,False,False
+GNB Sudameris,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.6046081,False,False,False,False
+GNB Sudameris,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6042305,False,False,False,False
+GNB Sudameris,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.60417986,False,False,False,False
+GNB Sudameris,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.6038285,False,False,False,False
+GNB Sudameris,random_gov-br_20251129T174615.png,RANDOM,unknown,0.6034515,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6029933,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.60290277,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.601946,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6018702,False,False,False,False
+GNB Sudameris,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6017671,False,False,False,False
+GNB Sudameris,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.60176206,False,False,False,False
+GNB Sudameris,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6009233,False,False,False,False
+GNB Sudameris,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.6006234,False,False,False,False
+GNB Sudameris,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.6005739,False,False,False,False
+GNB Sudameris,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.6004927,False,False,False,False
+GNB Sudameris,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.6003983,False,False,False,False
+GNB Sudameris,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5997666,False,False,False,False
+GNB Sudameris,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.59896153,False,False,False,False
+GNB Sudameris,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.59891146,False,False,False,False
+GNB Sudameris,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.59877336,False,False,False,False
+GNB Sudameris,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.59829044,False,False,False,False
+GNB Sudameris,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.59818643,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.59765685,False,False,False,False
+GNB Sudameris,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.5971292,False,False,False,False
+GNB Sudameris,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5970699,False,False,False,False
+GNB Sudameris,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.5969348,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.59693474,False,False,False,False
+GNB Sudameris,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.59584284,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.59579045,False,False,False,False
+GNB Sudameris,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.59507024,False,False,False,False
+GNB Sudameris,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5949863,False,False,False,False
+GNB Sudameris,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.59493476,False,False,False,False
+GNB Sudameris,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.5948615,False,False,False,False
+GNB Sudameris,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5944919,False,False,False,False
+GNB Sudameris,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5942949,False,False,False,False
+GNB Sudameris,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.5939595,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5937476,False,False,False,False
+GNB Sudameris,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.59350145,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5934957,False,False,False,False
+GNB Sudameris,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.59348506,False,False,False,False
+GNB Sudameris,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.59299725,False,False,False,False
+GNB Sudameris,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.5920471,False,False,False,False
+GNB Sudameris,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5915183,False,False,False,False
+GNB Sudameris,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5913179,False,False,False,False
+GNB Sudameris,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.5911546,False,False,False,False
+GNB Sudameris,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.5908549,False,False,False,False
+GNB Sudameris,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.5907588,False,False,False,False
+GNB Sudameris,random_springer-com_20251129T164823.png,RANDOM,unknown,0.5906669,False,False,False,False
+GNB Sudameris,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5903331,False,False,False,False
+GNB Sudameris,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.5901493,False,False,False,False
+GNB Sudameris,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.59010625,False,False,False,False
+GNB Sudameris,random_g-page_20251129T170201.png,RANDOM,unknown,0.5901025,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.59000945,False,False,False,False
+GNB Sudameris,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.5897739,False,False,False,False
+GNB Sudameris,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.5897597,False,False,False,False
+GNB Sudameris,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.58901143,False,False,False,False
+GNB Sudameris,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.588558,False,False,False,False
+GNB Sudameris,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5885068,False,False,False,False
+GNB Sudameris,random_viber-com_20251129T172210.png,RANDOM,unknown,0.58820975,False,False,False,False
+GNB Sudameris,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.58776844,False,False,False,False
+GNB Sudameris,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.58772385,False,False,False,False
+GNB Sudameris,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.5875588,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.58733475,False,False,False,False
+GNB Sudameris,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.5873203,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5873017,False,False,False,False
+GNB Sudameris,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.58704346,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5862402,False,False,False,False
+GNB Sudameris,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.58603,False,False,False,False
+GNB Sudameris,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.58514977,False,False,False,False
+GNB Sudameris,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.5846694,False,False,False,False
+GNB Sudameris,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.5845825,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5844367,False,False,False,False
+GNB Sudameris,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.584005,False,False,False,False
+GNB Sudameris,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.5835563,False,False,False,False
+GNB Sudameris,random_att-net_20251129T170227.png,RANDOM,unknown,0.58345973,False,False,False,False
+GNB Sudameris,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.58324873,False,False,False,False
+GNB Sudameris,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.5829064,False,False,False,False
+GNB Sudameris,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.58286107,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.58281314,False,False,False,False
+GNB Sudameris,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.58247894,False,False,False,False
+GNB Sudameris,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.58227086,False,False,False,False
+GNB Sudameris,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.58219993,False,False,False,False
+GNB Sudameris,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.5820218,False,False,False,False
+GNB Sudameris,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.58194005,False,False,False,False
+GNB Sudameris,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.5818895,False,False,False,False
+GNB Sudameris,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.5817624,False,False,False,False
+GNB Sudameris,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.58167744,False,False,False,False
+GNB Sudameris,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.58049554,False,False,False,False
+GNB Sudameris,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.5802605,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.58024275,False,False,False,False
+GNB Sudameris,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.58021635,False,False,False,False
+GNB Sudameris,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.58020014,False,False,False,False
+GNB Sudameris,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.58000845,False,False,False,False
+GNB Sudameris,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.57963187,False,False,False,False
+GNB Sudameris,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.5793183,False,False,False,False
+GNB Sudameris,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.57917154,False,False,False,False
+GNB Sudameris,random_xing-com_20251129T175042.png,RANDOM,unknown,0.578985,False,False,False,False
+GNB Sudameris,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.5785031,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5784937,False,False,False,False
+GNB Sudameris,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.5782724,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5781083,False,False,False,False
+GNB Sudameris,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.57770115,False,False,False,False
+GNB Sudameris,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.5776459,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.57754165,False,False,False,False
+GNB Sudameris,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.57753074,False,False,False,False
+GNB Sudameris,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.5772369,False,False,False,False
+GNB Sudameris,random_dns-google_20251129T163231.png,RANDOM,unknown,0.57713103,False,False,False,False
+GNB Sudameris,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.5767113,False,False,False,False
+GNB Sudameris,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.5763505,False,False,False,False
+GNB Sudameris,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.57602674,False,False,False,False
+GNB Sudameris,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.57529163,False,False,False,False
+GNB Sudameris,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.5751271,False,False,False,False
+GNB Sudameris,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.57501775,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5748677,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.574401,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5743001,False,False,False,False
+GNB Sudameris,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.57388175,False,False,False,False
+GNB Sudameris,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.57296145,False,False,False,False
+GNB Sudameris,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.5727539,False,False,False,False
+GNB Sudameris,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.572461,False,False,False,False
+GNB Sudameris,random_change-org_20251129T173929.png,RANDOM,unknown,0.57239497,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5723817,False,False,False,False
+GNB Sudameris,random_eset-com_20251129T171424.png,RANDOM,unknown,0.57235384,False,False,False,False
+GNB Sudameris,random_wix-com_20251129T171207.png,RANDOM,unknown,0.5714331,False,False,False,False
+GNB Sudameris,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.57124686,False,False,False,False
+GNB Sudameris,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.5712372,False,False,False,False
+GNB Sudameris,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.5710671,False,False,False,False
+GNB Sudameris,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.57090867,False,False,False,False
+GNB Sudameris,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.5708556,False,False,False,False
+GNB Sudameris,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5708345,False,False,False,False
+GNB Sudameris,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.5707306,False,False,False,False
+GNB Sudameris,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.57071745,False,False,False,False
+GNB Sudameris,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.5705222,False,False,False,False
+GNB Sudameris,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.57029104,False,False,False,False
+GNB Sudameris,random_usps-com_20251129T173658.png,RANDOM,unknown,0.570086,False,False,False,False
+GNB Sudameris,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.56994814,False,False,False,False
+GNB Sudameris,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.56919587,False,False,False,False
+GNB Sudameris,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.56889087,False,False,False,False
+GNB Sudameris,random_marca-com_20251129T175532.png,RANDOM,unknown,0.5687178,False,False,False,False
+GNB Sudameris,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.56829727,False,False,False,False
+GNB Sudameris,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.5674533,False,False,False,False
+GNB Sudameris,random_nature-com_20251129T164547.png,RANDOM,unknown,0.5673982,False,False,False,False
+GNB Sudameris,random_att-com_20251129T180955.png,RANDOM,unknown,0.56715345,False,False,False,False
+GNB Sudameris,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.5665276,False,False,False,False
+GNB Sudameris,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.5665132,False,False,False,False
+GNB Sudameris,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.56646425,False,False,False,False
+GNB Sudameris,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5662717,False,False,False,False
+GNB Sudameris,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.56511956,False,False,False,False
+GNB Sudameris,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.5646852,False,False,False,False
+GNB Sudameris,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.5645355,False,False,False,False
+GNB Sudameris,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.5641508,False,False,False,False
+GNB Sudameris,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5638727,False,False,False,False
+GNB Sudameris,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.5630615,False,False,False,False
+GNB Sudameris,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.56297386,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5628881,False,False,False,False
+GNB Sudameris,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.56282103,False,False,False,False
+GNB Sudameris,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.56281936,False,False,False,False
+GNB Sudameris,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.56269896,False,False,False,False
+GNB Sudameris,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.56266874,False,False,False,False
+GNB Sudameris,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.56230795,False,False,False,False
+GNB Sudameris,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.56225616,False,False,False,False
+GNB Sudameris,random_aol-com_20251129T170152.png,RANDOM,unknown,0.561965,False,False,False,False
+GNB Sudameris,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.5607064,False,False,False,False
+GNB Sudameris,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.56023943,False,False,False,False
+GNB Sudameris,random_welt-de_20251129T173821.png,RANDOM,unknown,0.56015164,False,False,False,False
+GNB Sudameris,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.5599553,False,False,False,False
+GNB Sudameris,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.5598919,False,False,False,False
+GNB Sudameris,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.55963737,False,False,False,False
+GNB Sudameris,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.55928004,False,False,False,False
+GNB Sudameris,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.55926824,False,False,False,False
+GNB Sudameris,random_one-one_20251129T163318.png,RANDOM,unknown,0.5590407,False,False,False,False
+GNB Sudameris,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.5585427,False,False,False,False
+GNB Sudameris,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.55850315,False,False,False,False
+GNB Sudameris,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.5576563,False,False,False,False
+GNB Sudameris,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.55645484,False,False,False,False
+GNB Sudameris,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.5561745,False,False,False,False
+GNB Sudameris,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.55610144,False,False,False,False
+GNB Sudameris,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.5559684,False,False,False,False
+GNB Sudameris,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.55596244,False,False,False,False
+GNB Sudameris,random_ring-com_20251129T172743.png,RANDOM,unknown,0.5552943,False,False,False,False
+GNB Sudameris,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.5552794,False,False,False,False
+GNB Sudameris,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.55498666,False,False,False,False
+GNB Sudameris,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.55450654,False,False,False,False
+GNB Sudameris,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.5544557,False,False,False,False
+GNB Sudameris,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.55444723,False,False,False,False
+GNB Sudameris,random_360-cn_20251129T173141.png,RANDOM,unknown,0.55348885,False,False,False,False
+GNB Sudameris,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.5533019,False,False,False,False
+GNB Sudameris,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.5532706,False,False,False,False
+GNB Sudameris,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.5531341,False,False,False,False
+GNB Sudameris,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.5530518,False,False,False,False
+GNB Sudameris,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.5527564,False,False,False,False
+GNB Sudameris,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.55271745,False,False,False,False
+GNB Sudameris,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.55265605,False,False,False,False
+GNB Sudameris,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.55261743,False,False,False,False
+GNB Sudameris,random_name-com_20251129T171101.png,RANDOM,unknown,0.5524461,False,False,False,False
+GNB Sudameris,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.5523565,False,False,False,False
+GNB Sudameris,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.5522557,False,False,False,False
+GNB Sudameris,random_qq-com_20251129T162834.png,RANDOM,unknown,0.5519893,False,False,False,False
+GNB Sudameris,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.55160034,False,False,False,False
+GNB Sudameris,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.55158186,False,False,False,False
+GNB Sudameris,random_discord-media_20251129T170414.png,RANDOM,unknown,0.55113095,False,False,False,False
+GNB Sudameris,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.55051523,False,False,False,False
+GNB Sudameris,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.54995924,False,False,False,False
+GNB Sudameris,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.5488948,False,False,False,False
+GNB Sudameris,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5488552,False,False,False,False
+GNB Sudameris,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.548674,False,False,False,False
+GNB Sudameris,random_canva-com_20251129T164231.png,RANDOM,unknown,0.5485997,False,False,False,False
+GNB Sudameris,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.5484311,False,False,False,False
+GNB Sudameris,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.54838806,False,False,False,False
+GNB Sudameris,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.54838634,False,False,False,False
+GNB Sudameris,random_globo-com_20251129T165541.png,RANDOM,unknown,0.54762125,False,False,False,False
+GNB Sudameris,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.54755324,False,False,False,False
+GNB Sudameris,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.54693645,False,False,False,False
+GNB Sudameris,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.54678917,False,False,False,False
+GNB Sudameris,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.54600537,False,False,False,False
+GNB Sudameris,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.5459087,False,False,False,False
+GNB Sudameris,random_segment-io_20251129T174400.png,RANDOM,unknown,0.5455743,False,False,False,False
+GNB Sudameris,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.5450697,False,False,False,False
+GNB Sudameris,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.54494035,False,False,False,False
+GNB Sudameris,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.5447895,False,False,False,False
+GNB Sudameris,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.54465413,False,False,False,False
+GNB Sudameris,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.5445826,False,False,False,False
+GNB Sudameris,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.5443234,False,False,False,False
+GNB Sudameris,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.54412717,False,False,False,False
+GNB Sudameris,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.54405123,False,False,False,False
+GNB Sudameris,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.5437472,False,False,False,False
+GNB Sudameris,random_binance-com_20251129T174935.png,RANDOM,unknown,0.5436102,False,False,False,False
+GNB Sudameris,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.5433514,False,False,False,False
+GNB Sudameris,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.5429825,False,False,False,False
+GNB Sudameris,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.5428927,False,False,False,False
+GNB Sudameris,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.54283726,False,False,False,False
+GNB Sudameris,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.54271984,False,False,False,False
+GNB Sudameris,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.54263085,False,False,False,False
+GNB Sudameris,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.54234034,False,False,False,False
+GNB Sudameris,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.5421574,False,False,False,False
+GNB Sudameris,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.54200506,False,False,False,False
+GNB Sudameris,random_india-com_20251129T180557.png,RANDOM,unknown,0.54200274,False,False,False,False
+GNB Sudameris,random_opera-com_20251129T163028.png,RANDOM,unknown,0.5419132,False,False,False,False
+GNB Sudameris,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.5418978,False,False,False,False
+GNB Sudameris,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.5415984,False,False,False,False
+GNB Sudameris,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.54117596,False,False,False,False
+GNB Sudameris,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.5408673,False,False,False,False
+GNB Sudameris,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.54079485,False,False,False,False
+GNB Sudameris,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.5406771,False,False,False,False
+GNB Sudameris,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.54030037,False,False,False,False
+GNB Sudameris,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.54001206,False,False,False,False
+GNB Sudameris,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.539988,False,False,False,False
+GNB Sudameris,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.5398705,False,False,False,False
+GNB Sudameris,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.5395212,False,False,False,False
+GNB Sudameris,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.53951335,False,False,False,False
+GNB Sudameris,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.539498,False,False,False,False
+GNB Sudameris,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.53870785,False,False,False,False
+GNB Sudameris,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.5385957,False,False,False,False
+GNB Sudameris,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.53853,False,False,False,False
+GNB Sudameris,random_statista-com_20251129T165822.png,RANDOM,unknown,0.5381977,False,False,False,False
+GNB Sudameris,random_bild-de_20251129T173827.png,RANDOM,unknown,0.5380575,False,False,False,False
+GNB Sudameris,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.5378363,False,False,False,False
+GNB Sudameris,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5378039,False,False,False,False
+GNB Sudameris,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.53771317,False,False,False,False
+GNB Sudameris,random_substack-com_20251129T171941.png,RANDOM,unknown,0.53761077,False,False,False,False
+GNB Sudameris,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.5371546,False,False,False,False
+GNB Sudameris,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.53703153,False,False,False,False
+GNB Sudameris,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.53662205,False,False,False,False
+GNB Sudameris,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.5365366,False,False,False,False
+GNB Sudameris,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5360091,False,False,False,False
+GNB Sudameris,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.5359981,False,False,False,False
+GNB Sudameris,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.5358945,False,False,False,False
+GNB Sudameris,random_ui-com_20251129T163127.png,RANDOM,unknown,0.5358408,False,False,False,False
+GNB Sudameris,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.53536034,False,False,False,False
+GNB Sudameris,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.53533167,False,False,False,False
+GNB Sudameris,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.53526425,False,False,False,False
+GNB Sudameris,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.5350885,False,False,False,False
+GNB Sudameris,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.53481585,False,False,False,False
+GNB Sudameris,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.5347126,False,False,False,False
+GNB Sudameris,random_github-io_20251129T163235.png,RANDOM,unknown,0.534612,False,False,False,False
+GNB Sudameris,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.5345646,False,False,False,False
+GNB Sudameris,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.5345471,False,False,False,False
+GNB Sudameris,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.53431356,False,False,False,False
+GNB Sudameris,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.53427607,False,False,False,False
+GNB Sudameris,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.53421456,False,False,False,False
+GNB Sudameris,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.53414196,False,False,False,False
+GNB Sudameris,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.53369164,False,False,False,False
+GNB Sudameris,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.53359723,False,False,False,False
+GNB Sudameris,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.53323483,False,False,False,False
+GNB Sudameris,random_live-com_20251129T162413.png,RANDOM,unknown,0.5331576,False,False,False,False
+GNB Sudameris,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.5331523,False,False,False,False
+GNB Sudameris,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.53284705,False,False,False,False
+GNB Sudameris,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.5327348,False,False,False,False
+GNB Sudameris,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.5326716,False,False,False,False
+GNB Sudameris,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.53264624,False,False,False,False
+GNB Sudameris,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.53245276,False,False,False,False
+GNB Sudameris,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.5323239,False,False,False,False
+GNB Sudameris,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.53232014,False,False,False,False
+GNB Sudameris,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.53196603,False,False,False,False
+GNB Sudameris,random_moe-video_20251129T164430.png,RANDOM,unknown,0.53183734,False,False,False,False
+GNB Sudameris,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.531689,False,False,False,False
+GNB Sudameris,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.5314844,False,False,False,False
+GNB Sudameris,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5314269,False,False,False,False
+GNB Sudameris,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5314221,False,False,False,False
+GNB Sudameris,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.5312362,False,False,False,False
+GNB Sudameris,random_tds-net_20251129T174115.png,RANDOM,unknown,0.5311271,False,False,False,False
+GNB Sudameris,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.53099203,False,False,False,False
+GNB Sudameris,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.5306734,False,False,False,False
+GNB Sudameris,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.5305825,False,False,False,False
+GNB Sudameris,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.5304424,False,False,False,False
+GNB Sudameris,random_w3-org_20251129T163751.png,RANDOM,unknown,0.5302008,False,False,False,False
+GNB Sudameris,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.5298625,False,False,False,False
+GNB Sudameris,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.5297421,False,False,False,False
+GNB Sudameris,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.52924776,False,False,False,False
+GNB Sudameris,random_wise-com_20251129T180312.png,RANDOM,unknown,0.529104,False,False,False,False
+GNB Sudameris,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.5291026,False,False,False,False
+GNB Sudameris,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.5289388,False,False,False,False
+GNB Sudameris,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.5289356,False,False,False,False
+GNB Sudameris,random_python-org_20251129T173738.png,RANDOM,unknown,0.5286605,False,False,False,False
+GNB Sudameris,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.52832127,False,False,False,False
+GNB Sudameris,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.52830064,False,False,False,False
+GNB Sudameris,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.5281548,False,False,False,False
+GNB Sudameris,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.52743614,False,False,False,False
+GNB Sudameris,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.52685434,False,False,False,False
+GNB Sudameris,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.526821,False,False,False,False
+GNB Sudameris,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.5267957,False,False,False,False
+GNB Sudameris,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.52664274,False,False,False,False
+GNB Sudameris,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5265272,False,False,False,False
+GNB Sudameris,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.5263939,False,False,False,False
+GNB Sudameris,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.52621746,False,False,False,False
+GNB Sudameris,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.5260907,False,False,False,False
+GNB Sudameris,random_synology-com_20251129T173948.png,RANDOM,unknown,0.52547765,False,False,False,False
+GNB Sudameris,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.525244,False,False,False,False
+GNB Sudameris,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.52520686,False,False,False,False
+GNB Sudameris,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.5249711,False,False,False,False
+GNB Sudameris,random_doi-org_20251129T164112.png,RANDOM,unknown,0.52479726,False,False,False,False
+GNB Sudameris,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.5245898,False,False,False,False
+GNB Sudameris,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.5245415,False,False,False,False
+GNB Sudameris,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.5243443,False,False,False,False
+GNB Sudameris,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.5242569,False,False,False,False
+GNB Sudameris,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.52417797,False,False,False,False
+GNB Sudameris,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.5239922,False,False,False,False
+GNB Sudameris,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.5233403,False,False,False,False
+GNB Sudameris,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.52278745,False,False,False,False
+GNB Sudameris,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.5227634,False,False,False,False
+GNB Sudameris,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.5227538,False,False,False,False
+GNB Sudameris,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.5227095,False,False,False,False
+GNB Sudameris,random_windows-com_20251129T163112.png,RANDOM,unknown,0.52246886,False,False,False,False
+GNB Sudameris,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.5222176,False,False,False,False
+GNB Sudameris,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5222085,False,False,False,False
+GNB Sudameris,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.5221641,False,False,False,False
+GNB Sudameris,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.5220351,False,False,False,False
+GNB Sudameris,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.52203155,False,False,False,False
+GNB Sudameris,random_f5-com_20251129T163706.png,RANDOM,unknown,0.52194536,False,False,False,False
+GNB Sudameris,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.5219412,False,False,False,False
+GNB Sudameris,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.52194107,False,False,False,False
+GNB Sudameris,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.5216466,False,False,False,False
+GNB Sudameris,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5216268,False,False,False,False
+GNB Sudameris,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.5214746,False,False,False,False
+GNB Sudameris,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.52144176,False,False,False,False
+GNB Sudameris,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.5213025,False,False,False,False
+GNB Sudameris,random_apache-org_20251129T163228.png,RANDOM,unknown,0.52122545,False,False,False,False
+GNB Sudameris,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.5211201,False,False,False,False
+GNB Sudameris,random_php-net_20251129T164521.png,RANDOM,unknown,0.52108246,False,False,False,False
+GNB Sudameris,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.5210165,False,False,False,False
+GNB Sudameris,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.52086604,False,False,False,False
+GNB Sudameris,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.5208496,False,False,False,False
+GNB Sudameris,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.520639,False,False,False,False
+GNB Sudameris,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.5205034,False,False,False,False
+GNB Sudameris,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.5204502,False,False,False,False
+GNB Sudameris,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.52042294,False,False,False,False
+GNB Sudameris,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.52037776,False,False,False,False
+GNB Sudameris,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.51983327,False,False,False,False
+GNB Sudameris,random_nic-io_20251129T173852.png,RANDOM,unknown,0.51979685,False,False,False,False
+GNB Sudameris,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.51969194,False,False,False,False
+GNB Sudameris,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.51957214,False,False,False,False
+GNB Sudameris,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.51913464,False,False,False,False
+GNB Sudameris,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.5191308,False,False,False,False
+GNB Sudameris,random_cox-net_20251129T170452.png,RANDOM,unknown,0.5187008,False,False,False,False
+GNB Sudameris,random_google-cn_20251129T172939.png,RANDOM,unknown,0.5184258,False,False,False,False
+GNB Sudameris,random_plos-org_20251129T180524.png,RANDOM,unknown,0.51826984,False,False,False,False
+GNB Sudameris,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.5180241,False,False,False,False
+GNB Sudameris,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.51787776,False,False,False,False
+GNB Sudameris,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.517709,False,False,False,False
+GNB Sudameris,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.5175304,False,False,False,False
+GNB Sudameris,random_debian-org_20251129T164620.png,RANDOM,unknown,0.5174637,False,False,False,False
+GNB Sudameris,random_uk-com_20251129T171638.png,RANDOM,unknown,0.51744366,False,False,False,False
+GNB Sudameris,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.51729417,False,False,False,False
+GNB Sudameris,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.5171244,False,False,False,False
+GNB Sudameris,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.5168543,False,False,False,False
+GNB Sudameris,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.5164541,False,False,False,False
+GNB Sudameris,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.51616853,False,False,False,False
+GNB Sudameris,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.5161288,False,False,False,False
+GNB Sudameris,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.5160402,False,False,False,False
+GNB Sudameris,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.5159671,False,False,False,False
+GNB Sudameris,random_clever-com_20251129T173500.png,RANDOM,unknown,0.5158468,False,False,False,False
+GNB Sudameris,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.5155011,False,False,False,False
+GNB Sudameris,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.51546174,False,False,False,False
+GNB Sudameris,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.5154255,False,False,False,False
+GNB Sudameris,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.51538336,False,False,False,False
+GNB Sudameris,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.515347,False,False,False,False
+GNB Sudameris,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.515341,False,False,False,False
+GNB Sudameris,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.51516485,False,False,False,False
+GNB Sudameris,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.5151645,False,False,False,False
+GNB Sudameris,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.51506364,False,False,False,False
+GNB Sudameris,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.5150422,False,False,False,False
+GNB Sudameris,random_apa-org_20251129T180433.png,RANDOM,unknown,0.51486564,False,False,False,False
+GNB Sudameris,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.51437855,False,False,False,False
+GNB Sudameris,random_office365-com_20251129T162902.png,RANDOM,unknown,0.51400536,False,False,False,False
+GNB Sudameris,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.51376325,False,False,False,False
+GNB Sudameris,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.5137405,False,False,False,False
+GNB Sudameris,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.5135152,False,False,False,False
+GNB Sudameris,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.51336634,False,False,False,False
+GNB Sudameris,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.5132644,False,False,False,False
+GNB Sudameris,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.51310027,False,False,False,False
+GNB Sudameris,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.5123563,False,False,False,False
+GNB Sudameris,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.5121479,False,False,False,False
+GNB Sudameris,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.51211584,False,False,False,False
+GNB Sudameris,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.51203734,False,False,False,False
+GNB Sudameris,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.5118954,False,False,False,False
+GNB Sudameris,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.5114772,False,False,False,False
+GNB Sudameris,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.5112759,False,False,False,False
+GNB Sudameris,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.5112728,False,False,False,False
+GNB Sudameris,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.51126885,False,False,False,False
+GNB Sudameris,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.51117754,False,False,False,False
+GNB Sudameris,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.51110077,False,False,False,False
+GNB Sudameris,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.5107993,False,False,False,False
+GNB Sudameris,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.51053447,False,False,False,False
+GNB Sudameris,random_booking-com_20251129T164752.png,RANDOM,unknown,0.5104729,False,False,False,False
+GNB Sudameris,random_brave-com_20251129T172325.png,RANDOM,unknown,0.5104497,False,False,False,False
+GNB Sudameris,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.5103623,False,False,False,False
+GNB Sudameris,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.51002645,False,False,False,False
+GNB Sudameris,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.50989497,False,False,False,False
+GNB Sudameris,random_linode-com_20251129T173059.png,RANDOM,unknown,0.5097725,False,False,False,False
+GNB Sudameris,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.5095913,False,False,False,False
+GNB Sudameris,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.50955623,False,False,False,False
+GNB Sudameris,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.50940585,False,False,False,False
+GNB Sudameris,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.50924206,False,False,False,False
+GNB Sudameris,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.5088778,False,False,False,False
+GNB Sudameris,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.5085939,False,False,False,False
+GNB Sudameris,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.50858897,False,False,False,False
+GNB Sudameris,random_naver-com_20251129T164929.png,RANDOM,unknown,0.50845844,False,False,False,False
+GNB Sudameris,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.5084115,False,False,False,False
+GNB Sudameris,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.5079141,False,False,False,False
+GNB Sudameris,random_skype-com_20251129T162718.png,RANDOM,unknown,0.50771433,False,False,False,False
+GNB Sudameris,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.5074852,False,False,False,False
+GNB Sudameris,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.50729215,False,False,False,False
+GNB Sudameris,random_jd-com_20251129T174954.png,RANDOM,unknown,0.5071497,False,False,False,False
+GNB Sudameris,random_finn-no_20251129T180303.png,RANDOM,unknown,0.5071271,False,False,False,False
+GNB Sudameris,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.5067336,False,False,False,False
+GNB Sudameris,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.5065886,False,False,False,False
+GNB Sudameris,random_openai-com_20251129T164132.png,RANDOM,unknown,0.5063441,False,False,False,False
+GNB Sudameris,random_chess-com_20251129T173919.png,RANDOM,unknown,0.5057414,False,False,False,False
+GNB Sudameris,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.50528383,False,False,False,False
+GNB Sudameris,random_state-gov_20251129T174508.png,RANDOM,unknown,0.50520015,False,False,False,False
+GNB Sudameris,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.50492185,False,False,False,False
+GNB Sudameris,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.5043764,False,False,False,False
+GNB Sudameris,random_genius-com_20251129T174000.png,RANDOM,unknown,0.50427943,False,False,False,False
+GNB Sudameris,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.5041967,False,False,False,False
+GNB Sudameris,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.504076,False,False,False,False
+GNB Sudameris,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.5039732,False,False,False,False
+GNB Sudameris,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.5039104,False,False,False,False
+GNB Sudameris,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.5037753,False,False,False,False
+GNB Sudameris,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.50367373,False,False,False,False
+GNB Sudameris,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.5035654,False,False,False,False
+GNB Sudameris,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.50354743,False,False,False,False
+GNB Sudameris,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.5035335,False,False,False,False
+GNB Sudameris,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.50325406,False,False,False,False
+GNB Sudameris,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.5032105,False,False,False,False
+GNB Sudameris,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.5031746,False,False,False,False
+GNB Sudameris,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.50301075,False,False,False,False
+GNB Sudameris,random_g-co_20251129T171804.png,RANDOM,unknown,0.5029782,False,False,False,False
+GNB Sudameris,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.5029137,False,False,False,False
+GNB Sudameris,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.502817,False,False,False,False
+GNB Sudameris,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.5023564,False,False,False,False
+GNB Sudameris,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.50207704,False,False,False,False
+GNB Sudameris,random_uber-com_20251129T170129.png,RANDOM,unknown,0.5017198,False,False,False,False
+GNB Sudameris,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.5015114,False,False,False,False
+GNB Sudameris,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.5014579,False,False,False,False
+GNB Sudameris,random_npr-org_20251129T170056.png,RANDOM,unknown,0.5014396,False,False,False,False
+GNB Sudameris,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.5009854,False,False,False,False
+GNB Sudameris,random_android-com_20251129T163812.png,RANDOM,unknown,0.5008391,False,False,False,False
+GNB Sudameris,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.5007169,False,False,False,False
+GNB Sudameris,random_apple-com_20251129T162353.png,RANDOM,unknown,0.50065553,False,False,False,False
+GNB Sudameris,random_target-com_20251129T171437.png,RANDOM,unknown,0.5005348,False,False,False,False
+GNB Sudameris,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.5004269,False,False,False,False
+GNB Sudameris,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.5001348,False,False,False,False
+GNB Sudameris,random_media-net_20251129T164538.png,RANDOM,unknown,0.49985674,False,False,False,False
+GNB Sudameris,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.49980447,False,False,False,False
+GNB Sudameris,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.4996556,False,False,False,False
+GNB Sudameris,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.49964562,False,False,False,False
+GNB Sudameris,random_time-com_20251129T170629.png,RANDOM,unknown,0.4994778,False,False,False,False
+GNB Sudameris,random_office-com_20251129T162404.png,RANDOM,unknown,0.49942628,False,False,False,False
+GNB Sudameris,random_vk-com_20251129T163202.png,RANDOM,unknown,0.49937683,False,False,False,False
+GNB Sudameris,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.49917823,False,False,False,False
+GNB Sudameris,random_slack-com_20251129T164623.png,RANDOM,unknown,0.49885803,False,False,False,False
+GNB Sudameris,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.4987694,False,False,False,False
+GNB Sudameris,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.49855652,False,False,False,False
+GNB Sudameris,random_notion-so_20251129T180340.png,RANDOM,unknown,0.4983936,False,False,False,False
+GNB Sudameris,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.4981376,False,False,False,False
+GNB Sudameris,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.49766058,False,False,False,False
+GNB Sudameris,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.4975512,False,False,False,False
+GNB Sudameris,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.4974725,False,False,False,False
+GNB Sudameris,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.49723405,False,False,False,False
+GNB Sudameris,random_otto-de_20251129T174331.png,RANDOM,unknown,0.49720812,False,False,False,False
+GNB Sudameris,random_figma-com_20251129T173914.png,RANDOM,unknown,0.4969346,False,False,False,False
+GNB Sudameris,random_forter-com_20251129T164642.png,RANDOM,unknown,0.49683866,False,False,False,False
+GNB Sudameris,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.4968384,False,False,False,False
+GNB Sudameris,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.49622458,False,False,False,False
+GNB Sudameris,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.49621433,False,False,False,False
+GNB Sudameris,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.49614835,False,False,False,False
+GNB Sudameris,random_split-io_20251129T175048.png,RANDOM,unknown,0.4959755,False,False,False,False
+GNB Sudameris,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.49588102,False,False,False,False
+GNB Sudameris,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.49561018,False,False,False,False
+GNB Sudameris,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.49508068,False,False,False,False
+GNB Sudameris,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.49506688,False,False,False,False
+GNB Sudameris,random_erome-com_20251129T165107.png,RANDOM,unknown,0.49506062,False,False,False,False
+GNB Sudameris,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.4950088,False,False,False,False
+GNB Sudameris,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.4949074,False,False,False,False
+GNB Sudameris,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.49475095,False,False,False,False
+GNB Sudameris,random_focus-de_20251129T175031.png,RANDOM,unknown,0.49460718,False,False,False,False
+GNB Sudameris,random_okta-com_20251129T171946.png,RANDOM,unknown,0.49454343,False,False,False,False
+GNB Sudameris,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.4942021,False,False,False,False
+GNB Sudameris,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.49389857,False,False,False,False
+GNB Sudameris,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.49385887,False,False,False,False
+GNB Sudameris,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.49385667,False,False,False,False
+GNB Sudameris,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.49359354,False,False,False,False
+GNB Sudameris,random_shein-com_20251129T170736.png,RANDOM,unknown,0.4924232,False,False,False,False
+GNB Sudameris,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.49237463,False,False,False,False
+GNB Sudameris,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.49221116,False,False,False,False
+GNB Sudameris,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.492167,False,False,False,False
+GNB Sudameris,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.49165255,False,False,False,False
+GNB Sudameris,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.49160162,False,False,False,False
+GNB Sudameris,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.491599,False,False,False,False
+GNB Sudameris,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.49101624,False,False,False,False
+GNB Sudameris,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.49069032,False,False,False,False
+GNB Sudameris,random_daum-net_20251129T174537.png,RANDOM,unknown,0.49044842,False,False,False,False
+GNB Sudameris,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.49038225,False,False,False,False
+GNB Sudameris,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.49019638,False,False,False,False
+GNB Sudameris,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.48983043,False,False,False,False
+GNB Sudameris,random_example-com_20251129T163930.png,RANDOM,unknown,0.4892124,False,False,False,False
+GNB Sudameris,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.4890733,False,False,False,False
+GNB Sudameris,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.48904815,False,False,False,False
+GNB Sudameris,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.48897338,False,False,False,False
+GNB Sudameris,random_wps-com_20251129T174320.png,RANDOM,unknown,0.48889095,False,False,False,False
+GNB Sudameris,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.48861027,False,False,False,False
+GNB Sudameris,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.4886095,False,False,False,False
+GNB Sudameris,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.4885705,False,False,False,False
+GNB Sudameris,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.48854455,False,False,False,False
+GNB Sudameris,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.4885165,False,False,False,False
+GNB Sudameris,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.4884187,False,False,False,False
+GNB Sudameris,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.48809272,False,False,False,False
+GNB Sudameris,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.48769918,False,False,False,False
+GNB Sudameris,random_braze-com_20251129T171458.png,RANDOM,unknown,0.4876256,False,False,False,False
+GNB Sudameris,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.487593,False,False,False,False
+GNB Sudameris,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.4875393,False,False,False,False
+GNB Sudameris,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.48739982,False,False,False,False
+GNB Sudameris,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.48725373,False,False,False,False
+GNB Sudameris,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.48687488,False,False,False,False
+GNB Sudameris,random_as-com_20251129T175716.png,RANDOM,unknown,0.48679152,False,False,False,False
+GNB Sudameris,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.48666286,False,False,False,False
+GNB Sudameris,random_espn-com_20251129T165100.png,RANDOM,unknown,0.48663315,False,False,False,False
+GNB Sudameris,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.48651612,False,False,False,False
+GNB Sudameris,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.48641247,False,False,False,False
+GNB Sudameris,random_t-me_20251129T163150.png,RANDOM,unknown,0.48639175,False,False,False,False
+GNB Sudameris,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.48572144,False,False,False,False
+GNB Sudameris,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.48557445,False,False,False,False
+GNB Sudameris,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.48487687,False,False,False,False
+GNB Sudameris,random_note-com_20251129T174642.png,RANDOM,unknown,0.4845614,False,False,False,False
+GNB Sudameris,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.48455226,False,False,False,False
+GNB Sudameris,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.48432976,False,False,False,False
+GNB Sudameris,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.4842145,False,False,False,False
+GNB Sudameris,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.48377955,False,False,False,False
+GNB Sudameris,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.48371843,False,False,False,False
+GNB Sudameris,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.48364723,False,False,False,False
+GNB Sudameris,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.48313653,False,False,False,False
+GNB Sudameris,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.48305723,False,False,False,False
+GNB Sudameris,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.48297787,False,False,False,False
+GNB Sudameris,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.4827097,False,False,False,False
+GNB Sudameris,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.4816515,False,False,False,False
+GNB Sudameris,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.48126298,False,False,False,False
+GNB Sudameris,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.48080844,False,False,False,False
+GNB Sudameris,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.48073268,False,False,False,False
+GNB Sudameris,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.4807133,False,False,False,False
+GNB Sudameris,random_ft-com_20251129T170724.png,RANDOM,unknown,0.47983038,False,False,False,False
+GNB Sudameris,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.47953814,False,False,False,False
+GNB Sudameris,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.4794771,False,False,False,False
+GNB Sudameris,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.47936586,False,False,False,False
+GNB Sudameris,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.4792687,False,False,False,False
+GNB Sudameris,random_who-int_20251129T164225.png,RANDOM,unknown,0.47917327,False,False,False,False
+GNB Sudameris,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.47912377,False,False,False,False
+GNB Sudameris,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.4789515,False,False,False,False
+GNB Sudameris,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.47872436,False,False,False,False
+GNB Sudameris,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.47860897,False,False,False,False
+GNB Sudameris,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.47825617,False,False,False,False
+GNB Sudameris,random_bol-com_20251129T174941.png,RANDOM,unknown,0.47810698,False,False,False,False
+GNB Sudameris,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.47779787,False,False,False,False
+GNB Sudameris,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.47776628,False,False,False,False
+GNB Sudameris,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.47773844,False,False,False,False
+GNB Sudameris,random_branch-io_20251129T171524.png,RANDOM,unknown,0.4774433,False,False,False,False
+GNB Sudameris,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.47687843,False,False,False,False
+GNB Sudameris,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.4768758,False,False,False,False
+GNB Sudameris,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.47682646,False,False,False,False
+GNB Sudameris,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.47668454,False,False,False,False
+GNB Sudameris,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.47648233,False,False,False,False
+GNB Sudameris,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.47635734,False,False,False,False
+GNB Sudameris,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.4762585,False,False,False,False
+GNB Sudameris,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.4760141,False,False,False,False
+GNB Sudameris,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.47599047,False,False,False,False
+GNB Sudameris,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.47587103,False,False,False,False
+GNB Sudameris,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.47564495,False,False,False,False
+GNB Sudameris,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.47545803,False,False,False,False
+GNB Sudameris,random_ted-com_20251129T172015.png,RANDOM,unknown,0.47524726,False,False,False,False
+GNB Sudameris,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.47500643,False,False,False,False
+GNB Sudameris,random_trello-com_20251129T180351.png,RANDOM,unknown,0.4748786,False,False,False,False
+GNB Sudameris,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.4748691,False,False,False,False
+GNB Sudameris,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.47484922,False,False,False,False
+GNB Sudameris,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.47472054,False,False,False,False
+GNB Sudameris,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.47453442,False,False,False,False
+GNB Sudameris,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.47422212,False,False,False,False
+GNB Sudameris,random_singular-net_20251129T175446.png,RANDOM,unknown,0.47402614,False,False,False,False
+GNB Sudameris,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.47352028,False,False,False,False
+GNB Sudameris,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.4723578,False,False,False,False
+GNB Sudameris,random_youku-com_20251129T174026.png,RANDOM,unknown,0.47203183,False,False,False,False
+GNB Sudameris,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.47141257,False,False,False,False
+GNB Sudameris,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.47092915,False,False,False,False
+GNB Sudameris,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.47088698,False,False,False,False
+GNB Sudameris,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.47044086,False,False,False,False
+GNB Sudameris,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.47021723,False,False,False,False
+GNB Sudameris,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.46866018,False,False,False,False
+GNB Sudameris,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.4685644,False,False,False,False
+GNB Sudameris,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.46827298,False,False,False,False
+GNB Sudameris,random_overload-su_20251129T170747.png,RANDOM,unknown,0.46811312,False,False,False,False
+GNB Sudameris,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.46783605,False,False,False,False
+GNB Sudameris,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.46713984,False,False,False,False
+GNB Sudameris,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.4671082,False,False,False,False
+GNB Sudameris,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.46617556,False,False,False,False
+GNB Sudameris,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.46613556,False,False,False,False
+GNB Sudameris,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.46588176,False,False,False,False
+GNB Sudameris,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.46563163,False,False,False,False
+GNB Sudameris,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.46560174,False,False,False,False
+GNB Sudameris,random_asus-com_20251129T172748.png,RANDOM,unknown,0.46549493,False,False,False,False
+GNB Sudameris,random_github-com_20251129T162456.png,RANDOM,unknown,0.46412373,False,False,False,False
+GNB Sudameris,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.46386272,False,False,False,False
+GNB Sudameris,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.4637863,False,False,False,False
+GNB Sudameris,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.46355474,False,False,False,False
+GNB Sudameris,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.46326476,False,False,False,False
+GNB Sudameris,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.46312892,False,False,False,False
+GNB Sudameris,random_t-co_20251129T163912.png,RANDOM,unknown,0.46308848,False,False,False,False
+GNB Sudameris,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.46308303,False,False,False,False
+GNB Sudameris,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.4624465,False,False,False,False
+GNB Sudameris,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.46218407,False,False,False,False
+GNB Sudameris,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.4618528,False,False,False,False
+GNB Sudameris,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.46178514,False,False,False,False
+GNB Sudameris,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.46176913,False,False,False,False
+GNB Sudameris,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.46155366,False,False,False,False
+GNB Sudameris,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.46150184,False,False,False,False
+GNB Sudameris,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.46100125,False,False,False,False
+GNB Sudameris,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.46098936,False,False,False,False
+GNB Sudameris,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.4609718,False,False,False,False
+GNB Sudameris,random_docker-com_20251129T170827.png,RANDOM,unknown,0.46059877,False,False,False,False
+GNB Sudameris,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.46019253,False,False,False,False
+GNB Sudameris,random_medium-com_20251129T163655.png,RANDOM,unknown,0.45972398,False,False,False,False
+GNB Sudameris,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.4592902,False,False,False,False
+GNB Sudameris,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.4591481,False,False,False,False
+GNB Sudameris,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.45890218,False,False,False,False
+GNB Sudameris,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.4587723,False,False,False,False
+GNB Sudameris,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.4587079,False,False,False,False
+GNB Sudameris,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.45869604,False,False,False,False
+GNB Sudameris,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.45808908,False,False,False,False
+GNB Sudameris,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.45770407,False,False,False,False
+GNB Sudameris,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.45765212,False,False,False,False
+GNB Sudameris,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.4575702,False,False,False,False
+GNB Sudameris,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.45736364,False,False,False,False
+GNB Sudameris,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.45696536,False,False,False,False
+GNB Sudameris,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.45615828,False,False,False,False
+GNB Sudameris,random_bing-com_20251129T162459.png,RANDOM,unknown,0.45599672,False,False,False,False
+GNB Sudameris,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.45597452,False,False,False,False
+GNB Sudameris,random_azure-com_20251129T162438.png,RANDOM,unknown,0.45575395,False,False,False,False
+GNB Sudameris,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.4557311,False,False,False,False
+GNB Sudameris,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.4555884,False,False,False,False
+GNB Sudameris,random_miui-com_20251129T163719.png,RANDOM,unknown,0.45543486,False,False,False,False
+GNB Sudameris,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.45493767,False,False,False,False
+GNB Sudameris,random_wired-com_20251129T170401.png,RANDOM,unknown,0.45489398,False,False,False,False
+GNB Sudameris,random_free-fr_20251129T171241.png,RANDOM,unknown,0.45440215,False,False,False,False
+GNB Sudameris,random_vg-no_20251129T180754.png,RANDOM,unknown,0.4542278,False,False,False,False
+GNB Sudameris,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.45416817,False,False,False,False
+GNB Sudameris,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.45414186,False,False,False,False
+GNB Sudameris,random_character-ai_20251129T174433.png,RANDOM,unknown,0.45331177,False,False,False,False
+GNB Sudameris,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.45330596,False,False,False,False
+GNB Sudameris,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.4522473,False,False,False,False
+GNB Sudameris,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.4520894,False,False,False,False
+GNB Sudameris,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.45201597,False,False,False,False
+GNB Sudameris,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.45089826,False,False,False,False
+GNB Sudameris,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.45050812,False,False,False,False
+GNB Sudameris,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.45044184,False,False,False,False
+GNB Sudameris,random_roku-com_20251129T164128.png,RANDOM,unknown,0.45020774,False,False,False,False
+GNB Sudameris,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.4501878,False,False,False,False
+GNB Sudameris,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.45014468,False,False,False,False
+GNB Sudameris,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.4499305,False,False,False,False
+GNB Sudameris,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.44986132,False,False,False,False
+GNB Sudameris,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.4498089,False,False,False,False
+GNB Sudameris,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.4497095,False,False,False,False
+GNB Sudameris,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.448076,False,False,False,False
+GNB Sudameris,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.447342,False,False,False,False
+GNB Sudameris,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.44719863,False,False,False,False
+GNB Sudameris,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.44713867,False,False,False,False
+GNB Sudameris,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.44691724,False,False,False,False
+GNB Sudameris,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.4465376,False,False,False,False
+GNB Sudameris,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.4462885,False,False,False,False
+GNB Sudameris,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.4461742,False,False,False,False
+GNB Sudameris,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.44529265,False,False,False,False
+GNB Sudameris,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.44474676,False,False,False,False
+GNB Sudameris,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.44428587,False,False,False,False
+GNB Sudameris,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.44366977,False,False,False,False
+GNB Sudameris,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.44191062,False,False,False,False
+GNB Sudameris,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.44074267,False,False,False,False
+GNB Sudameris,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.44052383,False,False,False,False
+GNB Sudameris,random_health-mil_20251129T163619.png,RANDOM,unknown,0.43968493,False,False,False,False
+GNB Sudameris,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.43965903,False,False,False,False
+GNB Sudameris,random_agora-io_20251129T175439.png,RANDOM,unknown,0.439097,False,False,False,False
+GNB Sudameris,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.43848032,False,False,False,False
+GNB Sudameris,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.437876,False,False,False,False
+GNB Sudameris,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.43613857,False,False,False,False
+GNB Sudameris,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.4359885,False,False,False,False
+GNB Sudameris,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.43340105,False,False,False,False
+GNB Sudameris,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.43311855,False,False,False,False
+GNB Sudameris,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.43172503,False,False,False,False
+GNB Sudameris,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.43146735,False,False,False,False
+GNB Sudameris,random_go-com_20251129T164609.png,RANDOM,unknown,0.43091798,False,False,False,False
+GNB Sudameris,random_line-me_20251129T170140.png,RANDOM,unknown,0.43083927,False,False,False,False
+GNB Sudameris,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.4298423,False,False,False,False
+GNB Sudameris,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.42954093,False,False,False,False
+GNB Sudameris,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.42943054,False,False,False,False
+GNB Sudameris,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.4293406,False,False,False,False
+GNB Sudameris,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.42855167,False,False,False,False
+GNB Sudameris,random_he-net_20251129T172135.png,RANDOM,unknown,0.42849952,False,False,False,False
+GNB Sudameris,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.42764717,False,False,False,False
+GNB Sudameris,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.4276104,False,False,False,False
+GNB Sudameris,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.4273664,False,False,False,False
+GNB Sudameris,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.42644328,False,False,False,False
+GNB Sudameris,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.42552745,False,False,False,False
+GNB Sudameris,random_archive-org_20251129T163406.png,RANDOM,unknown,0.42538542,False,False,False,False
+GNB Sudameris,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.42408943,False,False,False,False
+GNB Sudameris,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.4236595,False,False,False,False
+GNB Sudameris,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.42324555,False,False,False,False
+GNB Sudameris,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.42128524,False,False,False,False
+GNB Sudameris,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.42063797,False,False,False,False
+GNB Sudameris,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.4187353,False,False,False,False
+GNB Sudameris,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.41524592,False,False,False,False
+GNB Sudameris,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.41511706,False,False,False,False
+GNB Sudameris,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.41329938,False,False,False,False
+GNB Sudameris,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.41245347,False,False,False,False
+GNB Sudameris,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.4122358,False,False,False,False
+GNB Sudameris,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.4092798,False,False,False,False
+GNB Sudameris,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.40778172,False,False,False,False
+GNB Sudameris,random_fast-com_20251129T171226.png,RANDOM,unknown,0.40305316,False,False,False,False
+GNB Sudameris,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.3970844,False,False,False,False
+GNB Sudameris,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.39149147,False,False,False,False
+GNB Sudameris,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.3803902,False,False,False,False
+GNB Sudameris,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.37994626,False,False,False,False
+GNB Sudameris,random_poki-com_20251129T180027.png,RANDOM,unknown,0.37927383,False,False,False,False
+GNB Sudameris,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.3747763,False,False,False,False
+GNB Sudameris,random_people-com_20251129T172859.png,RANDOM,unknown,0.37242243,False,False,False,False
+GNB Sudameris,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.33478293,False,False,False,False
+GNB Sudameris,random_threads-com_20251129T174157.png,RANDOM,unknown,0.28496206,False,False,False,False

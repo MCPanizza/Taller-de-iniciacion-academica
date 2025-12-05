@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+BBVA Colombia,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,1.0000002,True,True,False,True
+BBVA Colombia,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.9917225,True,True,False,False
+BBVA Colombia,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.9890677,True,True,False,False
+BBVA Colombia,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.98811084,True,True,False,False
+BBVA Colombia,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.9876111,True,True,False,False
+BBVA Colombia,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.9868577,True,True,False,False
+BBVA Colombia,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.98366326,True,True,False,False
+BBVA Colombia,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.9828124,True,True,False,False
+BBVA Colombia,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.9824145,True,True,False,False
+BBVA Colombia,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.97907925,True,True,False,False
+BBVA Colombia,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.97562003,True,True,False,False
+BBVA Colombia,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.9547099,True,False,True,False
+BBVA Colombia,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.9539099,True,False,True,False
+BBVA Colombia,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.9528948,True,False,True,False
+BBVA Colombia,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.9526949,True,False,True,False
+BBVA Colombia,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.95268637,True,False,True,False
+BBVA Colombia,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.9521532,True,False,True,False
+BBVA Colombia,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.9500543,True,False,True,False
+BBVA Colombia,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.94966716,True,False,True,False
+BBVA Colombia,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.9496112,True,False,True,False
+BBVA Colombia,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.9486685,True,False,True,False
+BBVA Colombia,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.94798636,True,False,True,False
+BBVA Colombia,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.9475175,True,False,True,False
+BBVA Colombia,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.9467119,True,False,True,False
+BBVA Colombia,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.9452116,True,False,True,False
+BBVA Colombia,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.94481087,True,False,True,False
+BBVA Colombia,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.9427138,True,False,True,False
+BBVA Colombia,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.9424986,True,False,True,False
+BBVA Colombia,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.94190806,True,False,True,False
+BBVA Colombia,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.94108677,True,False,True,False
+BBVA Colombia,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.9404339,True,False,True,False
+BBVA Colombia,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.9399665,True,False,True,False
+BBVA Colombia,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.9395806,True,False,True,False
+BBVA Colombia,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.9393846,True,False,True,False
+BBVA Colombia,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.9390768,True,False,True,False
+BBVA Colombia,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.93874145,True,False,True,False
+BBVA Colombia,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.93794525,True,False,True,False
+BBVA Colombia,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.937563,True,False,True,False
+BBVA Colombia,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.9371999,True,False,True,False
+BBVA Colombia,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.9364849,True,False,True,False
+BBVA Colombia,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.9364228,True,False,True,False
+BBVA Colombia,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.9353901,True,False,True,False
+BBVA Colombia,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.93526244,True,False,True,False
+BBVA Colombia,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.93500525,True,False,True,False
+BBVA Colombia,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.93413776,True,False,True,False
+BBVA Colombia,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.933425,True,False,True,False
+BBVA Colombia,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.93319756,True,False,True,False
+BBVA Colombia,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.9316895,True,False,True,False
+BBVA Colombia,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.93167424,True,False,True,False
+BBVA Colombia,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.9315259,True,False,True,False
+BBVA Colombia,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.9313471,True,False,True,False
+BBVA Colombia,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.9313468,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.93133795,True,False,True,False
+BBVA Colombia,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.93029255,True,False,True,False
+BBVA Colombia,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.93012357,True,False,True,False
+BBVA Colombia,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.92991185,True,False,True,False
+BBVA Colombia,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.9298395,True,False,True,False
+BBVA Colombia,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.92980236,True,False,True,False
+BBVA Colombia,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.92914027,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.9289824,True,False,True,False
+BBVA Colombia,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.9285028,True,False,True,False
+BBVA Colombia,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.9276643,True,False,True,False
+BBVA Colombia,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.92754936,True,False,True,False
+BBVA Colombia,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.9273668,True,False,True,False
+BBVA Colombia,random_github-io_20251129T163235.png,RANDOM,unknown,0.9270082,True,False,True,False
+BBVA Colombia,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.92660016,True,False,True,False
+BBVA Colombia,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.92575103,True,False,True,False
+BBVA Colombia,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.9255682,True,False,True,False
+BBVA Colombia,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.925516,True,False,True,False
+BBVA Colombia,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.92452973,True,False,True,False
+BBVA Colombia,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.924109,True,False,True,False
+BBVA Colombia,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.92387325,True,False,True,False
+BBVA Colombia,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.9236648,True,False,True,False
+BBVA Colombia,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.92353106,True,False,True,False
+BBVA Colombia,random_apa-org_20251129T180433.png,RANDOM,unknown,0.92337584,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.9233626,True,False,True,False
+BBVA Colombia,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.92296016,True,False,True,False
+BBVA Colombia,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.92287254,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.92283416,True,False,True,False
+BBVA Colombia,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.9226433,True,False,True,False
+BBVA Colombia,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.922634,True,False,True,False
+BBVA Colombia,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.9225821,True,False,True,False
+BBVA Colombia,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.9224424,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.92240506,True,False,True,False
+BBVA Colombia,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.9223547,True,False,True,False
+BBVA Colombia,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.92210376,True,False,True,False
+BBVA Colombia,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.92199904,True,False,True,False
+BBVA Colombia,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.9218839,True,False,True,False
+BBVA Colombia,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.9218632,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.92180663,True,False,True,False
+BBVA Colombia,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.9216035,True,False,True,False
+BBVA Colombia,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.9215934,True,False,True,False
+BBVA Colombia,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.92154413,True,False,True,False
+BBVA Colombia,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.9215085,True,False,True,False
+BBVA Colombia,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.9213872,True,False,True,False
+BBVA Colombia,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.9212938,True,False,True,False
+BBVA Colombia,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.92121637,True,False,True,False
+BBVA Colombia,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.9211222,True,False,True,False
+BBVA Colombia,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.9211038,True,False,True,False
+BBVA Colombia,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.92085457,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.92083466,True,False,True,False
+BBVA Colombia,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.9208243,True,False,True,False
+BBVA Colombia,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.9207978,True,False,True,False
+BBVA Colombia,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.92011994,True,False,True,False
+BBVA Colombia,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.9194399,True,False,True,False
+BBVA Colombia,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.91892314,True,False,True,False
+BBVA Colombia,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.9187577,True,False,True,False
+BBVA Colombia,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.9185908,True,False,True,False
+BBVA Colombia,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.91849405,True,False,True,False
+BBVA Colombia,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.91828364,True,False,True,False
+BBVA Colombia,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.91803277,True,False,True,False
+BBVA Colombia,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.9177543,True,False,True,False
+BBVA Colombia,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.9175774,True,False,True,False
+BBVA Colombia,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.9170624,True,False,True,False
+BBVA Colombia,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.91696614,True,False,True,False
+BBVA Colombia,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.91685176,True,False,True,False
+BBVA Colombia,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.91657126,True,False,True,False
+BBVA Colombia,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.91634655,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.91629016,True,False,True,False
+BBVA Colombia,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.9162392,True,False,True,False
+BBVA Colombia,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.9161316,True,False,True,False
+BBVA Colombia,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.9159236,True,False,True,False
+BBVA Colombia,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.9157828,True,False,True,False
+BBVA Colombia,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.91577077,True,False,True,False
+BBVA Colombia,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.9157196,True,False,True,False
+BBVA Colombia,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.91542083,True,False,True,False
+BBVA Colombia,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.91507894,True,False,True,False
+BBVA Colombia,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.9150269,True,False,True,False
+BBVA Colombia,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.91493404,True,False,True,False
+BBVA Colombia,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.9149183,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.9148108,True,False,True,False
+BBVA Colombia,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.9144052,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.914166,True,False,True,False
+BBVA Colombia,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.9138423,True,False,True,False
+BBVA Colombia,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.913706,True,False,True,False
+BBVA Colombia,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.9135881,True,False,True,False
+BBVA Colombia,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.91312397,True,False,True,False
+BBVA Colombia,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.9131151,True,False,True,False
+BBVA Colombia,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.9130267,True,False,True,False
+BBVA Colombia,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.9127861,True,False,True,False
+BBVA Colombia,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.9127504,True,False,True,False
+BBVA Colombia,random_t-co_20251129T163912.png,RANDOM,unknown,0.912601,True,False,True,False
+BBVA Colombia,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.9120928,True,False,True,False
+BBVA Colombia,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.9118659,True,False,True,False
+BBVA Colombia,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.91184986,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.9117346,True,False,True,False
+BBVA Colombia,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.9115486,True,False,True,False
+BBVA Colombia,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.9113561,True,False,True,False
+BBVA Colombia,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.91131794,True,False,True,False
+BBVA Colombia,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.9105398,True,False,True,False
+BBVA Colombia,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.91015506,True,False,True,False
+BBVA Colombia,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.90977734,True,False,True,False
+BBVA Colombia,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.90958554,True,False,True,False
+BBVA Colombia,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.9093181,True,False,True,False
+BBVA Colombia,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.909026,True,False,True,False
+BBVA Colombia,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.9083871,True,False,True,False
+BBVA Colombia,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.90834355,True,False,True,False
+BBVA Colombia,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.9080306,True,False,True,False
+BBVA Colombia,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.9080134,True,False,True,False
+BBVA Colombia,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.9079107,True,False,True,False
+BBVA Colombia,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.90782654,True,False,True,False
+BBVA Colombia,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.9074341,True,False,True,False
+BBVA Colombia,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.90742445,True,False,True,False
+BBVA Colombia,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.907376,True,False,True,False
+BBVA Colombia,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.90729547,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.90677303,True,False,True,False
+BBVA Colombia,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.9064218,True,False,True,False
+BBVA Colombia,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.9062058,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.9061569,True,False,True,False
+BBVA Colombia,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.90614796,True,False,True,False
+BBVA Colombia,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.9055481,True,False,True,False
+BBVA Colombia,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.9052921,True,False,True,False
+BBVA Colombia,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.9050674,True,False,True,False
+BBVA Colombia,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.9047693,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.9046353,True,False,True,False
+BBVA Colombia,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.9043584,True,False,True,False
+BBVA Colombia,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.90434796,True,False,True,False
+BBVA Colombia,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.90432805,True,False,True,False
+BBVA Colombia,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.9040636,True,False,True,False
+BBVA Colombia,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.9037462,True,False,True,False
+BBVA Colombia,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.9035892,True,False,True,False
+BBVA Colombia,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.9032469,True,False,True,False
+BBVA Colombia,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.90323305,True,False,True,False
+BBVA Colombia,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.90320146,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.9030705,True,False,True,False
+BBVA Colombia,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.90301716,True,False,True,False
+BBVA Colombia,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.90277684,True,False,True,False
+BBVA Colombia,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.9027349,True,False,True,False
+BBVA Colombia,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.90264964,True,False,True,False
+BBVA Colombia,random_docker-com_20251129T170827.png,RANDOM,unknown,0.9024756,True,False,True,False
+BBVA Colombia,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.90238804,True,False,True,False
+BBVA Colombia,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.9021596,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.9020502,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.9019655,True,False,True,False
+BBVA Colombia,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.90152884,True,False,True,False
+BBVA Colombia,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.9013063,True,False,True,False
+BBVA Colombia,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.9012519,True,False,True,False
+BBVA Colombia,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.90112484,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.90096307,True,False,True,False
+BBVA Colombia,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.9008988,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.90063167,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.9005813,True,False,True,False
+BBVA Colombia,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.900522,True,False,True,False
+BBVA Colombia,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.9004269,True,False,True,False
+BBVA Colombia,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.90026104,True,False,True,False
+BBVA Colombia,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.9000101,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.8999084,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.89985573,True,False,True,False
+BBVA Colombia,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.8995539,True,False,True,False
+BBVA Colombia,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.89942014,True,False,True,False
+BBVA Colombia,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.8993028,True,False,True,False
+BBVA Colombia,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.89914167,True,False,True,False
+BBVA Colombia,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.8988621,True,False,True,False
+BBVA Colombia,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.8985436,True,False,True,False
+BBVA Colombia,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.89845467,True,False,True,False
+BBVA Colombia,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.8982099,True,False,True,False
+BBVA Colombia,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.8974476,True,False,True,False
+BBVA Colombia,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.89694273,True,False,True,False
+BBVA Colombia,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.8962589,True,False,True,False
+BBVA Colombia,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.89592123,True,False,True,False
+BBVA Colombia,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.8955806,True,False,True,False
+BBVA Colombia,random_uber-com_20251129T170129.png,RANDOM,unknown,0.8955307,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.8948904,True,False,True,False
+BBVA Colombia,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.894868,True,False,True,False
+BBVA Colombia,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.89460385,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.8940118,True,False,True,False
+BBVA Colombia,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.89330506,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.89308256,True,False,True,False
+BBVA Colombia,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.8929244,True,False,True,False
+BBVA Colombia,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.8922807,True,False,True,False
+BBVA Colombia,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.8922163,True,False,True,False
+BBVA Colombia,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.8918648,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.89156497,True,False,True,False
+BBVA Colombia,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.8912085,True,False,True,False
+BBVA Colombia,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.89075536,True,False,True,False
+BBVA Colombia,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.89037836,True,False,True,False
+BBVA Colombia,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.8903463,True,False,True,False
+BBVA Colombia,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.89032537,True,False,True,False
+BBVA Colombia,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.8902948,True,False,True,False
+BBVA Colombia,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.88995993,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.8896117,True,False,True,False
+BBVA Colombia,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8893115,True,False,True,False
+BBVA Colombia,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.8891616,True,False,True,False
+BBVA Colombia,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.888921,True,False,True,False
+BBVA Colombia,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.88880444,True,False,True,False
+BBVA Colombia,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.88864195,True,False,True,False
+BBVA Colombia,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.88832754,True,False,True,False
+BBVA Colombia,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.8880931,True,False,True,False
+BBVA Colombia,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.887736,True,False,True,False
+BBVA Colombia,random_ring-com_20251129T172743.png,RANDOM,unknown,0.8876394,True,False,True,False
+BBVA Colombia,random_trello-com_20251129T180351.png,RANDOM,unknown,0.88732755,True,False,True,False
+BBVA Colombia,random_cox-net_20251129T170452.png,RANDOM,unknown,0.8868046,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.8867588,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.88675106,True,False,True,False
+BBVA Colombia,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.8866646,True,False,True,False
+BBVA Colombia,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.88654476,True,False,True,False
+BBVA Colombia,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.88626295,True,False,True,False
+BBVA Colombia,random_google-com_20251129T162253.png,RANDOM,unknown,0.8859861,True,False,True,False
+BBVA Colombia,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.88570505,True,False,True,False
+BBVA Colombia,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.885525,True,False,True,False
+BBVA Colombia,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8853173,True,False,True,False
+BBVA Colombia,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.8852779,True,False,True,False
+BBVA Colombia,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.8852581,True,False,True,False
+BBVA Colombia,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.88514644,True,False,True,False
+BBVA Colombia,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8849851,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.88490987,True,False,True,False
+BBVA Colombia,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8847066,True,False,True,False
+BBVA Colombia,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8844187,True,False,True,False
+BBVA Colombia,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.883923,True,False,True,False
+BBVA Colombia,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.8839191,True,False,True,False
+BBVA Colombia,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.8837348,True,False,True,False
+BBVA Colombia,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.8837211,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.88359874,True,False,True,False
+BBVA Colombia,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.8834423,True,False,True,False
+BBVA Colombia,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.88301575,True,False,True,False
+BBVA Colombia,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.8829119,True,False,True,False
+BBVA Colombia,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.8825896,True,False,True,False
+BBVA Colombia,random_gov-br_20251129T174615.png,RANDOM,unknown,0.88243014,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.8823721,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.8822217,True,False,True,False
+BBVA Colombia,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.881974,True,False,True,False
+BBVA Colombia,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.88194627,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.8819071,True,False,True,False
+BBVA Colombia,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.88085604,True,False,True,False
+BBVA Colombia,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.8807214,True,False,True,False
+BBVA Colombia,random_w3-org_20251129T163751.png,RANDOM,unknown,0.8807179,True,False,True,False
+BBVA Colombia,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8803146,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.8801035,True,False,True,False
+BBVA Colombia,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.87995666,True,False,True,False
+BBVA Colombia,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.87972003,True,False,True,False
+BBVA Colombia,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.87952626,True,False,True,False
+BBVA Colombia,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.8793535,True,False,True,False
+BBVA Colombia,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.87915146,True,False,True,False
+BBVA Colombia,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.8788023,True,False,True,False
+BBVA Colombia,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.87878835,True,False,True,False
+BBVA Colombia,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.87861085,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.8784718,True,False,True,False
+BBVA Colombia,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.8784448,True,False,True,False
+BBVA Colombia,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.87828374,True,False,True,False
+BBVA Colombia,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.8779799,True,False,True,False
+BBVA Colombia,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.87764084,True,False,True,False
+BBVA Colombia,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.87712157,True,False,True,False
+BBVA Colombia,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.87684774,True,False,True,False
+BBVA Colombia,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.87682855,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.8768015,True,False,True,False
+BBVA Colombia,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8765081,True,False,True,False
+BBVA Colombia,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.8763128,True,False,True,False
+BBVA Colombia,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.87591505,True,False,True,False
+BBVA Colombia,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.87587774,True,False,True,False
+BBVA Colombia,random_dns-google_20251129T163231.png,RANDOM,unknown,0.8757641,True,False,True,False
+BBVA Colombia,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.8748516,True,False,True,False
+BBVA Colombia,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.8747395,True,False,True,False
+BBVA Colombia,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.87472165,True,False,True,False
+BBVA Colombia,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.87461895,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.87430835,True,False,True,False
+BBVA Colombia,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.87351024,True,False,True,False
+BBVA Colombia,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.8734478,True,False,True,False
+BBVA Colombia,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.87338203,True,False,True,False
+BBVA Colombia,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8733094,True,False,True,False
+BBVA Colombia,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.87286144,True,False,True,False
+BBVA Colombia,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.87277144,True,False,True,False
+BBVA Colombia,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.8725374,True,False,True,False
+BBVA Colombia,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.87239915,True,False,True,False
+BBVA Colombia,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.87178767,True,False,True,False
+BBVA Colombia,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.8710601,True,False,True,False
+BBVA Colombia,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.87071514,True,False,True,False
+BBVA Colombia,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.87051886,True,False,True,False
+BBVA Colombia,random_g-co_20251129T171804.png,RANDOM,unknown,0.87017655,True,False,True,False
+BBVA Colombia,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.8698664,True,False,True,False
+BBVA Colombia,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.8696364,True,False,True,False
+BBVA Colombia,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.8694946,True,False,True,False
+BBVA Colombia,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.8693181,True,False,True,False
+BBVA Colombia,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.86925447,True,False,True,False
+BBVA Colombia,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.8690195,True,False,True,False
+BBVA Colombia,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.86859393,True,False,True,False
+BBVA Colombia,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8684485,True,False,True,False
+BBVA Colombia,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.8684209,True,False,True,False
+BBVA Colombia,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.86838794,True,False,True,False
+BBVA Colombia,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.86725557,True,False,True,False
+BBVA Colombia,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.86624,True,False,True,False
+BBVA Colombia,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.86618626,True,False,True,False
+BBVA Colombia,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.8660452,True,False,True,False
+BBVA Colombia,random_springer-com_20251129T164823.png,RANDOM,unknown,0.8656026,True,False,True,False
+BBVA Colombia,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.86507475,True,False,True,False
+BBVA Colombia,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.86440814,True,False,True,False
+BBVA Colombia,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.8643559,True,False,True,False
+BBVA Colombia,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.86429834,True,False,True,False
+BBVA Colombia,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.8642591,True,False,True,False
+BBVA Colombia,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.86359674,True,False,True,False
+BBVA Colombia,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.86348593,True,False,True,False
+BBVA Colombia,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.86297774,True,False,True,False
+BBVA Colombia,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.8628447,True,False,True,False
+BBVA Colombia,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.8613191,True,False,True,False
+BBVA Colombia,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.86104125,True,False,True,False
+BBVA Colombia,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.86100066,True,False,True,False
+BBVA Colombia,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.8602573,True,False,True,False
+BBVA Colombia,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.859936,True,False,True,False
+BBVA Colombia,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.8586117,True,False,True,False
+BBVA Colombia,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.8584955,True,False,True,False
+BBVA Colombia,random_booking-com_20251129T164752.png,RANDOM,unknown,0.85793984,True,False,True,False
+BBVA Colombia,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.8569491,True,False,True,False
+BBVA Colombia,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.85692465,True,False,True,False
+BBVA Colombia,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.8565968,True,False,True,False
+BBVA Colombia,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8564707,True,False,True,False
+BBVA Colombia,random_slack-com_20251129T164623.png,RANDOM,unknown,0.8561375,True,False,True,False
+BBVA Colombia,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.85557234,True,False,True,False
+BBVA Colombia,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.8555504,True,False,True,False
+BBVA Colombia,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.8554838,True,False,True,False
+BBVA Colombia,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.85541207,True,False,True,False
+BBVA Colombia,random_nature-com_20251129T164547.png,RANDOM,unknown,0.85512614,True,False,True,False
+BBVA Colombia,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.85418594,True,False,True,False
+BBVA Colombia,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.8541188,True,False,True,False
+BBVA Colombia,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8539592,True,False,True,False
+BBVA Colombia,random_canva-com_20251129T164231.png,RANDOM,unknown,0.8534883,True,False,True,False
+BBVA Colombia,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.8531231,True,False,True,False
+BBVA Colombia,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.8524569,True,False,True,False
+BBVA Colombia,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.8523038,True,False,True,False
+BBVA Colombia,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.8521183,True,False,True,False
+BBVA Colombia,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.85209906,True,False,True,False
+BBVA Colombia,random_finn-no_20251129T180303.png,RANDOM,unknown,0.8520653,True,False,True,False
+BBVA Colombia,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.851372,True,False,True,False
+BBVA Colombia,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.85113233,True,False,True,False
+BBVA Colombia,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.8495465,True,False,True,False
+BBVA Colombia,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.8490393,True,False,True,False
+BBVA Colombia,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.84883106,True,False,True,False
+BBVA Colombia,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.84689844,True,False,True,False
+BBVA Colombia,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.8466706,True,False,True,False
+BBVA Colombia,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.8459078,True,False,True,False
+BBVA Colombia,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.84569174,True,False,True,False
+BBVA Colombia,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.84564185,True,False,True,False
+BBVA Colombia,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.8455074,True,False,True,False
+BBVA Colombia,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.84521973,True,False,True,False
+BBVA Colombia,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.8446276,True,False,True,False
+BBVA Colombia,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8439917,True,False,True,False
+BBVA Colombia,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.8435979,True,False,True,False
+BBVA Colombia,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.8433157,True,False,True,False
+BBVA Colombia,random_medium-com_20251129T163655.png,RANDOM,unknown,0.84322476,True,False,True,False
+BBVA Colombia,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.84289646,True,False,True,False
+BBVA Colombia,random_bild-de_20251129T173827.png,RANDOM,unknown,0.84224427,True,False,True,False
+BBVA Colombia,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.84179497,True,False,True,False
+BBVA Colombia,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.8417411,True,False,True,False
+BBVA Colombia,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.84149164,True,False,True,False
+BBVA Colombia,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.8378173,True,False,True,False
+BBVA Colombia,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.8376832,True,False,True,False
+BBVA Colombia,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.83609384,True,False,True,False
+BBVA Colombia,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.8358625,True,False,True,False
+BBVA Colombia,random_naver-com_20251129T164929.png,RANDOM,unknown,0.8341152,True,False,True,False
+BBVA Colombia,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.83183086,True,False,True,False
+BBVA Colombia,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.8313426,True,False,True,False
+BBVA Colombia,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.8312628,True,False,True,False
+BBVA Colombia,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.82959944,True,False,True,False
+BBVA Colombia,random_statista-com_20251129T165822.png,RANDOM,unknown,0.82928884,True,False,True,False
+BBVA Colombia,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.8260731,True,False,True,False
+BBVA Colombia,random_avast-com_20251129T164855.png,RANDOM,unknown,0.8260245,True,False,True,False
+BBVA Colombia,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.82597756,True,False,True,False
+BBVA Colombia,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.8257884,True,False,True,False
+BBVA Colombia,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.82547235,True,False,True,False
+BBVA Colombia,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.825456,True,False,True,False
+BBVA Colombia,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.82485276,True,False,True,False
+BBVA Colombia,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.82474893,True,False,True,False
+BBVA Colombia,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.8240721,True,False,True,False
+BBVA Colombia,random_doi-org_20251129T164112.png,RANDOM,unknown,0.8227383,True,False,True,False
+BBVA Colombia,random_focus-de_20251129T175031.png,RANDOM,unknown,0.82165635,True,False,True,False
+BBVA Colombia,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.8212882,True,False,True,False
+BBVA Colombia,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.82102823,True,False,True,False
+BBVA Colombia,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.81972253,True,False,True,False
+BBVA Colombia,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.8196552,True,False,True,False
+BBVA Colombia,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.8194406,True,False,True,False
+BBVA Colombia,random_discord-media_20251129T170414.png,RANDOM,unknown,0.81892735,True,False,True,False
+BBVA Colombia,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.818687,True,False,True,False
+BBVA Colombia,random_xing-com_20251129T175042.png,RANDOM,unknown,0.81842446,True,False,True,False
+BBVA Colombia,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.81716883,True,False,True,False
+BBVA Colombia,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.81624424,True,False,True,False
+BBVA Colombia,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.8161895,True,False,True,False
+BBVA Colombia,random_google-cn_20251129T172939.png,RANDOM,unknown,0.81567943,True,False,True,False
+BBVA Colombia,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.81373036,True,False,True,False
+BBVA Colombia,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.8133137,True,False,True,False
+BBVA Colombia,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.8131692,True,False,True,False
+BBVA Colombia,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.81294465,True,False,True,False
+BBVA Colombia,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.8122605,True,False,True,False
+BBVA Colombia,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.81062734,True,False,True,False
+BBVA Colombia,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.81042117,True,False,True,False
+BBVA Colombia,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.8101866,True,False,True,False
+BBVA Colombia,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.8094361,True,False,True,False
+BBVA Colombia,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.8091656,True,False,True,False
+BBVA Colombia,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.80876875,True,False,True,False
+BBVA Colombia,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.80819523,True,False,True,False
+BBVA Colombia,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.80809903,True,False,True,False
+BBVA Colombia,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.8076903,True,False,True,False
+BBVA Colombia,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.80555737,True,False,True,False
+BBVA Colombia,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.8040569,True,False,True,False
+BBVA Colombia,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.80288666,True,False,True,False
+BBVA Colombia,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.80255294,True,False,True,False
+BBVA Colombia,random_tds-net_20251129T174115.png,RANDOM,unknown,0.8013793,True,False,True,False
+BBVA Colombia,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.8009497,True,False,True,False
+BBVA Colombia,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.79937875,False,False,False,False
+BBVA Colombia,random_free-fr_20251129T171241.png,RANDOM,unknown,0.79634124,False,False,False,False
+BBVA Colombia,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.79483074,False,False,False,False
+BBVA Colombia,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.7928044,False,False,False,False
+BBVA Colombia,random_python-org_20251129T173738.png,RANDOM,unknown,0.7926297,False,False,False,False
+BBVA Colombia,random_marca-com_20251129T175532.png,RANDOM,unknown,0.79217565,False,False,False,False
+BBVA Colombia,random_vg-no_20251129T180754.png,RANDOM,unknown,0.79143333,False,False,False,False
+BBVA Colombia,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.7906114,False,False,False,False
+BBVA Colombia,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.789893,False,False,False,False
+BBVA Colombia,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.7895212,False,False,False,False
+BBVA Colombia,random_go-com_20251129T164609.png,RANDOM,unknown,0.78854066,False,False,False,False
+BBVA Colombia,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.7884851,False,False,False,False
+BBVA Colombia,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.7880678,False,False,False,False
+BBVA Colombia,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.7873905,False,False,False,False
+BBVA Colombia,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.78702676,False,False,False,False
+BBVA Colombia,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.78624016,False,False,False,False
+BBVA Colombia,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.78537375,False,False,False,False
+BBVA Colombia,random_he-net_20251129T172135.png,RANDOM,unknown,0.7845553,False,False,False,False
+BBVA Colombia,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.78434247,False,False,False,False
+BBVA Colombia,random_live-com_20251129T162413.png,RANDOM,unknown,0.78217006,False,False,False,False
+BBVA Colombia,random_note-com_20251129T174642.png,RANDOM,unknown,0.78182036,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.77915883,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7768203,False,False,False,False
+BBVA Colombia,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.7755075,False,False,False,False
+BBVA Colombia,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.7749889,False,False,False,False
+BBVA Colombia,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.77489084,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7731841,False,False,False,False
+BBVA Colombia,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.7728864,False,False,False,False
+BBVA Colombia,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.7721855,False,False,False,False
+BBVA Colombia,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.76973987,False,False,False,False
+BBVA Colombia,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.76972765,False,False,False,False
+BBVA Colombia,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.76944005,False,False,False,False
+BBVA Colombia,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.7687108,False,False,False,False
+BBVA Colombia,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.7682414,False,False,False,False
+BBVA Colombia,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.7680116,False,False,False,False
+BBVA Colombia,random_php-net_20251129T164521.png,RANDOM,unknown,0.76610136,False,False,False,False
+BBVA Colombia,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.7646754,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7639522,False,False,False,False
+BBVA Colombia,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.7626253,False,False,False,False
+BBVA Colombia,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.7620741,False,False,False,False
+BBVA Colombia,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.76119405,False,False,False,False
+BBVA Colombia,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.76100886,False,False,False,False
+BBVA Colombia,random_figma-com_20251129T173914.png,RANDOM,unknown,0.7604798,False,False,False,False
+BBVA Colombia,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.7598833,False,False,False,False
+BBVA Colombia,random_att-com_20251129T180955.png,RANDOM,unknown,0.75851023,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7583084,False,False,False,False
+BBVA Colombia,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7579436,False,False,False,False
+BBVA Colombia,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.7570859,False,False,False,False
+BBVA Colombia,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.7565795,False,False,False,False
+BBVA Colombia,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.7553963,False,False,False,False
+BBVA Colombia,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.7549084,False,False,False,False
+BBVA Colombia,random_split-io_20251129T175048.png,RANDOM,unknown,0.75338036,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.75285375,False,False,False,False
+BBVA Colombia,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.7528316,False,False,False,False
+BBVA Colombia,random_branch-io_20251129T171524.png,RANDOM,unknown,0.75132585,False,False,False,False
+BBVA Colombia,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.7510252,False,False,False,False
+BBVA Colombia,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.7504424,False,False,False,False
+BBVA Colombia,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.7500216,False,False,False,False
+BBVA Colombia,random_linode-com_20251129T173059.png,RANDOM,unknown,0.7500159,False,False,False,False
+BBVA Colombia,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.74964565,False,False,False,False
+BBVA Colombia,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.74962234,False,False,False,False
+BBVA Colombia,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.7494981,False,False,False,False
+BBVA Colombia,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.7490535,False,False,False,False
+BBVA Colombia,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.748698,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7482547,False,False,False,False
+BBVA Colombia,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.74819994,False,False,False,False
+BBVA Colombia,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7478965,False,False,False,False
+BBVA Colombia,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.7474762,False,False,False,False
+BBVA Colombia,random_example-com_20251129T163930.png,RANDOM,unknown,0.7455152,False,False,False,False
+BBVA Colombia,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.7453332,False,False,False,False
+BBVA Colombia,random_viber-com_20251129T172210.png,RANDOM,unknown,0.7428523,False,False,False,False
+BBVA Colombia,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.7421023,False,False,False,False
+BBVA Colombia,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.74065715,False,False,False,False
+BBVA Colombia,random_one-one_20251129T163318.png,RANDOM,unknown,0.734115,False,False,False,False
+BBVA Colombia,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.73313373,False,False,False,False
+BBVA Colombia,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.73141444,False,False,False,False
+BBVA Colombia,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.73109037,False,False,False,False
+BBVA Colombia,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.7302512,False,False,False,False
+BBVA Colombia,random_g-page_20251129T170201.png,RANDOM,unknown,0.72977006,False,False,False,False
+BBVA Colombia,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7294278,False,False,False,False
+BBVA Colombia,random_brave-com_20251129T172325.png,RANDOM,unknown,0.72600645,False,False,False,False
+BBVA Colombia,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.7250005,False,False,False,False
+BBVA Colombia,random_vk-com_20251129T163202.png,RANDOM,unknown,0.72428346,False,False,False,False
+BBVA Colombia,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.7204221,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7200227,False,False,False,False
+BBVA Colombia,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.7197434,False,False,False,False
+BBVA Colombia,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.71812236,False,False,False,False
+BBVA Colombia,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.71625865,False,False,False,False
+BBVA Colombia,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.7151606,False,False,False,False
+BBVA Colombia,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.7112336,False,False,False,False
+BBVA Colombia,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.71065146,False,False,False,False
+BBVA Colombia,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.7098048,False,False,False,False
+BBVA Colombia,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.7090061,False,False,False,False
+BBVA Colombia,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.70813197,False,False,False,False
+BBVA Colombia,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.7076971,False,False,False,False
+BBVA Colombia,random_archive-org_20251129T163406.png,RANDOM,unknown,0.70754504,False,False,False,False
+BBVA Colombia,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.7070181,False,False,False,False
+BBVA Colombia,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.70465434,False,False,False,False
+BBVA Colombia,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.70392036,False,False,False,False
+BBVA Colombia,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.70391494,False,False,False,False
+BBVA Colombia,random_f5-com_20251129T163706.png,RANDOM,unknown,0.7027495,False,False,False,False
+BBVA Colombia,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.70246375,False,False,False,False
+BBVA Colombia,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.70233417,False,False,False,False
+BBVA Colombia,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7006865,False,False,False,False
+BBVA Colombia,random_segment-io_20251129T174400.png,RANDOM,unknown,0.69997025,False,False,False,False
+BBVA Colombia,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.6976924,False,False,False,False
+BBVA Colombia,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.6947793,False,False,False,False
+BBVA Colombia,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.6925976,False,False,False,False
+BBVA Colombia,random_openai-com_20251129T164132.png,RANDOM,unknown,0.6925095,False,False,False,False
+BBVA Colombia,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.6909286,False,False,False,False
+BBVA Colombia,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.68912184,False,False,False,False
+BBVA Colombia,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.6876064,False,False,False,False
+BBVA Colombia,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.6875514,False,False,False,False
+BBVA Colombia,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.68747604,False,False,False,False
+BBVA Colombia,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.685316,False,False,False,False
+BBVA Colombia,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.6836554,False,False,False,False
+BBVA Colombia,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.68121797,False,False,False,False
+BBVA Colombia,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6811902,False,False,False,False
+BBVA Colombia,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.67923695,False,False,False,False
+BBVA Colombia,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.6785524,False,False,False,False
+BBVA Colombia,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.67848754,False,False,False,False
+BBVA Colombia,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.6778172,False,False,False,False
+BBVA Colombia,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.6772597,False,False,False,False
+BBVA Colombia,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.6754134,False,False,False,False
+BBVA Colombia,random_t-me_20251129T163150.png,RANDOM,unknown,0.67533696,False,False,False,False
+BBVA Colombia,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.67464656,False,False,False,False
+BBVA Colombia,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.67225,False,False,False,False
+BBVA Colombia,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.6714252,False,False,False,False
+BBVA Colombia,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.67040527,False,False,False,False
+BBVA Colombia,random_wps-com_20251129T174320.png,RANDOM,unknown,0.6672715,False,False,False,False
+BBVA Colombia,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.66692054,False,False,False,False
+BBVA Colombia,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.66594815,False,False,False,False
+BBVA Colombia,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6658155,False,False,False,False
+BBVA Colombia,random_braze-com_20251129T171458.png,RANDOM,unknown,0.66553724,False,False,False,False
+BBVA Colombia,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.66553557,False,False,False,False
+BBVA Colombia,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.66239136,False,False,False,False
+BBVA Colombia,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6605321,False,False,False,False
+BBVA Colombia,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.65811694,False,False,False,False
+BBVA Colombia,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.65706253,False,False,False,False
+BBVA Colombia,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.65691733,False,False,False,False
+BBVA Colombia,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.6552382,False,False,False,False
+BBVA Colombia,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.6542369,False,False,False,False
+BBVA Colombia,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.65389025,False,False,False,False
+BBVA Colombia,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.65290225,False,False,False,False
+BBVA Colombia,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.652642,False,False,False,False
+BBVA Colombia,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.652627,False,False,False,False
+BBVA Colombia,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6511612,False,False,False,False
+BBVA Colombia,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6510469,False,False,False,False
+BBVA Colombia,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.64937276,False,False,False,False
+BBVA Colombia,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.6492535,False,False,False,False
+BBVA Colombia,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.6464053,False,False,False,False
+BBVA Colombia,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.6461195,False,False,False,False
+BBVA Colombia,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.64530045,False,False,False,False
+BBVA Colombia,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.64522547,False,False,False,False
+BBVA Colombia,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.64313793,False,False,False,False
+BBVA Colombia,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.64211684,False,False,False,False
+BBVA Colombia,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.6416519,False,False,False,False
+BBVA Colombia,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.64123017,False,False,False,False
+BBVA Colombia,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.6401206,False,False,False,False
+BBVA Colombia,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.6391671,False,False,False,False
+BBVA Colombia,random_roku-com_20251129T164128.png,RANDOM,unknown,0.6373446,False,False,False,False
+BBVA Colombia,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.63697994,False,False,False,False
+BBVA Colombia,random_uk-com_20251129T171638.png,RANDOM,unknown,0.63591063,False,False,False,False
+BBVA Colombia,random_wired-com_20251129T170401.png,RANDOM,unknown,0.6349929,False,False,False,False
+BBVA Colombia,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.63374364,False,False,False,False
+BBVA Colombia,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.63361496,False,False,False,False
+BBVA Colombia,random_office365-com_20251129T162902.png,RANDOM,unknown,0.63016504,False,False,False,False
+BBVA Colombia,random_weather-com_20251129T164102.png,RANDOM,unknown,0.627782,False,False,False,False
+BBVA Colombia,random_windows-com_20251129T163112.png,RANDOM,unknown,0.6271073,False,False,False,False
+BBVA Colombia,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.6239928,False,False,False,False
+BBVA Colombia,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6228161,False,False,False,False
+BBVA Colombia,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.6189413,False,False,False,False
+BBVA Colombia,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.6169802,False,False,False,False
+BBVA Colombia,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.6158786,False,False,False,False
+BBVA Colombia,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.6088842,False,False,False,False
+BBVA Colombia,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.6057756,False,False,False,False
+BBVA Colombia,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.6055957,False,False,False,False
+BBVA Colombia,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.60379183,False,False,False,False
+BBVA Colombia,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.60364294,False,False,False,False
+BBVA Colombia,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.6034061,False,False,False,False
+BBVA Colombia,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.602797,False,False,False,False
+BBVA Colombia,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.6015018,False,False,False,False
+BBVA Colombia,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.5998827,False,False,False,False
+BBVA Colombia,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.5978117,False,False,False,False
+BBVA Colombia,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.5975627,False,False,False,False
+BBVA Colombia,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.5965144,False,False,False,False
+BBVA Colombia,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.5939992,False,False,False,False
+BBVA Colombia,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.5926852,False,False,False,False
+BBVA Colombia,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.5926691,False,False,False,False
+BBVA Colombia,random_singular-net_20251129T175446.png,RANDOM,unknown,0.5915296,False,False,False,False
+BBVA Colombia,random_binance-com_20251129T174935.png,RANDOM,unknown,0.59071004,False,False,False,False
+BBVA Colombia,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.58647865,False,False,False,False
+BBVA Colombia,random_erome-com_20251129T165107.png,RANDOM,unknown,0.58424556,False,False,False,False
+BBVA Colombia,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.5837073,False,False,False,False
+BBVA Colombia,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.5798072,False,False,False,False
+BBVA Colombia,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.5740688,False,False,False,False
+BBVA Colombia,random_opera-com_20251129T163028.png,RANDOM,unknown,0.5730126,False,False,False,False
+BBVA Colombia,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.5720304,False,False,False,False
+BBVA Colombia,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.57124496,False,False,False,False
+BBVA Colombia,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.57109666,False,False,False,False
+BBVA Colombia,random_miui-com_20251129T163719.png,RANDOM,unknown,0.5710887,False,False,False,False
+BBVA Colombia,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.5705296,False,False,False,False
+BBVA Colombia,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.570451,False,False,False,False
+BBVA Colombia,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.56622154,False,False,False,False
+BBVA Colombia,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.5658417,False,False,False,False
+BBVA Colombia,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.56329876,False,False,False,False
+BBVA Colombia,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.5613389,False,False,False,False
+BBVA Colombia,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.5612949,False,False,False,False
+BBVA Colombia,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.56125915,False,False,False,False
+BBVA Colombia,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.56038916,False,False,False,False
+BBVA Colombia,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.55860037,False,False,False,False
+BBVA Colombia,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.552806,False,False,False,False
+BBVA Colombia,random_jd-com_20251129T174954.png,RANDOM,unknown,0.5513356,False,False,False,False
+BBVA Colombia,random_wix-com_20251129T171207.png,RANDOM,unknown,0.5507822,False,False,False,False
+BBVA Colombia,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.54917526,False,False,False,False
+BBVA Colombia,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.54892886,False,False,False,False
+BBVA Colombia,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.54615355,False,False,False,False
+BBVA Colombia,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.5457927,False,False,False,False
+BBVA Colombia,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.54485667,False,False,False,False
+BBVA Colombia,random_genius-com_20251129T174000.png,RANDOM,unknown,0.543156,False,False,False,False
+BBVA Colombia,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.5411742,False,False,False,False
+BBVA Colombia,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.541035,False,False,False,False
+BBVA Colombia,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.5391458,False,False,False,False
+BBVA Colombia,random_notion-so_20251129T180340.png,RANDOM,unknown,0.53723264,False,False,False,False
+BBVA Colombia,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.53567725,False,False,False,False
+BBVA Colombia,random_fast-com_20251129T171226.png,RANDOM,unknown,0.53561354,False,False,False,False
+BBVA Colombia,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5354893,False,False,False,False
+BBVA Colombia,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.53536946,False,False,False,False
+BBVA Colombia,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.53405297,False,False,False,False
+BBVA Colombia,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.5338659,False,False,False,False
+BBVA Colombia,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.53377926,False,False,False,False
+BBVA Colombia,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.53330684,False,False,False,False
+BBVA Colombia,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5313721,False,False,False,False
+BBVA Colombia,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5312252,False,False,False,False
+BBVA Colombia,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.53089,False,False,False,False
+BBVA Colombia,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.529926,False,False,False,False
+BBVA Colombia,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.5283224,False,False,False,False
+BBVA Colombia,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.52743506,False,False,False,False
+BBVA Colombia,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.52737844,False,False,False,False
+BBVA Colombia,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.52394986,False,False,False,False
+BBVA Colombia,random_ft-com_20251129T170724.png,RANDOM,unknown,0.52317345,False,False,False,False
+BBVA Colombia,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.52297753,False,False,False,False
+BBVA Colombia,random_daum-net_20251129T174537.png,RANDOM,unknown,0.5186143,False,False,False,False
+BBVA Colombia,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5171264,False,False,False,False
+BBVA Colombia,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5163765,False,False,False,False
+BBVA Colombia,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.5160008,False,False,False,False
+BBVA Colombia,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.51338696,False,False,False,False
+BBVA Colombia,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.51270044,False,False,False,False
+BBVA Colombia,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.51005745,False,False,False,False
+BBVA Colombia,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5080339,False,False,False,False
+BBVA Colombia,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5079279,False,False,False,False
+BBVA Colombia,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5075462,False,False,False,False
+BBVA Colombia,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.5072981,False,False,False,False
+BBVA Colombia,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.50474554,False,False,False,False
+BBVA Colombia,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5033675,False,False,False,False
+BBVA Colombia,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.5015424,False,False,False,False
+BBVA Colombia,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.5014922,False,False,False,False
+BBVA Colombia,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.49829027,False,False,False,False
+BBVA Colombia,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.49675718,False,False,False,False
+BBVA Colombia,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.49573624,False,False,False,False
+BBVA Colombia,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.49504188,False,False,False,False
+BBVA Colombia,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.49470234,False,False,False,False
+BBVA Colombia,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.49405122,False,False,False,False
+BBVA Colombia,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.49200815,False,False,False,False
+BBVA Colombia,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.49130177,False,False,False,False
+BBVA Colombia,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.4906422,False,False,False,False
+BBVA Colombia,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.490179,False,False,False,False
+BBVA Colombia,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.4870541,False,False,False,False
+BBVA Colombia,random_msn-com_20251129T162722.png,RANDOM,unknown,0.48593268,False,False,False,False
+BBVA Colombia,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.48585755,False,False,False,False
+BBVA Colombia,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.48534977,False,False,False,False
+BBVA Colombia,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.48101994,False,False,False,False
+BBVA Colombia,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.48068804,False,False,False,False
+BBVA Colombia,random_office-com_20251129T162404.png,RANDOM,unknown,0.47950387,False,False,False,False
+BBVA Colombia,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.4790251,False,False,False,False
+BBVA Colombia,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.4767753,False,False,False,False
+BBVA Colombia,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.47632062,False,False,False,False
+BBVA Colombia,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.4761319,False,False,False,False
+BBVA Colombia,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.47590086,False,False,False,False
+BBVA Colombia,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.47214445,False,False,False,False
+BBVA Colombia,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.47204715,False,False,False,False
+BBVA Colombia,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.47124407,False,False,False,False
+BBVA Colombia,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.47017765,False,False,False,False
+BBVA Colombia,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.46949458,False,False,False,False
+BBVA Colombia,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.46882385,False,False,False,False
+BBVA Colombia,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.46813446,False,False,False,False
+BBVA Colombia,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.4679304,False,False,False,False
+BBVA Colombia,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.4670483,False,False,False,False
+BBVA Colombia,random_agora-io_20251129T175439.png,RANDOM,unknown,0.4659075,False,False,False,False
+BBVA Colombia,random_apache-org_20251129T163228.png,RANDOM,unknown,0.4635272,False,False,False,False
+BBVA Colombia,random_change-org_20251129T173929.png,RANDOM,unknown,0.46289897,False,False,False,False
+BBVA Colombia,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.46217838,False,False,False,False
+BBVA Colombia,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.45826784,False,False,False,False
+BBVA Colombia,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.45747337,False,False,False,False
+BBVA Colombia,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.45687217,False,False,False,False
+BBVA Colombia,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.45606926,False,False,False,False
+BBVA Colombia,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.45499843,False,False,False,False
+BBVA Colombia,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.4526485,False,False,False,False
+BBVA Colombia,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.45120955,False,False,False,False
+BBVA Colombia,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.45089307,False,False,False,False
+BBVA Colombia,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.45085037,False,False,False,False
+BBVA Colombia,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.44956443,False,False,False,False
+BBVA Colombia,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.44941446,False,False,False,False
+BBVA Colombia,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.4470872,False,False,False,False
+BBVA Colombia,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.44245106,False,False,False,False
+BBVA Colombia,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.43875816,False,False,False,False
+BBVA Colombia,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.4387499,False,False,False,False
+BBVA Colombia,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.43440312,False,False,False,False
+BBVA Colombia,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.43158635,False,False,False,False
+BBVA Colombia,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.42961335,False,False,False,False
+BBVA Colombia,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.42779088,False,False,False,False
+BBVA Colombia,random_forter-com_20251129T164642.png,RANDOM,unknown,0.42478913,False,False,False,False
+BBVA Colombia,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.42423707,False,False,False,False
+BBVA Colombia,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.4230209,False,False,False,False
+BBVA Colombia,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.41859236,False,False,False,False
+BBVA Colombia,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.41813177,False,False,False,False
+BBVA Colombia,random_npr-org_20251129T170056.png,RANDOM,unknown,0.41787514,False,False,False,False
+BBVA Colombia,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.41744366,False,False,False,False
+BBVA Colombia,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.4172508,False,False,False,False
+BBVA Colombia,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.41554275,False,False,False,False
+BBVA Colombia,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.41425806,False,False,False,False
+BBVA Colombia,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.41262558,False,False,False,False
+BBVA Colombia,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.41255084,False,False,False,False
+BBVA Colombia,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.4091271,False,False,False,False
+BBVA Colombia,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.4057267,False,False,False,False
+BBVA Colombia,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.4054243,False,False,False,False
+BBVA Colombia,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.40044177,False,False,False,False
+BBVA Colombia,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.39992136,False,False,False,False
+BBVA Colombia,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.39606747,False,False,False,False
+BBVA Colombia,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.39598113,False,False,False,False
+BBVA Colombia,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.3959119,False,False,False,False
+BBVA Colombia,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.39417487,False,False,False,False
+BBVA Colombia,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.3894782,False,False,False,False
+BBVA Colombia,random_ui-com_20251129T163127.png,RANDOM,unknown,0.38664666,False,False,False,False
+BBVA Colombia,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.3866162,False,False,False,False
+BBVA Colombia,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.3864699,False,False,False,False
+BBVA Colombia,random_web-de_20251129T175220.png,RANDOM,unknown,0.38190943,False,False,False,False
+BBVA Colombia,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.38123128,False,False,False,False
+BBVA Colombia,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.37968656,False,False,False,False
+BBVA Colombia,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.37881947,False,False,False,False
+BBVA Colombia,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.37158066,False,False,False,False
+BBVA Colombia,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.37131774,False,False,False,False
+BBVA Colombia,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.3706919,False,False,False,False
+BBVA Colombia,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.3679057,False,False,False,False
+BBVA Colombia,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.36490053,False,False,False,False
+BBVA Colombia,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.3643012,False,False,False,False
+BBVA Colombia,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.36421692,False,False,False,False
+BBVA Colombia,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.36322913,False,False,False,False
+BBVA Colombia,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.36253983,False,False,False,False
+BBVA Colombia,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.3614567,False,False,False,False
+BBVA Colombia,random_otto-de_20251129T174331.png,RANDOM,unknown,0.36096364,False,False,False,False
+BBVA Colombia,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.35664144,False,False,False,False
+BBVA Colombia,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.35582462,False,False,False,False
+BBVA Colombia,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.35556144,False,False,False,False
+BBVA Colombia,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.35454592,False,False,False,False
+BBVA Colombia,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.35347426,False,False,False,False
+BBVA Colombia,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.35327312,False,False,False,False
+BBVA Colombia,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.3532306,False,False,False,False
+BBVA Colombia,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.35179132,False,False,False,False
+BBVA Colombia,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.3503659,False,False,False,False
+BBVA Colombia,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.3497215,False,False,False,False
+BBVA Colombia,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.34925717,False,False,False,False
+BBVA Colombia,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.34889382,False,False,False,False
+BBVA Colombia,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.34843034,False,False,False,False
+BBVA Colombia,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.34815133,False,False,False,False
+BBVA Colombia,random_bol-com_20251129T174941.png,RANDOM,unknown,0.3474434,False,False,False,False
+BBVA Colombia,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.3466397,False,False,False,False
+BBVA Colombia,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.34483182,False,False,False,False
+BBVA Colombia,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.34426412,False,False,False,False
+BBVA Colombia,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.34349164,False,False,False,False
+BBVA Colombia,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.3433724,False,False,False,False
+BBVA Colombia,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.34336555,False,False,False,False
+BBVA Colombia,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.34288442,False,False,False,False
+BBVA Colombia,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.34241763,False,False,False,False
+BBVA Colombia,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.34237248,False,False,False,False
+BBVA Colombia,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.34200326,False,False,False,False
+BBVA Colombia,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.34134728,False,False,False,False
+BBVA Colombia,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.33924615,False,False,False,False
+BBVA Colombia,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.33919,False,False,False,False
+BBVA Colombia,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.33904332,False,False,False,False
+BBVA Colombia,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.33872664,False,False,False,False
+BBVA Colombia,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.338721,False,False,False,False
+BBVA Colombia,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.33867872,False,False,False,False
+BBVA Colombia,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.33728218,False,False,False,False
+BBVA Colombia,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.3367042,False,False,False,False
+BBVA Colombia,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.33489004,False,False,False,False
+BBVA Colombia,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.33480328,False,False,False,False
+BBVA Colombia,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.33424824,False,False,False,False
+BBVA Colombia,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.33419678,False,False,False,False
+BBVA Colombia,random_debian-org_20251129T164620.png,RANDOM,unknown,0.3337872,False,False,False,False
+BBVA Colombia,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.333564,False,False,False,False
+BBVA Colombia,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.3321374,False,False,False,False
+BBVA Colombia,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.33005917,False,False,False,False
+BBVA Colombia,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.32968056,False,False,False,False
+BBVA Colombia,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.32935494,False,False,False,False
+BBVA Colombia,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.3283788,False,False,False,False
+BBVA Colombia,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.32775217,False,False,False,False
+BBVA Colombia,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.3274672,False,False,False,False
+BBVA Colombia,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.32471204,False,False,False,False
+BBVA Colombia,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.32429487,False,False,False,False
+BBVA Colombia,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.32417578,False,False,False,False
+BBVA Colombia,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.32415515,False,False,False,False
+BBVA Colombia,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.3236084,False,False,False,False
+BBVA Colombia,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.32331467,False,False,False,False
+BBVA Colombia,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.3229131,False,False,False,False
+BBVA Colombia,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.3220991,False,False,False,False
+BBVA Colombia,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.32178217,False,False,False,False
+BBVA Colombia,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.32057422,False,False,False,False
+BBVA Colombia,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.32017964,False,False,False,False
+BBVA Colombia,random_temu-com_20251129T165219.png,RANDOM,unknown,0.31997436,False,False,False,False
+BBVA Colombia,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.31950495,False,False,False,False
+BBVA Colombia,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.31927964,False,False,False,False
+BBVA Colombia,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.31871042,False,False,False,False
+BBVA Colombia,random_chess-com_20251129T173919.png,RANDOM,unknown,0.31803352,False,False,False,False
+BBVA Colombia,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.31782466,False,False,False,False
+BBVA Colombia,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.31761754,False,False,False,False
+BBVA Colombia,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.3173725,False,False,False,False
+BBVA Colombia,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.3168616,False,False,False,False
+BBVA Colombia,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.31616127,False,False,False,False
+BBVA Colombia,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.31589007,False,False,False,False
+BBVA Colombia,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.3154689,False,False,False,False
+BBVA Colombia,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.31511018,False,False,False,False
+BBVA Colombia,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.31447935,False,False,False,False
+BBVA Colombia,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.31361157,False,False,False,False
+BBVA Colombia,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.31331152,False,False,False,False
+BBVA Colombia,random_character-ai_20251129T174433.png,RANDOM,unknown,0.31234205,False,False,False,False
+BBVA Colombia,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.3119294,False,False,False,False
+BBVA Colombia,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.3109733,False,False,False,False
+BBVA Colombia,random_skype-com_20251129T162718.png,RANDOM,unknown,0.31094185,False,False,False,False
+BBVA Colombia,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.31073153,False,False,False,False
+BBVA Colombia,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.310488,False,False,False,False
+BBVA Colombia,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.3100455,False,False,False,False
+BBVA Colombia,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.30964798,False,False,False,False
+BBVA Colombia,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.30939272,False,False,False,False
+BBVA Colombia,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.30934584,False,False,False,False
+BBVA Colombia,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.30831105,False,False,False,False
+BBVA Colombia,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.30663642,False,False,False,False
+BBVA Colombia,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.3061332,False,False,False,False
+BBVA Colombia,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.3058236,False,False,False,False
+BBVA Colombia,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.30577916,False,False,False,False
+BBVA Colombia,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.30459905,False,False,False,False
+BBVA Colombia,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.3042152,False,False,False,False
+BBVA Colombia,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.30371106,False,False,False,False
+BBVA Colombia,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.3032185,False,False,False,False
+BBVA Colombia,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.3007968,False,False,False,False
+BBVA Colombia,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.29868045,False,False,False,False
+BBVA Colombia,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.2968527,False,False,False,False
+BBVA Colombia,random_360-cn_20251129T173141.png,RANDOM,unknown,0.29662937,False,False,False,False
+BBVA Colombia,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.296554,False,False,False,False
+BBVA Colombia,random_moe-video_20251129T164430.png,RANDOM,unknown,0.29607648,False,False,False,False
+BBVA Colombia,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.29529387,False,False,False,False
+BBVA Colombia,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.2938698,False,False,False,False
+BBVA Colombia,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.2933746,False,False,False,False
+BBVA Colombia,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.2929592,False,False,False,False
+BBVA Colombia,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.2924266,False,False,False,False
+BBVA Colombia,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.29206672,False,False,False,False
+BBVA Colombia,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.29192117,False,False,False,False
+BBVA Colombia,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.29169428,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.29115367,False,False,False,False
+BBVA Colombia,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.29032624,False,False,False,False
+BBVA Colombia,random_aol-com_20251129T170152.png,RANDOM,unknown,0.2897256,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.2889704,False,False,False,False
+BBVA Colombia,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.28797233,False,False,False,False
+BBVA Colombia,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.28784811,False,False,False,False
+BBVA Colombia,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.28688735,False,False,False,False
+BBVA Colombia,random_okta-com_20251129T171946.png,RANDOM,unknown,0.28511277,False,False,False,False
+BBVA Colombia,random_nic-io_20251129T173852.png,RANDOM,unknown,0.28492826,False,False,False,False
+BBVA Colombia,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.28458783,False,False,False,False
+BBVA Colombia,random_state-gov_20251129T174508.png,RANDOM,unknown,0.28373888,False,False,False,False
+BBVA Colombia,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.28360254,False,False,False,False
+BBVA Colombia,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.2833057,False,False,False,False
+BBVA Colombia,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.28290728,False,False,False,False
+BBVA Colombia,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.2827034,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.2821109,False,False,False,False
+BBVA Colombia,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.282026,False,False,False,False
+BBVA Colombia,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.27665564,False,False,False,False
+BBVA Colombia,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.27631202,False,False,False,False
+BBVA Colombia,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.27246988,False,False,False,False
+BBVA Colombia,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.2721266,False,False,False,False
+BBVA Colombia,random_target-com_20251129T171437.png,RANDOM,unknown,0.26919848,False,False,False,False
+BBVA Colombia,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.26913312,False,False,False,False
+BBVA Colombia,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.268726,False,False,False,False
+BBVA Colombia,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.26865554,False,False,False,False
+BBVA Colombia,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.2681308,False,False,False,False
+BBVA Colombia,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.26748896,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.26644662,False,False,False,False
+BBVA Colombia,random_android-com_20251129T163812.png,RANDOM,unknown,0.26630998,False,False,False,False
+BBVA Colombia,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.26504242,False,False,False,False
+BBVA Colombia,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.26484108,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.26470912,False,False,False,False
+BBVA Colombia,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.264504,False,False,False,False
+BBVA Colombia,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.26376283,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.26023245,False,False,False,False
+BBVA Colombia,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.25968146,False,False,False,False
+BBVA Colombia,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.25934535,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.25927132,False,False,False,False
+BBVA Colombia,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.25925916,False,False,False,False
+BBVA Colombia,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.2576262,False,False,False,False
+BBVA Colombia,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.25748333,False,False,False,False
+BBVA Colombia,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.25631377,False,False,False,False
+BBVA Colombia,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.2553812,False,False,False,False
+BBVA Colombia,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.25499246,False,False,False,False
+BBVA Colombia,random_eset-com_20251129T171424.png,RANDOM,unknown,0.2545133,False,False,False,False
+BBVA Colombia,random_welt-de_20251129T173821.png,RANDOM,unknown,0.2538178,False,False,False,False
+BBVA Colombia,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.25219762,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.25214782,False,False,False,False
+BBVA Colombia,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.25168365,False,False,False,False
+BBVA Colombia,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.2513582,False,False,False,False
+BBVA Colombia,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.24893895,False,False,False,False
+BBVA Colombia,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.24892367,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.24872227,False,False,False,False
+BBVA Colombia,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.24766031,False,False,False,False
+BBVA Colombia,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.24732211,False,False,False,False
+BBVA Colombia,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.24718443,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.24711937,False,False,False,False
+BBVA Colombia,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.24661848,False,False,False,False
+BBVA Colombia,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.24646138,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.24602544,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.24544157,False,False,False,False
+BBVA Colombia,random_intel-com_20251129T171229.png,RANDOM,unknown,0.24462348,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.24456292,False,False,False,False
+BBVA Colombia,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.24432072,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.24395086,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.24293676,False,False,False,False
+BBVA Colombia,random_qq-com_20251129T162834.png,RANDOM,unknown,0.2428154,False,False,False,False
+BBVA Colombia,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.24273019,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.24236196,False,False,False,False
+BBVA Colombia,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.2418759,False,False,False,False
+BBVA Colombia,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.24149196,False,False,False,False
+BBVA Colombia,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.24135241,False,False,False,False
+BBVA Colombia,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.24132656,False,False,False,False
+BBVA Colombia,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.24089122,False,False,False,False
+BBVA Colombia,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.24055696,False,False,False,False
+BBVA Colombia,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.24027315,False,False,False,False
+BBVA Colombia,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.23917481,False,False,False,False
+BBVA Colombia,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.23888695,False,False,False,False
+BBVA Colombia,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.23887467,False,False,False,False
+BBVA Colombia,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.23856974,False,False,False,False
+BBVA Colombia,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.23830937,False,False,False,False
+BBVA Colombia,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.23803203,False,False,False,False
+BBVA Colombia,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.23793286,False,False,False,False
+BBVA Colombia,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.23771086,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.2374458,False,False,False,False
+BBVA Colombia,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.23728195,False,False,False,False
+BBVA Colombia,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.23669018,False,False,False,False
+BBVA Colombia,random_github-com_20251129T162456.png,RANDOM,unknown,0.23666894,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.2359339,False,False,False,False
+BBVA Colombia,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.23589095,False,False,False,False
+BBVA Colombia,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.235426,False,False,False,False
+BBVA Colombia,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.23541802,False,False,False,False
+BBVA Colombia,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.23486364,False,False,False,False
+BBVA Colombia,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.23471051,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.23443949,False,False,False,False
+BBVA Colombia,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.23409384,False,False,False,False
+BBVA Colombia,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.23334017,False,False,False,False
+BBVA Colombia,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.23237613,False,False,False,False
+BBVA Colombia,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.23207723,False,False,False,False
+BBVA Colombia,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.23203799,False,False,False,False
+BBVA Colombia,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.23157229,False,False,False,False
+BBVA Colombia,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.23152605,False,False,False,False
+BBVA Colombia,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.23142353,False,False,False,False
+BBVA Colombia,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.23138128,False,False,False,False
+BBVA Colombia,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.23134454,False,False,False,False
+BBVA Colombia,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.2306268,False,False,False,False
+BBVA Colombia,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.23011455,False,False,False,False
+BBVA Colombia,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.22963952,False,False,False,False
+BBVA Colombia,random_wise-com_20251129T180312.png,RANDOM,unknown,0.2293616,False,False,False,False
+BBVA Colombia,random_shein-com_20251129T170736.png,RANDOM,unknown,0.22741431,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.22644094,False,False,False,False
+BBVA Colombia,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.22605446,False,False,False,False
+BBVA Colombia,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.22577776,False,False,False,False
+BBVA Colombia,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.22563717,False,False,False,False
+BBVA Colombia,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.22498347,False,False,False,False
+BBVA Colombia,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.22490047,False,False,False,False
+BBVA Colombia,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.22452056,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.2239216,False,False,False,False
+BBVA Colombia,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.22184196,False,False,False,False
+BBVA Colombia,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.2216113,False,False,False,False
+BBVA Colombia,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.220688,False,False,False,False
+BBVA Colombia,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.21997684,False,False,False,False
+BBVA Colombia,random_plos-org_20251129T180524.png,RANDOM,unknown,0.2198526,False,False,False,False
+BBVA Colombia,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.21916062,False,False,False,False
+BBVA Colombia,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.21792419,False,False,False,False
+BBVA Colombia,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.21787433,False,False,False,False
+BBVA Colombia,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.21780258,False,False,False,False
+BBVA Colombia,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.21740633,False,False,False,False
+BBVA Colombia,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.21716188,False,False,False,False
+BBVA Colombia,random_att-net_20251129T170227.png,RANDOM,unknown,0.21658486,False,False,False,False
+BBVA Colombia,random_threads-com_20251129T174157.png,RANDOM,unknown,0.2165773,False,False,False,False
+BBVA Colombia,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.21550459,False,False,False,False
+BBVA Colombia,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.21534587,False,False,False,False
+BBVA Colombia,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.21349654,False,False,False,False
+BBVA Colombia,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.21272804,False,False,False,False
+BBVA Colombia,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.21241812,False,False,False,False
+BBVA Colombia,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.21226898,False,False,False,False
+BBVA Colombia,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.21195537,False,False,False,False
+BBVA Colombia,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.2118862,False,False,False,False
+BBVA Colombia,random_overload-su_20251129T170747.png,RANDOM,unknown,0.21161638,False,False,False,False
+BBVA Colombia,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.21094833,False,False,False,False
+BBVA Colombia,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.21069726,False,False,False,False
+BBVA Colombia,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.21033746,False,False,False,False
+BBVA Colombia,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.20991677,False,False,False,False
+BBVA Colombia,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.209484,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.20926303,False,False,False,False
+BBVA Colombia,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.20890431,False,False,False,False
+BBVA Colombia,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.20872334,False,False,False,False
+BBVA Colombia,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.20855395,False,False,False,False
+BBVA Colombia,random_substack-com_20251129T171941.png,RANDOM,unknown,0.20784229,False,False,False,False
+BBVA Colombia,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.20667182,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.20643432,False,False,False,False
+BBVA Colombia,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.20614512,False,False,False,False
+BBVA Colombia,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.20528498,False,False,False,False
+BBVA Colombia,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.20406148,False,False,False,False
+BBVA Colombia,random_name-com_20251129T171101.png,RANDOM,unknown,0.2039648,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.2030892,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.20261432,False,False,False,False
+BBVA Colombia,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.20232126,False,False,False,False
+BBVA Colombia,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.20188305,False,False,False,False
+BBVA Colombia,random_india-com_20251129T180557.png,RANDOM,unknown,0.20120662,False,False,False,False
+BBVA Colombia,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.20092754,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.20058027,False,False,False,False
+BBVA Colombia,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.20052353,False,False,False,False
+BBVA Colombia,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.19939758,False,False,False,False
+BBVA Colombia,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.1993898,False,False,False,False
+BBVA Colombia,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.19839297,False,False,False,False
+BBVA Colombia,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.19766927,False,False,False,False
+BBVA Colombia,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.19690824,False,False,False,False
+BBVA Colombia,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.19611502,False,False,False,False
+BBVA Colombia,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.19481292,False,False,False,False
+BBVA Colombia,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.19461204,False,False,False,False
+BBVA Colombia,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.19438694,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.19369465,False,False,False,False
+BBVA Colombia,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.19340712,False,False,False,False
+BBVA Colombia,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.19335105,False,False,False,False
+BBVA Colombia,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.19333306,False,False,False,False
+BBVA Colombia,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.19314167,False,False,False,False
+BBVA Colombia,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.19290681,False,False,False,False
+BBVA Colombia,random_abc-es_20251129T175348.png,RANDOM,unknown,0.19145767,False,False,False,False
+BBVA Colombia,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.19144943,False,False,False,False
+BBVA Colombia,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.19043468,False,False,False,False
+BBVA Colombia,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.18957537,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.18954948,False,False,False,False
+BBVA Colombia,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.18929201,False,False,False,False
+BBVA Colombia,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.1891199,False,False,False,False
+BBVA Colombia,random_usps-com_20251129T173658.png,RANDOM,unknown,0.18779553,False,False,False,False
+BBVA Colombia,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.1876423,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.18639062,False,False,False,False
+BBVA Colombia,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.18582934,False,False,False,False
+BBVA Colombia,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.1847065,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.18385935,False,False,False,False
+BBVA Colombia,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.1833333,False,False,False,False
+BBVA Colombia,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.18228579,False,False,False,False
+BBVA Colombia,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.18207987,False,False,False,False
+BBVA Colombia,random_media-net_20251129T164538.png,RANDOM,unknown,0.18159562,False,False,False,False
+BBVA Colombia,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.18060605,False,False,False,False
+BBVA Colombia,random_synology-com_20251129T173948.png,RANDOM,unknown,0.18052077,False,False,False,False
+BBVA Colombia,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.18028195,False,False,False,False
+BBVA Colombia,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.17871532,False,False,False,False
+BBVA Colombia,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.17870304,False,False,False,False
+BBVA Colombia,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.17807074,False,False,False,False
+BBVA Colombia,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.17577475,False,False,False,False
+BBVA Colombia,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.17575648,False,False,False,False
+BBVA Colombia,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.17558527,False,False,False,False
+BBVA Colombia,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.17556235,False,False,False,False
+BBVA Colombia,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.17328112,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.17301327,False,False,False,False
+BBVA Colombia,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.17153397,False,False,False,False
+BBVA Colombia,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.17151816,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.17022225,False,False,False,False
+BBVA Colombia,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.17004277,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.17001778,False,False,False,False
+BBVA Colombia,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.16954035,False,False,False,False
+BBVA Colombia,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.16870272,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.16833483,False,False,False,False
+BBVA Colombia,random_hp-com_20251129T164248.png,RANDOM,unknown,0.16747293,False,False,False,False
+BBVA Colombia,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.16725221,False,False,False,False
+BBVA Colombia,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.16709375,False,False,False,False
+BBVA Colombia,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.16482292,False,False,False,False
+BBVA Colombia,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.1640827,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.16302384,False,False,False,False
+BBVA Colombia,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.1624586,False,False,False,False
+BBVA Colombia,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.16084154,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.1597377,False,False,False,False
+BBVA Colombia,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.15815277,False,False,False,False
+BBVA Colombia,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.15702403,False,False,False,False
+BBVA Colombia,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.15683025,False,False,False,False
+BBVA Colombia,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.1557652,False,False,False,False
+BBVA Colombia,random_ted-com_20251129T172015.png,RANDOM,unknown,0.15530229,False,False,False,False
+BBVA Colombia,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.1548147,False,False,False,False
+BBVA Colombia,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.15358084,False,False,False,False
+BBVA Colombia,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.1532121,False,False,False,False
+BBVA Colombia,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.15224448,False,False,False,False
+BBVA Colombia,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.15127549,False,False,False,False
+BBVA Colombia,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.15070051,False,False,False,False
+BBVA Colombia,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.14982074,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.14953882,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.14930576,False,False,False,False
+BBVA Colombia,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.14637287,False,False,False,False
+BBVA Colombia,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.14571166,False,False,False,False
+BBVA Colombia,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.14532532,False,False,False,False
+BBVA Colombia,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.14490557,False,False,False,False
+BBVA Colombia,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.14226383,False,False,False,False
+BBVA Colombia,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.14216098,False,False,False,False
+BBVA Colombia,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.14081258,False,False,False,False
+BBVA Colombia,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.14079219,False,False,False,False
+BBVA Colombia,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.14067003,False,False,False,False
+BBVA Colombia,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.14036626,False,False,False,False
+BBVA Colombia,random_youku-com_20251129T174026.png,RANDOM,unknown,0.13992113,False,False,False,False
+BBVA Colombia,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.13922149,False,False,False,False
+BBVA Colombia,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.13880903,False,False,False,False
+BBVA Colombia,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.13879856,False,False,False,False
+BBVA Colombia,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.13845624,False,False,False,False
+BBVA Colombia,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.13826177,False,False,False,False
+BBVA Colombia,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.13789089,False,False,False,False
+BBVA Colombia,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.13776246,False,False,False,False
+BBVA Colombia,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.13721415,False,False,False,False
+BBVA Colombia,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.13719928,False,False,False,False
+BBVA Colombia,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.13634911,False,False,False,False
+BBVA Colombia,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.13558584,False,False,False,False
+BBVA Colombia,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.13480885,False,False,False,False
+BBVA Colombia,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.13217966,False,False,False,False
+BBVA Colombia,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.13185641,False,False,False,False
+BBVA Colombia,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.13114208,False,False,False,False
+BBVA Colombia,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.13069968,False,False,False,False
+BBVA Colombia,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.13023219,False,False,False,False
+BBVA Colombia,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.12975354,False,False,False,False
+BBVA Colombia,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.12937671,False,False,False,False
+BBVA Colombia,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.12819767,False,False,False,False
+BBVA Colombia,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.12807253,False,False,False,False
+BBVA Colombia,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.12763612,False,False,False,False
+BBVA Colombia,random_apple-com_20251129T162353.png,RANDOM,unknown,0.1271033,False,False,False,False
+BBVA Colombia,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.1255037,False,False,False,False
+BBVA Colombia,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.12444641,False,False,False,False
+BBVA Colombia,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.11922766,False,False,False,False
+BBVA Colombia,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.11893332,False,False,False,False
+BBVA Colombia,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.11674216,False,False,False,False
+BBVA Colombia,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.11652427,False,False,False,False
+BBVA Colombia,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.11570317,False,False,False,False
+BBVA Colombia,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.114430115,False,False,False,False
+BBVA Colombia,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.11420767,False,False,False,False
+BBVA Colombia,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.11387536,False,False,False,False
+BBVA Colombia,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.11172838,False,False,False,False
+BBVA Colombia,random_as-com_20251129T175716.png,RANDOM,unknown,0.11165631,False,False,False,False
+BBVA Colombia,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.109940834,False,False,False,False
+BBVA Colombia,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.10861719,False,False,False,False
+BBVA Colombia,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.10818504,False,False,False,False
+BBVA Colombia,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.10786491,False,False,False,False
+BBVA Colombia,random_poki-com_20251129T180027.png,RANDOM,unknown,0.10784046,False,False,False,False
+BBVA Colombia,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.10766353,False,False,False,False
+BBVA Colombia,random_espn-com_20251129T165100.png,RANDOM,unknown,0.1052475,False,False,False,False
+BBVA Colombia,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.10055913,False,False,False,False
+BBVA Colombia,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.098917745,False,False,False,False
+BBVA Colombia,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.097943924,False,False,False,False
+BBVA Colombia,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.09735629,False,False,False,False
+BBVA Colombia,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.09504121,False,False,False,False
+BBVA Colombia,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.092819266,False,False,False,False
+BBVA Colombia,random_people-com_20251129T172859.png,RANDOM,unknown,0.09226784,False,False,False,False
+BBVA Colombia,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.092026114,False,False,False,False
+BBVA Colombia,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.088797286,False,False,False,False
+BBVA Colombia,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.088698044,False,False,False,False
+BBVA Colombia,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.08776553,False,False,False,False
+BBVA Colombia,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.08617064,False,False,False,False
+BBVA Colombia,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.08572871,False,False,False,False
+BBVA Colombia,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.08483618,False,False,False,False
+BBVA Colombia,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.0831044,False,False,False,False
+BBVA Colombia,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.082641646,False,False,False,False
+BBVA Colombia,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.08201725,False,False,False,False
+BBVA Colombia,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.081918314,False,False,False,False
+BBVA Colombia,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.08176835,False,False,False,False
+BBVA Colombia,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.08149334,False,False,False,False
+BBVA Colombia,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.081150144,False,False,False,False
+BBVA Colombia,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.0805019,False,False,False,False
+BBVA Colombia,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.07937142,False,False,False,False
+BBVA Colombia,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.0762129,False,False,False,False
+BBVA Colombia,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.07612282,False,False,False,False
+BBVA Colombia,random_who-int_20251129T164225.png,RANDOM,unknown,0.07608253,False,False,False,False
+BBVA Colombia,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.07529317,False,False,False,False
+BBVA Colombia,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.07523263,False,False,False,False
+BBVA Colombia,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.075096,False,False,False,False
+BBVA Colombia,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.073107466,False,False,False,False
+BBVA Colombia,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.07307786,False,False,False,False
+BBVA Colombia,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.07229371,False,False,False,False
+BBVA Colombia,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.07215639,False,False,False,False
+BBVA Colombia,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.07171673,False,False,False,False
+BBVA Colombia,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.06795661,False,False,False,False
+BBVA Colombia,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.0675465,False,False,False,False
+BBVA Colombia,random_globo-com_20251129T165541.png,RANDOM,unknown,0.06718544,False,False,False,False
+BBVA Colombia,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.066744275,False,False,False,False
+BBVA Colombia,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.06546462,False,False,False,False
+BBVA Colombia,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.064134836,False,False,False,False
+BBVA Colombia,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.06242342,False,False,False,False
+BBVA Colombia,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.062351353,False,False,False,False
+BBVA Colombia,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.060797207,False,False,False,False
+BBVA Colombia,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.05810213,False,False,False,False
+BBVA Colombia,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.05746907,False,False,False,False
+BBVA Colombia,random_line-me_20251129T170140.png,RANDOM,unknown,0.056448206,False,False,False,False
+BBVA Colombia,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.05548807,False,False,False,False
+BBVA Colombia,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.053201146,False,False,False,False
+BBVA Colombia,random_time-com_20251129T170629.png,RANDOM,unknown,0.051766716,False,False,False,False
+BBVA Colombia,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.050113183,False,False,False,False
+BBVA Colombia,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.049150232,False,False,False,False
+BBVA Colombia,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.04739873,False,False,False,False
+BBVA Colombia,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.0452731,False,False,False,False
+BBVA Colombia,random_health-mil_20251129T163619.png,RANDOM,unknown,0.045133762,False,False,False,False
+BBVA Colombia,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.0441901,False,False,False,False
+BBVA Colombia,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.044068985,False,False,False,False
+BBVA Colombia,random_asus-com_20251129T172748.png,RANDOM,unknown,0.042825915,False,False,False,False
+BBVA Colombia,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.041557588,False,False,False,False
+BBVA Colombia,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.03828051,False,False,False,False
+BBVA Colombia,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.037493505,False,False,False,False
+BBVA Colombia,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.037283197,False,False,False,False
+BBVA Colombia,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.03471223,False,False,False,False
+BBVA Colombia,random_azure-com_20251129T162438.png,RANDOM,unknown,0.03315754,False,False,False,False
+BBVA Colombia,random_clever-com_20251129T173500.png,RANDOM,unknown,0.030019986,False,False,False,False
+BBVA Colombia,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.028684879,False,False,False,False
+BBVA Colombia,random_bing-com_20251129T162459.png,RANDOM,unknown,0.027901113,False,False,False,False
+BBVA Colombia,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.026320647,False,False,False,False
+BBVA Colombia,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.015575326,False,False,False,False
+BBVA Colombia,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.0067543974,False,False,False,False
+BBVA Colombia,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,-0.0009692898,False,False,False,False

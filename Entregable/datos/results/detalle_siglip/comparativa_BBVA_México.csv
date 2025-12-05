@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+BBVA México,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,1.0000002,True,True,False,True
+BBVA México,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.96612936,True,True,False,False
+BBVA México,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.95844734,True,True,False,False
+BBVA México,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.9584377,True,True,False,False
+BBVA México,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.952631,True,True,False,False
+BBVA México,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.9447466,True,True,False,False
+BBVA México,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.9447089,True,True,False,False
+BBVA México,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.9389037,True,True,False,False
+BBVA México,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.9362471,True,True,False,False
+BBVA México,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.92462254,True,True,False,False
+BBVA México,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.9246135,True,True,False,False
+BBVA México,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.8566884,True,False,True,False
+BBVA México,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.8546323,True,False,True,False
+BBVA México,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.8522762,True,False,True,False
+BBVA México,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.84981334,True,False,True,False
+BBVA México,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.84592366,True,False,True,False
+BBVA México,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.84452015,True,False,True,False
+BBVA México,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.84117824,True,False,True,False
+BBVA México,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.84076333,True,False,True,False
+BBVA México,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.8399399,True,False,True,False
+BBVA México,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.8394135,True,False,True,False
+BBVA México,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.8338276,True,False,True,False
+BBVA México,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.83314455,True,False,True,False
+BBVA México,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.8322834,True,False,True,False
+BBVA México,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.8309624,True,False,True,False
+BBVA México,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.8306319,True,False,True,False
+BBVA México,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.8306102,True,False,True,False
+BBVA México,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.82856655,True,False,True,False
+BBVA México,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.82836646,True,False,True,False
+BBVA México,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.82743335,True,False,True,False
+BBVA México,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.82675683,True,False,True,False
+BBVA México,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.82594454,True,False,True,False
+BBVA México,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.82215303,True,False,True,False
+BBVA México,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.8212139,True,False,True,False
+BBVA México,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.8209146,True,False,True,False
+BBVA México,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.81852734,True,False,True,False
+BBVA México,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.8140113,True,False,True,False
+BBVA México,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.81135565,True,False,True,False
+BBVA México,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.81008285,True,False,True,False
+BBVA México,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.80805755,True,False,True,False
+BBVA México,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.80644286,True,False,True,False
+BBVA México,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.8051983,True,False,True,False
+BBVA México,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.80462104,True,False,True,False
+BBVA México,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.8044999,True,False,True,False
+BBVA México,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.8043989,True,False,True,False
+BBVA México,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.8032251,True,False,True,False
+BBVA México,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.80308634,True,False,True,False
+BBVA México,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.8028128,True,False,True,False
+BBVA México,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.80132365,True,False,True,False
+BBVA México,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.80110806,True,False,True,False
+BBVA México,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.8010819,True,False,True,False
+BBVA México,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.80089796,True,False,True,False
+BBVA México,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.8006094,True,False,True,False
+BBVA México,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.80044097,True,False,True,False
+BBVA México,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.80011487,True,False,True,False
+BBVA México,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7999558,False,False,False,False
+BBVA México,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.7998257,False,False,False,False
+BBVA México,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.798933,False,False,False,False
+BBVA México,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.79866475,False,False,False,False
+BBVA México,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7984167,False,False,False,False
+BBVA México,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.7982777,False,False,False,False
+BBVA México,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.7982091,False,False,False,False
+BBVA México,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7981558,False,False,False,False
+BBVA México,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7980154,False,False,False,False
+BBVA México,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.7976657,False,False,False,False
+BBVA México,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7975229,False,False,False,False
+BBVA México,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7974827,False,False,False,False
+BBVA México,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.79746985,False,False,False,False
+BBVA México,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7971577,False,False,False,False
+BBVA México,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7971504,False,False,False,False
+BBVA México,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.7967583,False,False,False,False
+BBVA México,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.79666936,False,False,False,False
+BBVA México,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7960436,False,False,False,False
+BBVA México,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.79599285,False,False,False,False
+BBVA México,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.795896,False,False,False,False
+BBVA México,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.795793,False,False,False,False
+BBVA México,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7954785,False,False,False,False
+BBVA México,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.79461884,False,False,False,False
+BBVA México,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.794476,False,False,False,False
+BBVA México,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.7944068,False,False,False,False
+BBVA México,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.79440606,False,False,False,False
+BBVA México,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.7936331,False,False,False,False
+BBVA México,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7930578,False,False,False,False
+BBVA México,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7927527,False,False,False,False
+BBVA México,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.7926205,False,False,False,False
+BBVA México,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.79236865,False,False,False,False
+BBVA México,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7919234,False,False,False,False
+BBVA México,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.79189897,False,False,False,False
+BBVA México,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.79152477,False,False,False,False
+BBVA México,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.7910609,False,False,False,False
+BBVA México,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.790764,False,False,False,False
+BBVA México,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7905004,False,False,False,False
+BBVA México,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7902097,False,False,False,False
+BBVA México,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.78973985,False,False,False,False
+BBVA México,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.7894148,False,False,False,False
+BBVA México,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7888307,False,False,False,False
+BBVA México,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.78870195,False,False,False,False
+BBVA México,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.7886388,False,False,False,False
+BBVA México,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7884289,False,False,False,False
+BBVA México,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.78798103,False,False,False,False
+BBVA México,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.78791296,False,False,False,False
+BBVA México,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7866726,False,False,False,False
+BBVA México,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.78649116,False,False,False,False
+BBVA México,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.78617185,False,False,False,False
+BBVA México,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.7854399,False,False,False,False
+BBVA México,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7852154,False,False,False,False
+BBVA México,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.78515124,False,False,False,False
+BBVA México,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7850613,False,False,False,False
+BBVA México,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.7848641,False,False,False,False
+BBVA México,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.78477937,False,False,False,False
+BBVA México,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.78455985,False,False,False,False
+BBVA México,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7845134,False,False,False,False
+BBVA México,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.7824606,False,False,False,False
+BBVA México,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7823491,False,False,False,False
+BBVA México,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7823343,False,False,False,False
+BBVA México,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.78211695,False,False,False,False
+BBVA México,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7820924,False,False,False,False
+BBVA México,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.7819836,False,False,False,False
+BBVA México,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.78174216,False,False,False,False
+BBVA México,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.78171337,False,False,False,False
+BBVA México,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7816392,False,False,False,False
+BBVA México,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.78144735,False,False,False,False
+BBVA México,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.78120255,False,False,False,False
+BBVA México,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.7811502,False,False,False,False
+BBVA México,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7802724,False,False,False,False
+BBVA México,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7802019,False,False,False,False
+BBVA México,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.780025,False,False,False,False
+BBVA México,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7800152,False,False,False,False
+BBVA México,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7799413,False,False,False,False
+BBVA México,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7796056,False,False,False,False
+BBVA México,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.779274,False,False,False,False
+BBVA México,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.7792722,False,False,False,False
+BBVA México,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7784624,False,False,False,False
+BBVA México,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7783269,False,False,False,False
+BBVA México,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.77814806,False,False,False,False
+BBVA México,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7780847,False,False,False,False
+BBVA México,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7780474,False,False,False,False
+BBVA México,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7780075,False,False,False,False
+BBVA México,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.77770185,False,False,False,False
+BBVA México,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.77759653,False,False,False,False
+BBVA México,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7775706,False,False,False,False
+BBVA México,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.77751213,False,False,False,False
+BBVA México,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.77695996,False,False,False,False
+BBVA México,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.77688885,False,False,False,False
+BBVA México,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7767293,False,False,False,False
+BBVA México,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.7763487,False,False,False,False
+BBVA México,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.77624166,False,False,False,False
+BBVA México,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.77616423,False,False,False,False
+BBVA México,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.77600545,False,False,False,False
+BBVA México,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7758917,False,False,False,False
+BBVA México,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.77565104,False,False,False,False
+BBVA México,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.77511156,False,False,False,False
+BBVA México,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7750627,False,False,False,False
+BBVA México,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.77490294,False,False,False,False
+BBVA México,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.77475,False,False,False,False
+BBVA México,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.77469933,False,False,False,False
+BBVA México,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.77458584,False,False,False,False
+BBVA México,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.774554,False,False,False,False
+BBVA México,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7744305,False,False,False,False
+BBVA México,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.77433324,False,False,False,False
+BBVA México,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7741188,False,False,False,False
+BBVA México,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7740559,False,False,False,False
+BBVA México,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7740344,False,False,False,False
+BBVA México,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.77382785,False,False,False,False
+BBVA México,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7734347,False,False,False,False
+BBVA México,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.77339613,False,False,False,False
+BBVA México,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.77332586,False,False,False,False
+BBVA México,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.7721826,False,False,False,False
+BBVA México,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.7721242,False,False,False,False
+BBVA México,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7719702,False,False,False,False
+BBVA México,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7718141,False,False,False,False
+BBVA México,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7716221,False,False,False,False
+BBVA México,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.7715968,False,False,False,False
+BBVA México,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7714467,False,False,False,False
+BBVA México,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7714282,False,False,False,False
+BBVA México,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.7712743,False,False,False,False
+BBVA México,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.77096754,False,False,False,False
+BBVA México,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.77082354,False,False,False,False
+BBVA México,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.7699926,False,False,False,False
+BBVA México,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.7698438,False,False,False,False
+BBVA México,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7697996,False,False,False,False
+BBVA México,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.76968145,False,False,False,False
+BBVA México,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.76966524,False,False,False,False
+BBVA México,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.7694938,False,False,False,False
+BBVA México,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7694601,False,False,False,False
+BBVA México,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7693101,False,False,False,False
+BBVA México,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.76881796,False,False,False,False
+BBVA México,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7687747,False,False,False,False
+BBVA México,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.7685287,False,False,False,False
+BBVA México,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.76803493,False,False,False,False
+BBVA México,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7679487,False,False,False,False
+BBVA México,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.76771855,False,False,False,False
+BBVA México,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.767275,False,False,False,False
+BBVA México,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.76701534,False,False,False,False
+BBVA México,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.76663786,False,False,False,False
+BBVA México,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7666224,False,False,False,False
+BBVA México,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.76660544,False,False,False,False
+BBVA México,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.766601,False,False,False,False
+BBVA México,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.7665931,False,False,False,False
+BBVA México,random_weather-com_20251129T164102.png,RANDOM,unknown,0.7660711,False,False,False,False
+BBVA México,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.76606596,False,False,False,False
+BBVA México,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.765968,False,False,False,False
+BBVA México,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.765968,False,False,False,False
+BBVA México,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.7659109,False,False,False,False
+BBVA México,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7657459,False,False,False,False
+BBVA México,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.7655953,False,False,False,False
+BBVA México,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.76555103,False,False,False,False
+BBVA México,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7653512,False,False,False,False
+BBVA México,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7651491,False,False,False,False
+BBVA México,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7650023,False,False,False,False
+BBVA México,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.76499164,False,False,False,False
+BBVA México,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.76477146,False,False,False,False
+BBVA México,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.76469713,False,False,False,False
+BBVA México,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7643869,False,False,False,False
+BBVA México,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7643194,False,False,False,False
+BBVA México,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7642127,False,False,False,False
+BBVA México,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.76415384,False,False,False,False
+BBVA México,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7640932,False,False,False,False
+BBVA México,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.76407015,False,False,False,False
+BBVA México,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7639826,False,False,False,False
+BBVA México,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7638398,False,False,False,False
+BBVA México,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7635603,False,False,False,False
+BBVA México,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.76343966,False,False,False,False
+BBVA México,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.76338345,False,False,False,False
+BBVA México,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.76329887,False,False,False,False
+BBVA México,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7631734,False,False,False,False
+BBVA México,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7628579,False,False,False,False
+BBVA México,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.76268905,False,False,False,False
+BBVA México,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7625073,False,False,False,False
+BBVA México,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7624465,False,False,False,False
+BBVA México,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.76224154,False,False,False,False
+BBVA México,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.76208746,False,False,False,False
+BBVA México,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7620359,False,False,False,False
+BBVA México,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.76180947,False,False,False,False
+BBVA México,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.76176906,False,False,False,False
+BBVA México,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.76172376,False,False,False,False
+BBVA México,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7616045,False,False,False,False
+BBVA México,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7615562,False,False,False,False
+BBVA México,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7613926,False,False,False,False
+BBVA México,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.76130974,False,False,False,False
+BBVA México,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7612265,False,False,False,False
+BBVA México,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.761179,False,False,False,False
+BBVA México,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7611027,False,False,False,False
+BBVA México,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.76102614,False,False,False,False
+BBVA México,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.76087314,False,False,False,False
+BBVA México,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.7608396,False,False,False,False
+BBVA México,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.760545,False,False,False,False
+BBVA México,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.760159,False,False,False,False
+BBVA México,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.76015675,False,False,False,False
+BBVA México,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.75992304,False,False,False,False
+BBVA México,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7597415,False,False,False,False
+BBVA México,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.7594992,False,False,False,False
+BBVA México,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.7593273,False,False,False,False
+BBVA México,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.75931126,False,False,False,False
+BBVA México,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.7591157,False,False,False,False
+BBVA México,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.75908303,False,False,False,False
+BBVA México,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7590432,False,False,False,False
+BBVA México,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7590201,False,False,False,False
+BBVA México,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7588917,False,False,False,False
+BBVA México,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.75884426,False,False,False,False
+BBVA México,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7585465,False,False,False,False
+BBVA México,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7584262,False,False,False,False
+BBVA México,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7584224,False,False,False,False
+BBVA México,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7572174,False,False,False,False
+BBVA México,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.75716376,False,False,False,False
+BBVA México,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.7570944,False,False,False,False
+BBVA México,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.7570751,False,False,False,False
+BBVA México,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.75679356,False,False,False,False
+BBVA México,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7564802,False,False,False,False
+BBVA México,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.75643504,False,False,False,False
+BBVA México,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.75626314,False,False,False,False
+BBVA México,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.7562537,False,False,False,False
+BBVA México,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.75622153,False,False,False,False
+BBVA México,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7561619,False,False,False,False
+BBVA México,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.7561457,False,False,False,False
+BBVA México,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.75610316,False,False,False,False
+BBVA México,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.756096,False,False,False,False
+BBVA México,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.7560842,False,False,False,False
+BBVA México,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.7560507,False,False,False,False
+BBVA México,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7558908,False,False,False,False
+BBVA México,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.75570583,False,False,False,False
+BBVA México,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.75533736,False,False,False,False
+BBVA México,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7551661,False,False,False,False
+BBVA México,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.75493383,False,False,False,False
+BBVA México,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.7547843,False,False,False,False
+BBVA México,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.75467306,False,False,False,False
+BBVA México,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7536678,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7533956,False,False,False,False
+BBVA México,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.75337017,False,False,False,False
+BBVA México,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.75324255,False,False,False,False
+BBVA México,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7532028,False,False,False,False
+BBVA México,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.7531175,False,False,False,False
+BBVA México,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7530858,False,False,False,False
+BBVA México,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7528039,False,False,False,False
+BBVA México,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.75257915,False,False,False,False
+BBVA México,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.75257134,False,False,False,False
+BBVA México,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.75196683,False,False,False,False
+BBVA México,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.75176954,False,False,False,False
+BBVA México,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.75153327,False,False,False,False
+BBVA México,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.75150025,False,False,False,False
+BBVA México,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.75135016,False,False,False,False
+BBVA México,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.75128233,False,False,False,False
+BBVA México,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.75116986,False,False,False,False
+BBVA México,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7509959,False,False,False,False
+BBVA México,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.75096494,False,False,False,False
+BBVA México,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.75076044,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7506324,False,False,False,False
+BBVA México,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.7504807,False,False,False,False
+BBVA México,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7501904,False,False,False,False
+BBVA México,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.75018036,False,False,False,False
+BBVA México,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7500511,False,False,False,False
+BBVA México,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.74913645,False,False,False,False
+BBVA México,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.74867976,False,False,False,False
+BBVA México,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7482487,False,False,False,False
+BBVA México,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7481707,False,False,False,False
+BBVA México,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.7481411,False,False,False,False
+BBVA México,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7480864,False,False,False,False
+BBVA México,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7480796,False,False,False,False
+BBVA México,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7479566,False,False,False,False
+BBVA México,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.74745303,False,False,False,False
+BBVA México,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7473449,False,False,False,False
+BBVA México,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.7472627,False,False,False,False
+BBVA México,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7469959,False,False,False,False
+BBVA México,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.7469299,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.74667567,False,False,False,False
+BBVA México,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7465439,False,False,False,False
+BBVA México,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.74641293,False,False,False,False
+BBVA México,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7463725,False,False,False,False
+BBVA México,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7463419,False,False,False,False
+BBVA México,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.74625564,False,False,False,False
+BBVA México,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.74603856,False,False,False,False
+BBVA México,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7459496,False,False,False,False
+BBVA México,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.7455416,False,False,False,False
+BBVA México,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.74538475,False,False,False,False
+BBVA México,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.74526083,False,False,False,False
+BBVA México,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.74488616,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7448125,False,False,False,False
+BBVA México,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.7446214,False,False,False,False
+BBVA México,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.74448663,False,False,False,False
+BBVA México,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7440808,False,False,False,False
+BBVA México,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.7439803,False,False,False,False
+BBVA México,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7438607,False,False,False,False
+BBVA México,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.7437968,False,False,False,False
+BBVA México,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7437115,False,False,False,False
+BBVA México,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.7436808,False,False,False,False
+BBVA México,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7430548,False,False,False,False
+BBVA México,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.7429965,False,False,False,False
+BBVA México,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.74299574,False,False,False,False
+BBVA México,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7426457,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.74251235,False,False,False,False
+BBVA México,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7423371,False,False,False,False
+BBVA México,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.74219024,False,False,False,False
+BBVA México,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.7421265,False,False,False,False
+BBVA México,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.7419692,False,False,False,False
+BBVA México,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.7414287,False,False,False,False
+BBVA México,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.74142456,False,False,False,False
+BBVA México,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.74049485,False,False,False,False
+BBVA México,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.74041444,False,False,False,False
+BBVA México,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.73988545,False,False,False,False
+BBVA México,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7397536,False,False,False,False
+BBVA México,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7396009,False,False,False,False
+BBVA México,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7395625,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7395615,False,False,False,False
+BBVA México,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.73931867,False,False,False,False
+BBVA México,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7390919,False,False,False,False
+BBVA México,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.73889625,False,False,False,False
+BBVA México,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.73854566,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.73851615,False,False,False,False
+BBVA México,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7384219,False,False,False,False
+BBVA México,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.73830867,False,False,False,False
+BBVA México,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.73802,False,False,False,False
+BBVA México,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.73801666,False,False,False,False
+BBVA México,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.73767364,False,False,False,False
+BBVA México,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.7376474,False,False,False,False
+BBVA México,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7369937,False,False,False,False
+BBVA México,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.73685217,False,False,False,False
+BBVA México,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.73655546,False,False,False,False
+BBVA México,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.73650247,False,False,False,False
+BBVA México,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.73641515,False,False,False,False
+BBVA México,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7360599,False,False,False,False
+BBVA México,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.73593247,False,False,False,False
+BBVA México,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.73565155,False,False,False,False
+BBVA México,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7353623,False,False,False,False
+BBVA México,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7347114,False,False,False,False
+BBVA México,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.73464024,False,False,False,False
+BBVA México,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7342291,False,False,False,False
+BBVA México,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7341904,False,False,False,False
+BBVA México,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.7338455,False,False,False,False
+BBVA México,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.733666,False,False,False,False
+BBVA México,random_msn-com_20251129T162722.png,RANDOM,unknown,0.7336644,False,False,False,False
+BBVA México,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7332146,False,False,False,False
+BBVA México,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.7330775,False,False,False,False
+BBVA México,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7330444,False,False,False,False
+BBVA México,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.73245794,False,False,False,False
+BBVA México,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.732443,False,False,False,False
+BBVA México,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.7324027,False,False,False,False
+BBVA México,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7323765,False,False,False,False
+BBVA México,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.7322247,False,False,False,False
+BBVA México,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.73218846,False,False,False,False
+BBVA México,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.7317748,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.731478,False,False,False,False
+BBVA México,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7310572,False,False,False,False
+BBVA México,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.7308675,False,False,False,False
+BBVA México,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7308473,False,False,False,False
+BBVA México,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.73073006,False,False,False,False
+BBVA México,random_google-com_20251129T162253.png,RANDOM,unknown,0.73040074,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.7300846,False,False,False,False
+BBVA México,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.72967994,False,False,False,False
+BBVA México,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.72879887,False,False,False,False
+BBVA México,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.7286195,False,False,False,False
+BBVA México,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.7285729,False,False,False,False
+BBVA México,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.7281357,False,False,False,False
+BBVA México,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7278238,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.72765416,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7275748,False,False,False,False
+BBVA México,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.72706246,False,False,False,False
+BBVA México,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7269134,False,False,False,False
+BBVA México,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.72608256,False,False,False,False
+BBVA México,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.7259645,False,False,False,False
+BBVA México,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7256642,False,False,False,False
+BBVA México,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.72519255,False,False,False,False
+BBVA México,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.72470784,False,False,False,False
+BBVA México,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.7243994,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7242607,False,False,False,False
+BBVA México,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.7239803,False,False,False,False
+BBVA México,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.7237098,False,False,False,False
+BBVA México,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.72359043,False,False,False,False
+BBVA México,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.7235615,False,False,False,False
+BBVA México,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7230932,False,False,False,False
+BBVA México,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.72291327,False,False,False,False
+BBVA México,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7228527,False,False,False,False
+BBVA México,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.72272444,False,False,False,False
+BBVA México,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.7223275,False,False,False,False
+BBVA México,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.72226244,False,False,False,False
+BBVA México,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7219762,False,False,False,False
+BBVA México,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.7218852,False,False,False,False
+BBVA México,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7218448,False,False,False,False
+BBVA México,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.7211018,False,False,False,False
+BBVA México,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.7209747,False,False,False,False
+BBVA México,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.72086084,False,False,False,False
+BBVA México,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.7208396,False,False,False,False
+BBVA México,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.7206384,False,False,False,False
+BBVA México,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.72049665,False,False,False,False
+BBVA México,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.72039264,False,False,False,False
+BBVA México,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.7203636,False,False,False,False
+BBVA México,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.72026116,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7202582,False,False,False,False
+BBVA México,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7201628,False,False,False,False
+BBVA México,random_change-org_20251129T173929.png,RANDOM,unknown,0.7197309,False,False,False,False
+BBVA México,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7189497,False,False,False,False
+BBVA México,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7189443,False,False,False,False
+BBVA México,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.7188871,False,False,False,False
+BBVA México,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7182754,False,False,False,False
+BBVA México,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.71825874,False,False,False,False
+BBVA México,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.71777743,False,False,False,False
+BBVA México,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.7177277,False,False,False,False
+BBVA México,random_marca-com_20251129T175532.png,RANDOM,unknown,0.7175912,False,False,False,False
+BBVA México,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.71668327,False,False,False,False
+BBVA México,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.7164786,False,False,False,False
+BBVA México,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.7152695,False,False,False,False
+BBVA México,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.7151054,False,False,False,False
+BBVA México,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.71504575,False,False,False,False
+BBVA México,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.7142382,False,False,False,False
+BBVA México,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.7140181,False,False,False,False
+BBVA México,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.7134441,False,False,False,False
+BBVA México,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.71296835,False,False,False,False
+BBVA México,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.71264386,False,False,False,False
+BBVA México,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.71234787,False,False,False,False
+BBVA México,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.7121216,False,False,False,False
+BBVA México,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.7115749,False,False,False,False
+BBVA México,random_avast-com_20251129T164855.png,RANDOM,unknown,0.7115735,False,False,False,False
+BBVA México,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.71119016,False,False,False,False
+BBVA México,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7110126,False,False,False,False
+BBVA México,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.7110021,False,False,False,False
+BBVA México,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.7109875,False,False,False,False
+BBVA México,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.7109495,False,False,False,False
+BBVA México,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.7103219,False,False,False,False
+BBVA México,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.7101861,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.71001387,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.709105,False,False,False,False
+BBVA México,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.7087803,False,False,False,False
+BBVA México,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.70861876,False,False,False,False
+BBVA México,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.70859826,False,False,False,False
+BBVA México,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.70854056,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.7084018,False,False,False,False
+BBVA México,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.70826316,False,False,False,False
+BBVA México,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.70804834,False,False,False,False
+BBVA México,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.7078982,False,False,False,False
+BBVA México,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7075681,False,False,False,False
+BBVA México,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.707328,False,False,False,False
+BBVA México,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.7067361,False,False,False,False
+BBVA México,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.70630056,False,False,False,False
+BBVA México,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.706234,False,False,False,False
+BBVA México,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.70562434,False,False,False,False
+BBVA México,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.7054174,False,False,False,False
+BBVA México,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.70530796,False,False,False,False
+BBVA México,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.7046177,False,False,False,False
+BBVA México,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.70419776,False,False,False,False
+BBVA México,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.7041642,False,False,False,False
+BBVA México,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.70395815,False,False,False,False
+BBVA México,random_canva-com_20251129T164231.png,RANDOM,unknown,0.70372945,False,False,False,False
+BBVA México,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.7036849,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.70358217,False,False,False,False
+BBVA México,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.7030022,False,False,False,False
+BBVA México,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.70293665,False,False,False,False
+BBVA México,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.70190835,False,False,False,False
+BBVA México,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.7018092,False,False,False,False
+BBVA México,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.70147884,False,False,False,False
+BBVA México,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.7011341,False,False,False,False
+BBVA México,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.70103586,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.7009902,False,False,False,False
+BBVA México,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.7003941,False,False,False,False
+BBVA México,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.6998386,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6996086,False,False,False,False
+BBVA México,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.69905794,False,False,False,False
+BBVA México,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.69817525,False,False,False,False
+BBVA México,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.69778943,False,False,False,False
+BBVA México,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.6976354,False,False,False,False
+BBVA México,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.6975974,False,False,False,False
+BBVA México,random_gov-br_20251129T174615.png,RANDOM,unknown,0.6973937,False,False,False,False
+BBVA México,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.69715434,False,False,False,False
+BBVA México,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.6963111,False,False,False,False
+BBVA México,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.6962425,False,False,False,False
+BBVA México,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.69622445,False,False,False,False
+BBVA México,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.69597733,False,False,False,False
+BBVA México,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.6958513,False,False,False,False
+BBVA México,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.69569844,False,False,False,False
+BBVA México,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.69559765,False,False,False,False
+BBVA México,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.6950432,False,False,False,False
+BBVA México,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.69481635,False,False,False,False
+BBVA México,random_hp-com_20251129T164248.png,RANDOM,unknown,0.6942063,False,False,False,False
+BBVA México,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.69368464,False,False,False,False
+BBVA México,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6934181,False,False,False,False
+BBVA México,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.69327074,False,False,False,False
+BBVA México,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.6932264,False,False,False,False
+BBVA México,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.69270575,False,False,False,False
+BBVA México,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.69173956,False,False,False,False
+BBVA México,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.6915494,False,False,False,False
+BBVA México,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.69083494,False,False,False,False
+BBVA México,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.6906339,False,False,False,False
+BBVA México,random_vk-com_20251129T163202.png,RANDOM,unknown,0.6905135,False,False,False,False
+BBVA México,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.69015384,False,False,False,False
+BBVA México,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.69011223,False,False,False,False
+BBVA México,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.68979025,False,False,False,False
+BBVA México,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.6894334,False,False,False,False
+BBVA México,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.68878347,False,False,False,False
+BBVA México,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.68813986,False,False,False,False
+BBVA México,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6874124,False,False,False,False
+BBVA México,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6874044,False,False,False,False
+BBVA México,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.6869435,False,False,False,False
+BBVA México,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6868024,False,False,False,False
+BBVA México,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6863181,False,False,False,False
+BBVA México,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.68628496,False,False,False,False
+BBVA México,random_segment-io_20251129T174400.png,RANDOM,unknown,0.68599415,False,False,False,False
+BBVA México,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.68584716,False,False,False,False
+BBVA México,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.68565464,False,False,False,False
+BBVA México,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.68550205,False,False,False,False
+BBVA México,random_temu-com_20251129T165219.png,RANDOM,unknown,0.6853295,False,False,False,False
+BBVA México,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.6851351,False,False,False,False
+BBVA México,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.6848791,False,False,False,False
+BBVA México,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.68483686,False,False,False,False
+BBVA México,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.68450224,False,False,False,False
+BBVA México,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.68448734,False,False,False,False
+BBVA México,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.6842812,False,False,False,False
+BBVA México,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.6842663,False,False,False,False
+BBVA México,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.68412405,False,False,False,False
+BBVA México,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.6840012,False,False,False,False
+BBVA México,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.68345386,False,False,False,False
+BBVA México,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.6833427,False,False,False,False
+BBVA México,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.68298846,False,False,False,False
+BBVA México,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.6828433,False,False,False,False
+BBVA México,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.68277377,False,False,False,False
+BBVA México,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.68276787,False,False,False,False
+BBVA México,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.682545,False,False,False,False
+BBVA México,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.68244636,False,False,False,False
+BBVA México,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6822114,False,False,False,False
+BBVA México,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.68196046,False,False,False,False
+BBVA México,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.6819202,False,False,False,False
+BBVA México,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6814994,False,False,False,False
+BBVA México,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.68129694,False,False,False,False
+BBVA México,random_g-page_20251129T170201.png,RANDOM,unknown,0.68081856,False,False,False,False
+BBVA México,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.6801797,False,False,False,False
+BBVA México,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.6800081,False,False,False,False
+BBVA México,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.67926866,False,False,False,False
+BBVA México,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.67886484,False,False,False,False
+BBVA México,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.67876315,False,False,False,False
+BBVA México,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.6787206,False,False,False,False
+BBVA México,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6780473,False,False,False,False
+BBVA México,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.6778714,False,False,False,False
+BBVA México,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.677786,False,False,False,False
+BBVA México,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.67732465,False,False,False,False
+BBVA México,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.6767038,False,False,False,False
+BBVA México,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6766511,False,False,False,False
+BBVA México,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.67592186,False,False,False,False
+BBVA México,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.67587394,False,False,False,False
+BBVA México,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.67576265,False,False,False,False
+BBVA México,random_booking-com_20251129T164752.png,RANDOM,unknown,0.6754452,False,False,False,False
+BBVA México,random_welt-de_20251129T173821.png,RANDOM,unknown,0.67400885,False,False,False,False
+BBVA México,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.67397654,False,False,False,False
+BBVA México,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.67397445,False,False,False,False
+BBVA México,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6738114,False,False,False,False
+BBVA México,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.67365927,False,False,False,False
+BBVA México,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.67346644,False,False,False,False
+BBVA México,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.6734038,False,False,False,False
+BBVA México,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.67291176,False,False,False,False
+BBVA México,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.6728897,False,False,False,False
+BBVA México,random_intel-com_20251129T171229.png,RANDOM,unknown,0.67257595,False,False,False,False
+BBVA México,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.67201567,False,False,False,False
+BBVA México,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.6719236,False,False,False,False
+BBVA México,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.6719073,False,False,False,False
+BBVA México,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.671549,False,False,False,False
+BBVA México,random_viber-com_20251129T172210.png,RANDOM,unknown,0.67147225,False,False,False,False
+BBVA México,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.6714321,False,False,False,False
+BBVA México,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.6713991,False,False,False,False
+BBVA México,random_finn-no_20251129T180303.png,RANDOM,unknown,0.67136526,False,False,False,False
+BBVA México,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.66998065,False,False,False,False
+BBVA México,random_eset-com_20251129T171424.png,RANDOM,unknown,0.6699394,False,False,False,False
+BBVA México,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.66888654,False,False,False,False
+BBVA México,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.66882735,False,False,False,False
+BBVA México,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.66881263,False,False,False,False
+BBVA México,random_ring-com_20251129T172743.png,RANDOM,unknown,0.6686659,False,False,False,False
+BBVA México,random_apa-org_20251129T180433.png,RANDOM,unknown,0.6681462,False,False,False,False
+BBVA México,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6676965,False,False,False,False
+BBVA México,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.6672077,False,False,False,False
+BBVA México,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.66714025,False,False,False,False
+BBVA México,random_naver-com_20251129T164929.png,RANDOM,unknown,0.667086,False,False,False,False
+BBVA México,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.6665468,False,False,False,False
+BBVA México,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.6665423,False,False,False,False
+BBVA México,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.6662245,False,False,False,False
+BBVA México,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.6658642,False,False,False,False
+BBVA México,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.6656324,False,False,False,False
+BBVA México,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.66556615,False,False,False,False
+BBVA México,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.66501665,False,False,False,False
+BBVA México,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.6648198,False,False,False,False
+BBVA México,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.6647062,False,False,False,False
+BBVA México,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.66470426,False,False,False,False
+BBVA México,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.66433716,False,False,False,False
+BBVA México,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.6637222,False,False,False,False
+BBVA México,random_figma-com_20251129T173914.png,RANDOM,unknown,0.66369516,False,False,False,False
+BBVA México,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.663272,False,False,False,False
+BBVA México,random_att-com_20251129T180955.png,RANDOM,unknown,0.6631367,False,False,False,False
+BBVA México,random_wix-com_20251129T171207.png,RANDOM,unknown,0.66207886,False,False,False,False
+BBVA México,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.661515,False,False,False,False
+BBVA México,random_springer-com_20251129T164823.png,RANDOM,unknown,0.6613414,False,False,False,False
+BBVA México,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.6612536,False,False,False,False
+BBVA México,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.6609401,False,False,False,False
+BBVA México,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.66073,False,False,False,False
+BBVA México,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.6601837,False,False,False,False
+BBVA México,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.65975666,False,False,False,False
+BBVA México,random_web-de_20251129T175220.png,RANDOM,unknown,0.6597334,False,False,False,False
+BBVA México,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6597222,False,False,False,False
+BBVA México,random_abc-es_20251129T175348.png,RANDOM,unknown,0.65941787,False,False,False,False
+BBVA México,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.65911573,False,False,False,False
+BBVA México,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.65900534,False,False,False,False
+BBVA México,random_att-net_20251129T170227.png,RANDOM,unknown,0.6586496,False,False,False,False
+BBVA México,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.6586078,False,False,False,False
+BBVA México,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.6583855,False,False,False,False
+BBVA México,random_jd-com_20251129T174954.png,RANDOM,unknown,0.65834594,False,False,False,False
+BBVA México,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6576303,False,False,False,False
+BBVA México,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.65726954,False,False,False,False
+BBVA México,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.65705204,False,False,False,False
+BBVA México,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.6564493,False,False,False,False
+BBVA México,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.65609014,False,False,False,False
+BBVA México,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.65543723,False,False,False,False
+BBVA México,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.6552894,False,False,False,False
+BBVA México,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.65495384,False,False,False,False
+BBVA México,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.6547403,False,False,False,False
+BBVA México,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.65426946,False,False,False,False
+BBVA México,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.6542657,False,False,False,False
+BBVA México,random_cox-net_20251129T170452.png,RANDOM,unknown,0.6539812,False,False,False,False
+BBVA México,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.6538859,False,False,False,False
+BBVA México,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.6537016,False,False,False,False
+BBVA México,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.6534101,False,False,False,False
+BBVA México,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.6533895,False,False,False,False
+BBVA México,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.6527745,False,False,False,False
+BBVA México,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.6521593,False,False,False,False
+BBVA México,random_focus-de_20251129T175031.png,RANDOM,unknown,0.6520477,False,False,False,False
+BBVA México,random_note-com_20251129T174642.png,RANDOM,unknown,0.65142256,False,False,False,False
+BBVA México,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6511564,False,False,False,False
+BBVA México,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.65096724,False,False,False,False
+BBVA México,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.65029097,False,False,False,False
+BBVA México,random_moe-video_20251129T164430.png,RANDOM,unknown,0.64865273,False,False,False,False
+BBVA México,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.64852357,False,False,False,False
+BBVA México,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.6481318,False,False,False,False
+BBVA México,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.6480719,False,False,False,False
+BBVA México,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.6478064,False,False,False,False
+BBVA México,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.64778185,False,False,False,False
+BBVA México,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.64704186,False,False,False,False
+BBVA México,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.64696366,False,False,False,False
+BBVA México,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.64648545,False,False,False,False
+BBVA México,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.64626205,False,False,False,False
+BBVA México,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.6457908,False,False,False,False
+BBVA México,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.6454371,False,False,False,False
+BBVA México,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.64541507,False,False,False,False
+BBVA México,random_nature-com_20251129T164547.png,RANDOM,unknown,0.6453408,False,False,False,False
+BBVA México,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.64532614,False,False,False,False
+BBVA México,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.64518344,False,False,False,False
+BBVA México,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.6451821,False,False,False,False
+BBVA México,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.64472353,False,False,False,False
+BBVA México,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.6444492,False,False,False,False
+BBVA México,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.64441246,False,False,False,False
+BBVA México,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.6441355,False,False,False,False
+BBVA México,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.64282334,False,False,False,False
+BBVA México,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.64275795,False,False,False,False
+BBVA México,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.64253014,False,False,False,False
+BBVA México,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.6424533,False,False,False,False
+BBVA México,random_statista-com_20251129T165822.png,RANDOM,unknown,0.642401,False,False,False,False
+BBVA México,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6415891,False,False,False,False
+BBVA México,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.64112717,False,False,False,False
+BBVA México,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.641069,False,False,False,False
+BBVA México,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.64088297,False,False,False,False
+BBVA México,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.6397294,False,False,False,False
+BBVA México,random_discord-media_20251129T170414.png,RANDOM,unknown,0.6393999,False,False,False,False
+BBVA México,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.6386169,False,False,False,False
+BBVA México,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.6382433,False,False,False,False
+BBVA México,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.63823134,False,False,False,False
+BBVA México,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.63811105,False,False,False,False
+BBVA México,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.6380711,False,False,False,False
+BBVA México,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.6376814,False,False,False,False
+BBVA México,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.6375751,False,False,False,False
+BBVA México,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.63756806,False,False,False,False
+BBVA México,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.63741046,False,False,False,False
+BBVA México,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.6373474,False,False,False,False
+BBVA México,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.6370505,False,False,False,False
+BBVA México,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.6362949,False,False,False,False
+BBVA México,random_xing-com_20251129T175042.png,RANDOM,unknown,0.635651,False,False,False,False
+BBVA México,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.63564765,False,False,False,False
+BBVA México,random_g-co_20251129T171804.png,RANDOM,unknown,0.6351609,False,False,False,False
+BBVA México,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.63511765,False,False,False,False
+BBVA México,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.635111,False,False,False,False
+BBVA México,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.6345131,False,False,False,False
+BBVA México,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.6343132,False,False,False,False
+BBVA México,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.6331605,False,False,False,False
+BBVA México,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.6330663,False,False,False,False
+BBVA México,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.6329514,False,False,False,False
+BBVA México,random_daum-net_20251129T174537.png,RANDOM,unknown,0.63288087,False,False,False,False
+BBVA México,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.6328172,False,False,False,False
+BBVA México,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.6328051,False,False,False,False
+BBVA México,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.6327184,False,False,False,False
+BBVA México,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.6326938,False,False,False,False
+BBVA México,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.6326395,False,False,False,False
+BBVA México,random_usps-com_20251129T173658.png,RANDOM,unknown,0.63251406,False,False,False,False
+BBVA México,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.6321429,False,False,False,False
+BBVA México,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.63199353,False,False,False,False
+BBVA México,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6316654,False,False,False,False
+BBVA México,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.6314683,False,False,False,False
+BBVA México,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.6300385,False,False,False,False
+BBVA México,random_ui-com_20251129T163127.png,RANDOM,unknown,0.62952745,False,False,False,False
+BBVA México,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.6292078,False,False,False,False
+BBVA México,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.62902266,False,False,False,False
+BBVA México,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.628646,False,False,False,False
+BBVA México,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.6286303,False,False,False,False
+BBVA México,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.62830174,False,False,False,False
+BBVA México,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.6279372,False,False,False,False
+BBVA México,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6279033,False,False,False,False
+BBVA México,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.6276006,False,False,False,False
+BBVA México,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.6274162,False,False,False,False
+BBVA México,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.6273698,False,False,False,False
+BBVA México,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.62722427,False,False,False,False
+BBVA México,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.62699825,False,False,False,False
+BBVA México,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.6269587,False,False,False,False
+BBVA México,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.6266787,False,False,False,False
+BBVA México,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.62662804,False,False,False,False
+BBVA México,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.62657666,False,False,False,False
+BBVA México,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.62657416,False,False,False,False
+BBVA México,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.6265384,False,False,False,False
+BBVA México,random_brave-com_20251129T172325.png,RANDOM,unknown,0.6262343,False,False,False,False
+BBVA México,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.6260835,False,False,False,False
+BBVA México,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.6254843,False,False,False,False
+BBVA México,random_synology-com_20251129T173948.png,RANDOM,unknown,0.62501836,False,False,False,False
+BBVA México,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.62479377,False,False,False,False
+BBVA México,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.62454885,False,False,False,False
+BBVA México,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.6244601,False,False,False,False
+BBVA México,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.62433416,False,False,False,False
+BBVA México,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.62403214,False,False,False,False
+BBVA México,random_w3-org_20251129T163751.png,RANDOM,unknown,0.62402195,False,False,False,False
+BBVA México,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.6239359,False,False,False,False
+BBVA México,random_globo-com_20251129T165541.png,RANDOM,unknown,0.6239182,False,False,False,False
+BBVA México,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.6237155,False,False,False,False
+BBVA México,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.6235919,False,False,False,False
+BBVA México,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.62344414,False,False,False,False
+BBVA México,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.6233325,False,False,False,False
+BBVA México,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.6232226,False,False,False,False
+BBVA México,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6229954,False,False,False,False
+BBVA México,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.6229806,False,False,False,False
+BBVA México,random_live-com_20251129T162413.png,RANDOM,unknown,0.6228415,False,False,False,False
+BBVA México,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.6226511,False,False,False,False
+BBVA México,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.6223465,False,False,False,False
+BBVA México,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.6223386,False,False,False,False
+BBVA México,random_tds-net_20251129T174115.png,RANDOM,unknown,0.6220854,False,False,False,False
+BBVA México,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.62179947,False,False,False,False
+BBVA México,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.6217554,False,False,False,False
+BBVA México,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.6217067,False,False,False,False
+BBVA México,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.6215228,False,False,False,False
+BBVA México,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.62147,False,False,False,False
+BBVA México,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.62127364,False,False,False,False
+BBVA México,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.6211916,False,False,False,False
+BBVA México,random_windows-com_20251129T163112.png,RANDOM,unknown,0.62106156,False,False,False,False
+BBVA México,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.62104154,False,False,False,False
+BBVA México,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.6210394,False,False,False,False
+BBVA México,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.6209433,False,False,False,False
+BBVA México,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.62035704,False,False,False,False
+BBVA México,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.619711,False,False,False,False
+BBVA México,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.6195965,False,False,False,False
+BBVA México,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.6194358,False,False,False,False
+BBVA México,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.6192476,False,False,False,False
+BBVA México,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.61913157,False,False,False,False
+BBVA México,random_okta-com_20251129T171946.png,RANDOM,unknown,0.6189226,False,False,False,False
+BBVA México,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.6188708,False,False,False,False
+BBVA México,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.6187159,False,False,False,False
+BBVA México,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.61833787,False,False,False,False
+BBVA México,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.618286,False,False,False,False
+BBVA México,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.61774063,False,False,False,False
+BBVA México,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.61770886,False,False,False,False
+BBVA México,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.61736935,False,False,False,False
+BBVA México,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.61736333,False,False,False,False
+BBVA México,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.6172682,False,False,False,False
+BBVA México,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.6171868,False,False,False,False
+BBVA México,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.61693925,False,False,False,False
+BBVA México,random_split-io_20251129T175048.png,RANDOM,unknown,0.61691964,False,False,False,False
+BBVA México,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.6167422,False,False,False,False
+BBVA México,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.6165707,False,False,False,False
+BBVA México,random_erome-com_20251129T165107.png,RANDOM,unknown,0.6164968,False,False,False,False
+BBVA México,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.6160407,False,False,False,False
+BBVA México,random_google-cn_20251129T172939.png,RANDOM,unknown,0.6159615,False,False,False,False
+BBVA México,random_slack-com_20251129T164623.png,RANDOM,unknown,0.61576325,False,False,False,False
+BBVA México,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.61552596,False,False,False,False
+BBVA México,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.6149999,False,False,False,False
+BBVA México,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.61487716,False,False,False,False
+BBVA México,random_dns-google_20251129T163231.png,RANDOM,unknown,0.61484486,False,False,False,False
+BBVA México,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.61460435,False,False,False,False
+BBVA México,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.6144692,False,False,False,False
+BBVA México,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.61365235,False,False,False,False
+BBVA México,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.61358666,False,False,False,False
+BBVA México,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.613499,False,False,False,False
+BBVA México,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.6129184,False,False,False,False
+BBVA México,random_bild-de_20251129T173827.png,RANDOM,unknown,0.61249053,False,False,False,False
+BBVA México,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.6117885,False,False,False,False
+BBVA México,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.61173767,False,False,False,False
+BBVA México,random_wise-com_20251129T180312.png,RANDOM,unknown,0.6117024,False,False,False,False
+BBVA México,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.6116123,False,False,False,False
+BBVA México,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.61156225,False,False,False,False
+BBVA México,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6113539,False,False,False,False
+BBVA México,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.6113048,False,False,False,False
+BBVA México,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.6107316,False,False,False,False
+BBVA México,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.6106106,False,False,False,False
+BBVA México,random_one-one_20251129T163318.png,RANDOM,unknown,0.6104648,False,False,False,False
+BBVA México,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.6104244,False,False,False,False
+BBVA México,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.6101012,False,False,False,False
+BBVA México,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.6099529,False,False,False,False
+BBVA México,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.60993886,False,False,False,False
+BBVA México,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6099357,False,False,False,False
+BBVA México,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.60990334,False,False,False,False
+BBVA México,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.60950446,False,False,False,False
+BBVA México,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.6093877,False,False,False,False
+BBVA México,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.6089912,False,False,False,False
+BBVA México,random_opera-com_20251129T163028.png,RANDOM,unknown,0.60876656,False,False,False,False
+BBVA México,random_substack-com_20251129T171941.png,RANDOM,unknown,0.6084454,False,False,False,False
+BBVA México,random_uber-com_20251129T170129.png,RANDOM,unknown,0.60829395,False,False,False,False
+BBVA México,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.60827786,False,False,False,False
+BBVA México,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.60817355,False,False,False,False
+BBVA México,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.60804147,False,False,False,False
+BBVA México,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.6078431,False,False,False,False
+BBVA México,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.6078018,False,False,False,False
+BBVA México,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.6077452,False,False,False,False
+BBVA México,random_qq-com_20251129T162834.png,RANDOM,unknown,0.6071193,False,False,False,False
+BBVA México,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.60662884,False,False,False,False
+BBVA México,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.60600466,False,False,False,False
+BBVA México,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.6059327,False,False,False,False
+BBVA México,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.60582197,False,False,False,False
+BBVA México,random_linode-com_20251129T173059.png,RANDOM,unknown,0.6058203,False,False,False,False
+BBVA México,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.6055193,False,False,False,False
+BBVA México,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.6053443,False,False,False,False
+BBVA México,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.6044316,False,False,False,False
+BBVA México,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.60439414,False,False,False,False
+BBVA México,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.6043893,False,False,False,False
+BBVA México,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.60438013,False,False,False,False
+BBVA México,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.60430026,False,False,False,False
+BBVA México,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.6036848,False,False,False,False
+BBVA México,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.6036595,False,False,False,False
+BBVA México,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.6034986,False,False,False,False
+BBVA México,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.60340595,False,False,False,False
+BBVA México,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.6031405,False,False,False,False
+BBVA México,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.6030344,False,False,False,False
+BBVA México,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.6030306,False,False,False,False
+BBVA México,random_bol-com_20251129T174941.png,RANDOM,unknown,0.6029327,False,False,False,False
+BBVA México,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.6028366,False,False,False,False
+BBVA México,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.60238314,False,False,False,False
+BBVA México,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.6022023,False,False,False,False
+BBVA México,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.602027,False,False,False,False
+BBVA México,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.60192055,False,False,False,False
+BBVA México,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.6017722,False,False,False,False
+BBVA México,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.60146964,False,False,False,False
+BBVA México,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.6014365,False,False,False,False
+BBVA México,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.6013552,False,False,False,False
+BBVA México,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.6011515,False,False,False,False
+BBVA México,random_miui-com_20251129T163719.png,RANDOM,unknown,0.60084933,False,False,False,False
+BBVA México,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.60076857,False,False,False,False
+BBVA México,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.6007409,False,False,False,False
+BBVA México,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.6004889,False,False,False,False
+BBVA México,random_target-com_20251129T171437.png,RANDOM,unknown,0.6004091,False,False,False,False
+BBVA México,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.60031676,False,False,False,False
+BBVA México,random_github-io_20251129T163235.png,RANDOM,unknown,0.6001804,False,False,False,False
+BBVA México,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.59994835,False,False,False,False
+BBVA México,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.59960556,False,False,False,False
+BBVA México,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.5993643,False,False,False,False
+BBVA México,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.5993305,False,False,False,False
+BBVA México,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.59927016,False,False,False,False
+BBVA México,random_t-me_20251129T163150.png,RANDOM,unknown,0.59923416,False,False,False,False
+BBVA México,random_media-net_20251129T164538.png,RANDOM,unknown,0.59901917,False,False,False,False
+BBVA México,random_vg-no_20251129T180754.png,RANDOM,unknown,0.5989406,False,False,False,False
+BBVA México,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.5986505,False,False,False,False
+BBVA México,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.5986197,False,False,False,False
+BBVA México,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.598521,False,False,False,False
+BBVA México,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.5983329,False,False,False,False
+BBVA México,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.5983137,False,False,False,False
+BBVA México,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.5980132,False,False,False,False
+BBVA México,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.5978829,False,False,False,False
+BBVA México,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.59745777,False,False,False,False
+BBVA México,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.5960035,False,False,False,False
+BBVA México,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.5957661,False,False,False,False
+BBVA México,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.5957098,False,False,False,False
+BBVA México,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.5956059,False,False,False,False
+BBVA México,random_example-com_20251129T163930.png,RANDOM,unknown,0.5952206,False,False,False,False
+BBVA México,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5947806,False,False,False,False
+BBVA México,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5945002,False,False,False,False
+BBVA México,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.5941752,False,False,False,False
+BBVA México,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.59387016,False,False,False,False
+BBVA México,random_t-co_20251129T163912.png,RANDOM,unknown,0.59368694,False,False,False,False
+BBVA México,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.5935434,False,False,False,False
+BBVA México,random_office365-com_20251129T162902.png,RANDOM,unknown,0.5933963,False,False,False,False
+BBVA México,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.5928127,False,False,False,False
+BBVA México,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.5927427,False,False,False,False
+BBVA México,random_f5-com_20251129T163706.png,RANDOM,unknown,0.5927421,False,False,False,False
+BBVA México,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.59273094,False,False,False,False
+BBVA México,random_aol-com_20251129T170152.png,RANDOM,unknown,0.59257376,False,False,False,False
+BBVA México,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.5920919,False,False,False,False
+BBVA México,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.59195685,False,False,False,False
+BBVA México,random_as-com_20251129T175716.png,RANDOM,unknown,0.59165657,False,False,False,False
+BBVA México,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.59144074,False,False,False,False
+BBVA México,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.5906451,False,False,False,False
+BBVA México,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.5906388,False,False,False,False
+BBVA México,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.5904758,False,False,False,False
+BBVA México,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.5902306,False,False,False,False
+BBVA México,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.5894559,False,False,False,False
+BBVA México,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.58916104,False,False,False,False
+BBVA México,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.5891312,False,False,False,False
+BBVA México,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.58867073,False,False,False,False
+BBVA México,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5886234,False,False,False,False
+BBVA México,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.58771425,False,False,False,False
+BBVA México,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.5875454,False,False,False,False
+BBVA México,random_binance-com_20251129T174935.png,RANDOM,unknown,0.58668584,False,False,False,False
+BBVA México,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.585512,False,False,False,False
+BBVA México,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.5853268,False,False,False,False
+BBVA México,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.5849875,False,False,False,False
+BBVA México,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.58497775,False,False,False,False
+BBVA México,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.58495045,False,False,False,False
+BBVA México,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.5845051,False,False,False,False
+BBVA México,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.5844409,False,False,False,False
+BBVA México,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.58391035,False,False,False,False
+BBVA México,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.5838474,False,False,False,False
+BBVA México,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.58368635,False,False,False,False
+BBVA México,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.583617,False,False,False,False
+BBVA México,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.58361286,False,False,False,False
+BBVA México,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.58344454,False,False,False,False
+BBVA México,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.58342546,False,False,False,False
+BBVA México,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.5824738,False,False,False,False
+BBVA México,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.5821332,False,False,False,False
+BBVA México,random_forter-com_20251129T164642.png,RANDOM,unknown,0.581884,False,False,False,False
+BBVA México,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.5809531,False,False,False,False
+BBVA México,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.58082616,False,False,False,False
+BBVA México,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.5806947,False,False,False,False
+BBVA México,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.58033764,False,False,False,False
+BBVA México,random_skype-com_20251129T162718.png,RANDOM,unknown,0.5802291,False,False,False,False
+BBVA México,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.58011496,False,False,False,False
+BBVA México,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.5800534,False,False,False,False
+BBVA México,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.57966644,False,False,False,False
+BBVA México,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.57940054,False,False,False,False
+BBVA México,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.5793462,False,False,False,False
+BBVA México,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.579287,False,False,False,False
+BBVA México,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.5792737,False,False,False,False
+BBVA México,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.579131,False,False,False,False
+BBVA México,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.5790374,False,False,False,False
+BBVA México,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.5786334,False,False,False,False
+BBVA México,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.57850146,False,False,False,False
+BBVA México,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.578336,False,False,False,False
+BBVA México,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.57831854,False,False,False,False
+BBVA México,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.57767564,False,False,False,False
+BBVA México,random_character-ai_20251129T174433.png,RANDOM,unknown,0.5776329,False,False,False,False
+BBVA México,random_android-com_20251129T163812.png,RANDOM,unknown,0.57756764,False,False,False,False
+BBVA México,random_php-net_20251129T164521.png,RANDOM,unknown,0.57753474,False,False,False,False
+BBVA México,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5772518,False,False,False,False
+BBVA México,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.577248,False,False,False,False
+BBVA México,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.57720643,False,False,False,False
+BBVA México,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.57715696,False,False,False,False
+BBVA México,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.5769717,False,False,False,False
+BBVA México,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.57692295,False,False,False,False
+BBVA México,random_otto-de_20251129T174331.png,RANDOM,unknown,0.57680666,False,False,False,False
+BBVA México,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.57654285,False,False,False,False
+BBVA México,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.5762921,False,False,False,False
+BBVA México,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.5757766,False,False,False,False
+BBVA México,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.5757493,False,False,False,False
+BBVA México,random_wired-com_20251129T170401.png,RANDOM,unknown,0.57561904,False,False,False,False
+BBVA México,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.5753955,False,False,False,False
+BBVA México,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.57533,False,False,False,False
+BBVA México,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.5748755,False,False,False,False
+BBVA México,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.57478696,False,False,False,False
+BBVA México,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.5744189,False,False,False,False
+BBVA México,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.57433033,False,False,False,False
+BBVA México,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.57384276,False,False,False,False
+BBVA México,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.573732,False,False,False,False
+BBVA México,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.5737064,False,False,False,False
+BBVA México,random_python-org_20251129T173738.png,RANDOM,unknown,0.5736676,False,False,False,False
+BBVA México,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.57354224,False,False,False,False
+BBVA México,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.573473,False,False,False,False
+BBVA México,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.5733068,False,False,False,False
+BBVA México,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.57325554,False,False,False,False
+BBVA México,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.5726874,False,False,False,False
+BBVA México,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.572546,False,False,False,False
+BBVA México,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.57253444,False,False,False,False
+BBVA México,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.572351,False,False,False,False
+BBVA México,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.57157695,False,False,False,False
+BBVA México,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.5715494,False,False,False,False
+BBVA México,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.57154405,False,False,False,False
+BBVA México,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.57152456,False,False,False,False
+BBVA México,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.57140595,False,False,False,False
+BBVA México,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.5710734,False,False,False,False
+BBVA México,random_name-com_20251129T171101.png,RANDOM,unknown,0.5710234,False,False,False,False
+BBVA México,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.5708209,False,False,False,False
+BBVA México,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.570793,False,False,False,False
+BBVA México,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5706687,False,False,False,False
+BBVA México,random_ft-com_20251129T170724.png,RANDOM,unknown,0.57015973,False,False,False,False
+BBVA México,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.5699142,False,False,False,False
+BBVA México,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.56944406,False,False,False,False
+BBVA México,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.56882983,False,False,False,False
+BBVA México,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.56861293,False,False,False,False
+BBVA México,random_apple-com_20251129T162353.png,RANDOM,unknown,0.56848633,False,False,False,False
+BBVA México,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.5683706,False,False,False,False
+BBVA México,random_office-com_20251129T162404.png,RANDOM,unknown,0.5681924,False,False,False,False
+BBVA México,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.56806815,False,False,False,False
+BBVA México,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.56789243,False,False,False,False
+BBVA México,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.5675218,False,False,False,False
+BBVA México,random_braze-com_20251129T171458.png,RANDOM,unknown,0.56710297,False,False,False,False
+BBVA México,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.56703347,False,False,False,False
+BBVA México,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.5668212,False,False,False,False
+BBVA México,random_360-cn_20251129T173141.png,RANDOM,unknown,0.56667,False,False,False,False
+BBVA México,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.5663419,False,False,False,False
+BBVA México,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.5662412,False,False,False,False
+BBVA México,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.56622213,False,False,False,False
+BBVA México,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.56619316,False,False,False,False
+BBVA México,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.5656575,False,False,False,False
+BBVA México,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.5655848,False,False,False,False
+BBVA México,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.5650369,False,False,False,False
+BBVA México,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.56409484,False,False,False,False
+BBVA México,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.5640237,False,False,False,False
+BBVA México,random_medium-com_20251129T163655.png,RANDOM,unknown,0.5633862,False,False,False,False
+BBVA México,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.5633501,False,False,False,False
+BBVA México,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.5631489,False,False,False,False
+BBVA México,random_doi-org_20251129T164112.png,RANDOM,unknown,0.56310433,False,False,False,False
+BBVA México,random_trello-com_20251129T180351.png,RANDOM,unknown,0.56292963,False,False,False,False
+BBVA México,random_uk-com_20251129T171638.png,RANDOM,unknown,0.562744,False,False,False,False
+BBVA México,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.5626781,False,False,False,False
+BBVA México,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.5624347,False,False,False,False
+BBVA México,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.5624052,False,False,False,False
+BBVA México,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.56164277,False,False,False,False
+BBVA México,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.5613828,False,False,False,False
+BBVA México,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.5613307,False,False,False,False
+BBVA México,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.56118995,False,False,False,False
+BBVA México,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.5606395,False,False,False,False
+BBVA México,random_shein-com_20251129T170736.png,RANDOM,unknown,0.5606226,False,False,False,False
+BBVA México,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.5604634,False,False,False,False
+BBVA México,random_free-fr_20251129T171241.png,RANDOM,unknown,0.56015843,False,False,False,False
+BBVA México,random_clever-com_20251129T173500.png,RANDOM,unknown,0.560096,False,False,False,False
+BBVA México,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.5600308,False,False,False,False
+BBVA México,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.55985177,False,False,False,False
+BBVA México,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.55980635,False,False,False,False
+BBVA México,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.5593567,False,False,False,False
+BBVA México,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.5593115,False,False,False,False
+BBVA México,random_docker-com_20251129T170827.png,RANDOM,unknown,0.5588414,False,False,False,False
+BBVA México,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.5585083,False,False,False,False
+BBVA México,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.5584951,False,False,False,False
+BBVA México,random_time-com_20251129T170629.png,RANDOM,unknown,0.5583989,False,False,False,False
+BBVA México,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.5573151,False,False,False,False
+BBVA México,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.5569158,False,False,False,False
+BBVA México,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.5566683,False,False,False,False
+BBVA México,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.55627924,False,False,False,False
+BBVA México,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.55598706,False,False,False,False
+BBVA México,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.5558879,False,False,False,False
+BBVA México,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.5555884,False,False,False,False
+BBVA México,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.5554298,False,False,False,False
+BBVA México,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.5553092,False,False,False,False
+BBVA México,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.5545952,False,False,False,False
+BBVA México,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.55453724,False,False,False,False
+BBVA México,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.5543873,False,False,False,False
+BBVA México,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.5540439,False,False,False,False
+BBVA México,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.5539195,False,False,False,False
+BBVA México,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.5538273,False,False,False,False
+BBVA México,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.5536615,False,False,False,False
+BBVA México,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.5536293,False,False,False,False
+BBVA México,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.55300754,False,False,False,False
+BBVA México,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.55284536,False,False,False,False
+BBVA México,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.55277926,False,False,False,False
+BBVA México,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.55272824,False,False,False,False
+BBVA México,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.5525528,False,False,False,False
+BBVA México,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.5522476,False,False,False,False
+BBVA México,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.55188465,False,False,False,False
+BBVA México,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.5514183,False,False,False,False
+BBVA México,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.55140597,False,False,False,False
+BBVA México,random_india-com_20251129T180557.png,RANDOM,unknown,0.5510643,False,False,False,False
+BBVA México,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.5508688,False,False,False,False
+BBVA México,random_genius-com_20251129T174000.png,RANDOM,unknown,0.55063057,False,False,False,False
+BBVA México,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.55022806,False,False,False,False
+BBVA México,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.5501896,False,False,False,False
+BBVA México,random_espn-com_20251129T165100.png,RANDOM,unknown,0.54950166,False,False,False,False
+BBVA México,random_openai-com_20251129T164132.png,RANDOM,unknown,0.5493123,False,False,False,False
+BBVA México,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.54908323,False,False,False,False
+BBVA México,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.5486745,False,False,False,False
+BBVA México,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.54861593,False,False,False,False
+BBVA México,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.5485745,False,False,False,False
+BBVA México,random_state-gov_20251129T174508.png,RANDOM,unknown,0.5484169,False,False,False,False
+BBVA México,random_branch-io_20251129T171524.png,RANDOM,unknown,0.5474879,False,False,False,False
+BBVA México,random_singular-net_20251129T175446.png,RANDOM,unknown,0.54737496,False,False,False,False
+BBVA México,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.54627526,False,False,False,False
+BBVA México,random_notion-so_20251129T180340.png,RANDOM,unknown,0.545563,False,False,False,False
+BBVA México,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.5445114,False,False,False,False
+BBVA México,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.5441694,False,False,False,False
+BBVA México,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.5429652,False,False,False,False
+BBVA México,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.542964,False,False,False,False
+BBVA México,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.54292345,False,False,False,False
+BBVA México,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.5425477,False,False,False,False
+BBVA México,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.5412531,False,False,False,False
+BBVA México,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.54097396,False,False,False,False
+BBVA México,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.5409111,False,False,False,False
+BBVA México,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.54086906,False,False,False,False
+BBVA México,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.54055613,False,False,False,False
+BBVA México,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.5401781,False,False,False,False
+BBVA México,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.53945106,False,False,False,False
+BBVA México,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.53918606,False,False,False,False
+BBVA México,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.5389199,False,False,False,False
+BBVA México,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.53835315,False,False,False,False
+BBVA México,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.53825176,False,False,False,False
+BBVA México,random_nic-io_20251129T173852.png,RANDOM,unknown,0.5380742,False,False,False,False
+BBVA México,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.537974,False,False,False,False
+BBVA México,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.5379295,False,False,False,False
+BBVA México,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.5375864,False,False,False,False
+BBVA México,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.5373534,False,False,False,False
+BBVA México,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.5362518,False,False,False,False
+BBVA México,random_youku-com_20251129T174026.png,RANDOM,unknown,0.5357959,False,False,False,False
+BBVA México,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.5355232,False,False,False,False
+BBVA México,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.5345306,False,False,False,False
+BBVA México,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.53422475,False,False,False,False
+BBVA México,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.5339522,False,False,False,False
+BBVA México,random_chess-com_20251129T173919.png,RANDOM,unknown,0.5338202,False,False,False,False
+BBVA México,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.5326308,False,False,False,False
+BBVA México,random_wps-com_20251129T174320.png,RANDOM,unknown,0.5316427,False,False,False,False
+BBVA México,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.53155136,False,False,False,False
+BBVA México,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.5307993,False,False,False,False
+BBVA México,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.5307645,False,False,False,False
+BBVA México,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.53007114,False,False,False,False
+BBVA México,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.52992094,False,False,False,False
+BBVA México,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.5295607,False,False,False,False
+BBVA México,random_go-com_20251129T164609.png,RANDOM,unknown,0.52875006,False,False,False,False
+BBVA México,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.52874,False,False,False,False
+BBVA México,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.5283974,False,False,False,False
+BBVA México,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.5279692,False,False,False,False
+BBVA México,random_roku-com_20251129T164128.png,RANDOM,unknown,0.5276983,False,False,False,False
+BBVA México,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.52741027,False,False,False,False
+BBVA México,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.52711314,False,False,False,False
+BBVA México,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.526981,False,False,False,False
+BBVA México,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.526795,False,False,False,False
+BBVA México,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.52673954,False,False,False,False
+BBVA México,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.52604365,False,False,False,False
+BBVA México,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.5258425,False,False,False,False
+BBVA México,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.5256809,False,False,False,False
+BBVA México,random_github-com_20251129T162456.png,RANDOM,unknown,0.52529806,False,False,False,False
+BBVA México,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.5251695,False,False,False,False
+BBVA México,random_plos-org_20251129T180524.png,RANDOM,unknown,0.5248209,False,False,False,False
+BBVA México,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.5240795,False,False,False,False
+BBVA México,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.52392733,False,False,False,False
+BBVA México,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.5235852,False,False,False,False
+BBVA México,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.523106,False,False,False,False
+BBVA México,random_bing-com_20251129T162459.png,RANDOM,unknown,0.52266634,False,False,False,False
+BBVA México,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.5224752,False,False,False,False
+BBVA México,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.5224666,False,False,False,False
+BBVA México,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.5224359,False,False,False,False
+BBVA México,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.5209051,False,False,False,False
+BBVA México,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.52088183,False,False,False,False
+BBVA México,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.52069485,False,False,False,False
+BBVA México,random_npr-org_20251129T170056.png,RANDOM,unknown,0.5201621,False,False,False,False
+BBVA México,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.5198195,False,False,False,False
+BBVA México,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.5191512,False,False,False,False
+BBVA México,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.51864624,False,False,False,False
+BBVA México,random_debian-org_20251129T164620.png,RANDOM,unknown,0.5182271,False,False,False,False
+BBVA México,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.51791716,False,False,False,False
+BBVA México,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.5176476,False,False,False,False
+BBVA México,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.5170637,False,False,False,False
+BBVA México,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.5162859,False,False,False,False
+BBVA México,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.5158407,False,False,False,False
+BBVA México,random_fast-com_20251129T171226.png,RANDOM,unknown,0.51554316,False,False,False,False
+BBVA México,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.51509815,False,False,False,False
+BBVA México,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.5146999,False,False,False,False
+BBVA México,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.513355,False,False,False,False
+BBVA México,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.5130561,False,False,False,False
+BBVA México,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.51293045,False,False,False,False
+BBVA México,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.512892,False,False,False,False
+BBVA México,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.5122708,False,False,False,False
+BBVA México,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.5120294,False,False,False,False
+BBVA México,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.5117023,False,False,False,False
+BBVA México,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.50999606,False,False,False,False
+BBVA México,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.5095427,False,False,False,False
+BBVA México,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.5094013,False,False,False,False
+BBVA México,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.50933325,False,False,False,False
+BBVA México,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.50809294,False,False,False,False
+BBVA México,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.5076939,False,False,False,False
+BBVA México,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.5069076,False,False,False,False
+BBVA México,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.5068476,False,False,False,False
+BBVA México,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.50259304,False,False,False,False
+BBVA México,random_overload-su_20251129T170747.png,RANDOM,unknown,0.4993205,False,False,False,False
+BBVA México,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.49922252,False,False,False,False
+BBVA México,random_azure-com_20251129T162438.png,RANDOM,unknown,0.49893737,False,False,False,False
+BBVA México,random_asus-com_20251129T172748.png,RANDOM,unknown,0.498624,False,False,False,False
+BBVA México,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.49861008,False,False,False,False
+BBVA México,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.498579,False,False,False,False
+BBVA México,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.49816838,False,False,False,False
+BBVA México,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.49797776,False,False,False,False
+BBVA México,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.4972617,False,False,False,False
+BBVA México,random_line-me_20251129T170140.png,RANDOM,unknown,0.49607196,False,False,False,False
+BBVA México,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.4955937,False,False,False,False
+BBVA México,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.49545652,False,False,False,False
+BBVA México,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.4934162,False,False,False,False
+BBVA México,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.49267453,False,False,False,False
+BBVA México,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.49266085,False,False,False,False
+BBVA México,random_agora-io_20251129T175439.png,RANDOM,unknown,0.49237472,False,False,False,False
+BBVA México,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.4922129,False,False,False,False
+BBVA México,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.48995483,False,False,False,False
+BBVA México,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.4896186,False,False,False,False
+BBVA México,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.4896094,False,False,False,False
+BBVA México,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.4857934,False,False,False,False
+BBVA México,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.4850245,False,False,False,False
+BBVA México,random_apache-org_20251129T163228.png,RANDOM,unknown,0.4847978,False,False,False,False
+BBVA México,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.48408902,False,False,False,False
+BBVA México,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.4828715,False,False,False,False
+BBVA México,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.48216754,False,False,False,False
+BBVA México,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.4819121,False,False,False,False
+BBVA México,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.4815906,False,False,False,False
+BBVA México,random_archive-org_20251129T163406.png,RANDOM,unknown,0.47936067,False,False,False,False
+BBVA México,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.47907007,False,False,False,False
+BBVA México,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.4780718,False,False,False,False
+BBVA México,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.47732967,False,False,False,False
+BBVA México,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.47564447,False,False,False,False
+BBVA México,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.4755954,False,False,False,False
+BBVA México,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.47437623,False,False,False,False
+BBVA México,random_ted-com_20251129T172015.png,RANDOM,unknown,0.47375825,False,False,False,False
+BBVA México,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.47330305,False,False,False,False
+BBVA México,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.4731676,False,False,False,False
+BBVA México,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.4687123,False,False,False,False
+BBVA México,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.46667534,False,False,False,False
+BBVA México,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.46499753,False,False,False,False
+BBVA México,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.46388477,False,False,False,False
+BBVA México,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.45504808,False,False,False,False
+BBVA México,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.45185593,False,False,False,False
+BBVA México,random_people-com_20251129T172859.png,RANDOM,unknown,0.44524536,False,False,False,False
+BBVA México,random_who-int_20251129T164225.png,RANDOM,unknown,0.44493967,False,False,False,False
+BBVA México,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.44048303,False,False,False,False
+BBVA México,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.4392002,False,False,False,False
+BBVA México,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.43468493,False,False,False,False
+BBVA México,random_health-mil_20251129T163619.png,RANDOM,unknown,0.43282616,False,False,False,False
+BBVA México,random_he-net_20251129T172135.png,RANDOM,unknown,0.4298646,False,False,False,False
+BBVA México,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.42881387,False,False,False,False
+BBVA México,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.42500803,False,False,False,False
+BBVA México,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.421319,False,False,False,False
+BBVA México,random_poki-com_20251129T180027.png,RANDOM,unknown,0.41278455,False,False,False,False
+BBVA México,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.39185655,False,False,False,False
+BBVA México,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.32282376,False,False,False,False
+BBVA México,random_threads-com_20251129T174157.png,RANDOM,unknown,0.3159886,False,False,False,False

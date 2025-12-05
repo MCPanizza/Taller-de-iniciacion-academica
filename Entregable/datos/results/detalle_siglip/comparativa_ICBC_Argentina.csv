@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+ICBC Argentina,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,1.0000002,True,True,False,True
+ICBC Argentina,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.93602,True,True,False,False
+ICBC Argentina,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.9329318,True,True,False,False
+ICBC Argentina,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.93142503,True,True,False,False
+ICBC Argentina,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.9216359,True,True,False,False
+ICBC Argentina,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.9145179,True,True,False,False
+ICBC Argentina,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.908105,True,True,False,False
+ICBC Argentina,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.90359795,True,True,False,False
+ICBC Argentina,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.8996898,True,True,False,False
+ICBC Argentina,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.8948716,True,True,False,False
+ICBC Argentina,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.89019847,True,True,False,False
+ICBC Argentina,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8316611,True,False,True,False
+ICBC Argentina,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8291882,True,False,True,False
+ICBC Argentina,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.8277654,True,False,True,False
+ICBC Argentina,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.82625186,True,False,True,False
+ICBC Argentina,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.82293355,True,False,True,False
+ICBC Argentina,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.819425,True,False,True,False
+ICBC Argentina,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.81925493,True,False,True,False
+ICBC Argentina,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.81742316,True,False,True,False
+ICBC Argentina,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8167325,True,False,True,False
+ICBC Argentina,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.8167059,True,False,True,False
+ICBC Argentina,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.8149251,True,False,True,False
+ICBC Argentina,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.81367296,True,False,True,False
+ICBC Argentina,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.8136665,True,False,True,False
+ICBC Argentina,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.813625,True,False,True,False
+ICBC Argentina,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.8134722,True,False,True,False
+ICBC Argentina,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.81302774,True,False,True,False
+ICBC Argentina,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8127701,True,False,True,False
+ICBC Argentina,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8122625,True,False,True,False
+ICBC Argentina,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8120793,True,False,True,False
+ICBC Argentina,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.8112954,True,False,True,False
+ICBC Argentina,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.8110712,True,False,True,False
+ICBC Argentina,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.8105427,True,False,True,False
+ICBC Argentina,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.81047416,True,False,True,False
+ICBC Argentina,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.8104707,True,False,True,False
+ICBC Argentina,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8100032,True,False,True,False
+ICBC Argentina,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.80997443,True,False,True,False
+ICBC Argentina,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.80991936,True,False,True,False
+ICBC Argentina,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.80944884,True,False,True,False
+ICBC Argentina,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.8094381,True,False,True,False
+ICBC Argentina,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8086077,True,False,True,False
+ICBC Argentina,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8075967,True,False,True,False
+ICBC Argentina,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8074206,True,False,True,False
+ICBC Argentina,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.80716586,True,False,True,False
+ICBC Argentina,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.8069483,True,False,True,False
+ICBC Argentina,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.8063861,True,False,True,False
+ICBC Argentina,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.8063712,True,False,True,False
+ICBC Argentina,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.80633676,True,False,True,False
+ICBC Argentina,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8061819,True,False,True,False
+ICBC Argentina,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.8058179,True,False,True,False
+ICBC Argentina,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8049333,True,False,True,False
+ICBC Argentina,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8047861,True,False,True,False
+ICBC Argentina,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8036438,True,False,True,False
+ICBC Argentina,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.8030187,True,False,True,False
+ICBC Argentina,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.8028815,True,False,True,False
+ICBC Argentina,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.8025143,True,False,True,False
+ICBC Argentina,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.80082357,True,False,True,False
+ICBC Argentina,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.8006798,True,False,True,False
+ICBC Argentina,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.80050075,True,False,True,False
+ICBC Argentina,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.80030274,True,False,True,False
+ICBC Argentina,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8003012,True,False,True,False
+ICBC Argentina,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.800153,True,False,True,False
+ICBC Argentina,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.7998726,False,False,False,False
+ICBC Argentina,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7998233,False,False,False,False
+ICBC Argentina,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7993067,False,False,False,False
+ICBC Argentina,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.7979063,False,False,False,False
+ICBC Argentina,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.796667,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.79646695,False,False,False,False
+ICBC Argentina,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7963828,False,False,False,False
+ICBC Argentina,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7963388,False,False,False,False
+ICBC Argentina,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.7962822,False,False,False,False
+ICBC Argentina,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.7956899,False,False,False,False
+ICBC Argentina,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.79562545,False,False,False,False
+ICBC Argentina,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.79533476,False,False,False,False
+ICBC Argentina,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.7951507,False,False,False,False
+ICBC Argentina,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.7949898,False,False,False,False
+ICBC Argentina,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.79477966,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.79424167,False,False,False,False
+ICBC Argentina,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.7935338,False,False,False,False
+ICBC Argentina,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.79353267,False,False,False,False
+ICBC Argentina,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7935226,False,False,False,False
+ICBC Argentina,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7930454,False,False,False,False
+ICBC Argentina,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.79257655,False,False,False,False
+ICBC Argentina,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.79195106,False,False,False,False
+ICBC Argentina,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.79159284,False,False,False,False
+ICBC Argentina,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.7907585,False,False,False,False
+ICBC Argentina,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7903705,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.79003346,False,False,False,False
+ICBC Argentina,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.7899281,False,False,False,False
+ICBC Argentina,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.7896199,False,False,False,False
+ICBC Argentina,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7894634,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7891534,False,False,False,False
+ICBC Argentina,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.78866994,False,False,False,False
+ICBC Argentina,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.7883463,False,False,False,False
+ICBC Argentina,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.7880993,False,False,False,False
+ICBC Argentina,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.786847,False,False,False,False
+ICBC Argentina,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.7866901,False,False,False,False
+ICBC Argentina,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.78588176,False,False,False,False
+ICBC Argentina,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.785787,False,False,False,False
+ICBC Argentina,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.78576416,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.78568953,False,False,False,False
+ICBC Argentina,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7849711,False,False,False,False
+ICBC Argentina,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.78472793,False,False,False,False
+ICBC Argentina,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.7844655,False,False,False,False
+ICBC Argentina,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.7842879,False,False,False,False
+ICBC Argentina,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7835492,False,False,False,False
+ICBC Argentina,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.78321254,False,False,False,False
+ICBC Argentina,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.782969,False,False,False,False
+ICBC Argentina,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.78283435,False,False,False,False
+ICBC Argentina,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.78138757,False,False,False,False
+ICBC Argentina,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.780931,False,False,False,False
+ICBC Argentina,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.78085244,False,False,False,False
+ICBC Argentina,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.78080606,False,False,False,False
+ICBC Argentina,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.78076196,False,False,False,False
+ICBC Argentina,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.7805061,False,False,False,False
+ICBC Argentina,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7803261,False,False,False,False
+ICBC Argentina,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.77977103,False,False,False,False
+ICBC Argentina,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7797048,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.77910906,False,False,False,False
+ICBC Argentina,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.77881414,False,False,False,False
+ICBC Argentina,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.77870405,False,False,False,False
+ICBC Argentina,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.77862835,False,False,False,False
+ICBC Argentina,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.7778772,False,False,False,False
+ICBC Argentina,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.7778601,False,False,False,False
+ICBC Argentina,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.7777355,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7776949,False,False,False,False
+ICBC Argentina,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.7776377,False,False,False,False
+ICBC Argentina,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.77744055,False,False,False,False
+ICBC Argentina,random_google-com_20251129T162253.png,RANDOM,unknown,0.77743113,False,False,False,False
+ICBC Argentina,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.77695453,False,False,False,False
+ICBC Argentina,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.7769176,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7764833,False,False,False,False
+ICBC Argentina,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7763262,False,False,False,False
+ICBC Argentina,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7756657,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7754259,False,False,False,False
+ICBC Argentina,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.77534497,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.77511775,False,False,False,False
+ICBC Argentina,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.77461517,False,False,False,False
+ICBC Argentina,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.7743955,False,False,False,False
+ICBC Argentina,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.7743548,False,False,False,False
+ICBC Argentina,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.7736107,False,False,False,False
+ICBC Argentina,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.773368,False,False,False,False
+ICBC Argentina,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.77335554,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7732734,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.77321297,False,False,False,False
+ICBC Argentina,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7731726,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7730976,False,False,False,False
+ICBC Argentina,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.7726308,False,False,False,False
+ICBC Argentina,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.7721324,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7720161,False,False,False,False
+ICBC Argentina,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.77149117,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7714516,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.77142656,False,False,False,False
+ICBC Argentina,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.77132696,False,False,False,False
+ICBC Argentina,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.7710105,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7706511,False,False,False,False
+ICBC Argentina,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.77045393,False,False,False,False
+ICBC Argentina,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.77045375,False,False,False,False
+ICBC Argentina,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7704064,False,False,False,False
+ICBC Argentina,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.76986957,False,False,False,False
+ICBC Argentina,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.7693763,False,False,False,False
+ICBC Argentina,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.76935273,False,False,False,False
+ICBC Argentina,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.76917404,False,False,False,False
+ICBC Argentina,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.76890963,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7688806,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.76887596,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.76875186,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.76852715,False,False,False,False
+ICBC Argentina,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.76773983,False,False,False,False
+ICBC Argentina,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7674804,False,False,False,False
+ICBC Argentina,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.7673007,False,False,False,False
+ICBC Argentina,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7672635,False,False,False,False
+ICBC Argentina,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.76695967,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.76670265,False,False,False,False
+ICBC Argentina,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7665546,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7665044,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7664437,False,False,False,False
+ICBC Argentina,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.76631844,False,False,False,False
+ICBC Argentina,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.76626784,False,False,False,False
+ICBC Argentina,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.76614565,False,False,False,False
+ICBC Argentina,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.76592416,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.76586205,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7658373,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7657408,False,False,False,False
+ICBC Argentina,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.7655357,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.76549494,False,False,False,False
+ICBC Argentina,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.7653296,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7648919,False,False,False,False
+ICBC Argentina,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7645089,False,False,False,False
+ICBC Argentina,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.7637946,False,False,False,False
+ICBC Argentina,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.763481,False,False,False,False
+ICBC Argentina,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7631986,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7625997,False,False,False,False
+ICBC Argentina,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.7622267,False,False,False,False
+ICBC Argentina,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.76206344,False,False,False,False
+ICBC Argentina,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.76195294,False,False,False,False
+ICBC Argentina,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.7616267,False,False,False,False
+ICBC Argentina,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7615594,False,False,False,False
+ICBC Argentina,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.76147914,False,False,False,False
+ICBC Argentina,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7612355,False,False,False,False
+ICBC Argentina,random_weather-com_20251129T164102.png,RANDOM,unknown,0.7611796,False,False,False,False
+ICBC Argentina,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.76107675,False,False,False,False
+ICBC Argentina,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.7606522,False,False,False,False
+ICBC Argentina,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7604645,False,False,False,False
+ICBC Argentina,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.7603015,False,False,False,False
+ICBC Argentina,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.76019335,False,False,False,False
+ICBC Argentina,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7599944,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.75993717,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.75986695,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.75982916,False,False,False,False
+ICBC Argentina,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7598126,False,False,False,False
+ICBC Argentina,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.7597972,False,False,False,False
+ICBC Argentina,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7597404,False,False,False,False
+ICBC Argentina,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.7596019,False,False,False,False
+ICBC Argentina,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7595886,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.7595583,False,False,False,False
+ICBC Argentina,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.75935733,False,False,False,False
+ICBC Argentina,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.7593463,False,False,False,False
+ICBC Argentina,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.759305,False,False,False,False
+ICBC Argentina,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.7592387,False,False,False,False
+ICBC Argentina,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.75914836,False,False,False,False
+ICBC Argentina,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7590834,False,False,False,False
+ICBC Argentina,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7589363,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.75888646,False,False,False,False
+ICBC Argentina,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7586822,False,False,False,False
+ICBC Argentina,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.75864863,False,False,False,False
+ICBC Argentina,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7586202,False,False,False,False
+ICBC Argentina,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7583835,False,False,False,False
+ICBC Argentina,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.75829816,False,False,False,False
+ICBC Argentina,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.75820446,False,False,False,False
+ICBC Argentina,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.7579737,False,False,False,False
+ICBC Argentina,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.75745165,False,False,False,False
+ICBC Argentina,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7574487,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7574434,False,False,False,False
+ICBC Argentina,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7573849,False,False,False,False
+ICBC Argentina,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7571281,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7570355,False,False,False,False
+ICBC Argentina,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7570252,False,False,False,False
+ICBC Argentina,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.75702494,False,False,False,False
+ICBC Argentina,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.7570064,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.7569288,False,False,False,False
+ICBC Argentina,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.7568185,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.75670135,False,False,False,False
+ICBC Argentina,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.75639045,False,False,False,False
+ICBC Argentina,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.7561294,False,False,False,False
+ICBC Argentina,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.75602937,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7559205,False,False,False,False
+ICBC Argentina,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7553557,False,False,False,False
+ICBC Argentina,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.75505114,False,False,False,False
+ICBC Argentina,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.75487614,False,False,False,False
+ICBC Argentina,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.7547544,False,False,False,False
+ICBC Argentina,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.75446135,False,False,False,False
+ICBC Argentina,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.7543766,False,False,False,False
+ICBC Argentina,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.7542869,False,False,False,False
+ICBC Argentina,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.7542447,False,False,False,False
+ICBC Argentina,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.75419825,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7539672,False,False,False,False
+ICBC Argentina,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.75393635,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7539103,False,False,False,False
+ICBC Argentina,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7538825,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.75374544,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.7536741,False,False,False,False
+ICBC Argentina,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.75352085,False,False,False,False
+ICBC Argentina,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.75324756,False,False,False,False
+ICBC Argentina,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.75318706,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.753126,False,False,False,False
+ICBC Argentina,random_msn-com_20251129T162722.png,RANDOM,unknown,0.7530741,False,False,False,False
+ICBC Argentina,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.75301737,False,False,False,False
+ICBC Argentina,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.75264096,False,False,False,False
+ICBC Argentina,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7525741,False,False,False,False
+ICBC Argentina,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7517319,False,False,False,False
+ICBC Argentina,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.751649,False,False,False,False
+ICBC Argentina,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7516358,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7512766,False,False,False,False
+ICBC Argentina,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7510315,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.75092185,False,False,False,False
+ICBC Argentina,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.7508109,False,False,False,False
+ICBC Argentina,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.7498117,False,False,False,False
+ICBC Argentina,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.74956214,False,False,False,False
+ICBC Argentina,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.7492824,False,False,False,False
+ICBC Argentina,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.74911326,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.74904644,False,False,False,False
+ICBC Argentina,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.74897337,False,False,False,False
+ICBC Argentina,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.74895483,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.74856585,False,False,False,False
+ICBC Argentina,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.74853307,False,False,False,False
+ICBC Argentina,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7484884,False,False,False,False
+ICBC Argentina,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.7481572,False,False,False,False
+ICBC Argentina,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.74799883,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.74793017,False,False,False,False
+ICBC Argentina,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.7478877,False,False,False,False
+ICBC Argentina,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.7476059,False,False,False,False
+ICBC Argentina,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.7473693,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7473075,False,False,False,False
+ICBC Argentina,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.7472627,False,False,False,False
+ICBC Argentina,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7472011,False,False,False,False
+ICBC Argentina,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7471278,False,False,False,False
+ICBC Argentina,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.74703085,False,False,False,False
+ICBC Argentina,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.7470051,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.74674785,False,False,False,False
+ICBC Argentina,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.74658316,False,False,False,False
+ICBC Argentina,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.7464045,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7463573,False,False,False,False
+ICBC Argentina,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.7461864,False,False,False,False
+ICBC Argentina,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.7456968,False,False,False,False
+ICBC Argentina,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.745383,False,False,False,False
+ICBC Argentina,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.74520886,False,False,False,False
+ICBC Argentina,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.7451827,False,False,False,False
+ICBC Argentina,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.74515146,False,False,False,False
+ICBC Argentina,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.7447221,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7445437,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7444832,False,False,False,False
+ICBC Argentina,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.74435854,False,False,False,False
+ICBC Argentina,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.74419594,False,False,False,False
+ICBC Argentina,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.7439143,False,False,False,False
+ICBC Argentina,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7434556,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.74345255,False,False,False,False
+ICBC Argentina,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.7433996,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7433146,False,False,False,False
+ICBC Argentina,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.7427139,False,False,False,False
+ICBC Argentina,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.74265665,False,False,False,False
+ICBC Argentina,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.7420132,False,False,False,False
+ICBC Argentina,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.7418047,False,False,False,False
+ICBC Argentina,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7409406,False,False,False,False
+ICBC Argentina,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.74088806,False,False,False,False
+ICBC Argentina,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.74072963,False,False,False,False
+ICBC Argentina,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.74069667,False,False,False,False
+ICBC Argentina,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.74026823,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.74012196,False,False,False,False
+ICBC Argentina,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.73999536,False,False,False,False
+ICBC Argentina,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7393366,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7391912,False,False,False,False
+ICBC Argentina,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.73898894,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.73887616,False,False,False,False
+ICBC Argentina,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.7386073,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7386006,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.73855156,False,False,False,False
+ICBC Argentina,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7374805,False,False,False,False
+ICBC Argentina,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7374145,False,False,False,False
+ICBC Argentina,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.7373251,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7371169,False,False,False,False
+ICBC Argentina,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7369711,False,False,False,False
+ICBC Argentina,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.73663175,False,False,False,False
+ICBC Argentina,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7365246,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.73640114,False,False,False,False
+ICBC Argentina,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.73583716,False,False,False,False
+ICBC Argentina,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.7357949,False,False,False,False
+ICBC Argentina,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7356788,False,False,False,False
+ICBC Argentina,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7356487,False,False,False,False
+ICBC Argentina,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.7355133,False,False,False,False
+ICBC Argentina,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.73546565,False,False,False,False
+ICBC Argentina,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7354034,False,False,False,False
+ICBC Argentina,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.7350655,False,False,False,False
+ICBC Argentina,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7348161,False,False,False,False
+ICBC Argentina,random_temu-com_20251129T165219.png,RANDOM,unknown,0.7341935,False,False,False,False
+ICBC Argentina,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.73397547,False,False,False,False
+ICBC Argentina,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.73359555,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7328145,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.73245597,False,False,False,False
+ICBC Argentina,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.732267,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.7320503,False,False,False,False
+ICBC Argentina,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7319755,False,False,False,False
+ICBC Argentina,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.73183,False,False,False,False
+ICBC Argentina,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.7317371,False,False,False,False
+ICBC Argentina,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7316385,False,False,False,False
+ICBC Argentina,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.73149693,False,False,False,False
+ICBC Argentina,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.73068583,False,False,False,False
+ICBC Argentina,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.7304849,False,False,False,False
+ICBC Argentina,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.7297946,False,False,False,False
+ICBC Argentina,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7296628,False,False,False,False
+ICBC Argentina,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7293663,False,False,False,False
+ICBC Argentina,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.729289,False,False,False,False
+ICBC Argentina,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.72927886,False,False,False,False
+ICBC Argentina,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.7292623,False,False,False,False
+ICBC Argentina,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.72889733,False,False,False,False
+ICBC Argentina,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7284373,False,False,False,False
+ICBC Argentina,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7282781,False,False,False,False
+ICBC Argentina,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7281033,False,False,False,False
+ICBC Argentina,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.72770107,False,False,False,False
+ICBC Argentina,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.72727823,False,False,False,False
+ICBC Argentina,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.7270586,False,False,False,False
+ICBC Argentina,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.72685003,False,False,False,False
+ICBC Argentina,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.72679925,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.72561437,False,False,False,False
+ICBC Argentina,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.7255869,False,False,False,False
+ICBC Argentina,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7254486,False,False,False,False
+ICBC Argentina,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.72517955,False,False,False,False
+ICBC Argentina,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.72483957,False,False,False,False
+ICBC Argentina,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.72479,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7246567,False,False,False,False
+ICBC Argentina,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.72450805,False,False,False,False
+ICBC Argentina,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7244321,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7241936,False,False,False,False
+ICBC Argentina,random_marca-com_20251129T175532.png,RANDOM,unknown,0.72386205,False,False,False,False
+ICBC Argentina,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.72344023,False,False,False,False
+ICBC Argentina,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.72334903,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7232237,False,False,False,False
+ICBC Argentina,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.72315496,False,False,False,False
+ICBC Argentina,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7228785,False,False,False,False
+ICBC Argentina,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.72242624,False,False,False,False
+ICBC Argentina,random_g-page_20251129T170201.png,RANDOM,unknown,0.7223275,False,False,False,False
+ICBC Argentina,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.7217712,False,False,False,False
+ICBC Argentina,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7216469,False,False,False,False
+ICBC Argentina,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7216414,False,False,False,False
+ICBC Argentina,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7214999,False,False,False,False
+ICBC Argentina,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.72131157,False,False,False,False
+ICBC Argentina,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.72102267,False,False,False,False
+ICBC Argentina,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7207758,False,False,False,False
+ICBC Argentina,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7185069,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7180952,False,False,False,False
+ICBC Argentina,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.71756035,False,False,False,False
+ICBC Argentina,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.7168602,False,False,False,False
+ICBC Argentina,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.716826,False,False,False,False
+ICBC Argentina,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.71613646,False,False,False,False
+ICBC Argentina,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.71596754,False,False,False,False
+ICBC Argentina,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.7156742,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7155725,False,False,False,False
+ICBC Argentina,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.71552,False,False,False,False
+ICBC Argentina,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.71543336,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7151685,False,False,False,False
+ICBC Argentina,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.71460974,False,False,False,False
+ICBC Argentina,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.7144353,False,False,False,False
+ICBC Argentina,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7139986,False,False,False,False
+ICBC Argentina,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.7132187,False,False,False,False
+ICBC Argentina,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.7132082,False,False,False,False
+ICBC Argentina,random_change-org_20251129T173929.png,RANDOM,unknown,0.71275663,False,False,False,False
+ICBC Argentina,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7125938,False,False,False,False
+ICBC Argentina,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.71231806,False,False,False,False
+ICBC Argentina,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.7118917,False,False,False,False
+ICBC Argentina,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.7118424,False,False,False,False
+ICBC Argentina,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.7112549,False,False,False,False
+ICBC Argentina,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.7108404,False,False,False,False
+ICBC Argentina,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7106703,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.71054524,False,False,False,False
+ICBC Argentina,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.71047586,False,False,False,False
+ICBC Argentina,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.7104347,False,False,False,False
+ICBC Argentina,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.7103604,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.71031046,False,False,False,False
+ICBC Argentina,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.7102329,False,False,False,False
+ICBC Argentina,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.7096542,False,False,False,False
+ICBC Argentina,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.7092714,False,False,False,False
+ICBC Argentina,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.70878506,False,False,False,False
+ICBC Argentina,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.7087635,False,False,False,False
+ICBC Argentina,random_hp-com_20251129T164248.png,RANDOM,unknown,0.7087274,False,False,False,False
+ICBC Argentina,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.70792454,False,False,False,False
+ICBC Argentina,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.70706826,False,False,False,False
+ICBC Argentina,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.7065942,False,False,False,False
+ICBC Argentina,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.70645416,False,False,False,False
+ICBC Argentina,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.70594835,False,False,False,False
+ICBC Argentina,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.70579654,False,False,False,False
+ICBC Argentina,random_focus-de_20251129T175031.png,RANDOM,unknown,0.70534575,False,False,False,False
+ICBC Argentina,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.70529073,False,False,False,False
+ICBC Argentina,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.7047465,False,False,False,False
+ICBC Argentina,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.7045489,False,False,False,False
+ICBC Argentina,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.70450497,False,False,False,False
+ICBC Argentina,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.7044941,False,False,False,False
+ICBC Argentina,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.70422304,False,False,False,False
+ICBC Argentina,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.704048,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7039125,False,False,False,False
+ICBC Argentina,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.70365727,False,False,False,False
+ICBC Argentina,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.70309496,False,False,False,False
+ICBC Argentina,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.70306706,False,False,False,False
+ICBC Argentina,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.7029596,False,False,False,False
+ICBC Argentina,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.7025198,False,False,False,False
+ICBC Argentina,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.7023906,False,False,False,False
+ICBC Argentina,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.70217776,False,False,False,False
+ICBC Argentina,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.7018147,False,False,False,False
+ICBC Argentina,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7017948,False,False,False,False
+ICBC Argentina,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.701589,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7015723,False,False,False,False
+ICBC Argentina,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.7015573,False,False,False,False
+ICBC Argentina,random_avast-com_20251129T164855.png,RANDOM,unknown,0.70111406,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.700178,False,False,False,False
+ICBC Argentina,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.7001537,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7000785,False,False,False,False
+ICBC Argentina,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.700054,False,False,False,False
+ICBC Argentina,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6999749,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6995741,False,False,False,False
+ICBC Argentina,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6993004,False,False,False,False
+ICBC Argentina,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.69896704,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6987142,False,False,False,False
+ICBC Argentina,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.69866765,False,False,False,False
+ICBC Argentina,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.69859314,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6985246,False,False,False,False
+ICBC Argentina,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6977905,False,False,False,False
+ICBC Argentina,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.69763285,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6972518,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6971771,False,False,False,False
+ICBC Argentina,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6966103,False,False,False,False
+ICBC Argentina,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.6947739,False,False,False,False
+ICBC Argentina,random_gov-br_20251129T174615.png,RANDOM,unknown,0.6946856,False,False,False,False
+ICBC Argentina,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.6946856,False,False,False,False
+ICBC Argentina,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.69390374,False,False,False,False
+ICBC Argentina,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.69309014,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6927471,False,False,False,False
+ICBC Argentina,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.6925423,False,False,False,False
+ICBC Argentina,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.692314,False,False,False,False
+ICBC Argentina,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.6918725,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.69080293,False,False,False,False
+ICBC Argentina,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.69073564,False,False,False,False
+ICBC Argentina,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6903329,False,False,False,False
+ICBC Argentina,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.69026893,False,False,False,False
+ICBC Argentina,random_jd-com_20251129T174954.png,RANDOM,unknown,0.69026744,False,False,False,False
+ICBC Argentina,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.6898883,False,False,False,False
+ICBC Argentina,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.68945915,False,False,False,False
+ICBC Argentina,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.68919694,False,False,False,False
+ICBC Argentina,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.6888829,False,False,False,False
+ICBC Argentina,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.68836987,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6879132,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.68759084,False,False,False,False
+ICBC Argentina,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.6875669,False,False,False,False
+ICBC Argentina,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.6867809,False,False,False,False
+ICBC Argentina,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6861936,False,False,False,False
+ICBC Argentina,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.68610054,False,False,False,False
+ICBC Argentina,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.68547285,False,False,False,False
+ICBC Argentina,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.68494844,False,False,False,False
+ICBC Argentina,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.68451214,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.68397224,False,False,False,False
+ICBC Argentina,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6839679,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6836589,False,False,False,False
+ICBC Argentina,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.6829241,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.68265307,False,False,False,False
+ICBC Argentina,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.6825795,False,False,False,False
+ICBC Argentina,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.6824869,False,False,False,False
+ICBC Argentina,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.68203855,False,False,False,False
+ICBC Argentina,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.6816027,False,False,False,False
+ICBC Argentina,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.68160075,False,False,False,False
+ICBC Argentina,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.68150634,False,False,False,False
+ICBC Argentina,random_viber-com_20251129T172210.png,RANDOM,unknown,0.6798627,False,False,False,False
+ICBC Argentina,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.6797172,False,False,False,False
+ICBC Argentina,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.6796003,False,False,False,False
+ICBC Argentina,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.6795915,False,False,False,False
+ICBC Argentina,random_ring-com_20251129T172743.png,RANDOM,unknown,0.6794756,False,False,False,False
+ICBC Argentina,random_naver-com_20251129T164929.png,RANDOM,unknown,0.67937416,False,False,False,False
+ICBC Argentina,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.6785269,False,False,False,False
+ICBC Argentina,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.67841387,False,False,False,False
+ICBC Argentina,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.6781142,False,False,False,False
+ICBC Argentina,random_google-cn_20251129T172939.png,RANDOM,unknown,0.6780131,False,False,False,False
+ICBC Argentina,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.6779392,False,False,False,False
+ICBC Argentina,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.6778713,False,False,False,False
+ICBC Argentina,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.67758554,False,False,False,False
+ICBC Argentina,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6774059,False,False,False,False
+ICBC Argentina,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.6773845,False,False,False,False
+ICBC Argentina,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.677145,False,False,False,False
+ICBC Argentina,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.67697453,False,False,False,False
+ICBC Argentina,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.67676234,False,False,False,False
+ICBC Argentina,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.6764004,False,False,False,False
+ICBC Argentina,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.6753795,False,False,False,False
+ICBC Argentina,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.67526037,False,False,False,False
+ICBC Argentina,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.67512757,False,False,False,False
+ICBC Argentina,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.6750887,False,False,False,False
+ICBC Argentina,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.67490023,False,False,False,False
+ICBC Argentina,random_dns-google_20251129T163231.png,RANDOM,unknown,0.6748966,False,False,False,False
+ICBC Argentina,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.67488813,False,False,False,False
+ICBC Argentina,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.6747061,False,False,False,False
+ICBC Argentina,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6746912,False,False,False,False
+ICBC Argentina,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.6745284,False,False,False,False
+ICBC Argentina,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.67421234,False,False,False,False
+ICBC Argentina,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.6739938,False,False,False,False
+ICBC Argentina,random_intel-com_20251129T171229.png,RANDOM,unknown,0.6736807,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.67351127,False,False,False,False
+ICBC Argentina,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.67338574,False,False,False,False
+ICBC Argentina,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.67309177,False,False,False,False
+ICBC Argentina,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.67297333,False,False,False,False
+ICBC Argentina,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.6721011,False,False,False,False
+ICBC Argentina,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.6719552,False,False,False,False
+ICBC Argentina,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.67183954,False,False,False,False
+ICBC Argentina,random_discord-media_20251129T170414.png,RANDOM,unknown,0.67173433,False,False,False,False
+ICBC Argentina,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.6717019,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.67164767,False,False,False,False
+ICBC Argentina,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.67097807,False,False,False,False
+ICBC Argentina,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.6706322,False,False,False,False
+ICBC Argentina,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.67042184,False,False,False,False
+ICBC Argentina,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.6703273,False,False,False,False
+ICBC Argentina,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.6702795,False,False,False,False
+ICBC Argentina,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.66976666,False,False,False,False
+ICBC Argentina,random_g-co_20251129T171804.png,RANDOM,unknown,0.6697122,False,False,False,False
+ICBC Argentina,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.66923726,False,False,False,False
+ICBC Argentina,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.6692086,False,False,False,False
+ICBC Argentina,random_bild-de_20251129T173827.png,RANDOM,unknown,0.6692078,False,False,False,False
+ICBC Argentina,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6689697,False,False,False,False
+ICBC Argentina,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.6688876,False,False,False,False
+ICBC Argentina,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.668809,False,False,False,False
+ICBC Argentina,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.6687909,False,False,False,False
+ICBC Argentina,random_abc-es_20251129T175348.png,RANDOM,unknown,0.66858983,False,False,False,False
+ICBC Argentina,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.6685524,False,False,False,False
+ICBC Argentina,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.66852105,False,False,False,False
+ICBC Argentina,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.6682378,False,False,False,False
+ICBC Argentina,random_eset-com_20251129T171424.png,RANDOM,unknown,0.6676656,False,False,False,False
+ICBC Argentina,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6673536,False,False,False,False
+ICBC Argentina,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.6670796,False,False,False,False
+ICBC Argentina,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.6670612,False,False,False,False
+ICBC Argentina,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.6669009,False,False,False,False
+ICBC Argentina,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.6667989,False,False,False,False
+ICBC Argentina,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6663722,False,False,False,False
+ICBC Argentina,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.6662122,False,False,False,False
+ICBC Argentina,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.66617393,False,False,False,False
+ICBC Argentina,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.666165,False,False,False,False
+ICBC Argentina,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.665937,False,False,False,False
+ICBC Argentina,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6658964,False,False,False,False
+ICBC Argentina,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.6658934,False,False,False,False
+ICBC Argentina,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.66558945,False,False,False,False
+ICBC Argentina,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.6652079,False,False,False,False
+ICBC Argentina,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.665179,False,False,False,False
+ICBC Argentina,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.6649329,False,False,False,False
+ICBC Argentina,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6649257,False,False,False,False
+ICBC Argentina,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.6648525,False,False,False,False
+ICBC Argentina,random_canva-com_20251129T164231.png,RANDOM,unknown,0.6644695,False,False,False,False
+ICBC Argentina,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.6644449,False,False,False,False
+ICBC Argentina,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.6643661,False,False,False,False
+ICBC Argentina,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.6636987,False,False,False,False
+ICBC Argentina,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.6635669,False,False,False,False
+ICBC Argentina,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.663138,False,False,False,False
+ICBC Argentina,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.66294664,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.66283643,False,False,False,False
+ICBC Argentina,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.66256315,False,False,False,False
+ICBC Argentina,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.6624103,False,False,False,False
+ICBC Argentina,random_welt-de_20251129T173821.png,RANDOM,unknown,0.6623167,False,False,False,False
+ICBC Argentina,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.6617384,False,False,False,False
+ICBC Argentina,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.6616936,False,False,False,False
+ICBC Argentina,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.6616765,False,False,False,False
+ICBC Argentina,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.6613054,False,False,False,False
+ICBC Argentina,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.661224,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6609969,False,False,False,False
+ICBC Argentina,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.66053104,False,False,False,False
+ICBC Argentina,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.66048837,False,False,False,False
+ICBC Argentina,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.66041297,False,False,False,False
+ICBC Argentina,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.6599282,False,False,False,False
+ICBC Argentina,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.6598338,False,False,False,False
+ICBC Argentina,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.6597174,False,False,False,False
+ICBC Argentina,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.65874803,False,False,False,False
+ICBC Argentina,random_segment-io_20251129T174400.png,RANDOM,unknown,0.65813106,False,False,False,False
+ICBC Argentina,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6577542,False,False,False,False
+ICBC Argentina,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.65707856,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.65700877,False,False,False,False
+ICBC Argentina,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.65667474,False,False,False,False
+ICBC Argentina,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.6564598,False,False,False,False
+ICBC Argentina,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.6564305,False,False,False,False
+ICBC Argentina,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.6564064,False,False,False,False
+ICBC Argentina,random_finn-no_20251129T180303.png,RANDOM,unknown,0.6560074,False,False,False,False
+ICBC Argentina,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.65592134,False,False,False,False
+ICBC Argentina,random_wise-com_20251129T180312.png,RANDOM,unknown,0.6558604,False,False,False,False
+ICBC Argentina,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.65521604,False,False,False,False
+ICBC Argentina,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.65493834,False,False,False,False
+ICBC Argentina,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.6548333,False,False,False,False
+ICBC Argentina,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.654194,False,False,False,False
+ICBC Argentina,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.6541851,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6539651,False,False,False,False
+ICBC Argentina,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.653838,False,False,False,False
+ICBC Argentina,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.65371984,False,False,False,False
+ICBC Argentina,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.653527,False,False,False,False
+ICBC Argentina,random_att-net_20251129T170227.png,RANDOM,unknown,0.6534384,False,False,False,False
+ICBC Argentina,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.6533675,False,False,False,False
+ICBC Argentina,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.65331125,False,False,False,False
+ICBC Argentina,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.6531937,False,False,False,False
+ICBC Argentina,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.6530312,False,False,False,False
+ICBC Argentina,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.65300167,False,False,False,False
+ICBC Argentina,random_note-com_20251129T174642.png,RANDOM,unknown,0.6528038,False,False,False,False
+ICBC Argentina,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.65263546,False,False,False,False
+ICBC Argentina,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6524698,False,False,False,False
+ICBC Argentina,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.6522275,False,False,False,False
+ICBC Argentina,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.652086,False,False,False,False
+ICBC Argentina,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.65200806,False,False,False,False
+ICBC Argentina,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.651966,False,False,False,False
+ICBC Argentina,random_web-de_20251129T175220.png,RANDOM,unknown,0.6518788,False,False,False,False
+ICBC Argentina,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6517321,False,False,False,False
+ICBC Argentina,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.65135366,False,False,False,False
+ICBC Argentina,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.65126586,False,False,False,False
+ICBC Argentina,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.6510689,False,False,False,False
+ICBC Argentina,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.6508901,False,False,False,False
+ICBC Argentina,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.65076506,False,False,False,False
+ICBC Argentina,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.64885426,False,False,False,False
+ICBC Argentina,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.6488354,False,False,False,False
+ICBC Argentina,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.6485652,False,False,False,False
+ICBC Argentina,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.6481241,False,False,False,False
+ICBC Argentina,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.64797837,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.647949,False,False,False,False
+ICBC Argentina,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.64794385,False,False,False,False
+ICBC Argentina,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.6477012,False,False,False,False
+ICBC Argentina,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.6475419,False,False,False,False
+ICBC Argentina,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.64729846,False,False,False,False
+ICBC Argentina,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.64728856,False,False,False,False
+ICBC Argentina,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.6470355,False,False,False,False
+ICBC Argentina,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.64696014,False,False,False,False
+ICBC Argentina,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.64538515,False,False,False,False
+ICBC Argentina,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.6453227,False,False,False,False
+ICBC Argentina,random_globo-com_20251129T165541.png,RANDOM,unknown,0.64527833,False,False,False,False
+ICBC Argentina,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.6450849,False,False,False,False
+ICBC Argentina,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.64475775,False,False,False,False
+ICBC Argentina,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.64452595,False,False,False,False
+ICBC Argentina,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6439364,False,False,False,False
+ICBC Argentina,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.643736,False,False,False,False
+ICBC Argentina,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.64306986,False,False,False,False
+ICBC Argentina,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.64303935,False,False,False,False
+ICBC Argentina,random_otto-de_20251129T174331.png,RANDOM,unknown,0.64241576,False,False,False,False
+ICBC Argentina,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.6422079,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6421341,False,False,False,False
+ICBC Argentina,random_wix-com_20251129T171207.png,RANDOM,unknown,0.6417391,False,False,False,False
+ICBC Argentina,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.64172834,False,False,False,False
+ICBC Argentina,random_statista-com_20251129T165822.png,RANDOM,unknown,0.6417198,False,False,False,False
+ICBC Argentina,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.6412502,False,False,False,False
+ICBC Argentina,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.64111036,False,False,False,False
+ICBC Argentina,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.64086545,False,False,False,False
+ICBC Argentina,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.64079577,False,False,False,False
+ICBC Argentina,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.64058566,False,False,False,False
+ICBC Argentina,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.63989353,False,False,False,False
+ICBC Argentina,random_tds-net_20251129T174115.png,RANDOM,unknown,0.63980174,False,False,False,False
+ICBC Argentina,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.6394922,False,False,False,False
+ICBC Argentina,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.63904107,False,False,False,False
+ICBC Argentina,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.6386829,False,False,False,False
+ICBC Argentina,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.6380237,False,False,False,False
+ICBC Argentina,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.6377593,False,False,False,False
+ICBC Argentina,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.6377287,False,False,False,False
+ICBC Argentina,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.63768566,False,False,False,False
+ICBC Argentina,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.63740623,False,False,False,False
+ICBC Argentina,random_xing-com_20251129T175042.png,RANDOM,unknown,0.6373865,False,False,False,False
+ICBC Argentina,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.6371797,False,False,False,False
+ICBC Argentina,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.63676184,False,False,False,False
+ICBC Argentina,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.6365628,False,False,False,False
+ICBC Argentina,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.63638234,False,False,False,False
+ICBC Argentina,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.63572687,False,False,False,False
+ICBC Argentina,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.63560903,False,False,False,False
+ICBC Argentina,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.6354989,False,False,False,False
+ICBC Argentina,random_daum-net_20251129T174537.png,RANDOM,unknown,0.63547933,False,False,False,False
+ICBC Argentina,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.63544816,False,False,False,False
+ICBC Argentina,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.6354288,False,False,False,False
+ICBC Argentina,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6352262,False,False,False,False
+ICBC Argentina,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.6350168,False,False,False,False
+ICBC Argentina,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.63442343,False,False,False,False
+ICBC Argentina,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.6342231,False,False,False,False
+ICBC Argentina,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.6339306,False,False,False,False
+ICBC Argentina,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6337794,False,False,False,False
+ICBC Argentina,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.63374245,False,False,False,False
+ICBC Argentina,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.6336637,False,False,False,False
+ICBC Argentina,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.63340396,False,False,False,False
+ICBC Argentina,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6333916,False,False,False,False
+ICBC Argentina,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.6327764,False,False,False,False
+ICBC Argentina,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6322029,False,False,False,False
+ICBC Argentina,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.63205683,False,False,False,False
+ICBC Argentina,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.631496,False,False,False,False
+ICBC Argentina,random_nature-com_20251129T164547.png,RANDOM,unknown,0.6309594,False,False,False,False
+ICBC Argentina,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.6308997,False,False,False,False
+ICBC Argentina,random_one-one_20251129T163318.png,RANDOM,unknown,0.63085854,False,False,False,False
+ICBC Argentina,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.6306523,False,False,False,False
+ICBC Argentina,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.6304315,False,False,False,False
+ICBC Argentina,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.6303112,False,False,False,False
+ICBC Argentina,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.6301368,False,False,False,False
+ICBC Argentina,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.6298367,False,False,False,False
+ICBC Argentina,random_target-com_20251129T171437.png,RANDOM,unknown,0.62978804,False,False,False,False
+ICBC Argentina,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.6296599,False,False,False,False
+ICBC Argentina,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.62965924,False,False,False,False
+ICBC Argentina,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.62936217,False,False,False,False
+ICBC Argentina,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.6293322,False,False,False,False
+ICBC Argentina,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.6291546,False,False,False,False
+ICBC Argentina,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.6291054,False,False,False,False
+ICBC Argentina,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.62876654,False,False,False,False
+ICBC Argentina,random_w3-org_20251129T163751.png,RANDOM,unknown,0.62872136,False,False,False,False
+ICBC Argentina,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.62869614,False,False,False,False
+ICBC Argentina,random_att-com_20251129T180955.png,RANDOM,unknown,0.62864465,False,False,False,False
+ICBC Argentina,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.6285138,False,False,False,False
+ICBC Argentina,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.62814546,False,False,False,False
+ICBC Argentina,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.628098,False,False,False,False
+ICBC Argentina,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.62795615,False,False,False,False
+ICBC Argentina,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.6278828,False,False,False,False
+ICBC Argentina,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.6275696,False,False,False,False
+ICBC Argentina,random_springer-com_20251129T164823.png,RANDOM,unknown,0.62707573,False,False,False,False
+ICBC Argentina,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.62582076,False,False,False,False
+ICBC Argentina,random_booking-com_20251129T164752.png,RANDOM,unknown,0.6253985,False,False,False,False
+ICBC Argentina,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.62531084,False,False,False,False
+ICBC Argentina,random_apa-org_20251129T180433.png,RANDOM,unknown,0.6252496,False,False,False,False
+ICBC Argentina,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.6248315,False,False,False,False
+ICBC Argentina,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.62420285,False,False,False,False
+ICBC Argentina,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.62388766,False,False,False,False
+ICBC Argentina,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.62370574,False,False,False,False
+ICBC Argentina,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.6236522,False,False,False,False
+ICBC Argentina,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6236117,False,False,False,False
+ICBC Argentina,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.62335676,False,False,False,False
+ICBC Argentina,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.6232989,False,False,False,False
+ICBC Argentina,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.6230278,False,False,False,False
+ICBC Argentina,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.62295264,False,False,False,False
+ICBC Argentina,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.62278455,False,False,False,False
+ICBC Argentina,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.62230825,False,False,False,False
+ICBC Argentina,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.6218153,False,False,False,False
+ICBC Argentina,random_ui-com_20251129T163127.png,RANDOM,unknown,0.62116945,False,False,False,False
+ICBC Argentina,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.6209148,False,False,False,False
+ICBC Argentina,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.6208655,False,False,False,False
+ICBC Argentina,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.6203304,False,False,False,False
+ICBC Argentina,random_figma-com_20251129T173914.png,RANDOM,unknown,0.620315,False,False,False,False
+ICBC Argentina,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.62019694,False,False,False,False
+ICBC Argentina,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.62000495,False,False,False,False
+ICBC Argentina,random_binance-com_20251129T174935.png,RANDOM,unknown,0.6199493,False,False,False,False
+ICBC Argentina,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.6198009,False,False,False,False
+ICBC Argentina,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.61951625,False,False,False,False
+ICBC Argentina,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.6192525,False,False,False,False
+ICBC Argentina,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.6191103,False,False,False,False
+ICBC Argentina,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.61910975,False,False,False,False
+ICBC Argentina,random_example-com_20251129T163930.png,RANDOM,unknown,0.6190464,False,False,False,False
+ICBC Argentina,random_brave-com_20251129T172325.png,RANDOM,unknown,0.61894315,False,False,False,False
+ICBC Argentina,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.618841,False,False,False,False
+ICBC Argentina,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.61870265,False,False,False,False
+ICBC Argentina,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.6186427,False,False,False,False
+ICBC Argentina,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.6184478,False,False,False,False
+ICBC Argentina,random_uber-com_20251129T170129.png,RANDOM,unknown,0.618415,False,False,False,False
+ICBC Argentina,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.61838937,False,False,False,False
+ICBC Argentina,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.61816925,False,False,False,False
+ICBC Argentina,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.61804324,False,False,False,False
+ICBC Argentina,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.6177612,False,False,False,False
+ICBC Argentina,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.61737883,False,False,False,False
+ICBC Argentina,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.6172439,False,False,False,False
+ICBC Argentina,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.61696,False,False,False,False
+ICBC Argentina,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.6168359,False,False,False,False
+ICBC Argentina,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.6167146,False,False,False,False
+ICBC Argentina,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.61659306,False,False,False,False
+ICBC Argentina,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.61656666,False,False,False,False
+ICBC Argentina,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.6164651,False,False,False,False
+ICBC Argentina,random_as-com_20251129T175716.png,RANDOM,unknown,0.6164483,False,False,False,False
+ICBC Argentina,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.61644244,False,False,False,False
+ICBC Argentina,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.6161707,False,False,False,False
+ICBC Argentina,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.6160751,False,False,False,False
+ICBC Argentina,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.61494845,False,False,False,False
+ICBC Argentina,random_qq-com_20251129T162834.png,RANDOM,unknown,0.6143949,False,False,False,False
+ICBC Argentina,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.6143467,False,False,False,False
+ICBC Argentina,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.6141045,False,False,False,False
+ICBC Argentina,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.6138727,False,False,False,False
+ICBC Argentina,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.61379325,False,False,False,False
+ICBC Argentina,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.61368394,False,False,False,False
+ICBC Argentina,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.61359435,False,False,False,False
+ICBC Argentina,random_usps-com_20251129T173658.png,RANDOM,unknown,0.6134886,False,False,False,False
+ICBC Argentina,random_github-io_20251129T163235.png,RANDOM,unknown,0.6134558,False,False,False,False
+ICBC Argentina,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.61298823,False,False,False,False
+ICBC Argentina,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.61295414,False,False,False,False
+ICBC Argentina,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.6127304,False,False,False,False
+ICBC Argentina,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.6123424,False,False,False,False
+ICBC Argentina,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.6120355,False,False,False,False
+ICBC Argentina,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.6113043,False,False,False,False
+ICBC Argentina,random_cox-net_20251129T170452.png,RANDOM,unknown,0.6111851,False,False,False,False
+ICBC Argentina,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.6110825,False,False,False,False
+ICBC Argentina,random_moe-video_20251129T164430.png,RANDOM,unknown,0.6109196,False,False,False,False
+ICBC Argentina,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.61071926,False,False,False,False
+ICBC Argentina,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.6101092,False,False,False,False
+ICBC Argentina,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.610054,False,False,False,False
+ICBC Argentina,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.6098883,False,False,False,False
+ICBC Argentina,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.6098119,False,False,False,False
+ICBC Argentina,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.6096624,False,False,False,False
+ICBC Argentina,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.60958177,False,False,False,False
+ICBC Argentina,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.6094593,False,False,False,False
+ICBC Argentina,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.60910565,False,False,False,False
+ICBC Argentina,random_360-cn_20251129T173141.png,RANDOM,unknown,0.6090632,False,False,False,False
+ICBC Argentina,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.6089548,False,False,False,False
+ICBC Argentina,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.6088134,False,False,False,False
+ICBC Argentina,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.6082209,False,False,False,False
+ICBC Argentina,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.60785216,False,False,False,False
+ICBC Argentina,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.60770994,False,False,False,False
+ICBC Argentina,random_android-com_20251129T163812.png,RANDOM,unknown,0.6076671,False,False,False,False
+ICBC Argentina,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.6074534,False,False,False,False
+ICBC Argentina,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.60724956,False,False,False,False
+ICBC Argentina,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.6068655,False,False,False,False
+ICBC Argentina,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.60653186,False,False,False,False
+ICBC Argentina,random_live-com_20251129T162413.png,RANDOM,unknown,0.6061922,False,False,False,False
+ICBC Argentina,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.6057429,False,False,False,False
+ICBC Argentina,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.6056346,False,False,False,False
+ICBC Argentina,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.605576,False,False,False,False
+ICBC Argentina,random_synology-com_20251129T173948.png,RANDOM,unknown,0.6051171,False,False,False,False
+ICBC Argentina,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.6049702,False,False,False,False
+ICBC Argentina,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.6046705,False,False,False,False
+ICBC Argentina,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.60463166,False,False,False,False
+ICBC Argentina,random_php-net_20251129T164521.png,RANDOM,unknown,0.6044343,False,False,False,False
+ICBC Argentina,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.60440123,False,False,False,False
+ICBC Argentina,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.6043366,False,False,False,False
+ICBC Argentina,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.6035212,False,False,False,False
+ICBC Argentina,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.6032682,False,False,False,False
+ICBC Argentina,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.6031336,False,False,False,False
+ICBC Argentina,random_aol-com_20251129T170152.png,RANDOM,unknown,0.6030683,False,False,False,False
+ICBC Argentina,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.6025575,False,False,False,False
+ICBC Argentina,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.60191584,False,False,False,False
+ICBC Argentina,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.6017413,False,False,False,False
+ICBC Argentina,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.6016105,False,False,False,False
+ICBC Argentina,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.60157645,False,False,False,False
+ICBC Argentina,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.60138774,False,False,False,False
+ICBC Argentina,random_miui-com_20251129T163719.png,RANDOM,unknown,0.60109913,False,False,False,False
+ICBC Argentina,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.60109204,False,False,False,False
+ICBC Argentina,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.60093427,False,False,False,False
+ICBC Argentina,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.6008503,False,False,False,False
+ICBC Argentina,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.60082376,False,False,False,False
+ICBC Argentina,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6003138,False,False,False,False
+ICBC Argentina,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.600123,False,False,False,False
+ICBC Argentina,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.6000721,False,False,False,False
+ICBC Argentina,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.5999529,False,False,False,False
+ICBC Argentina,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.59968555,False,False,False,False
+ICBC Argentina,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.5994378,False,False,False,False
+ICBC Argentina,random_vg-no_20251129T180754.png,RANDOM,unknown,0.5994023,False,False,False,False
+ICBC Argentina,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.59938854,False,False,False,False
+ICBC Argentina,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.59923065,False,False,False,False
+ICBC Argentina,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.598923,False,False,False,False
+ICBC Argentina,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.5988366,False,False,False,False
+ICBC Argentina,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.5986018,False,False,False,False
+ICBC Argentina,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.59858805,False,False,False,False
+ICBC Argentina,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.5985307,False,False,False,False
+ICBC Argentina,random_substack-com_20251129T171941.png,RANDOM,unknown,0.5982468,False,False,False,False
+ICBC Argentina,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.5982347,False,False,False,False
+ICBC Argentina,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.59778345,False,False,False,False
+ICBC Argentina,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.59769136,False,False,False,False
+ICBC Argentina,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.59767693,False,False,False,False
+ICBC Argentina,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.5976345,False,False,False,False
+ICBC Argentina,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.5968728,False,False,False,False
+ICBC Argentina,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.59664345,False,False,False,False
+ICBC Argentina,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.59642184,False,False,False,False
+ICBC Argentina,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.5963575,False,False,False,False
+ICBC Argentina,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.5958124,False,False,False,False
+ICBC Argentina,random_free-fr_20251129T171241.png,RANDOM,unknown,0.5952279,False,False,False,False
+ICBC Argentina,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.59488684,False,False,False,False
+ICBC Argentina,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.5948054,False,False,False,False
+ICBC Argentina,random_erome-com_20251129T165107.png,RANDOM,unknown,0.5947281,False,False,False,False
+ICBC Argentina,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.594584,False,False,False,False
+ICBC Argentina,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.59448016,False,False,False,False
+ICBC Argentina,random_slack-com_20251129T164623.png,RANDOM,unknown,0.59402215,False,False,False,False
+ICBC Argentina,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.59401673,False,False,False,False
+ICBC Argentina,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.5939185,False,False,False,False
+ICBC Argentina,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.5936978,False,False,False,False
+ICBC Argentina,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.5933404,False,False,False,False
+ICBC Argentina,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.5930227,False,False,False,False
+ICBC Argentina,random_vk-com_20251129T163202.png,RANDOM,unknown,0.59298015,False,False,False,False
+ICBC Argentina,random_medium-com_20251129T163655.png,RANDOM,unknown,0.5928285,False,False,False,False
+ICBC Argentina,random_linode-com_20251129T173059.png,RANDOM,unknown,0.592677,False,False,False,False
+ICBC Argentina,random_split-io_20251129T175048.png,RANDOM,unknown,0.59263134,False,False,False,False
+ICBC Argentina,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.592576,False,False,False,False
+ICBC Argentina,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.5925251,False,False,False,False
+ICBC Argentina,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.59195423,False,False,False,False
+ICBC Argentina,random_t-co_20251129T163912.png,RANDOM,unknown,0.5915698,False,False,False,False
+ICBC Argentina,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.5915332,False,False,False,False
+ICBC Argentina,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.5913829,False,False,False,False
+ICBC Argentina,random_uk-com_20251129T171638.png,RANDOM,unknown,0.5913335,False,False,False,False
+ICBC Argentina,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.59106183,False,False,False,False
+ICBC Argentina,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.5906044,False,False,False,False
+ICBC Argentina,random_windows-com_20251129T163112.png,RANDOM,unknown,0.5904661,False,False,False,False
+ICBC Argentina,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.5902683,False,False,False,False
+ICBC Argentina,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.59021556,False,False,False,False
+ICBC Argentina,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.59007925,False,False,False,False
+ICBC Argentina,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.5900725,False,False,False,False
+ICBC Argentina,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5900625,False,False,False,False
+ICBC Argentina,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.59003764,False,False,False,False
+ICBC Argentina,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.5899408,False,False,False,False
+ICBC Argentina,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5898405,False,False,False,False
+ICBC Argentina,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.58950335,False,False,False,False
+ICBC Argentina,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.58920306,False,False,False,False
+ICBC Argentina,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.589149,False,False,False,False
+ICBC Argentina,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.5891068,False,False,False,False
+ICBC Argentina,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.58889866,False,False,False,False
+ICBC Argentina,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.5883177,False,False,False,False
+ICBC Argentina,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.58789086,False,False,False,False
+ICBC Argentina,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.587526,False,False,False,False
+ICBC Argentina,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.58646274,False,False,False,False
+ICBC Argentina,random_t-me_20251129T163150.png,RANDOM,unknown,0.5853358,False,False,False,False
+ICBC Argentina,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.5852108,False,False,False,False
+ICBC Argentina,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.5850366,False,False,False,False
+ICBC Argentina,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5843208,False,False,False,False
+ICBC Argentina,random_forter-com_20251129T164642.png,RANDOM,unknown,0.5842593,False,False,False,False
+ICBC Argentina,random_docker-com_20251129T170827.png,RANDOM,unknown,0.5841061,False,False,False,False
+ICBC Argentina,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.5836977,False,False,False,False
+ICBC Argentina,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.5836696,False,False,False,False
+ICBC Argentina,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.5836493,False,False,False,False
+ICBC Argentina,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.58340824,False,False,False,False
+ICBC Argentina,random_openai-com_20251129T164132.png,RANDOM,unknown,0.58335656,False,False,False,False
+ICBC Argentina,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.5833233,False,False,False,False
+ICBC Argentina,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.5819976,False,False,False,False
+ICBC Argentina,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.5819445,False,False,False,False
+ICBC Argentina,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.5819268,False,False,False,False
+ICBC Argentina,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.5816837,False,False,False,False
+ICBC Argentina,random_ft-com_20251129T170724.png,RANDOM,unknown,0.5816448,False,False,False,False
+ICBC Argentina,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.58162653,False,False,False,False
+ICBC Argentina,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.5813785,False,False,False,False
+ICBC Argentina,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.5813771,False,False,False,False
+ICBC Argentina,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.5813085,False,False,False,False
+ICBC Argentina,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.5807754,False,False,False,False
+ICBC Argentina,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.58068025,False,False,False,False
+ICBC Argentina,random_media-net_20251129T164538.png,RANDOM,unknown,0.580314,False,False,False,False
+ICBC Argentina,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.58009744,False,False,False,False
+ICBC Argentina,random_espn-com_20251129T165100.png,RANDOM,unknown,0.5799823,False,False,False,False
+ICBC Argentina,random_character-ai_20251129T174433.png,RANDOM,unknown,0.57986975,False,False,False,False
+ICBC Argentina,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.57957244,False,False,False,False
+ICBC Argentina,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.5795548,False,False,False,False
+ICBC Argentina,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.57947534,False,False,False,False
+ICBC Argentina,random_wired-com_20251129T170401.png,RANDOM,unknown,0.57914686,False,False,False,False
+ICBC Argentina,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.57887936,False,False,False,False
+ICBC Argentina,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.57884794,False,False,False,False
+ICBC Argentina,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.57860875,False,False,False,False
+ICBC Argentina,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.5777707,False,False,False,False
+ICBC Argentina,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.57736665,False,False,False,False
+ICBC Argentina,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.57670236,False,False,False,False
+ICBC Argentina,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.5764231,False,False,False,False
+ICBC Argentina,random_youku-com_20251129T174026.png,RANDOM,unknown,0.57627285,False,False,False,False
+ICBC Argentina,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.5757916,False,False,False,False
+ICBC Argentina,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.5755813,False,False,False,False
+ICBC Argentina,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.57525826,False,False,False,False
+ICBC Argentina,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.57485914,False,False,False,False
+ICBC Argentina,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.57479626,False,False,False,False
+ICBC Argentina,random_skype-com_20251129T162718.png,RANDOM,unknown,0.5747559,False,False,False,False
+ICBC Argentina,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.57470506,False,False,False,False
+ICBC Argentina,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.57454795,False,False,False,False
+ICBC Argentina,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.57438785,False,False,False,False
+ICBC Argentina,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.5742836,False,False,False,False
+ICBC Argentina,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.5740824,False,False,False,False
+ICBC Argentina,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.5740447,False,False,False,False
+ICBC Argentina,random_f5-com_20251129T163706.png,RANDOM,unknown,0.57383883,False,False,False,False
+ICBC Argentina,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.5736725,False,False,False,False
+ICBC Argentina,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.57362205,False,False,False,False
+ICBC Argentina,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.5732112,False,False,False,False
+ICBC Argentina,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.5730711,False,False,False,False
+ICBC Argentina,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.5727677,False,False,False,False
+ICBC Argentina,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.57274747,False,False,False,False
+ICBC Argentina,random_chess-com_20251129T173919.png,RANDOM,unknown,0.5727442,False,False,False,False
+ICBC Argentina,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.57263744,False,False,False,False
+ICBC Argentina,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.5725097,False,False,False,False
+ICBC Argentina,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.57229066,False,False,False,False
+ICBC Argentina,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.57220125,False,False,False,False
+ICBC Argentina,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.572096,False,False,False,False
+ICBC Argentina,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.57183564,False,False,False,False
+ICBC Argentina,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.57107776,False,False,False,False
+ICBC Argentina,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.57103395,False,False,False,False
+ICBC Argentina,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.57103205,False,False,False,False
+ICBC Argentina,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.5709241,False,False,False,False
+ICBC Argentina,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.57091737,False,False,False,False
+ICBC Argentina,random_state-gov_20251129T174508.png,RANDOM,unknown,0.5703353,False,False,False,False
+ICBC Argentina,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.56950545,False,False,False,False
+ICBC Argentina,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.5694407,False,False,False,False
+ICBC Argentina,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.56896114,False,False,False,False
+ICBC Argentina,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.5689304,False,False,False,False
+ICBC Argentina,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.5686736,False,False,False,False
+ICBC Argentina,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.5686233,False,False,False,False
+ICBC Argentina,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.56848097,False,False,False,False
+ICBC Argentina,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.5682438,False,False,False,False
+ICBC Argentina,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.56823164,False,False,False,False
+ICBC Argentina,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.56801695,False,False,False,False
+ICBC Argentina,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.567951,False,False,False,False
+ICBC Argentina,random_name-com_20251129T171101.png,RANDOM,unknown,0.567875,False,False,False,False
+ICBC Argentina,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.56778973,False,False,False,False
+ICBC Argentina,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.5671829,False,False,False,False
+ICBC Argentina,random_office365-com_20251129T162902.png,RANDOM,unknown,0.5670878,False,False,False,False
+ICBC Argentina,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.5669123,False,False,False,False
+ICBC Argentina,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.56683415,False,False,False,False
+ICBC Argentina,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.5667157,False,False,False,False
+ICBC Argentina,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.56626207,False,False,False,False
+ICBC Argentina,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.56596535,False,False,False,False
+ICBC Argentina,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.5658914,False,False,False,False
+ICBC Argentina,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.5653987,False,False,False,False
+ICBC Argentina,random_india-com_20251129T180557.png,RANDOM,unknown,0.5649165,False,False,False,False
+ICBC Argentina,random_python-org_20251129T173738.png,RANDOM,unknown,0.5645992,False,False,False,False
+ICBC Argentina,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.56402016,False,False,False,False
+ICBC Argentina,random_branch-io_20251129T171524.png,RANDOM,unknown,0.5635259,False,False,False,False
+ICBC Argentina,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.56338406,False,False,False,False
+ICBC Argentina,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.5633786,False,False,False,False
+ICBC Argentina,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.5633738,False,False,False,False
+ICBC Argentina,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.5633443,False,False,False,False
+ICBC Argentina,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.5633257,False,False,False,False
+ICBC Argentina,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.56331724,False,False,False,False
+ICBC Argentina,random_roku-com_20251129T164128.png,RANDOM,unknown,0.5632491,False,False,False,False
+ICBC Argentina,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.5630231,False,False,False,False
+ICBC Argentina,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.5630074,False,False,False,False
+ICBC Argentina,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.5629021,False,False,False,False
+ICBC Argentina,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.5627938,False,False,False,False
+ICBC Argentina,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.5626105,False,False,False,False
+ICBC Argentina,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.5625164,False,False,False,False
+ICBC Argentina,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.562503,False,False,False,False
+ICBC Argentina,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.5620717,False,False,False,False
+ICBC Argentina,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.5618714,False,False,False,False
+ICBC Argentina,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.5618476,False,False,False,False
+ICBC Argentina,random_braze-com_20251129T171458.png,RANDOM,unknown,0.56174916,False,False,False,False
+ICBC Argentina,random_shein-com_20251129T170736.png,RANDOM,unknown,0.56159973,False,False,False,False
+ICBC Argentina,random_opera-com_20251129T163028.png,RANDOM,unknown,0.5615016,False,False,False,False
+ICBC Argentina,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.5613897,False,False,False,False
+ICBC Argentina,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.5605731,False,False,False,False
+ICBC Argentina,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.5605639,False,False,False,False
+ICBC Argentina,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.56036323,False,False,False,False
+ICBC Argentina,random_nic-io_20251129T173852.png,RANDOM,unknown,0.56016237,False,False,False,False
+ICBC Argentina,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.5599648,False,False,False,False
+ICBC Argentina,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.5599121,False,False,False,False
+ICBC Argentina,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.5597831,False,False,False,False
+ICBC Argentina,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.55975354,False,False,False,False
+ICBC Argentina,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.559493,False,False,False,False
+ICBC Argentina,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.5593874,False,False,False,False
+ICBC Argentina,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.5583598,False,False,False,False
+ICBC Argentina,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.55816644,False,False,False,False
+ICBC Argentina,random_ted-com_20251129T172015.png,RANDOM,unknown,0.5577845,False,False,False,False
+ICBC Argentina,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.55748194,False,False,False,False
+ICBC Argentina,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.5574535,False,False,False,False
+ICBC Argentina,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.55729705,False,False,False,False
+ICBC Argentina,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.5572316,False,False,False,False
+ICBC Argentina,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.5568433,False,False,False,False
+ICBC Argentina,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.55682576,False,False,False,False
+ICBC Argentina,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.55664575,False,False,False,False
+ICBC Argentina,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.55613166,False,False,False,False
+ICBC Argentina,random_genius-com_20251129T174000.png,RANDOM,unknown,0.5558449,False,False,False,False
+ICBC Argentina,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.5554658,False,False,False,False
+ICBC Argentina,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.55532855,False,False,False,False
+ICBC Argentina,random_apple-com_20251129T162353.png,RANDOM,unknown,0.55530417,False,False,False,False
+ICBC Argentina,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.5551738,False,False,False,False
+ICBC Argentina,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.55506945,False,False,False,False
+ICBC Argentina,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.55443853,False,False,False,False
+ICBC Argentina,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.55425096,False,False,False,False
+ICBC Argentina,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.55391943,False,False,False,False
+ICBC Argentina,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.5537761,False,False,False,False
+ICBC Argentina,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.5537699,False,False,False,False
+ICBC Argentina,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.5537693,False,False,False,False
+ICBC Argentina,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.55350834,False,False,False,False
+ICBC Argentina,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.5534685,False,False,False,False
+ICBC Argentina,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.5530238,False,False,False,False
+ICBC Argentina,random_trello-com_20251129T180351.png,RANDOM,unknown,0.55216545,False,False,False,False
+ICBC Argentina,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.55216014,False,False,False,False
+ICBC Argentina,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.5521163,False,False,False,False
+ICBC Argentina,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.55166835,False,False,False,False
+ICBC Argentina,random_bing-com_20251129T162459.png,RANDOM,unknown,0.55102056,False,False,False,False
+ICBC Argentina,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.5509981,False,False,False,False
+ICBC Argentina,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.55070794,False,False,False,False
+ICBC Argentina,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.55062366,False,False,False,False
+ICBC Argentina,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.5505687,False,False,False,False
+ICBC Argentina,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.55000544,False,False,False,False
+ICBC Argentina,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.54994917,False,False,False,False
+ICBC Argentina,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.54990137,False,False,False,False
+ICBC Argentina,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.54967815,False,False,False,False
+ICBC Argentina,random_plos-org_20251129T180524.png,RANDOM,unknown,0.5493538,False,False,False,False
+ICBC Argentina,random_notion-so_20251129T180340.png,RANDOM,unknown,0.54931647,False,False,False,False
+ICBC Argentina,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.54859054,False,False,False,False
+ICBC Argentina,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.5480953,False,False,False,False
+ICBC Argentina,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.54805773,False,False,False,False
+ICBC Argentina,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.54685843,False,False,False,False
+ICBC Argentina,random_time-com_20251129T170629.png,RANDOM,unknown,0.5468116,False,False,False,False
+ICBC Argentina,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.5466962,False,False,False,False
+ICBC Argentina,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.5460892,False,False,False,False
+ICBC Argentina,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.54570866,False,False,False,False
+ICBC Argentina,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.54552567,False,False,False,False
+ICBC Argentina,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.5453761,False,False,False,False
+ICBC Argentina,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.54440784,False,False,False,False
+ICBC Argentina,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.5441033,False,False,False,False
+ICBC Argentina,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.543862,False,False,False,False
+ICBC Argentina,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.5430645,False,False,False,False
+ICBC Argentina,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.5430546,False,False,False,False
+ICBC Argentina,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.542791,False,False,False,False
+ICBC Argentina,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.54278666,False,False,False,False
+ICBC Argentina,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.5427177,False,False,False,False
+ICBC Argentina,random_bol-com_20251129T174941.png,RANDOM,unknown,0.5422794,False,False,False,False
+ICBC Argentina,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.5421448,False,False,False,False
+ICBC Argentina,random_fast-com_20251129T171226.png,RANDOM,unknown,0.541934,False,False,False,False
+ICBC Argentina,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.5419091,False,False,False,False
+ICBC Argentina,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.54179364,False,False,False,False
+ICBC Argentina,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.5417547,False,False,False,False
+ICBC Argentina,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.54056776,False,False,False,False
+ICBC Argentina,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.53985757,False,False,False,False
+ICBC Argentina,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.5393861,False,False,False,False
+ICBC Argentina,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.53930354,False,False,False,False
+ICBC Argentina,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.53890103,False,False,False,False
+ICBC Argentina,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.53870726,False,False,False,False
+ICBC Argentina,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.5386859,False,False,False,False
+ICBC Argentina,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.53860337,False,False,False,False
+ICBC Argentina,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.53794223,False,False,False,False
+ICBC Argentina,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.53776294,False,False,False,False
+ICBC Argentina,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.5376248,False,False,False,False
+ICBC Argentina,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.5373006,False,False,False,False
+ICBC Argentina,random_npr-org_20251129T170056.png,RANDOM,unknown,0.5366663,False,False,False,False
+ICBC Argentina,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.5363657,False,False,False,False
+ICBC Argentina,random_okta-com_20251129T171946.png,RANDOM,unknown,0.53619224,False,False,False,False
+ICBC Argentina,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.53607064,False,False,False,False
+ICBC Argentina,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.53572065,False,False,False,False
+ICBC Argentina,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.5348763,False,False,False,False
+ICBC Argentina,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.5346378,False,False,False,False
+ICBC Argentina,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.5330453,False,False,False,False
+ICBC Argentina,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.532992,False,False,False,False
+ICBC Argentina,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.53255963,False,False,False,False
+ICBC Argentina,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.5325327,False,False,False,False
+ICBC Argentina,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.532221,False,False,False,False
+ICBC Argentina,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.5322099,False,False,False,False
+ICBC Argentina,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.53150046,False,False,False,False
+ICBC Argentina,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.5312939,False,False,False,False
+ICBC Argentina,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.5310962,False,False,False,False
+ICBC Argentina,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.53085613,False,False,False,False
+ICBC Argentina,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.53058547,False,False,False,False
+ICBC Argentina,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.5304431,False,False,False,False
+ICBC Argentina,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.5303394,False,False,False,False
+ICBC Argentina,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.5299754,False,False,False,False
+ICBC Argentina,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.5294501,False,False,False,False
+ICBC Argentina,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.5293211,False,False,False,False
+ICBC Argentina,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.52930313,False,False,False,False
+ICBC Argentina,random_clever-com_20251129T173500.png,RANDOM,unknown,0.5291209,False,False,False,False
+ICBC Argentina,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.5285697,False,False,False,False
+ICBC Argentina,random_office-com_20251129T162404.png,RANDOM,unknown,0.52820975,False,False,False,False
+ICBC Argentina,random_debian-org_20251129T164620.png,RANDOM,unknown,0.5275409,False,False,False,False
+ICBC Argentina,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.52700555,False,False,False,False
+ICBC Argentina,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.5263895,False,False,False,False
+ICBC Argentina,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.52550197,False,False,False,False
+ICBC Argentina,random_archive-org_20251129T163406.png,RANDOM,unknown,0.52514744,False,False,False,False
+ICBC Argentina,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.52366537,False,False,False,False
+ICBC Argentina,random_wps-com_20251129T174320.png,RANDOM,unknown,0.5233067,False,False,False,False
+ICBC Argentina,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.52314407,False,False,False,False
+ICBC Argentina,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.52214015,False,False,False,False
+ICBC Argentina,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.52189696,False,False,False,False
+ICBC Argentina,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.5217595,False,False,False,False
+ICBC Argentina,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.5201822,False,False,False,False
+ICBC Argentina,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.5195383,False,False,False,False
+ICBC Argentina,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.5185877,False,False,False,False
+ICBC Argentina,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.51704943,False,False,False,False
+ICBC Argentina,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.5168378,False,False,False,False
+ICBC Argentina,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.5163859,False,False,False,False
+ICBC Argentina,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.5149549,False,False,False,False
+ICBC Argentina,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.5143347,False,False,False,False
+ICBC Argentina,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.51359785,False,False,False,False
+ICBC Argentina,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.51244557,False,False,False,False
+ICBC Argentina,random_azure-com_20251129T162438.png,RANDOM,unknown,0.5121352,False,False,False,False
+ICBC Argentina,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.5120613,False,False,False,False
+ICBC Argentina,random_line-me_20251129T170140.png,RANDOM,unknown,0.5117271,False,False,False,False
+ICBC Argentina,random_overload-su_20251129T170747.png,RANDOM,unknown,0.51171684,False,False,False,False
+ICBC Argentina,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.51158595,False,False,False,False
+ICBC Argentina,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.51157653,False,False,False,False
+ICBC Argentina,random_go-com_20251129T164609.png,RANDOM,unknown,0.5114238,False,False,False,False
+ICBC Argentina,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.5100428,False,False,False,False
+ICBC Argentina,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.50922513,False,False,False,False
+ICBC Argentina,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.50881577,False,False,False,False
+ICBC Argentina,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.50842,False,False,False,False
+ICBC Argentina,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.50758016,False,False,False,False
+ICBC Argentina,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.5067231,False,False,False,False
+ICBC Argentina,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.5064601,False,False,False,False
+ICBC Argentina,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.5063059,False,False,False,False
+ICBC Argentina,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.5055622,False,False,False,False
+ICBC Argentina,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.5051244,False,False,False,False
+ICBC Argentina,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.5049126,False,False,False,False
+ICBC Argentina,random_singular-net_20251129T175446.png,RANDOM,unknown,0.50332147,False,False,False,False
+ICBC Argentina,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.5032413,False,False,False,False
+ICBC Argentina,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.5032211,False,False,False,False
+ICBC Argentina,random_github-com_20251129T162456.png,RANDOM,unknown,0.50305665,False,False,False,False
+ICBC Argentina,random_doi-org_20251129T164112.png,RANDOM,unknown,0.5024487,False,False,False,False
+ICBC Argentina,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.5015994,False,False,False,False
+ICBC Argentina,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.5003408,False,False,False,False
+ICBC Argentina,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.5002258,False,False,False,False
+ICBC Argentina,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.4994433,False,False,False,False
+ICBC Argentina,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.4992206,False,False,False,False
+ICBC Argentina,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.4992075,False,False,False,False
+ICBC Argentina,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.4990323,False,False,False,False
+ICBC Argentina,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.49734306,False,False,False,False
+ICBC Argentina,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.49696752,False,False,False,False
+ICBC Argentina,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.49688336,False,False,False,False
+ICBC Argentina,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.4959978,False,False,False,False
+ICBC Argentina,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.49485767,False,False,False,False
+ICBC Argentina,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.49420774,False,False,False,False
+ICBC Argentina,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.49384385,False,False,False,False
+ICBC Argentina,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.49377602,False,False,False,False
+ICBC Argentina,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.49248588,False,False,False,False
+ICBC Argentina,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.48847118,False,False,False,False
+ICBC Argentina,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.48750553,False,False,False,False
+ICBC Argentina,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.48620695,False,False,False,False
+ICBC Argentina,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.48600143,False,False,False,False
+ICBC Argentina,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.48535275,False,False,False,False
+ICBC Argentina,random_agora-io_20251129T175439.png,RANDOM,unknown,0.48312992,False,False,False,False
+ICBC Argentina,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.48291427,False,False,False,False
+ICBC Argentina,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.480986,False,False,False,False
+ICBC Argentina,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.4767747,False,False,False,False
+ICBC Argentina,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.47673497,False,False,False,False
+ICBC Argentina,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.47385675,False,False,False,False
+ICBC Argentina,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.47381073,False,False,False,False
+ICBC Argentina,random_apache-org_20251129T163228.png,RANDOM,unknown,0.47340086,False,False,False,False
+ICBC Argentina,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.4710939,False,False,False,False
+ICBC Argentina,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.46584874,False,False,False,False
+ICBC Argentina,random_he-net_20251129T172135.png,RANDOM,unknown,0.4647564,False,False,False,False
+ICBC Argentina,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.46006545,False,False,False,False
+ICBC Argentina,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.46003664,False,False,False,False
+ICBC Argentina,random_asus-com_20251129T172748.png,RANDOM,unknown,0.45930755,False,False,False,False
+ICBC Argentina,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.45898053,False,False,False,False
+ICBC Argentina,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.45186308,False,False,False,False
+ICBC Argentina,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.44743532,False,False,False,False
+ICBC Argentina,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.44099528,False,False,False,False
+ICBC Argentina,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.43964985,False,False,False,False
+ICBC Argentina,random_poki-com_20251129T180027.png,RANDOM,unknown,0.4369234,False,False,False,False
+ICBC Argentina,random_people-com_20251129T172859.png,RANDOM,unknown,0.4275782,False,False,False,False
+ICBC Argentina,random_who-int_20251129T164225.png,RANDOM,unknown,0.42751774,False,False,False,False
+ICBC Argentina,random_health-mil_20251129T163619.png,RANDOM,unknown,0.4264057,False,False,False,False
+ICBC Argentina,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.41344655,False,False,False,False
+ICBC Argentina,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.3574368,False,False,False,False
+ICBC Argentina,random_threads-com_20251129T174157.png,RANDOM,unknown,0.31890994,False,False,False,False

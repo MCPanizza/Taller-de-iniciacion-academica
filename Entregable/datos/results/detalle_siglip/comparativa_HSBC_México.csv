@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+HSBC México,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,1.0,True,True,False,True
+HSBC México,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.9689958,True,True,False,False
+HSBC México,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.9666835,True,True,False,False
+HSBC México,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.9624706,True,True,False,False
+HSBC México,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.9600157,True,True,False,False
+HSBC México,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.9529969,True,True,False,False
+HSBC México,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.94822615,True,True,False,False
+HSBC México,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.9459374,True,True,False,False
+HSBC México,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.94534725,True,True,False,False
+HSBC México,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.9439636,True,True,False,False
+HSBC México,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.9219229,True,True,False,False
+HSBC México,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.8986099,True,False,True,False
+HSBC México,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.89681435,True,False,True,False
+HSBC México,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.89670473,True,False,True,False
+HSBC México,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.8964351,True,False,True,False
+HSBC México,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.89469004,True,False,True,False
+HSBC México,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.88974315,True,False,True,False
+HSBC México,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.8887956,True,False,True,False
+HSBC México,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.8881118,True,False,True,False
+HSBC México,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.8859669,True,False,True,False
+HSBC México,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.88263893,True,False,True,False
+HSBC México,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.88223994,True,False,True,False
+HSBC México,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.88049626,True,False,True,False
+HSBC México,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.87808394,True,False,True,False
+HSBC México,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.87748855,True,False,True,False
+HSBC México,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.8759224,True,False,True,False
+HSBC México,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.8749158,True,False,True,False
+HSBC México,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.8719154,True,False,True,False
+HSBC México,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.87097275,True,False,True,False
+HSBC México,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.87045896,True,False,True,False
+HSBC México,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.8629445,True,False,True,False
+HSBC México,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.8613205,True,False,True,False
+HSBC México,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.8563621,True,False,True,False
+HSBC México,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.8554535,True,False,True,False
+HSBC México,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.8553654,True,False,True,False
+HSBC México,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.8538103,True,False,True,False
+HSBC México,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.85330725,True,False,True,False
+HSBC México,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.85272694,True,False,True,False
+HSBC México,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.8479847,True,False,True,False
+HSBC México,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.8449211,True,False,True,False
+HSBC México,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.8439511,True,False,True,False
+HSBC México,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.84266806,True,False,True,False
+HSBC México,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.8421823,True,False,True,False
+HSBC México,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.8412434,True,False,True,False
+HSBC México,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.8409869,True,False,True,False
+HSBC México,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.840355,True,False,True,False
+HSBC México,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.84009296,True,False,True,False
+HSBC México,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.8377024,True,False,True,False
+HSBC México,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.8371822,True,False,True,False
+HSBC México,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.8366731,True,False,True,False
+HSBC México,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.8366389,True,False,True,False
+HSBC México,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.8362165,True,False,True,False
+HSBC México,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.8333888,True,False,True,False
+HSBC México,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.8320602,True,False,True,False
+HSBC México,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.83196634,True,False,True,False
+HSBC México,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.82923985,True,False,True,False
+HSBC México,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.8286081,True,False,True,False
+HSBC México,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.8281245,True,False,True,False
+HSBC México,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8254876,True,False,True,False
+HSBC México,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.82522446,True,False,True,False
+HSBC México,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.8243182,True,False,True,False
+HSBC México,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.8238808,True,False,True,False
+HSBC México,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.82356715,True,False,True,False
+HSBC México,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.8226204,True,False,True,False
+HSBC México,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.82257044,True,False,True,False
+HSBC México,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.82253164,True,False,True,False
+HSBC México,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.82172495,True,False,True,False
+HSBC México,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.82159936,True,False,True,False
+HSBC México,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.82098544,True,False,True,False
+HSBC México,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.82074124,True,False,True,False
+HSBC México,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.82030094,True,False,True,False
+HSBC México,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8198626,True,False,True,False
+HSBC México,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8190496,True,False,True,False
+HSBC México,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.8186573,True,False,True,False
+HSBC México,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.81811786,True,False,True,False
+HSBC México,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.8180696,True,False,True,False
+HSBC México,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8177427,True,False,True,False
+HSBC México,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8175993,True,False,True,False
+HSBC México,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.81691647,True,False,True,False
+HSBC México,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.81681687,True,False,True,False
+HSBC México,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.81657785,True,False,True,False
+HSBC México,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.8155953,True,False,True,False
+HSBC México,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8154228,True,False,True,False
+HSBC México,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.8153855,True,False,True,False
+HSBC México,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8150443,True,False,True,False
+HSBC México,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.8146622,True,False,True,False
+HSBC México,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.81391335,True,False,True,False
+HSBC México,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8128725,True,False,True,False
+HSBC México,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.8127459,True,False,True,False
+HSBC México,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.8125533,True,False,True,False
+HSBC México,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.81252104,True,False,True,False
+HSBC México,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.8120744,True,False,True,False
+HSBC México,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8120343,True,False,True,False
+HSBC México,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.811877,True,False,True,False
+HSBC México,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.81156355,True,False,True,False
+HSBC México,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8113072,True,False,True,False
+HSBC México,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.8109364,True,False,True,False
+HSBC México,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.8107053,True,False,True,False
+HSBC México,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.809892,True,False,True,False
+HSBC México,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.80857223,True,False,True,False
+HSBC México,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.807579,True,False,True,False
+HSBC México,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.80711716,True,False,True,False
+HSBC México,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.80699587,True,False,True,False
+HSBC México,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8065808,True,False,True,False
+HSBC México,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.80650604,True,False,True,False
+HSBC México,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8053432,True,False,True,False
+HSBC México,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.8053385,True,False,True,False
+HSBC México,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.8042884,True,False,True,False
+HSBC México,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.80425775,True,False,True,False
+HSBC México,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8040494,True,False,True,False
+HSBC México,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.8040011,True,False,True,False
+HSBC México,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.80396795,True,False,True,False
+HSBC México,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.80394447,True,False,True,False
+HSBC México,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8038603,True,False,True,False
+HSBC México,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.8036209,True,False,True,False
+HSBC México,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.8035956,True,False,True,False
+HSBC México,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.80330396,True,False,True,False
+HSBC México,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.80298275,True,False,True,False
+HSBC México,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.8027257,True,False,True,False
+HSBC México,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.8026184,True,False,True,False
+HSBC México,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.8024872,True,False,True,False
+HSBC México,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.80224633,True,False,True,False
+HSBC México,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.80200994,True,False,True,False
+HSBC México,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.80182546,True,False,True,False
+HSBC México,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.8014357,True,False,True,False
+HSBC México,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8011999,True,False,True,False
+HSBC México,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.80090576,True,False,True,False
+HSBC México,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.8005818,True,False,True,False
+HSBC México,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.8005431,True,False,True,False
+HSBC México,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7997292,False,False,False,False
+HSBC México,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.79942894,False,False,False,False
+HSBC México,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7988745,False,False,False,False
+HSBC México,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.79886323,False,False,False,False
+HSBC México,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7983461,False,False,False,False
+HSBC México,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.79803157,False,False,False,False
+HSBC México,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.79646456,False,False,False,False
+HSBC México,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7964029,False,False,False,False
+HSBC México,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.7958519,False,False,False,False
+HSBC México,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7953671,False,False,False,False
+HSBC México,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7951462,False,False,False,False
+HSBC México,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.7950187,False,False,False,False
+HSBC México,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.7949313,False,False,False,False
+HSBC México,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.79480064,False,False,False,False
+HSBC México,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7946789,False,False,False,False
+HSBC México,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.79454935,False,False,False,False
+HSBC México,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7944149,False,False,False,False
+HSBC México,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7943685,False,False,False,False
+HSBC México,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.7943081,False,False,False,False
+HSBC México,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7941449,False,False,False,False
+HSBC México,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7935131,False,False,False,False
+HSBC México,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.7934888,False,False,False,False
+HSBC México,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.79300106,False,False,False,False
+HSBC México,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7930004,False,False,False,False
+HSBC México,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.792925,False,False,False,False
+HSBC México,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7928966,False,False,False,False
+HSBC México,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.7927853,False,False,False,False
+HSBC México,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.79247963,False,False,False,False
+HSBC México,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.7919577,False,False,False,False
+HSBC México,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7918613,False,False,False,False
+HSBC México,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.79134244,False,False,False,False
+HSBC México,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7913275,False,False,False,False
+HSBC México,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.7910658,False,False,False,False
+HSBC México,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7906469,False,False,False,False
+HSBC México,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.7904567,False,False,False,False
+HSBC México,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.7903643,False,False,False,False
+HSBC México,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7902707,False,False,False,False
+HSBC México,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.79010063,False,False,False,False
+HSBC México,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.7900461,False,False,False,False
+HSBC México,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7896146,False,False,False,False
+HSBC México,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.78960145,False,False,False,False
+HSBC México,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7894547,False,False,False,False
+HSBC México,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.78938335,False,False,False,False
+HSBC México,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7887957,False,False,False,False
+HSBC México,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7882695,False,False,False,False
+HSBC México,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7880447,False,False,False,False
+HSBC México,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7879258,False,False,False,False
+HSBC México,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.78752595,False,False,False,False
+HSBC México,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7866976,False,False,False,False
+HSBC México,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7866865,False,False,False,False
+HSBC México,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7865499,False,False,False,False
+HSBC México,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.7862623,False,False,False,False
+HSBC México,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7859802,False,False,False,False
+HSBC México,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.78570414,False,False,False,False
+HSBC México,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.7853764,False,False,False,False
+HSBC México,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7853283,False,False,False,False
+HSBC México,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.78516406,False,False,False,False
+HSBC México,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.78494847,False,False,False,False
+HSBC México,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7848171,False,False,False,False
+HSBC México,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.78456277,False,False,False,False
+HSBC México,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.7844546,False,False,False,False
+HSBC México,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7841189,False,False,False,False
+HSBC México,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.78383404,False,False,False,False
+HSBC México,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.78379273,False,False,False,False
+HSBC México,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7835824,False,False,False,False
+HSBC México,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7826467,False,False,False,False
+HSBC México,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7826163,False,False,False,False
+HSBC México,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7821261,False,False,False,False
+HSBC México,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.7819848,False,False,False,False
+HSBC México,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.7819731,False,False,False,False
+HSBC México,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.78143257,False,False,False,False
+HSBC México,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.78135145,False,False,False,False
+HSBC México,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.78118634,False,False,False,False
+HSBC México,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7811023,False,False,False,False
+HSBC México,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.78086746,False,False,False,False
+HSBC México,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7807056,False,False,False,False
+HSBC México,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.7806041,False,False,False,False
+HSBC México,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7803663,False,False,False,False
+HSBC México,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.78016293,False,False,False,False
+HSBC México,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.78012407,False,False,False,False
+HSBC México,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7800778,False,False,False,False
+HSBC México,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7799768,False,False,False,False
+HSBC México,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7794235,False,False,False,False
+HSBC México,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.7792109,False,False,False,False
+HSBC México,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.7790977,False,False,False,False
+HSBC México,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.77868015,False,False,False,False
+HSBC México,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7784367,False,False,False,False
+HSBC México,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.77807724,False,False,False,False
+HSBC México,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7779074,False,False,False,False
+HSBC México,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7771977,False,False,False,False
+HSBC México,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.777155,False,False,False,False
+HSBC México,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.776734,False,False,False,False
+HSBC México,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.77501744,False,False,False,False
+HSBC México,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.77455366,False,False,False,False
+HSBC México,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7744972,False,False,False,False
+HSBC México,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7743237,False,False,False,False
+HSBC México,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.77406067,False,False,False,False
+HSBC México,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.77355474,False,False,False,False
+HSBC México,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7733042,False,False,False,False
+HSBC México,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.77321756,False,False,False,False
+HSBC México,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.77303505,False,False,False,False
+HSBC México,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.77303004,False,False,False,False
+HSBC México,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.7728683,False,False,False,False
+HSBC México,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.77283615,False,False,False,False
+HSBC México,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.7725628,False,False,False,False
+HSBC México,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.77156925,False,False,False,False
+HSBC México,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.77141154,False,False,False,False
+HSBC México,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7712772,False,False,False,False
+HSBC México,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.77093846,False,False,False,False
+HSBC México,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.77041227,False,False,False,False
+HSBC México,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.7699926,False,False,False,False
+HSBC México,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7698791,False,False,False,False
+HSBC México,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7695464,False,False,False,False
+HSBC México,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7693209,False,False,False,False
+HSBC México,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.76906204,False,False,False,False
+HSBC México,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.76892936,False,False,False,False
+HSBC México,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7679869,False,False,False,False
+HSBC México,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.767699,False,False,False,False
+HSBC México,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.767341,False,False,False,False
+HSBC México,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7672572,False,False,False,False
+HSBC México,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.767138,False,False,False,False
+HSBC México,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.7665104,False,False,False,False
+HSBC México,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.7660498,False,False,False,False
+HSBC México,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7659078,False,False,False,False
+HSBC México,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.7657614,False,False,False,False
+HSBC México,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.76566,False,False,False,False
+HSBC México,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7656226,False,False,False,False
+HSBC México,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7653095,False,False,False,False
+HSBC México,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.76518565,False,False,False,False
+HSBC México,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.76510763,False,False,False,False
+HSBC México,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7650307,False,False,False,False
+HSBC México,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.76444143,False,False,False,False
+HSBC México,random_msn-com_20251129T162722.png,RANDOM,unknown,0.76432383,False,False,False,False
+HSBC México,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.7642354,False,False,False,False
+HSBC México,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.76392174,False,False,False,False
+HSBC México,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7636756,False,False,False,False
+HSBC México,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.76332897,False,False,False,False
+HSBC México,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.7631649,False,False,False,False
+HSBC México,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.7630747,False,False,False,False
+HSBC México,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7626693,False,False,False,False
+HSBC México,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.7624923,False,False,False,False
+HSBC México,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.7622522,False,False,False,False
+HSBC México,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.76182926,False,False,False,False
+HSBC México,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7614353,False,False,False,False
+HSBC México,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.76142836,False,False,False,False
+HSBC México,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.76096135,False,False,False,False
+HSBC México,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.76059705,False,False,False,False
+HSBC México,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7603859,False,False,False,False
+HSBC México,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.7601623,False,False,False,False
+HSBC México,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.75996053,False,False,False,False
+HSBC México,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.759807,False,False,False,False
+HSBC México,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.7597224,False,False,False,False
+HSBC México,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.75969195,False,False,False,False
+HSBC México,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.75956404,False,False,False,False
+HSBC México,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.7593954,False,False,False,False
+HSBC México,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.7593463,False,False,False,False
+HSBC México,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.75831735,False,False,False,False
+HSBC México,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7580767,False,False,False,False
+HSBC México,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.75789297,False,False,False,False
+HSBC México,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.7575288,False,False,False,False
+HSBC México,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7573366,False,False,False,False
+HSBC México,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.7573233,False,False,False,False
+HSBC México,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.75720084,False,False,False,False
+HSBC México,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.75700593,False,False,False,False
+HSBC México,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.7568014,False,False,False,False
+HSBC México,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.7560953,False,False,False,False
+HSBC México,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.75598514,False,False,False,False
+HSBC México,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.75598,False,False,False,False
+HSBC México,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.75576985,False,False,False,False
+HSBC México,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7557163,False,False,False,False
+HSBC México,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.7556684,False,False,False,False
+HSBC México,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7556244,False,False,False,False
+HSBC México,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.7552536,False,False,False,False
+HSBC México,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.7547046,False,False,False,False
+HSBC México,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.75469756,False,False,False,False
+HSBC México,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.75425434,False,False,False,False
+HSBC México,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7542425,False,False,False,False
+HSBC México,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.7535154,False,False,False,False
+HSBC México,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.7529409,False,False,False,False
+HSBC México,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.75241333,False,False,False,False
+HSBC México,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.75235236,False,False,False,False
+HSBC México,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.75172687,False,False,False,False
+HSBC México,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.75133944,False,False,False,False
+HSBC México,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.7511314,False,False,False,False
+HSBC México,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.7510004,False,False,False,False
+HSBC México,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7507106,False,False,False,False
+HSBC México,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7506548,False,False,False,False
+HSBC México,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7505897,False,False,False,False
+HSBC México,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.75041455,False,False,False,False
+HSBC México,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.7502051,False,False,False,False
+HSBC México,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.7500323,False,False,False,False
+HSBC México,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.74915516,False,False,False,False
+HSBC México,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.74913,False,False,False,False
+HSBC México,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7490818,False,False,False,False
+HSBC México,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7487901,False,False,False,False
+HSBC México,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.74725163,False,False,False,False
+HSBC México,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.7465961,False,False,False,False
+HSBC México,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.7459403,False,False,False,False
+HSBC México,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.74580336,False,False,False,False
+HSBC México,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.74545515,False,False,False,False
+HSBC México,random_weather-com_20251129T164102.png,RANDOM,unknown,0.74329245,False,False,False,False
+HSBC México,random_change-org_20251129T173929.png,RANDOM,unknown,0.7427501,False,False,False,False
+HSBC México,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.7422278,False,False,False,False
+HSBC México,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7420475,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.74196815,False,False,False,False
+HSBC México,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.74193776,False,False,False,False
+HSBC México,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7416318,False,False,False,False
+HSBC México,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.7415888,False,False,False,False
+HSBC México,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7415526,False,False,False,False
+HSBC México,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.7413557,False,False,False,False
+HSBC México,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.74122417,False,False,False,False
+HSBC México,random_google-com_20251129T162253.png,RANDOM,unknown,0.7411859,False,False,False,False
+HSBC México,random_hp-com_20251129T164248.png,RANDOM,unknown,0.7409714,False,False,False,False
+HSBC México,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.74094266,False,False,False,False
+HSBC México,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7408179,False,False,False,False
+HSBC México,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.74081624,False,False,False,False
+HSBC México,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7408108,False,False,False,False
+HSBC México,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.74074966,False,False,False,False
+HSBC México,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.74065256,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7406276,False,False,False,False
+HSBC México,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.7405589,False,False,False,False
+HSBC México,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.74055433,False,False,False,False
+HSBC México,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.73912334,False,False,False,False
+HSBC México,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7387327,False,False,False,False
+HSBC México,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.73837894,False,False,False,False
+HSBC México,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7381967,False,False,False,False
+HSBC México,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.7380211,False,False,False,False
+HSBC México,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7377269,False,False,False,False
+HSBC México,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.7374867,False,False,False,False
+HSBC México,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.7371697,False,False,False,False
+HSBC México,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.7365382,False,False,False,False
+HSBC México,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7365345,False,False,False,False
+HSBC México,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.7363874,False,False,False,False
+HSBC México,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.73615503,False,False,False,False
+HSBC México,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.73610806,False,False,False,False
+HSBC México,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.73605144,False,False,False,False
+HSBC México,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.7356203,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.73535836,False,False,False,False
+HSBC México,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7352145,False,False,False,False
+HSBC México,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.735143,False,False,False,False
+HSBC México,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.7342943,False,False,False,False
+HSBC México,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7340894,False,False,False,False
+HSBC México,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.73403215,False,False,False,False
+HSBC México,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7337763,False,False,False,False
+HSBC México,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.7330417,False,False,False,False
+HSBC México,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7326507,False,False,False,False
+HSBC México,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.7320452,False,False,False,False
+HSBC México,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7319186,False,False,False,False
+HSBC México,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.73170817,False,False,False,False
+HSBC México,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.7313565,False,False,False,False
+HSBC México,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.7310951,False,False,False,False
+HSBC México,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7309326,False,False,False,False
+HSBC México,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.73025894,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7300606,False,False,False,False
+HSBC México,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.7300036,False,False,False,False
+HSBC México,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.72969085,False,False,False,False
+HSBC México,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.7294049,False,False,False,False
+HSBC México,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.7292158,False,False,False,False
+HSBC México,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.72917664,False,False,False,False
+HSBC México,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.72876054,False,False,False,False
+HSBC México,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.72867703,False,False,False,False
+HSBC México,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.7281157,False,False,False,False
+HSBC México,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7280125,False,False,False,False
+HSBC México,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.72772384,False,False,False,False
+HSBC México,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.726974,False,False,False,False
+HSBC México,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7267908,False,False,False,False
+HSBC México,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7266737,False,False,False,False
+HSBC México,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.72633743,False,False,False,False
+HSBC México,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.7256577,False,False,False,False
+HSBC México,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.72539324,False,False,False,False
+HSBC México,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.72504324,False,False,False,False
+HSBC México,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7245439,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7243273,False,False,False,False
+HSBC México,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.72375965,False,False,False,False
+HSBC México,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.7237177,False,False,False,False
+HSBC México,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.72353625,False,False,False,False
+HSBC México,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.723423,False,False,False,False
+HSBC México,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.72251725,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.72185147,False,False,False,False
+HSBC México,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7216148,False,False,False,False
+HSBC México,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7211443,False,False,False,False
+HSBC México,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.72092813,False,False,False,False
+HSBC México,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.71965075,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.719282,False,False,False,False
+HSBC México,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.71888435,False,False,False,False
+HSBC México,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7188666,False,False,False,False
+HSBC México,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.71659553,False,False,False,False
+HSBC México,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.71654207,False,False,False,False
+HSBC México,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.7163108,False,False,False,False
+HSBC México,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.71617913,False,False,False,False
+HSBC México,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.7161026,False,False,False,False
+HSBC México,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.71592236,False,False,False,False
+HSBC México,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7157968,False,False,False,False
+HSBC México,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.7146063,False,False,False,False
+HSBC México,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.7144565,False,False,False,False
+HSBC México,random_figma-com_20251129T173914.png,RANDOM,unknown,0.71435213,False,False,False,False
+HSBC México,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.71399194,False,False,False,False
+HSBC México,random_intel-com_20251129T171229.png,RANDOM,unknown,0.713138,False,False,False,False
+HSBC México,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.7130321,False,False,False,False
+HSBC México,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.7129383,False,False,False,False
+HSBC México,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.71280324,False,False,False,False
+HSBC México,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7118987,False,False,False,False
+HSBC México,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.7110545,False,False,False,False
+HSBC México,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.71095115,False,False,False,False
+HSBC México,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.71071416,False,False,False,False
+HSBC México,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.7094505,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.7093299,False,False,False,False
+HSBC México,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.7092247,False,False,False,False
+HSBC México,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.7091423,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.70913565,False,False,False,False
+HSBC México,random_naver-com_20251129T164929.png,RANDOM,unknown,0.7077394,False,False,False,False
+HSBC México,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.7074652,False,False,False,False
+HSBC México,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.70743895,False,False,False,False
+HSBC México,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.7072231,False,False,False,False
+HSBC México,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.70713025,False,False,False,False
+HSBC México,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.706843,False,False,False,False
+HSBC México,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.7066988,False,False,False,False
+HSBC México,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.7065002,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.70616055,False,False,False,False
+HSBC México,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.70577127,False,False,False,False
+HSBC México,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.70572406,False,False,False,False
+HSBC México,random_marca-com_20251129T175532.png,RANDOM,unknown,0.70484674,False,False,False,False
+HSBC México,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.70452297,False,False,False,False
+HSBC México,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.70450646,False,False,False,False
+HSBC México,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.7039623,False,False,False,False
+HSBC México,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.70359725,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.70273787,False,False,False,False
+HSBC México,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.7023745,False,False,False,False
+HSBC México,random_g-page_20251129T170201.png,RANDOM,unknown,0.7020246,False,False,False,False
+HSBC México,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.7016424,False,False,False,False
+HSBC México,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7016267,False,False,False,False
+HSBC México,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.7006119,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.70051646,False,False,False,False
+HSBC México,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.700167,False,False,False,False
+HSBC México,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.69935817,False,False,False,False
+HSBC México,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6992666,False,False,False,False
+HSBC México,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.69888496,False,False,False,False
+HSBC México,random_note-com_20251129T174642.png,RANDOM,unknown,0.6985866,False,False,False,False
+HSBC México,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.69849443,False,False,False,False
+HSBC México,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6974259,False,False,False,False
+HSBC México,random_jd-com_20251129T174954.png,RANDOM,unknown,0.6968788,False,False,False,False
+HSBC México,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6968091,False,False,False,False
+HSBC México,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6962787,False,False,False,False
+HSBC México,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.6960194,False,False,False,False
+HSBC México,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.6959528,False,False,False,False
+HSBC México,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.69580287,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6956133,False,False,False,False
+HSBC México,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6956018,False,False,False,False
+HSBC México,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6955692,False,False,False,False
+HSBC México,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.69548094,False,False,False,False
+HSBC México,random_canva-com_20251129T164231.png,RANDOM,unknown,0.69490194,False,False,False,False
+HSBC México,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.69477844,False,False,False,False
+HSBC México,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.6940643,False,False,False,False
+HSBC México,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.69400436,False,False,False,False
+HSBC México,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6930665,False,False,False,False
+HSBC México,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.6921157,False,False,False,False
+HSBC México,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6920123,False,False,False,False
+HSBC México,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.69199526,False,False,False,False
+HSBC México,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6918831,False,False,False,False
+HSBC México,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.69096535,False,False,False,False
+HSBC México,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.6900207,False,False,False,False
+HSBC México,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.69000983,False,False,False,False
+HSBC México,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6898483,False,False,False,False
+HSBC México,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.68981826,False,False,False,False
+HSBC México,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.68976885,False,False,False,False
+HSBC México,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6893418,False,False,False,False
+HSBC México,random_viber-com_20251129T172210.png,RANDOM,unknown,0.6890842,False,False,False,False
+HSBC México,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.6890597,False,False,False,False
+HSBC México,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.68905187,False,False,False,False
+HSBC México,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.6890236,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.68888855,False,False,False,False
+HSBC México,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6886201,False,False,False,False
+HSBC México,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.68842816,False,False,False,False
+HSBC México,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.68797886,False,False,False,False
+HSBC México,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6872997,False,False,False,False
+HSBC México,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.68666315,False,False,False,False
+HSBC México,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.68665147,False,False,False,False
+HSBC México,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.68645114,False,False,False,False
+HSBC México,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.685296,False,False,False,False
+HSBC México,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.6850994,False,False,False,False
+HSBC México,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.68480587,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6845386,False,False,False,False
+HSBC México,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.68412054,False,False,False,False
+HSBC México,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.6839231,False,False,False,False
+HSBC México,random_wix-com_20251129T171207.png,RANDOM,unknown,0.6838626,False,False,False,False
+HSBC México,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.68382657,False,False,False,False
+HSBC México,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.6834998,False,False,False,False
+HSBC México,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.6833045,False,False,False,False
+HSBC México,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.68228847,False,False,False,False
+HSBC México,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.68181473,False,False,False,False
+HSBC México,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.6811936,False,False,False,False
+HSBC México,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.680567,False,False,False,False
+HSBC México,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.6800926,False,False,False,False
+HSBC México,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.6795539,False,False,False,False
+HSBC México,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.6793968,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6792486,False,False,False,False
+HSBC México,random_gov-br_20251129T174615.png,RANDOM,unknown,0.67905766,False,False,False,False
+HSBC México,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.6789105,False,False,False,False
+HSBC México,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.678644,False,False,False,False
+HSBC México,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.6779921,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6777539,False,False,False,False
+HSBC México,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.6776678,False,False,False,False
+HSBC México,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.67669404,False,False,False,False
+HSBC México,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.67666835,False,False,False,False
+HSBC México,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.67618906,False,False,False,False
+HSBC México,random_avast-com_20251129T164855.png,RANDOM,unknown,0.676023,False,False,False,False
+HSBC México,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.6755136,False,False,False,False
+HSBC México,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.6753888,False,False,False,False
+HSBC México,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6752188,False,False,False,False
+HSBC México,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.67478096,False,False,False,False
+HSBC México,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.67443764,False,False,False,False
+HSBC México,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.6741526,False,False,False,False
+HSBC México,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.6738633,False,False,False,False
+HSBC México,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.67321336,False,False,False,False
+HSBC México,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.6731777,False,False,False,False
+HSBC México,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.6731019,False,False,False,False
+HSBC México,random_focus-de_20251129T175031.png,RANDOM,unknown,0.6729124,False,False,False,False
+HSBC México,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.67264575,False,False,False,False
+HSBC México,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.67192674,False,False,False,False
+HSBC México,random_vk-com_20251129T163202.png,RANDOM,unknown,0.67182654,False,False,False,False
+HSBC México,random_temu-com_20251129T165219.png,RANDOM,unknown,0.6708168,False,False,False,False
+HSBC México,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.6707433,False,False,False,False
+HSBC México,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6705261,False,False,False,False
+HSBC México,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.67046666,False,False,False,False
+HSBC México,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.6701791,False,False,False,False
+HSBC México,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.67016816,False,False,False,False
+HSBC México,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.6698913,False,False,False,False
+HSBC México,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.6695652,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.66947347,False,False,False,False
+HSBC México,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6690975,False,False,False,False
+HSBC México,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.66908747,False,False,False,False
+HSBC México,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.66894823,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6685699,False,False,False,False
+HSBC México,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.6685152,False,False,False,False
+HSBC México,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.66848457,False,False,False,False
+HSBC México,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6682044,False,False,False,False
+HSBC México,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.66812027,False,False,False,False
+HSBC México,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.6678213,False,False,False,False
+HSBC México,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.66731846,False,False,False,False
+HSBC México,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.66699994,False,False,False,False
+HSBC México,random_g-co_20251129T171804.png,RANDOM,unknown,0.6656159,False,False,False,False
+HSBC México,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6652087,False,False,False,False
+HSBC México,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.66513026,False,False,False,False
+HSBC México,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.66502446,False,False,False,False
+HSBC México,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6649967,False,False,False,False
+HSBC México,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.6644884,False,False,False,False
+HSBC México,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.6644109,False,False,False,False
+HSBC México,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6641465,False,False,False,False
+HSBC México,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.66414154,False,False,False,False
+HSBC México,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.66337204,False,False,False,False
+HSBC México,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.66329825,False,False,False,False
+HSBC México,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6630074,False,False,False,False
+HSBC México,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.66265744,False,False,False,False
+HSBC México,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.66258687,False,False,False,False
+HSBC México,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.6625832,False,False,False,False
+HSBC México,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.662463,False,False,False,False
+HSBC México,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.66218144,False,False,False,False
+HSBC México,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.66212493,False,False,False,False
+HSBC México,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.66210026,False,False,False,False
+HSBC México,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.66189754,False,False,False,False
+HSBC México,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.66146183,False,False,False,False
+HSBC México,random_ring-com_20251129T172743.png,RANDOM,unknown,0.661394,False,False,False,False
+HSBC México,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6613116,False,False,False,False
+HSBC México,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.6611276,False,False,False,False
+HSBC México,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.6597203,False,False,False,False
+HSBC México,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6594442,False,False,False,False
+HSBC México,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.6593944,False,False,False,False
+HSBC México,random_xing-com_20251129T175042.png,RANDOM,unknown,0.6585834,False,False,False,False
+HSBC México,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.6580551,False,False,False,False
+HSBC México,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.65793514,False,False,False,False
+HSBC México,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.6579,False,False,False,False
+HSBC México,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.65752125,False,False,False,False
+HSBC México,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.6574904,False,False,False,False
+HSBC México,random_daum-net_20251129T174537.png,RANDOM,unknown,0.6572912,False,False,False,False
+HSBC México,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.65694386,False,False,False,False
+HSBC México,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.6569243,False,False,False,False
+HSBC México,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.65664923,False,False,False,False
+HSBC México,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.65622336,False,False,False,False
+HSBC México,random_github-io_20251129T163235.png,RANDOM,unknown,0.65595293,False,False,False,False
+HSBC México,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.6557745,False,False,False,False
+HSBC México,random_cox-net_20251129T170452.png,RANDOM,unknown,0.6552682,False,False,False,False
+HSBC México,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.65511245,False,False,False,False
+HSBC México,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6551118,False,False,False,False
+HSBC México,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.65479934,False,False,False,False
+HSBC México,random_w3-org_20251129T163751.png,RANDOM,unknown,0.6543847,False,False,False,False
+HSBC México,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.65378535,False,False,False,False
+HSBC México,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.6536816,False,False,False,False
+HSBC México,random_example-com_20251129T163930.png,RANDOM,unknown,0.6535753,False,False,False,False
+HSBC México,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.6533561,False,False,False,False
+HSBC México,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.65332615,False,False,False,False
+HSBC México,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.6532121,False,False,False,False
+HSBC México,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.6530384,False,False,False,False
+HSBC México,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.6520083,False,False,False,False
+HSBC México,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.65199584,False,False,False,False
+HSBC México,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.65151685,False,False,False,False
+HSBC México,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.6498269,False,False,False,False
+HSBC México,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.64977145,False,False,False,False
+HSBC México,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.6497505,False,False,False,False
+HSBC México,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.6497383,False,False,False,False
+HSBC México,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.649614,False,False,False,False
+HSBC México,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.6494938,False,False,False,False
+HSBC México,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.6492125,False,False,False,False
+HSBC México,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.64891016,False,False,False,False
+HSBC México,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.64868414,False,False,False,False
+HSBC México,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.6484022,False,False,False,False
+HSBC México,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.64829195,False,False,False,False
+HSBC México,random_statista-com_20251129T165822.png,RANDOM,unknown,0.6482369,False,False,False,False
+HSBC México,random_welt-de_20251129T173821.png,RANDOM,unknown,0.6481978,False,False,False,False
+HSBC México,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6481756,False,False,False,False
+HSBC México,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.6481157,False,False,False,False
+HSBC México,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.6479728,False,False,False,False
+HSBC México,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.64773643,False,False,False,False
+HSBC México,random_apa-org_20251129T180433.png,RANDOM,unknown,0.64770037,False,False,False,False
+HSBC México,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.6471172,False,False,False,False
+HSBC México,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.6470624,False,False,False,False
+HSBC México,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.64700854,False,False,False,False
+HSBC México,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.6465515,False,False,False,False
+HSBC México,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.64644986,False,False,False,False
+HSBC México,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.6457448,False,False,False,False
+HSBC México,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.6456036,False,False,False,False
+HSBC México,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.645427,False,False,False,False
+HSBC México,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.6450337,False,False,False,False
+HSBC México,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.64452976,False,False,False,False
+HSBC México,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.64292085,False,False,False,False
+HSBC México,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.64277387,False,False,False,False
+HSBC México,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.6424358,False,False,False,False
+HSBC México,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.6423801,False,False,False,False
+HSBC México,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.64236915,False,False,False,False
+HSBC México,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.6421779,False,False,False,False
+HSBC México,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6421548,False,False,False,False
+HSBC México,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.64183056,False,False,False,False
+HSBC México,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.6416334,False,False,False,False
+HSBC México,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.6415971,False,False,False,False
+HSBC México,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.64128923,False,False,False,False
+HSBC México,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6408266,False,False,False,False
+HSBC México,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.640799,False,False,False,False
+HSBC México,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.64044,False,False,False,False
+HSBC México,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.64037395,False,False,False,False
+HSBC México,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.6400327,False,False,False,False
+HSBC México,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.6397654,False,False,False,False
+HSBC México,random_discord-media_20251129T170414.png,RANDOM,unknown,0.6397009,False,False,False,False
+HSBC México,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.63956314,False,False,False,False
+HSBC México,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.63917464,False,False,False,False
+HSBC México,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.6389913,False,False,False,False
+HSBC México,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.63897276,False,False,False,False
+HSBC México,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.6382294,False,False,False,False
+HSBC México,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.63815695,False,False,False,False
+HSBC México,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.6379845,False,False,False,False
+HSBC México,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.63758993,False,False,False,False
+HSBC México,random_segment-io_20251129T174400.png,RANDOM,unknown,0.63741404,False,False,False,False
+HSBC México,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6373999,False,False,False,False
+HSBC México,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.6371517,False,False,False,False
+HSBC México,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.6371139,False,False,False,False
+HSBC México,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.63709164,False,False,False,False
+HSBC México,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.63670564,False,False,False,False
+HSBC México,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.63663393,False,False,False,False
+HSBC México,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.636095,False,False,False,False
+HSBC México,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.635939,False,False,False,False
+HSBC México,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.6356813,False,False,False,False
+HSBC México,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.63558376,False,False,False,False
+HSBC México,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.6354604,False,False,False,False
+HSBC México,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.6350194,False,False,False,False
+HSBC México,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6349641,False,False,False,False
+HSBC México,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.63486755,False,False,False,False
+HSBC México,random_tds-net_20251129T174115.png,RANDOM,unknown,0.63433516,False,False,False,False
+HSBC México,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.63400364,False,False,False,False
+HSBC México,random_ui-com_20251129T163127.png,RANDOM,unknown,0.6338756,False,False,False,False
+HSBC México,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.63385934,False,False,False,False
+HSBC México,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.6337463,False,False,False,False
+HSBC México,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.6337013,False,False,False,False
+HSBC México,random_brave-com_20251129T172325.png,RANDOM,unknown,0.6335358,False,False,False,False
+HSBC México,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.6334531,False,False,False,False
+HSBC México,random_substack-com_20251129T171941.png,RANDOM,unknown,0.6334467,False,False,False,False
+HSBC México,random_springer-com_20251129T164823.png,RANDOM,unknown,0.6332898,False,False,False,False
+HSBC México,random_one-one_20251129T163318.png,RANDOM,unknown,0.6330383,False,False,False,False
+HSBC México,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.63187456,False,False,False,False
+HSBC México,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.63181764,False,False,False,False
+HSBC México,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.63178843,False,False,False,False
+HSBC México,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.63160205,False,False,False,False
+HSBC México,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.6315564,False,False,False,False
+HSBC México,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.63130045,False,False,False,False
+HSBC México,random_web-de_20251129T175220.png,RANDOM,unknown,0.630919,False,False,False,False
+HSBC México,random_nature-com_20251129T164547.png,RANDOM,unknown,0.63069654,False,False,False,False
+HSBC México,random_office365-com_20251129T162902.png,RANDOM,unknown,0.63067037,False,False,False,False
+HSBC México,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.63063836,False,False,False,False
+HSBC México,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.6305542,False,False,False,False
+HSBC México,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.63052654,False,False,False,False
+HSBC México,random_live-com_20251129T162413.png,RANDOM,unknown,0.6301952,False,False,False,False
+HSBC México,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.6295371,False,False,False,False
+HSBC México,random_character-ai_20251129T174433.png,RANDOM,unknown,0.6292961,False,False,False,False
+HSBC México,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.6292489,False,False,False,False
+HSBC México,random_split-io_20251129T175048.png,RANDOM,unknown,0.6292193,False,False,False,False
+HSBC México,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.6287321,False,False,False,False
+HSBC México,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.6283313,False,False,False,False
+HSBC México,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.62831753,False,False,False,False
+HSBC México,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.62829506,False,False,False,False
+HSBC México,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.62818056,False,False,False,False
+HSBC México,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.6280577,False,False,False,False
+HSBC México,random_media-net_20251129T164538.png,RANDOM,unknown,0.62782514,False,False,False,False
+HSBC México,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.6277396,False,False,False,False
+HSBC México,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.62766147,False,False,False,False
+HSBC México,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.62635195,False,False,False,False
+HSBC México,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.62553954,False,False,False,False
+HSBC México,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.62507784,False,False,False,False
+HSBC México,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.62475115,False,False,False,False
+HSBC México,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.6244434,False,False,False,False
+HSBC México,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6240531,False,False,False,False
+HSBC México,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.6240327,False,False,False,False
+HSBC México,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.62372226,False,False,False,False
+HSBC México,random_finn-no_20251129T180303.png,RANDOM,unknown,0.62312233,False,False,False,False
+HSBC México,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.6231202,False,False,False,False
+HSBC México,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.6231176,False,False,False,False
+HSBC México,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.6230992,False,False,False,False
+HSBC México,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.6229043,False,False,False,False
+HSBC México,random_t-co_20251129T163912.png,RANDOM,unknown,0.6228113,False,False,False,False
+HSBC México,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.62280047,False,False,False,False
+HSBC México,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.62278676,False,False,False,False
+HSBC México,random_bild-de_20251129T173827.png,RANDOM,unknown,0.62271947,False,False,False,False
+HSBC México,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.62220734,False,False,False,False
+HSBC México,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6221421,False,False,False,False
+HSBC México,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.62214136,False,False,False,False
+HSBC México,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.62209994,False,False,False,False
+HSBC México,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.6219696,False,False,False,False
+HSBC México,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.6216708,False,False,False,False
+HSBC México,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.6216213,False,False,False,False
+HSBC México,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.62139964,False,False,False,False
+HSBC México,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.6213541,False,False,False,False
+HSBC México,random_google-cn_20251129T172939.png,RANDOM,unknown,0.6211196,False,False,False,False
+HSBC México,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.6210987,False,False,False,False
+HSBC México,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.62091947,False,False,False,False
+HSBC México,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.62087166,False,False,False,False
+HSBC México,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.62081176,False,False,False,False
+HSBC México,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.62079275,False,False,False,False
+HSBC México,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6207674,False,False,False,False
+HSBC México,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.62046933,False,False,False,False
+HSBC México,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.62044823,False,False,False,False
+HSBC México,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.6204208,False,False,False,False
+HSBC México,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.62040764,False,False,False,False
+HSBC México,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.6204071,False,False,False,False
+HSBC México,random_miui-com_20251129T163719.png,RANDOM,unknown,0.6202032,False,False,False,False
+HSBC México,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.62015533,False,False,False,False
+HSBC México,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.61955047,False,False,False,False
+HSBC México,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.61952794,False,False,False,False
+HSBC México,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.61861724,False,False,False,False
+HSBC México,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.61838734,False,False,False,False
+HSBC México,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.6181387,False,False,False,False
+HSBC México,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.6175484,False,False,False,False
+HSBC México,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.6174876,False,False,False,False
+HSBC México,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.61710775,False,False,False,False
+HSBC México,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.6167706,False,False,False,False
+HSBC México,random_moe-video_20251129T164430.png,RANDOM,unknown,0.6166693,False,False,False,False
+HSBC México,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.6166048,False,False,False,False
+HSBC México,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.61637074,False,False,False,False
+HSBC México,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.61601543,False,False,False,False
+HSBC México,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.6158244,False,False,False,False
+HSBC México,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.6157798,False,False,False,False
+HSBC México,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.6157124,False,False,False,False
+HSBC México,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.615551,False,False,False,False
+HSBC México,random_slack-com_20251129T164623.png,RANDOM,unknown,0.6155096,False,False,False,False
+HSBC México,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.61536986,False,False,False,False
+HSBC México,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.61530006,False,False,False,False
+HSBC México,random_android-com_20251129T163812.png,RANDOM,unknown,0.6151631,False,False,False,False
+HSBC México,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.61474675,False,False,False,False
+HSBC México,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.6144958,False,False,False,False
+HSBC México,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.6140038,False,False,False,False
+HSBC México,random_wise-com_20251129T180312.png,RANDOM,unknown,0.6139257,False,False,False,False
+HSBC México,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.6138571,False,False,False,False
+HSBC México,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.61384857,False,False,False,False
+HSBC México,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.61370295,False,False,False,False
+HSBC México,random_abc-es_20251129T175348.png,RANDOM,unknown,0.6134824,False,False,False,False
+HSBC México,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.6133547,False,False,False,False
+HSBC México,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.6133295,False,False,False,False
+HSBC México,random_booking-com_20251129T164752.png,RANDOM,unknown,0.61294246,False,False,False,False
+HSBC México,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.6124796,False,False,False,False
+HSBC México,random_skype-com_20251129T162718.png,RANDOM,unknown,0.61230004,False,False,False,False
+HSBC México,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.612092,False,False,False,False
+HSBC México,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.6118654,False,False,False,False
+HSBC México,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.6118494,False,False,False,False
+HSBC México,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.61111444,False,False,False,False
+HSBC México,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.6107588,False,False,False,False
+HSBC México,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.61055565,False,False,False,False
+HSBC México,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.61055076,False,False,False,False
+HSBC México,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.61047256,False,False,False,False
+HSBC México,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.61043906,False,False,False,False
+HSBC México,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.61020386,False,False,False,False
+HSBC México,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.609726,False,False,False,False
+HSBC México,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.60957956,False,False,False,False
+HSBC México,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.6088029,False,False,False,False
+HSBC México,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.6086324,False,False,False,False
+HSBC México,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.6083728,False,False,False,False
+HSBC México,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.60754037,False,False,False,False
+HSBC México,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.6074308,False,False,False,False
+HSBC México,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.60714483,False,False,False,False
+HSBC México,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.60700107,False,False,False,False
+HSBC México,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.60692525,False,False,False,False
+HSBC México,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.6069044,False,False,False,False
+HSBC México,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.60668635,False,False,False,False
+HSBC México,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.6063919,False,False,False,False
+HSBC México,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.6062226,False,False,False,False
+HSBC México,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.6060389,False,False,False,False
+HSBC México,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.60595167,False,False,False,False
+HSBC México,random_synology-com_20251129T173948.png,RANDOM,unknown,0.6058502,False,False,False,False
+HSBC México,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.60582113,False,False,False,False
+HSBC México,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.6057964,False,False,False,False
+HSBC México,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.6056609,False,False,False,False
+HSBC México,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.60548043,False,False,False,False
+HSBC México,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.60528785,False,False,False,False
+HSBC México,random_windows-com_20251129T163112.png,RANDOM,unknown,0.6050844,False,False,False,False
+HSBC México,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.6049895,False,False,False,False
+HSBC México,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6048916,False,False,False,False
+HSBC México,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.60489047,False,False,False,False
+HSBC México,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.6047897,False,False,False,False
+HSBC México,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.6047674,False,False,False,False
+HSBC México,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.60444,False,False,False,False
+HSBC México,random_att-net_20251129T170227.png,RANDOM,unknown,0.603261,False,False,False,False
+HSBC México,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.603181,False,False,False,False
+HSBC México,random_dns-google_20251129T163231.png,RANDOM,unknown,0.60300493,False,False,False,False
+HSBC México,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.60257936,False,False,False,False
+HSBC México,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.6024537,False,False,False,False
+HSBC México,random_php-net_20251129T164521.png,RANDOM,unknown,0.60233974,False,False,False,False
+HSBC México,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.60168135,False,False,False,False
+HSBC México,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.6015994,False,False,False,False
+HSBC México,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.60157955,False,False,False,False
+HSBC México,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.60136753,False,False,False,False
+HSBC México,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.6013353,False,False,False,False
+HSBC México,random_erome-com_20251129T165107.png,RANDOM,unknown,0.6013352,False,False,False,False
+HSBC México,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.6013253,False,False,False,False
+HSBC México,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.6012968,False,False,False,False
+HSBC México,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.60115397,False,False,False,False
+HSBC México,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.6008824,False,False,False,False
+HSBC México,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.60068583,False,False,False,False
+HSBC México,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.5999262,False,False,False,False
+HSBC México,random_linode-com_20251129T173059.png,RANDOM,unknown,0.5998403,False,False,False,False
+HSBC México,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.59978414,False,False,False,False
+HSBC México,random_uber-com_20251129T170129.png,RANDOM,unknown,0.59950656,False,False,False,False
+HSBC México,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5994636,False,False,False,False
+HSBC México,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.5989913,False,False,False,False
+HSBC México,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.59868205,False,False,False,False
+HSBC México,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.5985102,False,False,False,False
+HSBC México,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.598025,False,False,False,False
+HSBC México,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.59800696,False,False,False,False
+HSBC México,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.5977091,False,False,False,False
+HSBC México,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.5974249,False,False,False,False
+HSBC México,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.59720314,False,False,False,False
+HSBC México,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.59717166,False,False,False,False
+HSBC México,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.59673786,False,False,False,False
+HSBC México,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.5967332,False,False,False,False
+HSBC México,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.59665334,False,False,False,False
+HSBC México,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.5963364,False,False,False,False
+HSBC México,random_opera-com_20251129T163028.png,RANDOM,unknown,0.5963151,False,False,False,False
+HSBC México,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.59630156,False,False,False,False
+HSBC México,random_trello-com_20251129T180351.png,RANDOM,unknown,0.59623474,False,False,False,False
+HSBC México,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.5961418,False,False,False,False
+HSBC México,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.59613705,False,False,False,False
+HSBC México,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.59571105,False,False,False,False
+HSBC México,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.59558326,False,False,False,False
+HSBC México,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.59532833,False,False,False,False
+HSBC México,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.59507024,False,False,False,False
+HSBC México,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.5947287,False,False,False,False
+HSBC México,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.59466094,False,False,False,False
+HSBC México,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.59464765,False,False,False,False
+HSBC México,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.5939318,False,False,False,False
+HSBC México,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.5939081,False,False,False,False
+HSBC México,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.5925219,False,False,False,False
+HSBC México,random_eset-com_20251129T171424.png,RANDOM,unknown,0.5924045,False,False,False,False
+HSBC México,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.5921585,False,False,False,False
+HSBC México,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.5921093,False,False,False,False
+HSBC México,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.5917987,False,False,False,False
+HSBC México,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.5914,False,False,False,False
+HSBC México,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.5911576,False,False,False,False
+HSBC México,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.5909425,False,False,False,False
+HSBC México,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.5903221,False,False,False,False
+HSBC México,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.5901372,False,False,False,False
+HSBC México,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.5898999,False,False,False,False
+HSBC México,random_docker-com_20251129T170827.png,RANDOM,unknown,0.5895047,False,False,False,False
+HSBC México,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5893717,False,False,False,False
+HSBC México,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.5893176,False,False,False,False
+HSBC México,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.5891985,False,False,False,False
+HSBC México,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.5890833,False,False,False,False
+HSBC México,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.58896863,False,False,False,False
+HSBC México,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.5887113,False,False,False,False
+HSBC México,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.58839077,False,False,False,False
+HSBC México,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.58831954,False,False,False,False
+HSBC México,random_okta-com_20251129T171946.png,RANDOM,unknown,0.5881878,False,False,False,False
+HSBC México,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.5874702,False,False,False,False
+HSBC México,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.5873922,False,False,False,False
+HSBC México,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.58732176,False,False,False,False
+HSBC México,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.5866158,False,False,False,False
+HSBC México,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.58648294,False,False,False,False
+HSBC México,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.5862422,False,False,False,False
+HSBC México,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.5862277,False,False,False,False
+HSBC México,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.5857697,False,False,False,False
+HSBC México,random_globo-com_20251129T165541.png,RANDOM,unknown,0.5856007,False,False,False,False
+HSBC México,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.5855124,False,False,False,False
+HSBC México,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.58528227,False,False,False,False
+HSBC México,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.5852445,False,False,False,False
+HSBC México,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.58502495,False,False,False,False
+HSBC México,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.5849056,False,False,False,False
+HSBC México,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.5847928,False,False,False,False
+HSBC México,random_name-com_20251129T171101.png,RANDOM,unknown,0.58458674,False,False,False,False
+HSBC México,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.58409,False,False,False,False
+HSBC México,random_target-com_20251129T171437.png,RANDOM,unknown,0.58388704,False,False,False,False
+HSBC México,random_att-com_20251129T180955.png,RANDOM,unknown,0.58351845,False,False,False,False
+HSBC México,random_aol-com_20251129T170152.png,RANDOM,unknown,0.58347297,False,False,False,False
+HSBC México,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5834213,False,False,False,False
+HSBC México,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.58325773,False,False,False,False
+HSBC México,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.5828988,False,False,False,False
+HSBC México,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.58229953,False,False,False,False
+HSBC México,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.58217263,False,False,False,False
+HSBC México,random_qq-com_20251129T162834.png,RANDOM,unknown,0.58201295,False,False,False,False
+HSBC México,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5818285,False,False,False,False
+HSBC México,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5816436,False,False,False,False
+HSBC México,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.581527,False,False,False,False
+HSBC México,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.58147985,False,False,False,False
+HSBC México,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.58138573,False,False,False,False
+HSBC México,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.58125454,False,False,False,False
+HSBC México,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.5812404,False,False,False,False
+HSBC México,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.58102894,False,False,False,False
+HSBC México,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.5810161,False,False,False,False
+HSBC México,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.5802934,False,False,False,False
+HSBC México,random_wired-com_20251129T170401.png,RANDOM,unknown,0.58021456,False,False,False,False
+HSBC México,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.5802132,False,False,False,False
+HSBC México,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.5800198,False,False,False,False
+HSBC México,random_notion-so_20251129T180340.png,RANDOM,unknown,0.5799342,False,False,False,False
+HSBC México,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.5798239,False,False,False,False
+HSBC México,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.57980543,False,False,False,False
+HSBC México,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.5795961,False,False,False,False
+HSBC México,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.5794171,False,False,False,False
+HSBC México,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.5794083,False,False,False,False
+HSBC México,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.5791638,False,False,False,False
+HSBC México,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.5780244,False,False,False,False
+HSBC México,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.5779922,False,False,False,False
+HSBC México,random_braze-com_20251129T171458.png,RANDOM,unknown,0.57792664,False,False,False,False
+HSBC México,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.5777963,False,False,False,False
+HSBC México,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.577793,False,False,False,False
+HSBC México,random_python-org_20251129T173738.png,RANDOM,unknown,0.57747215,False,False,False,False
+HSBC México,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.57709813,False,False,False,False
+HSBC México,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.5766492,False,False,False,False
+HSBC México,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.57659143,False,False,False,False
+HSBC México,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.5765198,False,False,False,False
+HSBC México,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.5763861,False,False,False,False
+HSBC México,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.5763539,False,False,False,False
+HSBC México,random_medium-com_20251129T163655.png,RANDOM,unknown,0.5763142,False,False,False,False
+HSBC México,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.57601255,False,False,False,False
+HSBC México,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.57598746,False,False,False,False
+HSBC México,random_binance-com_20251129T174935.png,RANDOM,unknown,0.5753764,False,False,False,False
+HSBC México,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.57504934,False,False,False,False
+HSBC México,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.57492864,False,False,False,False
+HSBC México,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.57444817,False,False,False,False
+HSBC México,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.57405645,False,False,False,False
+HSBC México,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.5738688,False,False,False,False
+HSBC México,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.5738458,False,False,False,False
+HSBC México,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.57351834,False,False,False,False
+HSBC México,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.57306105,False,False,False,False
+HSBC México,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.5729607,False,False,False,False
+HSBC México,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.57271796,False,False,False,False
+HSBC México,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.5726863,False,False,False,False
+HSBC México,random_ft-com_20251129T170724.png,RANDOM,unknown,0.57254505,False,False,False,False
+HSBC México,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.57223654,False,False,False,False
+HSBC México,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.5719336,False,False,False,False
+HSBC México,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5718682,False,False,False,False
+HSBC México,random_t-me_20251129T163150.png,RANDOM,unknown,0.571858,False,False,False,False
+HSBC México,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.571844,False,False,False,False
+HSBC México,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.57148933,False,False,False,False
+HSBC México,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.5712027,False,False,False,False
+HSBC México,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.5707561,False,False,False,False
+HSBC México,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.57054144,False,False,False,False
+HSBC México,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.57023895,False,False,False,False
+HSBC México,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.57019293,False,False,False,False
+HSBC México,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.57002455,False,False,False,False
+HSBC México,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.56996745,False,False,False,False
+HSBC México,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.56932366,False,False,False,False
+HSBC México,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.56906855,False,False,False,False
+HSBC México,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.5690331,False,False,False,False
+HSBC México,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.56868905,False,False,False,False
+HSBC México,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.5680555,False,False,False,False
+HSBC México,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.56786734,False,False,False,False
+HSBC México,random_vg-no_20251129T180754.png,RANDOM,unknown,0.56743133,False,False,False,False
+HSBC México,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.56695145,False,False,False,False
+HSBC México,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.56690675,False,False,False,False
+HSBC México,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.5663159,False,False,False,False
+HSBC México,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.56585705,False,False,False,False
+HSBC México,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.5658435,False,False,False,False
+HSBC México,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.56550235,False,False,False,False
+HSBC México,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.5652888,False,False,False,False
+HSBC México,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.56493,False,False,False,False
+HSBC México,random_shein-com_20251129T170736.png,RANDOM,unknown,0.56458956,False,False,False,False
+HSBC México,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.5645627,False,False,False,False
+HSBC México,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.5645566,False,False,False,False
+HSBC México,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.5642943,False,False,False,False
+HSBC México,random_openai-com_20251129T164132.png,RANDOM,unknown,0.5638798,False,False,False,False
+HSBC México,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.5636828,False,False,False,False
+HSBC México,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.56338537,False,False,False,False
+HSBC México,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.56294614,False,False,False,False
+HSBC México,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.56293225,False,False,False,False
+HSBC México,random_usps-com_20251129T173658.png,RANDOM,unknown,0.5626357,False,False,False,False
+HSBC México,random_branch-io_20251129T171524.png,RANDOM,unknown,0.5623444,False,False,False,False
+HSBC México,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.56228006,False,False,False,False
+HSBC México,random_free-fr_20251129T171241.png,RANDOM,unknown,0.56197673,False,False,False,False
+HSBC México,random_otto-de_20251129T174331.png,RANDOM,unknown,0.561901,False,False,False,False
+HSBC México,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.56188583,False,False,False,False
+HSBC México,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.5616851,False,False,False,False
+HSBC México,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.56138337,False,False,False,False
+HSBC México,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.56092036,False,False,False,False
+HSBC México,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.5604799,False,False,False,False
+HSBC México,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.55993193,False,False,False,False
+HSBC México,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.5598052,False,False,False,False
+HSBC México,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.55946517,False,False,False,False
+HSBC México,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.5594246,False,False,False,False
+HSBC México,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.5588817,False,False,False,False
+HSBC México,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.5583606,False,False,False,False
+HSBC México,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.558275,False,False,False,False
+HSBC México,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.55808187,False,False,False,False
+HSBC México,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.5580805,False,False,False,False
+HSBC México,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.5577058,False,False,False,False
+HSBC México,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.55768883,False,False,False,False
+HSBC México,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.5575718,False,False,False,False
+HSBC México,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.557208,False,False,False,False
+HSBC México,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.5570915,False,False,False,False
+HSBC México,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.55708534,False,False,False,False
+HSBC México,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.55703604,False,False,False,False
+HSBC México,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.5567394,False,False,False,False
+HSBC México,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.55659175,False,False,False,False
+HSBC México,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.55632067,False,False,False,False
+HSBC México,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.55618435,False,False,False,False
+HSBC México,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.5558096,False,False,False,False
+HSBC México,random_genius-com_20251129T174000.png,RANDOM,unknown,0.55542094,False,False,False,False
+HSBC México,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.55499625,False,False,False,False
+HSBC México,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.55498135,False,False,False,False
+HSBC México,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.55492425,False,False,False,False
+HSBC México,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.5548024,False,False,False,False
+HSBC México,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.55462635,False,False,False,False
+HSBC México,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.5540294,False,False,False,False
+HSBC México,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.5539014,False,False,False,False
+HSBC México,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.553835,False,False,False,False
+HSBC México,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.5535048,False,False,False,False
+HSBC México,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.55306184,False,False,False,False
+HSBC México,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.5530331,False,False,False,False
+HSBC México,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.55292404,False,False,False,False
+HSBC México,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.55234003,False,False,False,False
+HSBC México,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.55209243,False,False,False,False
+HSBC México,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.5520344,False,False,False,False
+HSBC México,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.5518346,False,False,False,False
+HSBC México,random_youku-com_20251129T174026.png,RANDOM,unknown,0.55132085,False,False,False,False
+HSBC México,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.55114377,False,False,False,False
+HSBC México,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.5505333,False,False,False,False
+HSBC México,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.5495827,False,False,False,False
+HSBC México,random_forter-com_20251129T164642.png,RANDOM,unknown,0.54929084,False,False,False,False
+HSBC México,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.5489515,False,False,False,False
+HSBC México,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.54893297,False,False,False,False
+HSBC México,random_nic-io_20251129T173852.png,RANDOM,unknown,0.5488327,False,False,False,False
+HSBC México,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.5480312,False,False,False,False
+HSBC México,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.5479603,False,False,False,False
+HSBC México,random_bol-com_20251129T174941.png,RANDOM,unknown,0.5477483,False,False,False,False
+HSBC México,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.5477005,False,False,False,False
+HSBC México,random_360-cn_20251129T173141.png,RANDOM,unknown,0.54761225,False,False,False,False
+HSBC México,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.54758734,False,False,False,False
+HSBC México,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.54754627,False,False,False,False
+HSBC México,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.5472352,False,False,False,False
+HSBC México,random_clever-com_20251129T173500.png,RANDOM,unknown,0.5463251,False,False,False,False
+HSBC México,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.54627335,False,False,False,False
+HSBC México,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.54576164,False,False,False,False
+HSBC México,random_india-com_20251129T180557.png,RANDOM,unknown,0.5457226,False,False,False,False
+HSBC México,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.5456691,False,False,False,False
+HSBC México,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.5456461,False,False,False,False
+HSBC México,random_office-com_20251129T162404.png,RANDOM,unknown,0.5455769,False,False,False,False
+HSBC México,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.5452282,False,False,False,False
+HSBC México,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.54458475,False,False,False,False
+HSBC México,random_as-com_20251129T175716.png,RANDOM,unknown,0.5441264,False,False,False,False
+HSBC México,random_github-com_20251129T162456.png,RANDOM,unknown,0.5434464,False,False,False,False
+HSBC México,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.5430837,False,False,False,False
+HSBC México,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.54301834,False,False,False,False
+HSBC México,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.5425415,False,False,False,False
+HSBC México,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.542078,False,False,False,False
+HSBC México,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.5419994,False,False,False,False
+HSBC México,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.5419509,False,False,False,False
+HSBC México,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.5419425,False,False,False,False
+HSBC México,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.5412189,False,False,False,False
+HSBC México,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.5408572,False,False,False,False
+HSBC México,random_state-gov_20251129T174508.png,RANDOM,unknown,0.5408228,False,False,False,False
+HSBC México,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.5407547,False,False,False,False
+HSBC México,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.54061455,False,False,False,False
+HSBC México,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.5402915,False,False,False,False
+HSBC México,random_time-com_20251129T170629.png,RANDOM,unknown,0.5401037,False,False,False,False
+HSBC México,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.5399866,False,False,False,False
+HSBC México,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.53950304,False,False,False,False
+HSBC México,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.53943497,False,False,False,False
+HSBC México,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.53933597,False,False,False,False
+HSBC México,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.53909355,False,False,False,False
+HSBC México,random_f5-com_20251129T163706.png,RANDOM,unknown,0.53893614,False,False,False,False
+HSBC México,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.53862226,False,False,False,False
+HSBC México,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.53762364,False,False,False,False
+HSBC México,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.5369611,False,False,False,False
+HSBC México,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.53657424,False,False,False,False
+HSBC México,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.5365282,False,False,False,False
+HSBC México,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.5362096,False,False,False,False
+HSBC México,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.53600156,False,False,False,False
+HSBC México,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.5357392,False,False,False,False
+HSBC México,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.53570485,False,False,False,False
+HSBC México,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.5352055,False,False,False,False
+HSBC México,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.5351281,False,False,False,False
+HSBC México,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.53422666,False,False,False,False
+HSBC México,random_singular-net_20251129T175446.png,RANDOM,unknown,0.5341122,False,False,False,False
+HSBC México,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.53402334,False,False,False,False
+HSBC México,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.533929,False,False,False,False
+HSBC México,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.53392154,False,False,False,False
+HSBC México,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.5337894,False,False,False,False
+HSBC México,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.53345865,False,False,False,False
+HSBC México,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.5333309,False,False,False,False
+HSBC México,random_doi-org_20251129T164112.png,RANDOM,unknown,0.532974,False,False,False,False
+HSBC México,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.53231806,False,False,False,False
+HSBC México,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.532208,False,False,False,False
+HSBC México,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.5316401,False,False,False,False
+HSBC México,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.5302522,False,False,False,False
+HSBC México,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.5301748,False,False,False,False
+HSBC México,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.53005815,False,False,False,False
+HSBC México,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.5299394,False,False,False,False
+HSBC México,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.5289533,False,False,False,False
+HSBC México,random_agora-io_20251129T175439.png,RANDOM,unknown,0.52875894,False,False,False,False
+HSBC México,random_uk-com_20251129T171638.png,RANDOM,unknown,0.5285712,False,False,False,False
+HSBC México,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.52822447,False,False,False,False
+HSBC México,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.52817434,False,False,False,False
+HSBC México,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.5278194,False,False,False,False
+HSBC México,random_overload-su_20251129T170747.png,RANDOM,unknown,0.5277698,False,False,False,False
+HSBC México,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.52768356,False,False,False,False
+HSBC México,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.5275637,False,False,False,False
+HSBC México,random_bing-com_20251129T162459.png,RANDOM,unknown,0.5273438,False,False,False,False
+HSBC México,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.52699417,False,False,False,False
+HSBC México,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.52647775,False,False,False,False
+HSBC México,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.5252125,False,False,False,False
+HSBC México,random_apple-com_20251129T162353.png,RANDOM,unknown,0.5249706,False,False,False,False
+HSBC México,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.5244876,False,False,False,False
+HSBC México,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.52417237,False,False,False,False
+HSBC México,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.5231912,False,False,False,False
+HSBC México,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.5230256,False,False,False,False
+HSBC México,random_roku-com_20251129T164128.png,RANDOM,unknown,0.5229774,False,False,False,False
+HSBC México,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.5222531,False,False,False,False
+HSBC México,random_go-com_20251129T164609.png,RANDOM,unknown,0.5199956,False,False,False,False
+HSBC México,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.5197966,False,False,False,False
+HSBC México,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.519796,False,False,False,False
+HSBC México,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.51974547,False,False,False,False
+HSBC México,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.5184425,False,False,False,False
+HSBC México,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.5171335,False,False,False,False
+HSBC México,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.5165133,False,False,False,False
+HSBC México,random_line-me_20251129T170140.png,RANDOM,unknown,0.516181,False,False,False,False
+HSBC México,random_plos-org_20251129T180524.png,RANDOM,unknown,0.5154259,False,False,False,False
+HSBC México,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.51538104,False,False,False,False
+HSBC México,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.5141128,False,False,False,False
+HSBC México,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.5135142,False,False,False,False
+HSBC México,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.5134692,False,False,False,False
+HSBC México,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.51344347,False,False,False,False
+HSBC México,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.51161927,False,False,False,False
+HSBC México,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.51155514,False,False,False,False
+HSBC México,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.5108212,False,False,False,False
+HSBC México,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.51068944,False,False,False,False
+HSBC México,random_chess-com_20251129T173919.png,RANDOM,unknown,0.51055944,False,False,False,False
+HSBC México,random_espn-com_20251129T165100.png,RANDOM,unknown,0.5102527,False,False,False,False
+HSBC México,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.5101263,False,False,False,False
+HSBC México,random_npr-org_20251129T170056.png,RANDOM,unknown,0.5100155,False,False,False,False
+HSBC México,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.51000553,False,False,False,False
+HSBC México,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.5095725,False,False,False,False
+HSBC México,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.50870776,False,False,False,False
+HSBC México,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.5075452,False,False,False,False
+HSBC México,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.5069236,False,False,False,False
+HSBC México,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.5068474,False,False,False,False
+HSBC México,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.5066361,False,False,False,False
+HSBC México,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.5060307,False,False,False,False
+HSBC México,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.50591755,False,False,False,False
+HSBC México,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.50423187,False,False,False,False
+HSBC México,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.50415677,False,False,False,False
+HSBC México,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.5038668,False,False,False,False
+HSBC México,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.50349617,False,False,False,False
+HSBC México,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.5034554,False,False,False,False
+HSBC México,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.5033125,False,False,False,False
+HSBC México,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.5017061,False,False,False,False
+HSBC México,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.50151616,False,False,False,False
+HSBC México,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.50104785,False,False,False,False
+HSBC México,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.49931473,False,False,False,False
+HSBC México,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.49904263,False,False,False,False
+HSBC México,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.49897632,False,False,False,False
+HSBC México,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.49896896,False,False,False,False
+HSBC México,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.49666846,False,False,False,False
+HSBC México,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.49629554,False,False,False,False
+HSBC México,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.49569565,False,False,False,False
+HSBC México,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.4950269,False,False,False,False
+HSBC México,random_wps-com_20251129T174320.png,RANDOM,unknown,0.49447608,False,False,False,False
+HSBC México,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.4937116,False,False,False,False
+HSBC México,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.49358854,False,False,False,False
+HSBC México,random_archive-org_20251129T163406.png,RANDOM,unknown,0.4931268,False,False,False,False
+HSBC México,random_fast-com_20251129T171226.png,RANDOM,unknown,0.49051702,False,False,False,False
+HSBC México,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.49015373,False,False,False,False
+HSBC México,random_ted-com_20251129T172015.png,RANDOM,unknown,0.48995933,False,False,False,False
+HSBC México,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.48948708,False,False,False,False
+HSBC México,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.48859683,False,False,False,False
+HSBC México,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.48590815,False,False,False,False
+HSBC México,random_debian-org_20251129T164620.png,RANDOM,unknown,0.48556754,False,False,False,False
+HSBC México,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.48472404,False,False,False,False
+HSBC México,random_azure-com_20251129T162438.png,RANDOM,unknown,0.48243606,False,False,False,False
+HSBC México,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.4818306,False,False,False,False
+HSBC México,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.48128235,False,False,False,False
+HSBC México,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.48103952,False,False,False,False
+HSBC México,random_asus-com_20251129T172748.png,RANDOM,unknown,0.48060292,False,False,False,False
+HSBC México,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.4793496,False,False,False,False
+HSBC México,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.47856644,False,False,False,False
+HSBC México,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.47832835,False,False,False,False
+HSBC México,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.47693598,False,False,False,False
+HSBC México,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.47500414,False,False,False,False
+HSBC México,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.474944,False,False,False,False
+HSBC México,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.47344512,False,False,False,False
+HSBC México,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.4724599,False,False,False,False
+HSBC México,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.47193158,False,False,False,False
+HSBC México,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.47083065,False,False,False,False
+HSBC México,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.46930948,False,False,False,False
+HSBC México,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.460823,False,False,False,False
+HSBC México,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.45850432,False,False,False,False
+HSBC México,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.45748755,False,False,False,False
+HSBC México,random_apache-org_20251129T163228.png,RANDOM,unknown,0.4545591,False,False,False,False
+HSBC México,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.45287812,False,False,False,False
+HSBC México,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.44592914,False,False,False,False
+HSBC México,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.4455058,False,False,False,False
+HSBC México,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.4444332,False,False,False,False
+HSBC México,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.44317695,False,False,False,False
+HSBC México,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.44302016,False,False,False,False
+HSBC México,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.44114602,False,False,False,False
+HSBC México,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.44007978,False,False,False,False
+HSBC México,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.43831435,False,False,False,False
+HSBC México,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.436967,False,False,False,False
+HSBC México,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.43696505,False,False,False,False
+HSBC México,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.4345452,False,False,False,False
+HSBC México,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.4341066,False,False,False,False
+HSBC México,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.43046328,False,False,False,False
+HSBC México,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.42922047,False,False,False,False
+HSBC México,random_people-com_20251129T172859.png,RANDOM,unknown,0.42920437,False,False,False,False
+HSBC México,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.42515647,False,False,False,False
+HSBC México,random_health-mil_20251129T163619.png,RANDOM,unknown,0.42264086,False,False,False,False
+HSBC México,random_who-int_20251129T164225.png,RANDOM,unknown,0.4225392,False,False,False,False
+HSBC México,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.41881815,False,False,False,False
+HSBC México,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.4143669,False,False,False,False
+HSBC México,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.41299254,False,False,False,False
+HSBC México,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.40662855,False,False,False,False
+HSBC México,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.40139988,False,False,False,False
+HSBC México,random_poki-com_20251129T180027.png,RANDOM,unknown,0.3991457,False,False,False,False
+HSBC México,random_he-net_20251129T172135.png,RANDOM,unknown,0.3952684,False,False,False,False
+HSBC México,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.39443538,False,False,False,False
+HSBC México,random_threads-com_20251129T174157.png,RANDOM,unknown,0.36234996,False,False,False,False
+HSBC México,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.32296923,False,False,False,False

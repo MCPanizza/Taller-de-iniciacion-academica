@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+Citibank Brasil,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,1.0000001,True,True,False,True
+Citibank Brasil,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.88810587,True,True,False,False
+Citibank Brasil,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.8849276,True,True,False,False
+Citibank Brasil,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.88259095,True,True,False,False
+Citibank Brasil,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.8626739,True,True,False,False
+Citibank Brasil,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.8611585,True,True,False,False
+Citibank Brasil,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.85735506,True,True,False,False
+Citibank Brasil,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.85329354,True,True,False,False
+Citibank Brasil,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.84849286,True,True,False,False
+Citibank Brasil,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.8447469,True,True,False,False
+Citibank Brasil,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.83764553,True,True,False,False
+Citibank Brasil,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.70814574,False,False,False,False
+Citibank Brasil,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.7072059,False,False,False,False
+Citibank Brasil,random_segment-io_20251129T174400.png,RANDOM,unknown,0.7067028,False,False,False,False
+Citibank Brasil,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.7056341,False,False,False,False
+Citibank Brasil,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.7024878,False,False,False,False
+Citibank Brasil,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.6996412,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6929358,False,False,False,False
+Citibank Brasil,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.686591,False,False,False,False
+Citibank Brasil,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.6861633,False,False,False,False
+Citibank Brasil,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.6851468,False,False,False,False
+Citibank Brasil,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.68489325,False,False,False,False
+Citibank Brasil,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.6847476,False,False,False,False
+Citibank Brasil,random_wix-com_20251129T171207.png,RANDOM,unknown,0.68357664,False,False,False,False
+Citibank Brasil,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.6832925,False,False,False,False
+Citibank Brasil,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.6829709,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6828555,False,False,False,False
+Citibank Brasil,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.68244123,False,False,False,False
+Citibank Brasil,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.68236756,False,False,False,False
+Citibank Brasil,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.68194443,False,False,False,False
+Citibank Brasil,random_ui-com_20251129T163127.png,RANDOM,unknown,0.68153185,False,False,False,False
+Citibank Brasil,random_att-com_20251129T180955.png,RANDOM,unknown,0.6812651,False,False,False,False
+Citibank Brasil,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.6802898,False,False,False,False
+Citibank Brasil,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.6801015,False,False,False,False
+Citibank Brasil,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.67885983,False,False,False,False
+Citibank Brasil,random_binance-com_20251129T174935.png,RANDOM,unknown,0.67863333,False,False,False,False
+Citibank Brasil,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.6784837,False,False,False,False
+Citibank Brasil,random_synology-com_20251129T173948.png,RANDOM,unknown,0.67790514,False,False,False,False
+Citibank Brasil,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.67605263,False,False,False,False
+Citibank Brasil,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.6760178,False,False,False,False
+Citibank Brasil,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.67480385,False,False,False,False
+Citibank Brasil,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.67414963,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6736344,False,False,False,False
+Citibank Brasil,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.6731828,False,False,False,False
+Citibank Brasil,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.6730039,False,False,False,False
+Citibank Brasil,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.6729239,False,False,False,False
+Citibank Brasil,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.6721138,False,False,False,False
+Citibank Brasil,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.6721107,False,False,False,False
+Citibank Brasil,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.6718662,False,False,False,False
+Citibank Brasil,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.6714566,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.67110246,False,False,False,False
+Citibank Brasil,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.67077106,False,False,False,False
+Citibank Brasil,random_target-com_20251129T171437.png,RANDOM,unknown,0.6705488,False,False,False,False
+Citibank Brasil,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.66922617,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.66884637,False,False,False,False
+Citibank Brasil,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.6688094,False,False,False,False
+Citibank Brasil,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.6686952,False,False,False,False
+Citibank Brasil,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.6683332,False,False,False,False
+Citibank Brasil,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.66799057,False,False,False,False
+Citibank Brasil,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.6679156,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.66771287,False,False,False,False
+Citibank Brasil,random_discord-media_20251129T170414.png,RANDOM,unknown,0.66758144,False,False,False,False
+Citibank Brasil,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.66741186,False,False,False,False
+Citibank Brasil,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.6673984,False,False,False,False
+Citibank Brasil,random_figma-com_20251129T173914.png,RANDOM,unknown,0.66737473,False,False,False,False
+Citibank Brasil,random_cox-net_20251129T170452.png,RANDOM,unknown,0.66736436,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.66723496,False,False,False,False
+Citibank Brasil,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.66717917,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.66697514,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.66683006,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.66614306,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6659799,False,False,False,False
+Citibank Brasil,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.6659792,False,False,False,False
+Citibank Brasil,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.66572905,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6654774,False,False,False,False
+Citibank Brasil,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.6654456,False,False,False,False
+Citibank Brasil,random_usps-com_20251129T173658.png,RANDOM,unknown,0.665207,False,False,False,False
+Citibank Brasil,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.66482234,False,False,False,False
+Citibank Brasil,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.6647768,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.66451395,False,False,False,False
+Citibank Brasil,random_wise-com_20251129T180312.png,RANDOM,unknown,0.6643127,False,False,False,False
+Citibank Brasil,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.66408694,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.66397274,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6639025,False,False,False,False
+Citibank Brasil,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.6637622,False,False,False,False
+Citibank Brasil,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.6637305,False,False,False,False
+Citibank Brasil,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.6634488,False,False,False,False
+Citibank Brasil,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.6634429,False,False,False,False
+Citibank Brasil,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.6631564,False,False,False,False
+Citibank Brasil,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.6630085,False,False,False,False
+Citibank Brasil,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6626618,False,False,False,False
+Citibank Brasil,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.6623961,False,False,False,False
+Citibank Brasil,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.6623165,False,False,False,False
+Citibank Brasil,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.6615366,False,False,False,False
+Citibank Brasil,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.66083014,False,False,False,False
+Citibank Brasil,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.6604637,False,False,False,False
+Citibank Brasil,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.6604199,False,False,False,False
+Citibank Brasil,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.66041833,False,False,False,False
+Citibank Brasil,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.6602863,False,False,False,False
+Citibank Brasil,random_media-net_20251129T164538.png,RANDOM,unknown,0.6597902,False,False,False,False
+Citibank Brasil,random_uber-com_20251129T170129.png,RANDOM,unknown,0.6594925,False,False,False,False
+Citibank Brasil,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.6593626,False,False,False,False
+Citibank Brasil,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.65929365,False,False,False,False
+Citibank Brasil,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.6590147,False,False,False,False
+Citibank Brasil,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.6588744,False,False,False,False
+Citibank Brasil,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.65834713,False,False,False,False
+Citibank Brasil,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.6582806,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6579758,False,False,False,False
+Citibank Brasil,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.6579377,False,False,False,False
+Citibank Brasil,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.65792906,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.657631,False,False,False,False
+Citibank Brasil,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.6573225,False,False,False,False
+Citibank Brasil,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.6570673,False,False,False,False
+Citibank Brasil,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.656816,False,False,False,False
+Citibank Brasil,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.6564572,False,False,False,False
+Citibank Brasil,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.6563481,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.65631366,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.65550894,False,False,False,False
+Citibank Brasil,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.65535116,False,False,False,False
+Citibank Brasil,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.65505207,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.65485024,False,False,False,False
+Citibank Brasil,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.6548077,False,False,False,False
+Citibank Brasil,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.6544919,False,False,False,False
+Citibank Brasil,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.6544164,False,False,False,False
+Citibank Brasil,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.65398306,False,False,False,False
+Citibank Brasil,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6538,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.65377104,False,False,False,False
+Citibank Brasil,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.65374345,False,False,False,False
+Citibank Brasil,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.65356505,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.65342236,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.65332067,False,False,False,False
+Citibank Brasil,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.6533103,False,False,False,False
+Citibank Brasil,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.65314746,False,False,False,False
+Citibank Brasil,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6528721,False,False,False,False
+Citibank Brasil,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.65230495,False,False,False,False
+Citibank Brasil,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.6522913,False,False,False,False
+Citibank Brasil,random_nature-com_20251129T164547.png,RANDOM,unknown,0.6520765,False,False,False,False
+Citibank Brasil,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.6518977,False,False,False,False
+Citibank Brasil,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.6517718,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.651654,False,False,False,False
+Citibank Brasil,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.6514323,False,False,False,False
+Citibank Brasil,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.65140676,False,False,False,False
+Citibank Brasil,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.6513908,False,False,False,False
+Citibank Brasil,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.65125215,False,False,False,False
+Citibank Brasil,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.6509797,False,False,False,False
+Citibank Brasil,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6507587,False,False,False,False
+Citibank Brasil,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.65055513,False,False,False,False
+Citibank Brasil,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.6504464,False,False,False,False
+Citibank Brasil,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.6497866,False,False,False,False
+Citibank Brasil,random_okta-com_20251129T171946.png,RANDOM,unknown,0.64976466,False,False,False,False
+Citibank Brasil,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.64965,False,False,False,False
+Citibank Brasil,random_vk-com_20251129T163202.png,RANDOM,unknown,0.64955974,False,False,False,False
+Citibank Brasil,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.6494221,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6492398,False,False,False,False
+Citibank Brasil,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6490442,False,False,False,False
+Citibank Brasil,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.64903355,False,False,False,False
+Citibank Brasil,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.6489248,False,False,False,False
+Citibank Brasil,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.6488774,False,False,False,False
+Citibank Brasil,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.64887357,False,False,False,False
+Citibank Brasil,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.64871895,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.64831996,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.64819837,False,False,False,False
+Citibank Brasil,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.6481403,False,False,False,False
+Citibank Brasil,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.64810646,False,False,False,False
+Citibank Brasil,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.64808416,False,False,False,False
+Citibank Brasil,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.64801264,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.64788073,False,False,False,False
+Citibank Brasil,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6477855,False,False,False,False
+Citibank Brasil,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.6476992,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6475651,False,False,False,False
+Citibank Brasil,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.64754194,False,False,False,False
+Citibank Brasil,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.64737797,False,False,False,False
+Citibank Brasil,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.64731824,False,False,False,False
+Citibank Brasil,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.64717346,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6471671,False,False,False,False
+Citibank Brasil,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.64705443,False,False,False,False
+Citibank Brasil,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.64701635,False,False,False,False
+Citibank Brasil,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.64696455,False,False,False,False
+Citibank Brasil,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.6469434,False,False,False,False
+Citibank Brasil,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.6465349,False,False,False,False
+Citibank Brasil,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.64648896,False,False,False,False
+Citibank Brasil,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.64634657,False,False,False,False
+Citibank Brasil,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.6460461,False,False,False,False
+Citibank Brasil,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.64600384,False,False,False,False
+Citibank Brasil,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.6458707,False,False,False,False
+Citibank Brasil,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.64578235,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.64553374,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6455124,False,False,False,False
+Citibank Brasil,random_apple-com_20251129T162353.png,RANDOM,unknown,0.64547634,False,False,False,False
+Citibank Brasil,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.64535713,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.64513415,False,False,False,False
+Citibank Brasil,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.64502853,False,False,False,False
+Citibank Brasil,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.64478076,False,False,False,False
+Citibank Brasil,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.64465594,False,False,False,False
+Citibank Brasil,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.6446529,False,False,False,False
+Citibank Brasil,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.6445447,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6444473,False,False,False,False
+Citibank Brasil,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.6443003,False,False,False,False
+Citibank Brasil,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.64415073,False,False,False,False
+Citibank Brasil,random_brave-com_20251129T172325.png,RANDOM,unknown,0.64413506,False,False,False,False
+Citibank Brasil,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6440277,False,False,False,False
+Citibank Brasil,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.6436912,False,False,False,False
+Citibank Brasil,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.6436659,False,False,False,False
+Citibank Brasil,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.6436432,False,False,False,False
+Citibank Brasil,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.64337385,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6433307,False,False,False,False
+Citibank Brasil,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.6430504,False,False,False,False
+Citibank Brasil,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.64288074,False,False,False,False
+Citibank Brasil,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6424799,False,False,False,False
+Citibank Brasil,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.6424663,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6423163,False,False,False,False
+Citibank Brasil,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.6422492,False,False,False,False
+Citibank Brasil,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.6422409,False,False,False,False
+Citibank Brasil,random_eset-com_20251129T171424.png,RANDOM,unknown,0.64207137,False,False,False,False
+Citibank Brasil,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.641953,False,False,False,False
+Citibank Brasil,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.64195096,False,False,False,False
+Citibank Brasil,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.64194185,False,False,False,False
+Citibank Brasil,random_dns-google_20251129T163231.png,RANDOM,unknown,0.6416445,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6415619,False,False,False,False
+Citibank Brasil,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.6415373,False,False,False,False
+Citibank Brasil,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.64150035,False,False,False,False
+Citibank Brasil,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.64149284,False,False,False,False
+Citibank Brasil,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.64102197,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6409357,False,False,False,False
+Citibank Brasil,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.6408477,False,False,False,False
+Citibank Brasil,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.64076304,False,False,False,False
+Citibank Brasil,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.6406402,False,False,False,False
+Citibank Brasil,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.6406206,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.64061534,False,False,False,False
+Citibank Brasil,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.6405014,False,False,False,False
+Citibank Brasil,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.6403791,False,False,False,False
+Citibank Brasil,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6401465,False,False,False,False
+Citibank Brasil,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.64004964,False,False,False,False
+Citibank Brasil,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.63988936,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6398714,False,False,False,False
+Citibank Brasil,random_springer-com_20251129T164823.png,RANDOM,unknown,0.639676,False,False,False,False
+Citibank Brasil,random_booking-com_20251129T164752.png,RANDOM,unknown,0.63965553,False,False,False,False
+Citibank Brasil,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6394685,False,False,False,False
+Citibank Brasil,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.6394485,False,False,False,False
+Citibank Brasil,random_forter-com_20251129T164642.png,RANDOM,unknown,0.6394025,False,False,False,False
+Citibank Brasil,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.63936675,False,False,False,False
+Citibank Brasil,random_tds-net_20251129T174115.png,RANDOM,unknown,0.6393593,False,False,False,False
+Citibank Brasil,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.6393021,False,False,False,False
+Citibank Brasil,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.63927305,False,False,False,False
+Citibank Brasil,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.63920534,False,False,False,False
+Citibank Brasil,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.6391083,False,False,False,False
+Citibank Brasil,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.63908446,False,False,False,False
+Citibank Brasil,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6390659,False,False,False,False
+Citibank Brasil,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6390084,False,False,False,False
+Citibank Brasil,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.6385575,False,False,False,False
+Citibank Brasil,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6385002,False,False,False,False
+Citibank Brasil,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.63837683,False,False,False,False
+Citibank Brasil,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.63828325,False,False,False,False
+Citibank Brasil,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.6381379,False,False,False,False
+Citibank Brasil,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.6379008,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6378604,False,False,False,False
+Citibank Brasil,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.6377661,False,False,False,False
+Citibank Brasil,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.63773215,False,False,False,False
+Citibank Brasil,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.6374215,False,False,False,False
+Citibank Brasil,random_linode-com_20251129T173059.png,RANDOM,unknown,0.6374078,False,False,False,False
+Citibank Brasil,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.63738734,False,False,False,False
+Citibank Brasil,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6373607,False,False,False,False
+Citibank Brasil,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.63730735,False,False,False,False
+Citibank Brasil,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.63688934,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.63681304,False,False,False,False
+Citibank Brasil,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.6367835,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.636587,False,False,False,False
+Citibank Brasil,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.63656485,False,False,False,False
+Citibank Brasil,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6364068,False,False,False,False
+Citibank Brasil,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.6363383,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6362736,False,False,False,False
+Citibank Brasil,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.6362126,False,False,False,False
+Citibank Brasil,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.6360262,False,False,False,False
+Citibank Brasil,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.6358163,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.63564825,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.63555205,False,False,False,False
+Citibank Brasil,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6354356,False,False,False,False
+Citibank Brasil,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.6353923,False,False,False,False
+Citibank Brasil,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.63536686,False,False,False,False
+Citibank Brasil,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.6353307,False,False,False,False
+Citibank Brasil,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.6353278,False,False,False,False
+Citibank Brasil,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.6352442,False,False,False,False
+Citibank Brasil,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.6350339,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.63483596,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6346973,False,False,False,False
+Citibank Brasil,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6345227,False,False,False,False
+Citibank Brasil,random_character-ai_20251129T174433.png,RANDOM,unknown,0.63447344,False,False,False,False
+Citibank Brasil,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6344163,False,False,False,False
+Citibank Brasil,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.63439566,False,False,False,False
+Citibank Brasil,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6343779,False,False,False,False
+Citibank Brasil,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.63410497,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6340967,False,False,False,False
+Citibank Brasil,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.63388336,False,False,False,False
+Citibank Brasil,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.63385123,False,False,False,False
+Citibank Brasil,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.6338322,False,False,False,False
+Citibank Brasil,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6337704,False,False,False,False
+Citibank Brasil,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.6335412,False,False,False,False
+Citibank Brasil,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.63347155,False,False,False,False
+Citibank Brasil,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.6334561,False,False,False,False
+Citibank Brasil,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.63344127,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6332785,False,False,False,False
+Citibank Brasil,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.6332263,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6331291,False,False,False,False
+Citibank Brasil,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.63284683,False,False,False,False
+Citibank Brasil,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.6328051,False,False,False,False
+Citibank Brasil,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.63259417,False,False,False,False
+Citibank Brasil,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6324667,False,False,False,False
+Citibank Brasil,random_braze-com_20251129T171458.png,RANDOM,unknown,0.63238025,False,False,False,False
+Citibank Brasil,random_g-co_20251129T171804.png,RANDOM,unknown,0.6323111,False,False,False,False
+Citibank Brasil,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6321617,False,False,False,False
+Citibank Brasil,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.63194233,False,False,False,False
+Citibank Brasil,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6318991,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6318988,False,False,False,False
+Citibank Brasil,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.6318963,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.63182026,False,False,False,False
+Citibank Brasil,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.631757,False,False,False,False
+Citibank Brasil,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.63164496,False,False,False,False
+Citibank Brasil,random_statista-com_20251129T165822.png,RANDOM,unknown,0.63156766,False,False,False,False
+Citibank Brasil,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.631561,False,False,False,False
+Citibank Brasil,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.63154054,False,False,False,False
+Citibank Brasil,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.6315221,False,False,False,False
+Citibank Brasil,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.6314957,False,False,False,False
+Citibank Brasil,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.6314783,False,False,False,False
+Citibank Brasil,random_split-io_20251129T175048.png,RANDOM,unknown,0.6314745,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.63139176,False,False,False,False
+Citibank Brasil,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.63131684,False,False,False,False
+Citibank Brasil,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.6313121,False,False,False,False
+Citibank Brasil,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.631263,False,False,False,False
+Citibank Brasil,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.63115966,False,False,False,False
+Citibank Brasil,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6309348,False,False,False,False
+Citibank Brasil,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.63089633,False,False,False,False
+Citibank Brasil,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.6307178,False,False,False,False
+Citibank Brasil,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.63051,False,False,False,False
+Citibank Brasil,random_f5-com_20251129T163706.png,RANDOM,unknown,0.630509,False,False,False,False
+Citibank Brasil,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.6304778,False,False,False,False
+Citibank Brasil,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.63040227,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.63033223,False,False,False,False
+Citibank Brasil,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.63028336,False,False,False,False
+Citibank Brasil,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.63020295,False,False,False,False
+Citibank Brasil,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.62992233,False,False,False,False
+Citibank Brasil,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.6298666,False,False,False,False
+Citibank Brasil,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6298574,False,False,False,False
+Citibank Brasil,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.62960505,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6293298,False,False,False,False
+Citibank Brasil,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.62926686,False,False,False,False
+Citibank Brasil,random_live-com_20251129T162413.png,RANDOM,unknown,0.62917596,False,False,False,False
+Citibank Brasil,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.6290436,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.62899196,False,False,False,False
+Citibank Brasil,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.6289561,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.62873745,False,False,False,False
+Citibank Brasil,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.62868166,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.62838703,False,False,False,False
+Citibank Brasil,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.6282976,False,False,False,False
+Citibank Brasil,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.6281037,False,False,False,False
+Citibank Brasil,random_erome-com_20251129T165107.png,RANDOM,unknown,0.62805617,False,False,False,False
+Citibank Brasil,random_t-co_20251129T163912.png,RANDOM,unknown,0.62794864,False,False,False,False
+Citibank Brasil,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.62793815,False,False,False,False
+Citibank Brasil,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6279151,False,False,False,False
+Citibank Brasil,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.6278938,False,False,False,False
+Citibank Brasil,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.62779874,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.62778115,False,False,False,False
+Citibank Brasil,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.6277525,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6277292,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6276815,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6275252,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6274717,False,False,False,False
+Citibank Brasil,random_weather-com_20251129T164102.png,RANDOM,unknown,0.6273427,False,False,False,False
+Citibank Brasil,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6272478,False,False,False,False
+Citibank Brasil,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6271335,False,False,False,False
+Citibank Brasil,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6269333,False,False,False,False
+Citibank Brasil,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.6267611,False,False,False,False
+Citibank Brasil,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.6266363,False,False,False,False
+Citibank Brasil,random_uk-com_20251129T171638.png,RANDOM,unknown,0.62651867,False,False,False,False
+Citibank Brasil,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.62638175,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6263752,False,False,False,False
+Citibank Brasil,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.62634724,False,False,False,False
+Citibank Brasil,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6262983,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.6260026,False,False,False,False
+Citibank Brasil,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.62586737,False,False,False,False
+Citibank Brasil,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.6257614,False,False,False,False
+Citibank Brasil,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6257587,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.62562764,False,False,False,False
+Citibank Brasil,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.6256257,False,False,False,False
+Citibank Brasil,random_msn-com_20251129T162722.png,RANDOM,unknown,0.62559474,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6253681,False,False,False,False
+Citibank Brasil,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.6253089,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6251652,False,False,False,False
+Citibank Brasil,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.62515366,False,False,False,False
+Citibank Brasil,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6251379,False,False,False,False
+Citibank Brasil,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.62499857,False,False,False,False
+Citibank Brasil,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.62485766,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.62473434,False,False,False,False
+Citibank Brasil,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6246184,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.62459385,False,False,False,False
+Citibank Brasil,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.624561,False,False,False,False
+Citibank Brasil,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.6245541,False,False,False,False
+Citibank Brasil,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.624553,False,False,False,False
+Citibank Brasil,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.62454677,False,False,False,False
+Citibank Brasil,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.62436914,False,False,False,False
+Citibank Brasil,random_welt-de_20251129T173821.png,RANDOM,unknown,0.6242065,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6240222,False,False,False,False
+Citibank Brasil,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6240041,False,False,False,False
+Citibank Brasil,random_slack-com_20251129T164623.png,RANDOM,unknown,0.6239756,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.62395024,False,False,False,False
+Citibank Brasil,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.62390804,False,False,False,False
+Citibank Brasil,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.6238251,False,False,False,False
+Citibank Brasil,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6238023,False,False,False,False
+Citibank Brasil,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.6236569,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.623555,False,False,False,False
+Citibank Brasil,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.62349933,False,False,False,False
+Citibank Brasil,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.62344223,False,False,False,False
+Citibank Brasil,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.62342966,False,False,False,False
+Citibank Brasil,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.6233867,False,False,False,False
+Citibank Brasil,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6233719,False,False,False,False
+Citibank Brasil,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.62335813,False,False,False,False
+Citibank Brasil,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.623338,False,False,False,False
+Citibank Brasil,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.62331057,False,False,False,False
+Citibank Brasil,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.62321544,False,False,False,False
+Citibank Brasil,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.6231369,False,False,False,False
+Citibank Brasil,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.62304854,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6229964,False,False,False,False
+Citibank Brasil,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.6229534,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6229149,False,False,False,False
+Citibank Brasil,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.62291104,False,False,False,False
+Citibank Brasil,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6228927,False,False,False,False
+Citibank Brasil,random_windows-com_20251129T163112.png,RANDOM,unknown,0.6228211,False,False,False,False
+Citibank Brasil,random_apa-org_20251129T180433.png,RANDOM,unknown,0.62280715,False,False,False,False
+Citibank Brasil,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.6227063,False,False,False,False
+Citibank Brasil,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.62238264,False,False,False,False
+Citibank Brasil,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.6223536,False,False,False,False
+Citibank Brasil,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.62233806,False,False,False,False
+Citibank Brasil,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.6223006,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6222761,False,False,False,False
+Citibank Brasil,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.6222187,False,False,False,False
+Citibank Brasil,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.62211406,False,False,False,False
+Citibank Brasil,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.6220906,False,False,False,False
+Citibank Brasil,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.62199956,False,False,False,False
+Citibank Brasil,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.62194484,False,False,False,False
+Citibank Brasil,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.6218205,False,False,False,False
+Citibank Brasil,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.6217726,False,False,False,False
+Citibank Brasil,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.6215962,False,False,False,False
+Citibank Brasil,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.6215296,False,False,False,False
+Citibank Brasil,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.6213858,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6213584,False,False,False,False
+Citibank Brasil,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.6213528,False,False,False,False
+Citibank Brasil,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.6213112,False,False,False,False
+Citibank Brasil,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.621297,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6212946,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6212548,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6210268,False,False,False,False
+Citibank Brasil,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.62098783,False,False,False,False
+Citibank Brasil,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.62092113,False,False,False,False
+Citibank Brasil,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.6208283,False,False,False,False
+Citibank Brasil,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.6207495,False,False,False,False
+Citibank Brasil,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.62073135,False,False,False,False
+Citibank Brasil,random_substack-com_20251129T171941.png,RANDOM,unknown,0.62071615,False,False,False,False
+Citibank Brasil,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6206448,False,False,False,False
+Citibank Brasil,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.62062335,False,False,False,False
+Citibank Brasil,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.6206119,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6204457,False,False,False,False
+Citibank Brasil,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6203268,False,False,False,False
+Citibank Brasil,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.62004495,False,False,False,False
+Citibank Brasil,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.6200154,False,False,False,False
+Citibank Brasil,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.61994123,False,False,False,False
+Citibank Brasil,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.6199305,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.6198857,False,False,False,False
+Citibank Brasil,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.6198208,False,False,False,False
+Citibank Brasil,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.6198009,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.6197736,False,False,False,False
+Citibank Brasil,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6197344,False,False,False,False
+Citibank Brasil,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.6195859,False,False,False,False
+Citibank Brasil,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.61929584,False,False,False,False
+Citibank Brasil,random_office365-com_20251129T162902.png,RANDOM,unknown,0.6192828,False,False,False,False
+Citibank Brasil,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.61924946,False,False,False,False
+Citibank Brasil,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.6191387,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.61911356,False,False,False,False
+Citibank Brasil,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.6190627,False,False,False,False
+Citibank Brasil,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.6189062,False,False,False,False
+Citibank Brasil,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.61887074,False,False,False,False
+Citibank Brasil,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.61886567,False,False,False,False
+Citibank Brasil,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.61872643,False,False,False,False
+Citibank Brasil,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.61861336,False,False,False,False
+Citibank Brasil,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6185339,False,False,False,False
+Citibank Brasil,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.618516,False,False,False,False
+Citibank Brasil,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.61841035,False,False,False,False
+Citibank Brasil,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.61838657,False,False,False,False
+Citibank Brasil,random_w3-org_20251129T163751.png,RANDOM,unknown,0.61838406,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.618379,False,False,False,False
+Citibank Brasil,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6183728,False,False,False,False
+Citibank Brasil,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.6182752,False,False,False,False
+Citibank Brasil,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.6182701,False,False,False,False
+Citibank Brasil,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.618261,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6182498,False,False,False,False
+Citibank Brasil,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.6181984,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6180416,False,False,False,False
+Citibank Brasil,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.6178511,False,False,False,False
+Citibank Brasil,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.6175579,False,False,False,False
+Citibank Brasil,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.61755276,False,False,False,False
+Citibank Brasil,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.61729467,False,False,False,False
+Citibank Brasil,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.6170831,False,False,False,False
+Citibank Brasil,random_web-de_20251129T175220.png,RANDOM,unknown,0.6169541,False,False,False,False
+Citibank Brasil,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.61686194,False,False,False,False
+Citibank Brasil,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.6167871,False,False,False,False
+Citibank Brasil,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.61673456,False,False,False,False
+Citibank Brasil,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.61664647,False,False,False,False
+Citibank Brasil,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6166284,False,False,False,False
+Citibank Brasil,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.6165216,False,False,False,False
+Citibank Brasil,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.61648405,False,False,False,False
+Citibank Brasil,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.6164099,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.61634994,False,False,False,False
+Citibank Brasil,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.6163288,False,False,False,False
+Citibank Brasil,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.6162662,False,False,False,False
+Citibank Brasil,random_medium-com_20251129T163655.png,RANDOM,unknown,0.61626613,False,False,False,False
+Citibank Brasil,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.6162072,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.61608124,False,False,False,False
+Citibank Brasil,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.6160649,False,False,False,False
+Citibank Brasil,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.61593986,False,False,False,False
+Citibank Brasil,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.61586714,False,False,False,False
+Citibank Brasil,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.61583996,False,False,False,False
+Citibank Brasil,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.615764,False,False,False,False
+Citibank Brasil,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.61574465,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6156999,False,False,False,False
+Citibank Brasil,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.61557096,False,False,False,False
+Citibank Brasil,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.6154877,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.61547506,False,False,False,False
+Citibank Brasil,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.61544216,False,False,False,False
+Citibank Brasil,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.6153574,False,False,False,False
+Citibank Brasil,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.61521775,False,False,False,False
+Citibank Brasil,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.615191,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6151774,False,False,False,False
+Citibank Brasil,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.61515886,False,False,False,False
+Citibank Brasil,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.61506,False,False,False,False
+Citibank Brasil,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.6148802,False,False,False,False
+Citibank Brasil,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.6147628,False,False,False,False
+Citibank Brasil,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.6146617,False,False,False,False
+Citibank Brasil,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.6146047,False,False,False,False
+Citibank Brasil,random_trello-com_20251129T180351.png,RANDOM,unknown,0.6145855,False,False,False,False
+Citibank Brasil,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6144948,False,False,False,False
+Citibank Brasil,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6144702,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.61443233,False,False,False,False
+Citibank Brasil,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.614421,False,False,False,False
+Citibank Brasil,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.6142386,False,False,False,False
+Citibank Brasil,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.6141259,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.61411625,False,False,False,False
+Citibank Brasil,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6140823,False,False,False,False
+Citibank Brasil,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6139834,False,False,False,False
+Citibank Brasil,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.61397064,False,False,False,False
+Citibank Brasil,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.61391485,False,False,False,False
+Citibank Brasil,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.61390746,False,False,False,False
+Citibank Brasil,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.61385274,False,False,False,False
+Citibank Brasil,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.61384976,False,False,False,False
+Citibank Brasil,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.6137651,False,False,False,False
+Citibank Brasil,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.6136284,False,False,False,False
+Citibank Brasil,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6135486,False,False,False,False
+Citibank Brasil,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.61336917,False,False,False,False
+Citibank Brasil,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.6133503,False,False,False,False
+Citibank Brasil,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.6131976,False,False,False,False
+Citibank Brasil,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.61318684,False,False,False,False
+Citibank Brasil,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.6131184,False,False,False,False
+Citibank Brasil,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.61310995,False,False,False,False
+Citibank Brasil,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.6130851,False,False,False,False
+Citibank Brasil,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.6130683,False,False,False,False
+Citibank Brasil,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.61299527,False,False,False,False
+Citibank Brasil,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.6129917,False,False,False,False
+Citibank Brasil,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.6129583,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.61226165,False,False,False,False
+Citibank Brasil,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.6122184,False,False,False,False
+Citibank Brasil,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6121829,False,False,False,False
+Citibank Brasil,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.6120473,False,False,False,False
+Citibank Brasil,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.61200964,False,False,False,False
+Citibank Brasil,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.6117341,False,False,False,False
+Citibank Brasil,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.61171055,False,False,False,False
+Citibank Brasil,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.611701,False,False,False,False
+Citibank Brasil,random_branch-io_20251129T171524.png,RANDOM,unknown,0.6116773,False,False,False,False
+Citibank Brasil,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6115552,False,False,False,False
+Citibank Brasil,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.61139643,False,False,False,False
+Citibank Brasil,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.611359,False,False,False,False
+Citibank Brasil,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.61117256,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.61116123,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.6110995,False,False,False,False
+Citibank Brasil,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.6110849,False,False,False,False
+Citibank Brasil,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.61104786,False,False,False,False
+Citibank Brasil,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.6110315,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.61100465,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6108899,False,False,False,False
+Citibank Brasil,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6108889,False,False,False,False
+Citibank Brasil,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6108316,False,False,False,False
+Citibank Brasil,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.61080694,False,False,False,False
+Citibank Brasil,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.61078894,False,False,False,False
+Citibank Brasil,random_example-com_20251129T163930.png,RANDOM,unknown,0.6107845,False,False,False,False
+Citibank Brasil,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6107562,False,False,False,False
+Citibank Brasil,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.61072606,False,False,False,False
+Citibank Brasil,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.6106934,False,False,False,False
+Citibank Brasil,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.61062384,False,False,False,False
+Citibank Brasil,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.6105393,False,False,False,False
+Citibank Brasil,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.6104654,False,False,False,False
+Citibank Brasil,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.6102375,False,False,False,False
+Citibank Brasil,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6102274,False,False,False,False
+Citibank Brasil,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.6101968,False,False,False,False
+Citibank Brasil,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.6101834,False,False,False,False
+Citibank Brasil,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.61011124,False,False,False,False
+Citibank Brasil,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.61008674,False,False,False,False
+Citibank Brasil,random_roku-com_20251129T164128.png,RANDOM,unknown,0.61002994,False,False,False,False
+Citibank Brasil,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.6099613,False,False,False,False
+Citibank Brasil,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.60984015,False,False,False,False
+Citibank Brasil,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.6096403,False,False,False,False
+Citibank Brasil,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.60956055,False,False,False,False
+Citibank Brasil,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.6095591,False,False,False,False
+Citibank Brasil,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.6095151,False,False,False,False
+Citibank Brasil,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.6095017,False,False,False,False
+Citibank Brasil,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.60941315,False,False,False,False
+Citibank Brasil,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.60937285,False,False,False,False
+Citibank Brasil,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.609342,False,False,False,False
+Citibank Brasil,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.6092462,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6092296,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.608906,False,False,False,False
+Citibank Brasil,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.6089005,False,False,False,False
+Citibank Brasil,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.6086434,False,False,False,False
+Citibank Brasil,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.6086259,False,False,False,False
+Citibank Brasil,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.60858035,False,False,False,False
+Citibank Brasil,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.6085216,False,False,False,False
+Citibank Brasil,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.6083949,False,False,False,False
+Citibank Brasil,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.60829425,False,False,False,False
+Citibank Brasil,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.60818976,False,False,False,False
+Citibank Brasil,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.6081096,False,False,False,False
+Citibank Brasil,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.6080334,False,False,False,False
+Citibank Brasil,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.6080073,False,False,False,False
+Citibank Brasil,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.6079878,False,False,False,False
+Citibank Brasil,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6079228,False,False,False,False
+Citibank Brasil,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.6078551,False,False,False,False
+Citibank Brasil,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.60785335,False,False,False,False
+Citibank Brasil,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.6077735,False,False,False,False
+Citibank Brasil,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.60770637,False,False,False,False
+Citibank Brasil,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.6075358,False,False,False,False
+Citibank Brasil,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.60745853,False,False,False,False
+Citibank Brasil,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.60745656,False,False,False,False
+Citibank Brasil,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.60741645,False,False,False,False
+Citibank Brasil,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.6072845,False,False,False,False
+Citibank Brasil,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.607114,False,False,False,False
+Citibank Brasil,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.6070738,False,False,False,False
+Citibank Brasil,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.60696197,False,False,False,False
+Citibank Brasil,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.606719,False,False,False,False
+Citibank Brasil,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.60648143,False,False,False,False
+Citibank Brasil,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.6062831,False,False,False,False
+Citibank Brasil,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.60607326,False,False,False,False
+Citibank Brasil,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.6060702,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.606,False,False,False,False
+Citibank Brasil,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.60583705,False,False,False,False
+Citibank Brasil,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.6057278,False,False,False,False
+Citibank Brasil,random_avast-com_20251129T164855.png,RANDOM,unknown,0.60556626,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.60552233,False,False,False,False
+Citibank Brasil,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.60548365,False,False,False,False
+Citibank Brasil,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.60539275,False,False,False,False
+Citibank Brasil,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.6053892,False,False,False,False
+Citibank Brasil,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.6052736,False,False,False,False
+Citibank Brasil,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.60520524,False,False,False,False
+Citibank Brasil,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.60516757,False,False,False,False
+Citibank Brasil,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6050517,False,False,False,False
+Citibank Brasil,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.6050349,False,False,False,False
+Citibank Brasil,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.6049506,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.60486245,False,False,False,False
+Citibank Brasil,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6048281,False,False,False,False
+Citibank Brasil,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.6047579,False,False,False,False
+Citibank Brasil,random_hp-com_20251129T164248.png,RANDOM,unknown,0.6046649,False,False,False,False
+Citibank Brasil,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.6045296,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.60449004,False,False,False,False
+Citibank Brasil,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.604473,False,False,False,False
+Citibank Brasil,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.604363,False,False,False,False
+Citibank Brasil,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.6043068,False,False,False,False
+Citibank Brasil,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.60403526,False,False,False,False
+Citibank Brasil,random_php-net_20251129T164521.png,RANDOM,unknown,0.6040065,False,False,False,False
+Citibank Brasil,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6039274,False,False,False,False
+Citibank Brasil,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.60379404,False,False,False,False
+Citibank Brasil,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.6037624,False,False,False,False
+Citibank Brasil,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.60373646,False,False,False,False
+Citibank Brasil,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.60368466,False,False,False,False
+Citibank Brasil,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.6036815,False,False,False,False
+Citibank Brasil,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.60367167,False,False,False,False
+Citibank Brasil,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.6036315,False,False,False,False
+Citibank Brasil,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6035659,False,False,False,False
+Citibank Brasil,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.60355353,False,False,False,False
+Citibank Brasil,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.60354173,False,False,False,False
+Citibank Brasil,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.60349345,False,False,False,False
+Citibank Brasil,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6032967,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6032236,False,False,False,False
+Citibank Brasil,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.60316753,False,False,False,False
+Citibank Brasil,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6031567,False,False,False,False
+Citibank Brasil,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6028663,False,False,False,False
+Citibank Brasil,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.6027011,False,False,False,False
+Citibank Brasil,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.60269076,False,False,False,False
+Citibank Brasil,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.6026205,False,False,False,False
+Citibank Brasil,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.6025899,False,False,False,False
+Citibank Brasil,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.602577,False,False,False,False
+Citibank Brasil,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.60255444,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6024443,False,False,False,False
+Citibank Brasil,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.60236335,False,False,False,False
+Citibank Brasil,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.60222614,False,False,False,False
+Citibank Brasil,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.6018361,False,False,False,False
+Citibank Brasil,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.60171795,False,False,False,False
+Citibank Brasil,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.60162526,False,False,False,False
+Citibank Brasil,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.6015395,False,False,False,False
+Citibank Brasil,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.6015353,False,False,False,False
+Citibank Brasil,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.60150856,False,False,False,False
+Citibank Brasil,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.60144544,False,False,False,False
+Citibank Brasil,random_opera-com_20251129T163028.png,RANDOM,unknown,0.6013482,False,False,False,False
+Citibank Brasil,random_xing-com_20251129T175042.png,RANDOM,unknown,0.6012907,False,False,False,False
+Citibank Brasil,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.60122806,False,False,False,False
+Citibank Brasil,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.6011652,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.60112524,False,False,False,False
+Citibank Brasil,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.60102963,False,False,False,False
+Citibank Brasil,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6009514,False,False,False,False
+Citibank Brasil,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.60090077,False,False,False,False
+Citibank Brasil,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.60081106,False,False,False,False
+Citibank Brasil,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.60079914,False,False,False,False
+Citibank Brasil,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6007881,False,False,False,False
+Citibank Brasil,random_aol-com_20251129T170152.png,RANDOM,unknown,0.60044944,False,False,False,False
+Citibank Brasil,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.6004063,False,False,False,False
+Citibank Brasil,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.60030115,False,False,False,False
+Citibank Brasil,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.6002115,False,False,False,False
+Citibank Brasil,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6000814,False,False,False,False
+Citibank Brasil,random_moe-video_20251129T164430.png,RANDOM,unknown,0.5999492,False,False,False,False
+Citibank Brasil,random_github-io_20251129T163235.png,RANDOM,unknown,0.59991914,False,False,False,False
+Citibank Brasil,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.59977406,False,False,False,False
+Citibank Brasil,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.5995123,False,False,False,False
+Citibank Brasil,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.5994666,False,False,False,False
+Citibank Brasil,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.59924126,False,False,False,False
+Citibank Brasil,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.59915805,False,False,False,False
+Citibank Brasil,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.5991428,False,False,False,False
+Citibank Brasil,random_jd-com_20251129T174954.png,RANDOM,unknown,0.5991076,False,False,False,False
+Citibank Brasil,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.5990838,False,False,False,False
+Citibank Brasil,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.5990782,False,False,False,False
+Citibank Brasil,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.59907794,False,False,False,False
+Citibank Brasil,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.5990266,False,False,False,False
+Citibank Brasil,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5988785,False,False,False,False
+Citibank Brasil,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.5987595,False,False,False,False
+Citibank Brasil,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5987386,False,False,False,False
+Citibank Brasil,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5984053,False,False,False,False
+Citibank Brasil,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.5983263,False,False,False,False
+Citibank Brasil,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.5982741,False,False,False,False
+Citibank Brasil,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.59819883,False,False,False,False
+Citibank Brasil,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.5981208,False,False,False,False
+Citibank Brasil,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.59801805,False,False,False,False
+Citibank Brasil,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.59799623,False,False,False,False
+Citibank Brasil,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.59789854,False,False,False,False
+Citibank Brasil,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.59789246,False,False,False,False
+Citibank Brasil,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.59786403,False,False,False,False
+Citibank Brasil,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.5977569,False,False,False,False
+Citibank Brasil,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5977396,False,False,False,False
+Citibank Brasil,random_gov-br_20251129T174615.png,RANDOM,unknown,0.5977261,False,False,False,False
+Citibank Brasil,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.5977004,False,False,False,False
+Citibank Brasil,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5976984,False,False,False,False
+Citibank Brasil,random_docker-com_20251129T170827.png,RANDOM,unknown,0.5976801,False,False,False,False
+Citibank Brasil,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.5975649,False,False,False,False
+Citibank Brasil,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.5975547,False,False,False,False
+Citibank Brasil,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.5975535,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.59735703,False,False,False,False
+Citibank Brasil,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.5973394,False,False,False,False
+Citibank Brasil,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.5973361,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.5973295,False,False,False,False
+Citibank Brasil,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.5970121,False,False,False,False
+Citibank Brasil,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.597012,False,False,False,False
+Citibank Brasil,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5969974,False,False,False,False
+Citibank Brasil,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.59699064,False,False,False,False
+Citibank Brasil,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.59691447,False,False,False,False
+Citibank Brasil,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.5968896,False,False,False,False
+Citibank Brasil,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.59683496,False,False,False,False
+Citibank Brasil,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.59667957,False,False,False,False
+Citibank Brasil,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.59661525,False,False,False,False
+Citibank Brasil,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.59648454,False,False,False,False
+Citibank Brasil,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.59628034,False,False,False,False
+Citibank Brasil,random_ring-com_20251129T172743.png,RANDOM,unknown,0.5962287,False,False,False,False
+Citibank Brasil,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.5961119,False,False,False,False
+Citibank Brasil,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5961089,False,False,False,False
+Citibank Brasil,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.5960974,False,False,False,False
+Citibank Brasil,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.59574866,False,False,False,False
+Citibank Brasil,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.59571004,False,False,False,False
+Citibank Brasil,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.5956123,False,False,False,False
+Citibank Brasil,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.59546435,False,False,False,False
+Citibank Brasil,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.59519595,False,False,False,False
+Citibank Brasil,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5951931,False,False,False,False
+Citibank Brasil,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.59497666,False,False,False,False
+Citibank Brasil,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.59495234,False,False,False,False
+Citibank Brasil,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.59488106,False,False,False,False
+Citibank Brasil,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.594614,False,False,False,False
+Citibank Brasil,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.59448075,False,False,False,False
+Citibank Brasil,random_naver-com_20251129T164929.png,RANDOM,unknown,0.5944496,False,False,False,False
+Citibank Brasil,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5944282,False,False,False,False
+Citibank Brasil,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.59430325,False,False,False,False
+Citibank Brasil,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5942712,False,False,False,False
+Citibank Brasil,random_finn-no_20251129T180303.png,RANDOM,unknown,0.5942385,False,False,False,False
+Citibank Brasil,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.59420323,False,False,False,False
+Citibank Brasil,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.5939777,False,False,False,False
+Citibank Brasil,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.59382904,False,False,False,False
+Citibank Brasil,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.5937979,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.593777,False,False,False,False
+Citibank Brasil,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.5937375,False,False,False,False
+Citibank Brasil,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.5936982,False,False,False,False
+Citibank Brasil,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.593583,False,False,False,False
+Citibank Brasil,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.5935705,False,False,False,False
+Citibank Brasil,random_viber-com_20251129T172210.png,RANDOM,unknown,0.59357035,False,False,False,False
+Citibank Brasil,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.5935377,False,False,False,False
+Citibank Brasil,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.5932039,False,False,False,False
+Citibank Brasil,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.5929599,False,False,False,False
+Citibank Brasil,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.592854,False,False,False,False
+Citibank Brasil,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.59276485,False,False,False,False
+Citibank Brasil,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.5925137,False,False,False,False
+Citibank Brasil,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.59232926,False,False,False,False
+Citibank Brasil,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.59224594,False,False,False,False
+Citibank Brasil,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.59219646,False,False,False,False
+Citibank Brasil,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.59214735,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.59214455,False,False,False,False
+Citibank Brasil,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.59213805,False,False,False,False
+Citibank Brasil,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.59210634,False,False,False,False
+Citibank Brasil,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.59207034,False,False,False,False
+Citibank Brasil,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.59206784,False,False,False,False
+Citibank Brasil,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5920403,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.59175766,False,False,False,False
+Citibank Brasil,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.5915146,False,False,False,False
+Citibank Brasil,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.59131277,False,False,False,False
+Citibank Brasil,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.5910659,False,False,False,False
+Citibank Brasil,random_name-com_20251129T171101.png,RANDOM,unknown,0.59085405,False,False,False,False
+Citibank Brasil,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.59085095,False,False,False,False
+Citibank Brasil,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.59084547,False,False,False,False
+Citibank Brasil,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.5907391,False,False,False,False
+Citibank Brasil,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.590676,False,False,False,False
+Citibank Brasil,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.5906288,False,False,False,False
+Citibank Brasil,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.59046924,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.59020525,False,False,False,False
+Citibank Brasil,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.5901853,False,False,False,False
+Citibank Brasil,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.5900378,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5898253,False,False,False,False
+Citibank Brasil,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.5897715,False,False,False,False
+Citibank Brasil,random_google-cn_20251129T172939.png,RANDOM,unknown,0.5894999,False,False,False,False
+Citibank Brasil,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.58941674,False,False,False,False
+Citibank Brasil,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.5893853,False,False,False,False
+Citibank Brasil,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.589376,False,False,False,False
+Citibank Brasil,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5893675,False,False,False,False
+Citibank Brasil,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.5892153,False,False,False,False
+Citibank Brasil,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.5891281,False,False,False,False
+Citibank Brasil,random_t-me_20251129T163150.png,RANDOM,unknown,0.5890187,False,False,False,False
+Citibank Brasil,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.5889149,False,False,False,False
+Citibank Brasil,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.5887863,False,False,False,False
+Citibank Brasil,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.58876026,False,False,False,False
+Citibank Brasil,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.58875304,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5884893,False,False,False,False
+Citibank Brasil,random_g-page_20251129T170201.png,RANDOM,unknown,0.5882546,False,False,False,False
+Citibank Brasil,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.5874735,False,False,False,False
+Citibank Brasil,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.5873542,False,False,False,False
+Citibank Brasil,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.58729404,False,False,False,False
+Citibank Brasil,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5870955,False,False,False,False
+Citibank Brasil,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5866909,False,False,False,False
+Citibank Brasil,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.58649445,False,False,False,False
+Citibank Brasil,random_android-com_20251129T163812.png,RANDOM,unknown,0.5864599,False,False,False,False
+Citibank Brasil,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.5864206,False,False,False,False
+Citibank Brasil,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.58633864,False,False,False,False
+Citibank Brasil,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.58632314,False,False,False,False
+Citibank Brasil,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.5863196,False,False,False,False
+Citibank Brasil,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.5863126,False,False,False,False
+Citibank Brasil,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5862683,False,False,False,False
+Citibank Brasil,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.5861625,False,False,False,False
+Citibank Brasil,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.58579904,False,False,False,False
+Citibank Brasil,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.5857977,False,False,False,False
+Citibank Brasil,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.58572185,False,False,False,False
+Citibank Brasil,random_skype-com_20251129T162718.png,RANDOM,unknown,0.5854577,False,False,False,False
+Citibank Brasil,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.585414,False,False,False,False
+Citibank Brasil,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.58538485,False,False,False,False
+Citibank Brasil,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.5853057,False,False,False,False
+Citibank Brasil,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.5852232,False,False,False,False
+Citibank Brasil,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.5851836,False,False,False,False
+Citibank Brasil,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.5848168,False,False,False,False
+Citibank Brasil,random_asus-com_20251129T172748.png,RANDOM,unknown,0.58475196,False,False,False,False
+Citibank Brasil,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.58470666,False,False,False,False
+Citibank Brasil,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.5846802,False,False,False,False
+Citibank Brasil,random_ft-com_20251129T170724.png,RANDOM,unknown,0.5846226,False,False,False,False
+Citibank Brasil,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.58456564,False,False,False,False
+Citibank Brasil,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.5843533,False,False,False,False
+Citibank Brasil,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.584351,False,False,False,False
+Citibank Brasil,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.58424604,False,False,False,False
+Citibank Brasil,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.5841974,False,False,False,False
+Citibank Brasil,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.58417606,False,False,False,False
+Citibank Brasil,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.5839658,False,False,False,False
+Citibank Brasil,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.58391863,False,False,False,False
+Citibank Brasil,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.58389056,False,False,False,False
+Citibank Brasil,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.5838507,False,False,False,False
+Citibank Brasil,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.58372295,False,False,False,False
+Citibank Brasil,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.5834483,False,False,False,False
+Citibank Brasil,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.5832919,False,False,False,False
+Citibank Brasil,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.58308285,False,False,False,False
+Citibank Brasil,random_temu-com_20251129T165219.png,RANDOM,unknown,0.5830624,False,False,False,False
+Citibank Brasil,random_shein-com_20251129T170736.png,RANDOM,unknown,0.5829835,False,False,False,False
+Citibank Brasil,random_focus-de_20251129T175031.png,RANDOM,unknown,0.5828599,False,False,False,False
+Citibank Brasil,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.58262,False,False,False,False
+Citibank Brasil,random_google-com_20251129T162253.png,RANDOM,unknown,0.58249885,False,False,False,False
+Citibank Brasil,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.5820873,False,False,False,False
+Citibank Brasil,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.58193624,False,False,False,False
+Citibank Brasil,random_one-one_20251129T163318.png,RANDOM,unknown,0.5819089,False,False,False,False
+Citibank Brasil,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.5818577,False,False,False,False
+Citibank Brasil,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.58161783,False,False,False,False
+Citibank Brasil,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.5813846,False,False,False,False
+Citibank Brasil,random_wired-com_20251129T170401.png,RANDOM,unknown,0.58124954,False,False,False,False
+Citibank Brasil,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.581201,False,False,False,False
+Citibank Brasil,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.58113897,False,False,False,False
+Citibank Brasil,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.58113027,False,False,False,False
+Citibank Brasil,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.5810654,False,False,False,False
+Citibank Brasil,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5810642,False,False,False,False
+Citibank Brasil,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5808797,False,False,False,False
+Citibank Brasil,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.5806204,False,False,False,False
+Citibank Brasil,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5805825,False,False,False,False
+Citibank Brasil,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.58032507,False,False,False,False
+Citibank Brasil,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.580218,False,False,False,False
+Citibank Brasil,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.5802039,False,False,False,False
+Citibank Brasil,random_github-com_20251129T162456.png,RANDOM,unknown,0.5798526,False,False,False,False
+Citibank Brasil,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.57973886,False,False,False,False
+Citibank Brasil,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5795363,False,False,False,False
+Citibank Brasil,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.5795184,False,False,False,False
+Citibank Brasil,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.5795024,False,False,False,False
+Citibank Brasil,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.5795022,False,False,False,False
+Citibank Brasil,random_python-org_20251129T173738.png,RANDOM,unknown,0.5794429,False,False,False,False
+Citibank Brasil,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.579391,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5792842,False,False,False,False
+Citibank Brasil,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.57910377,False,False,False,False
+Citibank Brasil,random_bol-com_20251129T174941.png,RANDOM,unknown,0.57906115,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.57885504,False,False,False,False
+Citibank Brasil,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.57880116,False,False,False,False
+Citibank Brasil,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5783211,False,False,False,False
+Citibank Brasil,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.57831573,False,False,False,False
+Citibank Brasil,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.5782975,False,False,False,False
+Citibank Brasil,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.57825255,False,False,False,False
+Citibank Brasil,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.57771635,False,False,False,False
+Citibank Brasil,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5774277,False,False,False,False
+Citibank Brasil,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.5772756,False,False,False,False
+Citibank Brasil,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.57725674,False,False,False,False
+Citibank Brasil,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.5770456,False,False,False,False
+Citibank Brasil,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.5769533,False,False,False,False
+Citibank Brasil,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.57689,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5767991,False,False,False,False
+Citibank Brasil,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5767364,False,False,False,False
+Citibank Brasil,random_office-com_20251129T162404.png,RANDOM,unknown,0.5766102,False,False,False,False
+Citibank Brasil,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.57653475,False,False,False,False
+Citibank Brasil,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.57643706,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5763039,False,False,False,False
+Citibank Brasil,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.5762547,False,False,False,False
+Citibank Brasil,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.5760732,False,False,False,False
+Citibank Brasil,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.5759902,False,False,False,False
+Citibank Brasil,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.57588536,False,False,False,False
+Citibank Brasil,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.5757562,False,False,False,False
+Citibank Brasil,random_state-gov_20251129T174508.png,RANDOM,unknown,0.57562643,False,False,False,False
+Citibank Brasil,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.5750666,False,False,False,False
+Citibank Brasil,random_doi-org_20251129T164112.png,RANDOM,unknown,0.57492805,False,False,False,False
+Citibank Brasil,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.57475317,False,False,False,False
+Citibank Brasil,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5747163,False,False,False,False
+Citibank Brasil,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.5744381,False,False,False,False
+Citibank Brasil,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.57433295,False,False,False,False
+Citibank Brasil,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.5743205,False,False,False,False
+Citibank Brasil,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.57418966,False,False,False,False
+Citibank Brasil,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.5738423,False,False,False,False
+Citibank Brasil,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.57356656,False,False,False,False
+Citibank Brasil,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.57327735,False,False,False,False
+Citibank Brasil,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.57322496,False,False,False,False
+Citibank Brasil,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.5729363,False,False,False,False
+Citibank Brasil,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.5727992,False,False,False,False
+Citibank Brasil,random_abc-es_20251129T175348.png,RANDOM,unknown,0.5727193,False,False,False,False
+Citibank Brasil,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.57268393,False,False,False,False
+Citibank Brasil,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.57255435,False,False,False,False
+Citibank Brasil,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.5724983,False,False,False,False
+Citibank Brasil,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.5724047,False,False,False,False
+Citibank Brasil,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5723241,False,False,False,False
+Citibank Brasil,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.572188,False,False,False,False
+Citibank Brasil,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.5721766,False,False,False,False
+Citibank Brasil,random_youku-com_20251129T174026.png,RANDOM,unknown,0.5718976,False,False,False,False
+Citibank Brasil,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.5718694,False,False,False,False
+Citibank Brasil,random_note-com_20251129T174642.png,RANDOM,unknown,0.5716148,False,False,False,False
+Citibank Brasil,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.5716052,False,False,False,False
+Citibank Brasil,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.57159483,False,False,False,False
+Citibank Brasil,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.5715881,False,False,False,False
+Citibank Brasil,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.57131577,False,False,False,False
+Citibank Brasil,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5712696,False,False,False,False
+Citibank Brasil,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.5711917,False,False,False,False
+Citibank Brasil,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.5711212,False,False,False,False
+Citibank Brasil,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.5711079,False,False,False,False
+Citibank Brasil,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.57086873,False,False,False,False
+Citibank Brasil,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5705788,False,False,False,False
+Citibank Brasil,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.5705064,False,False,False,False
+Citibank Brasil,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.5705048,False,False,False,False
+Citibank Brasil,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.5704945,False,False,False,False
+Citibank Brasil,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5702984,False,False,False,False
+Citibank Brasil,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.57023096,False,False,False,False
+Citibank Brasil,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.57017726,False,False,False,False
+Citibank Brasil,random_fast-com_20251129T171226.png,RANDOM,unknown,0.5700787,False,False,False,False
+Citibank Brasil,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.5700752,False,False,False,False
+Citibank Brasil,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.57004476,False,False,False,False
+Citibank Brasil,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.5698788,False,False,False,False
+Citibank Brasil,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.569741,False,False,False,False
+Citibank Brasil,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.5696997,False,False,False,False
+Citibank Brasil,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.5696986,False,False,False,False
+Citibank Brasil,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.56965405,False,False,False,False
+Citibank Brasil,random_india-com_20251129T180557.png,RANDOM,unknown,0.56952816,False,False,False,False
+Citibank Brasil,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.5693766,False,False,False,False
+Citibank Brasil,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.56894183,False,False,False,False
+Citibank Brasil,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.5689054,False,False,False,False
+Citibank Brasil,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.5688976,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5688904,False,False,False,False
+Citibank Brasil,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5688249,False,False,False,False
+Citibank Brasil,random_overload-su_20251129T170747.png,RANDOM,unknown,0.5687764,False,False,False,False
+Citibank Brasil,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.5682857,False,False,False,False
+Citibank Brasil,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5681834,False,False,False,False
+Citibank Brasil,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.56813973,False,False,False,False
+Citibank Brasil,random_nic-io_20251129T173852.png,RANDOM,unknown,0.56806886,False,False,False,False
+Citibank Brasil,random_genius-com_20251129T174000.png,RANDOM,unknown,0.5677278,False,False,False,False
+Citibank Brasil,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.567451,False,False,False,False
+Citibank Brasil,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.5674062,False,False,False,False
+Citibank Brasil,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.56722087,False,False,False,False
+Citibank Brasil,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.56713796,False,False,False,False
+Citibank Brasil,random_singular-net_20251129T175446.png,RANDOM,unknown,0.5669453,False,False,False,False
+Citibank Brasil,random_change-org_20251129T173929.png,RANDOM,unknown,0.5668125,False,False,False,False
+Citibank Brasil,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.5667451,False,False,False,False
+Citibank Brasil,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.5666609,False,False,False,False
+Citibank Brasil,random_daum-net_20251129T174537.png,RANDOM,unknown,0.56587315,False,False,False,False
+Citibank Brasil,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.5657404,False,False,False,False
+Citibank Brasil,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.56567854,False,False,False,False
+Citibank Brasil,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.5655918,False,False,False,False
+Citibank Brasil,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.565585,False,False,False,False
+Citibank Brasil,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.56551003,False,False,False,False
+Citibank Brasil,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.5652888,False,False,False,False
+Citibank Brasil,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.5651574,False,False,False,False
+Citibank Brasil,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.5650728,False,False,False,False
+Citibank Brasil,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.5650512,False,False,False,False
+Citibank Brasil,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.56497973,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5646733,False,False,False,False
+Citibank Brasil,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.5646016,False,False,False,False
+Citibank Brasil,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5643566,False,False,False,False
+Citibank Brasil,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.56401664,False,False,False,False
+Citibank Brasil,random_qq-com_20251129T162834.png,RANDOM,unknown,0.5639059,False,False,False,False
+Citibank Brasil,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.5637392,False,False,False,False
+Citibank Brasil,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.56370366,False,False,False,False
+Citibank Brasil,random_miui-com_20251129T163719.png,RANDOM,unknown,0.5634453,False,False,False,False
+Citibank Brasil,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5632733,False,False,False,False
+Citibank Brasil,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.56303287,False,False,False,False
+Citibank Brasil,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.56276226,False,False,False,False
+Citibank Brasil,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.5624936,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.562354,False,False,False,False
+Citibank Brasil,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.5622661,False,False,False,False
+Citibank Brasil,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.5622529,False,False,False,False
+Citibank Brasil,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5621559,False,False,False,False
+Citibank Brasil,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.56209683,False,False,False,False
+Citibank Brasil,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.56206715,False,False,False,False
+Citibank Brasil,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.56164736,False,False,False,False
+Citibank Brasil,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.5613338,False,False,False,False
+Citibank Brasil,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.56097573,False,False,False,False
+Citibank Brasil,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.5608046,False,False,False,False
+Citibank Brasil,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.56063414,False,False,False,False
+Citibank Brasil,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.56057394,False,False,False,False
+Citibank Brasil,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.5604505,False,False,False,False
+Citibank Brasil,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.55953455,False,False,False,False
+Citibank Brasil,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5592997,False,False,False,False
+Citibank Brasil,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.5592924,False,False,False,False
+Citibank Brasil,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.55888814,False,False,False,False
+Citibank Brasil,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.55864584,False,False,False,False
+Citibank Brasil,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.55836064,False,False,False,False
+Citibank Brasil,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5580555,False,False,False,False
+Citibank Brasil,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.5579282,False,False,False,False
+Citibank Brasil,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.5578949,False,False,False,False
+Citibank Brasil,random_otto-de_20251129T174331.png,RANDOM,unknown,0.55782634,False,False,False,False
+Citibank Brasil,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.55779433,False,False,False,False
+Citibank Brasil,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.55770653,False,False,False,False
+Citibank Brasil,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.55749774,False,False,False,False
+Citibank Brasil,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.55716306,False,False,False,False
+Citibank Brasil,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.557088,False,False,False,False
+Citibank Brasil,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.55677974,False,False,False,False
+Citibank Brasil,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.55671066,False,False,False,False
+Citibank Brasil,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.55660206,False,False,False,False
+Citibank Brasil,random_chess-com_20251129T173919.png,RANDOM,unknown,0.5565487,False,False,False,False
+Citibank Brasil,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.5563569,False,False,False,False
+Citibank Brasil,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.5562967,False,False,False,False
+Citibank Brasil,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.5562387,False,False,False,False
+Citibank Brasil,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5562302,False,False,False,False
+Citibank Brasil,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.556145,False,False,False,False
+Citibank Brasil,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.5560192,False,False,False,False
+Citibank Brasil,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.5558103,False,False,False,False
+Citibank Brasil,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.555771,False,False,False,False
+Citibank Brasil,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.55557585,False,False,False,False
+Citibank Brasil,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.55510926,False,False,False,False
+Citibank Brasil,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.5550364,False,False,False,False
+Citibank Brasil,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.55469924,False,False,False,False
+Citibank Brasil,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.5546713,False,False,False,False
+Citibank Brasil,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.55436945,False,False,False,False
+Citibank Brasil,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.5542699,False,False,False,False
+Citibank Brasil,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.5540226,False,False,False,False
+Citibank Brasil,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.55396867,False,False,False,False
+Citibank Brasil,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.5538968,False,False,False,False
+Citibank Brasil,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.55388224,False,False,False,False
+Citibank Brasil,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.55377406,False,False,False,False
+Citibank Brasil,random_bing-com_20251129T162459.png,RANDOM,unknown,0.5535679,False,False,False,False
+Citibank Brasil,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.5534003,False,False,False,False
+Citibank Brasil,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.5533856,False,False,False,False
+Citibank Brasil,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.5532559,False,False,False,False
+Citibank Brasil,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.5532372,False,False,False,False
+Citibank Brasil,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.5531925,False,False,False,False
+Citibank Brasil,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.55262244,False,False,False,False
+Citibank Brasil,random_wps-com_20251129T174320.png,RANDOM,unknown,0.5524562,False,False,False,False
+Citibank Brasil,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.5521444,False,False,False,False
+Citibank Brasil,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.55209655,False,False,False,False
+Citibank Brasil,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.55186224,False,False,False,False
+Citibank Brasil,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.5517869,False,False,False,False
+Citibank Brasil,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5516556,False,False,False,False
+Citibank Brasil,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.55148095,False,False,False,False
+Citibank Brasil,random_agora-io_20251129T175439.png,RANDOM,unknown,0.5514565,False,False,False,False
+Citibank Brasil,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.5514306,False,False,False,False
+Citibank Brasil,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.55131507,False,False,False,False
+Citibank Brasil,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.55126065,False,False,False,False
+Citibank Brasil,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.55088824,False,False,False,False
+Citibank Brasil,random_marca-com_20251129T175532.png,RANDOM,unknown,0.5505572,False,False,False,False
+Citibank Brasil,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.54983354,False,False,False,False
+Citibank Brasil,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.54980034,False,False,False,False
+Citibank Brasil,random_canva-com_20251129T164231.png,RANDOM,unknown,0.5497296,False,False,False,False
+Citibank Brasil,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5494441,False,False,False,False
+Citibank Brasil,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.5493865,False,False,False,False
+Citibank Brasil,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.5491735,False,False,False,False
+Citibank Brasil,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.54892266,False,False,False,False
+Citibank Brasil,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.5486385,False,False,False,False
+Citibank Brasil,random_free-fr_20251129T171241.png,RANDOM,unknown,0.5482604,False,False,False,False
+Citibank Brasil,random_intel-com_20251129T171229.png,RANDOM,unknown,0.5480121,False,False,False,False
+Citibank Brasil,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.5469613,False,False,False,False
+Citibank Brasil,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.5468465,False,False,False,False
+Citibank Brasil,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5466602,False,False,False,False
+Citibank Brasil,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.54664695,False,False,False,False
+Citibank Brasil,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5461662,False,False,False,False
+Citibank Brasil,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5460787,False,False,False,False
+Citibank Brasil,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.54593635,False,False,False,False
+Citibank Brasil,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.54588395,False,False,False,False
+Citibank Brasil,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.5454263,False,False,False,False
+Citibank Brasil,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.54524726,False,False,False,False
+Citibank Brasil,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.5450941,False,False,False,False
+Citibank Brasil,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5450097,False,False,False,False
+Citibank Brasil,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.5449665,False,False,False,False
+Citibank Brasil,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.54494905,False,False,False,False
+Citibank Brasil,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.54480135,False,False,False,False
+Citibank Brasil,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.54471624,False,False,False,False
+Citibank Brasil,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.5446038,False,False,False,False
+Citibank Brasil,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.5444748,False,False,False,False
+Citibank Brasil,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.54426736,False,False,False,False
+Citibank Brasil,random_plos-org_20251129T180524.png,RANDOM,unknown,0.5441674,False,False,False,False
+Citibank Brasil,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5441588,False,False,False,False
+Citibank Brasil,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.5440187,False,False,False,False
+Citibank Brasil,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.5440017,False,False,False,False
+Citibank Brasil,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.54343337,False,False,False,False
+Citibank Brasil,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.5433431,False,False,False,False
+Citibank Brasil,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.5432735,False,False,False,False
+Citibank Brasil,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.54317737,False,False,False,False
+Citibank Brasil,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.5431074,False,False,False,False
+Citibank Brasil,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.54289794,False,False,False,False
+Citibank Brasil,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.5427517,False,False,False,False
+Citibank Brasil,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.54273736,False,False,False,False
+Citibank Brasil,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.54200745,False,False,False,False
+Citibank Brasil,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.5416629,False,False,False,False
+Citibank Brasil,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.5413053,False,False,False,False
+Citibank Brasil,random_go-com_20251129T164609.png,RANDOM,unknown,0.5412033,False,False,False,False
+Citibank Brasil,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.54086566,False,False,False,False
+Citibank Brasil,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.5408646,False,False,False,False
+Citibank Brasil,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.5403324,False,False,False,False
+Citibank Brasil,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.54023564,False,False,False,False
+Citibank Brasil,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.5395323,False,False,False,False
+Citibank Brasil,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.53838617,False,False,False,False
+Citibank Brasil,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5382899,False,False,False,False
+Citibank Brasil,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.538152,False,False,False,False
+Citibank Brasil,random_att-net_20251129T170227.png,RANDOM,unknown,0.53786635,False,False,False,False
+Citibank Brasil,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.53783166,False,False,False,False
+Citibank Brasil,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.53782773,False,False,False,False
+Citibank Brasil,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.53771514,False,False,False,False
+Citibank Brasil,random_npr-org_20251129T170056.png,RANDOM,unknown,0.5373535,False,False,False,False
+Citibank Brasil,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.5367917,False,False,False,False
+Citibank Brasil,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.5360927,False,False,False,False
+Citibank Brasil,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.53571033,False,False,False,False
+Citibank Brasil,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.535438,False,False,False,False
+Citibank Brasil,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.5354216,False,False,False,False
+Citibank Brasil,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.5344985,False,False,False,False
+Citibank Brasil,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.5344027,False,False,False,False
+Citibank Brasil,random_360-cn_20251129T173141.png,RANDOM,unknown,0.5340562,False,False,False,False
+Citibank Brasil,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.5338101,False,False,False,False
+Citibank Brasil,random_openai-com_20251129T164132.png,RANDOM,unknown,0.5322841,False,False,False,False
+Citibank Brasil,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.5319624,False,False,False,False
+Citibank Brasil,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.53186905,False,False,False,False
+Citibank Brasil,random_clever-com_20251129T173500.png,RANDOM,unknown,0.5315594,False,False,False,False
+Citibank Brasil,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5315511,False,False,False,False
+Citibank Brasil,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.53141546,False,False,False,False
+Citibank Brasil,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.53136694,False,False,False,False
+Citibank Brasil,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.5307112,False,False,False,False
+Citibank Brasil,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.53009784,False,False,False,False
+Citibank Brasil,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.5293005,False,False,False,False
+Citibank Brasil,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.5291562,False,False,False,False
+Citibank Brasil,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.5289714,False,False,False,False
+Citibank Brasil,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.52880675,False,False,False,False
+Citibank Brasil,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.5285853,False,False,False,False
+Citibank Brasil,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.5271801,False,False,False,False
+Citibank Brasil,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.5258417,False,False,False,False
+Citibank Brasil,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5254878,False,False,False,False
+Citibank Brasil,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.5254631,False,False,False,False
+Citibank Brasil,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.52480066,False,False,False,False
+Citibank Brasil,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.52445227,False,False,False,False
+Citibank Brasil,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.5244042,False,False,False,False
+Citibank Brasil,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.5240941,False,False,False,False
+Citibank Brasil,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.5238763,False,False,False,False
+Citibank Brasil,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.52284604,False,False,False,False
+Citibank Brasil,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.52234346,False,False,False,False
+Citibank Brasil,random_as-com_20251129T175716.png,RANDOM,unknown,0.52222,False,False,False,False
+Citibank Brasil,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5220165,False,False,False,False
+Citibank Brasil,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.5216607,False,False,False,False
+Citibank Brasil,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.52121544,False,False,False,False
+Citibank Brasil,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.5208496,False,False,False,False
+Citibank Brasil,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.52072054,False,False,False,False
+Citibank Brasil,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.5201825,False,False,False,False
+Citibank Brasil,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.5198528,False,False,False,False
+Citibank Brasil,random_apache-org_20251129T163228.png,RANDOM,unknown,0.51981074,False,False,False,False
+Citibank Brasil,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.519649,False,False,False,False
+Citibank Brasil,random_espn-com_20251129T165100.png,RANDOM,unknown,0.519551,False,False,False,False
+Citibank Brasil,random_notion-so_20251129T180340.png,RANDOM,unknown,0.5193183,False,False,False,False
+Citibank Brasil,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.5189005,False,False,False,False
+Citibank Brasil,random_azure-com_20251129T162438.png,RANDOM,unknown,0.518201,False,False,False,False
+Citibank Brasil,random_archive-org_20251129T163406.png,RANDOM,unknown,0.5180911,False,False,False,False
+Citibank Brasil,random_time-com_20251129T170629.png,RANDOM,unknown,0.5179346,False,False,False,False
+Citibank Brasil,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.5173189,False,False,False,False
+Citibank Brasil,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.516047,False,False,False,False
+Citibank Brasil,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.5157971,False,False,False,False
+Citibank Brasil,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.5147676,False,False,False,False
+Citibank Brasil,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5140824,False,False,False,False
+Citibank Brasil,random_vg-no_20251129T180754.png,RANDOM,unknown,0.51384056,False,False,False,False
+Citibank Brasil,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.5122639,False,False,False,False
+Citibank Brasil,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.51196074,False,False,False,False
+Citibank Brasil,random_bild-de_20251129T173827.png,RANDOM,unknown,0.5114432,False,False,False,False
+Citibank Brasil,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.511441,False,False,False,False
+Citibank Brasil,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.51045346,False,False,False,False
+Citibank Brasil,random_ted-com_20251129T172015.png,RANDOM,unknown,0.50772417,False,False,False,False
+Citibank Brasil,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.5074924,False,False,False,False
+Citibank Brasil,random_globo-com_20251129T165541.png,RANDOM,unknown,0.50729656,False,False,False,False
+Citibank Brasil,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.5068717,False,False,False,False
+Citibank Brasil,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.50476164,False,False,False,False
+Citibank Brasil,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.5042143,False,False,False,False
+Citibank Brasil,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.50370777,False,False,False,False
+Citibank Brasil,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.5023266,False,False,False,False
+Citibank Brasil,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.50161135,False,False,False,False
+Citibank Brasil,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.5015041,False,False,False,False
+Citibank Brasil,random_debian-org_20251129T164620.png,RANDOM,unknown,0.50138354,False,False,False,False
+Citibank Brasil,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.50135314,False,False,False,False
+Citibank Brasil,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.5007235,False,False,False,False
+Citibank Brasil,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.5001802,False,False,False,False
+Citibank Brasil,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.49905396,False,False,False,False
+Citibank Brasil,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.4988618,False,False,False,False
+Citibank Brasil,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.49773896,False,False,False,False
+Citibank Brasil,random_line-me_20251129T170140.png,RANDOM,unknown,0.49481517,False,False,False,False
+Citibank Brasil,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.49238455,False,False,False,False
+Citibank Brasil,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.49002668,False,False,False,False
+Citibank Brasil,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.4899159,False,False,False,False
+Citibank Brasil,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.48929748,False,False,False,False
+Citibank Brasil,random_people-com_20251129T172859.png,RANDOM,unknown,0.48804474,False,False,False,False
+Citibank Brasil,random_he-net_20251129T172135.png,RANDOM,unknown,0.4877087,False,False,False,False
+Citibank Brasil,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.48687422,False,False,False,False
+Citibank Brasil,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.48420754,False,False,False,False
+Citibank Brasil,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.4767961,False,False,False,False
+Citibank Brasil,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.4767932,False,False,False,False
+Citibank Brasil,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.4765543,False,False,False,False
+Citibank Brasil,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.47536755,False,False,False,False
+Citibank Brasil,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.47488755,False,False,False,False
+Citibank Brasil,random_who-int_20251129T164225.png,RANDOM,unknown,0.47485724,False,False,False,False
+Citibank Brasil,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.46695688,False,False,False,False
+Citibank Brasil,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.46693158,False,False,False,False
+Citibank Brasil,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.46574622,False,False,False,False
+Citibank Brasil,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.46556258,False,False,False,False
+Citibank Brasil,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.4634429,False,False,False,False
+Citibank Brasil,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.4633675,False,False,False,False
+Citibank Brasil,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.4507147,False,False,False,False
+Citibank Brasil,random_health-mil_20251129T163619.png,RANDOM,unknown,0.44951987,False,False,False,False
+Citibank Brasil,random_poki-com_20251129T180027.png,RANDOM,unknown,0.4356144,False,False,False,False
+Citibank Brasil,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.43559712,False,False,False,False
+Citibank Brasil,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.36927566,False,False,False,False
+Citibank Brasil,random_threads-com_20251129T174157.png,RANDOM,unknown,0.34803468,False,False,False,False

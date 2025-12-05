@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+Colpatria,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,1.0000001,True,True,False,True
+Colpatria,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.9518252,True,True,False,False
+Colpatria,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.9399079,True,True,False,False
+Colpatria,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.93857557,True,True,False,False
+Colpatria,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.93792725,True,True,False,False
+Colpatria,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.93587255,True,True,False,False
+Colpatria,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.9316502,True,True,False,False
+Colpatria,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.9302325,True,True,False,False
+Colpatria,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.9201764,True,True,False,False
+Colpatria,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.90236145,True,True,False,False
+Colpatria,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.8879645,True,True,False,False
+Colpatria,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.7144506,False,False,False,False
+Colpatria,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.7028727,False,False,False,False
+Colpatria,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.6921884,False,False,False,False
+Colpatria,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.6884546,False,False,False,False
+Colpatria,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.68786275,False,False,False,False
+Colpatria,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6861287,False,False,False,False
+Colpatria,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.6844453,False,False,False,False
+Colpatria,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.6840998,False,False,False,False
+Colpatria,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.68075645,False,False,False,False
+Colpatria,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.67903185,False,False,False,False
+Colpatria,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.6784146,False,False,False,False
+Colpatria,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.6753128,False,False,False,False
+Colpatria,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.67379403,False,False,False,False
+Colpatria,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.6735977,False,False,False,False
+Colpatria,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6720443,False,False,False,False
+Colpatria,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6719447,False,False,False,False
+Colpatria,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6712284,False,False,False,False
+Colpatria,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.66957116,False,False,False,False
+Colpatria,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.669031,False,False,False,False
+Colpatria,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.66856354,False,False,False,False
+Colpatria,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6683708,False,False,False,False
+Colpatria,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6664536,False,False,False,False
+Colpatria,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.66635764,False,False,False,False
+Colpatria,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.66526234,False,False,False,False
+Colpatria,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.6648742,False,False,False,False
+Colpatria,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.6648271,False,False,False,False
+Colpatria,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6647439,False,False,False,False
+Colpatria,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.6618282,False,False,False,False
+Colpatria,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.6602422,False,False,False,False
+Colpatria,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.6598474,False,False,False,False
+Colpatria,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.65957344,False,False,False,False
+Colpatria,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.6592125,False,False,False,False
+Colpatria,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.6592059,False,False,False,False
+Colpatria,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.658654,False,False,False,False
+Colpatria,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.65722483,False,False,False,False
+Colpatria,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.656896,False,False,False,False
+Colpatria,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.65667164,False,False,False,False
+Colpatria,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.6557267,False,False,False,False
+Colpatria,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.6556517,False,False,False,False
+Colpatria,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.6553272,False,False,False,False
+Colpatria,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.654457,False,False,False,False
+Colpatria,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.65229934,False,False,False,False
+Colpatria,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6521563,False,False,False,False
+Colpatria,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.652152,False,False,False,False
+Colpatria,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.6515455,False,False,False,False
+Colpatria,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.65132034,False,False,False,False
+Colpatria,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.6511413,False,False,False,False
+Colpatria,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.6507206,False,False,False,False
+Colpatria,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.6504952,False,False,False,False
+Colpatria,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.65027344,False,False,False,False
+Colpatria,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.6501018,False,False,False,False
+Colpatria,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.65002304,False,False,False,False
+Colpatria,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.6499195,False,False,False,False
+Colpatria,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.64920753,False,False,False,False
+Colpatria,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.6485901,False,False,False,False
+Colpatria,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.648438,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.64815366,False,False,False,False
+Colpatria,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6480727,False,False,False,False
+Colpatria,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.64771044,False,False,False,False
+Colpatria,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6472937,False,False,False,False
+Colpatria,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.64720577,False,False,False,False
+Colpatria,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6471314,False,False,False,False
+Colpatria,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6470026,False,False,False,False
+Colpatria,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.6463148,False,False,False,False
+Colpatria,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.6461768,False,False,False,False
+Colpatria,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6460483,False,False,False,False
+Colpatria,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6458618,False,False,False,False
+Colpatria,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.64509964,False,False,False,False
+Colpatria,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.6448728,False,False,False,False
+Colpatria,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6448611,False,False,False,False
+Colpatria,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.6444946,False,False,False,False
+Colpatria,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6423391,False,False,False,False
+Colpatria,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.64204365,False,False,False,False
+Colpatria,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.64194506,False,False,False,False
+Colpatria,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.64122665,False,False,False,False
+Colpatria,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.6405165,False,False,False,False
+Colpatria,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6404635,False,False,False,False
+Colpatria,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.63984853,False,False,False,False
+Colpatria,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.6394062,False,False,False,False
+Colpatria,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.6393639,False,False,False,False
+Colpatria,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.63934624,False,False,False,False
+Colpatria,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.63908696,False,False,False,False
+Colpatria,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.63906616,False,False,False,False
+Colpatria,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.63823503,False,False,False,False
+Colpatria,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.63809794,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6369668,False,False,False,False
+Colpatria,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.63691324,False,False,False,False
+Colpatria,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.63690615,False,False,False,False
+Colpatria,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6365063,False,False,False,False
+Colpatria,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.63561875,False,False,False,False
+Colpatria,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6355717,False,False,False,False
+Colpatria,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.63517106,False,False,False,False
+Colpatria,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6349956,False,False,False,False
+Colpatria,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.63493943,False,False,False,False
+Colpatria,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6333649,False,False,False,False
+Colpatria,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.63334036,False,False,False,False
+Colpatria,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.63314056,False,False,False,False
+Colpatria,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.63306,False,False,False,False
+Colpatria,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.6328763,False,False,False,False
+Colpatria,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.6327971,False,False,False,False
+Colpatria,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.63275474,False,False,False,False
+Colpatria,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.63247657,False,False,False,False
+Colpatria,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.6324111,False,False,False,False
+Colpatria,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.63233966,False,False,False,False
+Colpatria,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.63212883,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.63199437,False,False,False,False
+Colpatria,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.63150555,False,False,False,False
+Colpatria,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6312211,False,False,False,False
+Colpatria,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.631011,False,False,False,False
+Colpatria,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.6307459,False,False,False,False
+Colpatria,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.6303836,False,False,False,False
+Colpatria,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6291885,False,False,False,False
+Colpatria,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.62892914,False,False,False,False
+Colpatria,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.6288193,False,False,False,False
+Colpatria,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.62880903,False,False,False,False
+Colpatria,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.62874633,False,False,False,False
+Colpatria,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6286967,False,False,False,False
+Colpatria,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.62818104,False,False,False,False
+Colpatria,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.6276478,False,False,False,False
+Colpatria,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.62753165,False,False,False,False
+Colpatria,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.627413,False,False,False,False
+Colpatria,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.62679434,False,False,False,False
+Colpatria,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6266928,False,False,False,False
+Colpatria,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.6258467,False,False,False,False
+Colpatria,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6258018,False,False,False,False
+Colpatria,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.62538654,False,False,False,False
+Colpatria,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.6252303,False,False,False,False
+Colpatria,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6249187,False,False,False,False
+Colpatria,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6243751,False,False,False,False
+Colpatria,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.62412405,False,False,False,False
+Colpatria,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.62370193,False,False,False,False
+Colpatria,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.62360877,False,False,False,False
+Colpatria,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.62291944,False,False,False,False
+Colpatria,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.6229063,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.622854,False,False,False,False
+Colpatria,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6228045,False,False,False,False
+Colpatria,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.62264395,False,False,False,False
+Colpatria,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6221131,False,False,False,False
+Colpatria,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6217713,False,False,False,False
+Colpatria,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.62150425,False,False,False,False
+Colpatria,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.62142164,False,False,False,False
+Colpatria,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6209466,False,False,False,False
+Colpatria,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6209433,False,False,False,False
+Colpatria,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.62033045,False,False,False,False
+Colpatria,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6199395,False,False,False,False
+Colpatria,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.61926574,False,False,False,False
+Colpatria,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6190103,False,False,False,False
+Colpatria,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6189327,False,False,False,False
+Colpatria,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.6184527,False,False,False,False
+Colpatria,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6183177,False,False,False,False
+Colpatria,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.61808556,False,False,False,False
+Colpatria,random_hp-com_20251129T164248.png,RANDOM,unknown,0.6180318,False,False,False,False
+Colpatria,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6178977,False,False,False,False
+Colpatria,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.61789346,False,False,False,False
+Colpatria,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6178153,False,False,False,False
+Colpatria,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.6178139,False,False,False,False
+Colpatria,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.6177921,False,False,False,False
+Colpatria,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.61773837,False,False,False,False
+Colpatria,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.6177077,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.61763656,False,False,False,False
+Colpatria,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.61739284,False,False,False,False
+Colpatria,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.61702645,False,False,False,False
+Colpatria,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.61692834,False,False,False,False
+Colpatria,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.61662304,False,False,False,False
+Colpatria,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.6164366,False,False,False,False
+Colpatria,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.61588705,False,False,False,False
+Colpatria,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.61541045,False,False,False,False
+Colpatria,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.6153968,False,False,False,False
+Colpatria,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.61515296,False,False,False,False
+Colpatria,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6151204,False,False,False,False
+Colpatria,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6149635,False,False,False,False
+Colpatria,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.61490583,False,False,False,False
+Colpatria,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.61476517,False,False,False,False
+Colpatria,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.614568,False,False,False,False
+Colpatria,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6141693,False,False,False,False
+Colpatria,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6134877,False,False,False,False
+Colpatria,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6134168,False,False,False,False
+Colpatria,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6133475,False,False,False,False
+Colpatria,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.6133472,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.61311626,False,False,False,False
+Colpatria,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.61309355,False,False,False,False
+Colpatria,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.6129239,False,False,False,False
+Colpatria,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.61287105,False,False,False,False
+Colpatria,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.61271065,False,False,False,False
+Colpatria,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.6123468,False,False,False,False
+Colpatria,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.61192125,False,False,False,False
+Colpatria,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.611389,False,False,False,False
+Colpatria,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.61135453,False,False,False,False
+Colpatria,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.61130804,False,False,False,False
+Colpatria,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6110375,False,False,False,False
+Colpatria,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6104492,False,False,False,False
+Colpatria,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.61041254,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6101992,False,False,False,False
+Colpatria,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.60987556,False,False,False,False
+Colpatria,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.6098179,False,False,False,False
+Colpatria,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.60828257,False,False,False,False
+Colpatria,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6081345,False,False,False,False
+Colpatria,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.60804474,False,False,False,False
+Colpatria,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.607994,False,False,False,False
+Colpatria,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.6079892,False,False,False,False
+Colpatria,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6078089,False,False,False,False
+Colpatria,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.60778135,False,False,False,False
+Colpatria,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.6077094,False,False,False,False
+Colpatria,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.60760415,False,False,False,False
+Colpatria,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.60729146,False,False,False,False
+Colpatria,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.60695446,False,False,False,False
+Colpatria,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.60675395,False,False,False,False
+Colpatria,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6065706,False,False,False,False
+Colpatria,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.60621226,False,False,False,False
+Colpatria,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.6059505,False,False,False,False
+Colpatria,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.60575956,False,False,False,False
+Colpatria,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.60562336,False,False,False,False
+Colpatria,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.605551,False,False,False,False
+Colpatria,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6055243,False,False,False,False
+Colpatria,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.60535526,False,False,False,False
+Colpatria,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.60530293,False,False,False,False
+Colpatria,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.605088,False,False,False,False
+Colpatria,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6050161,False,False,False,False
+Colpatria,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6044389,False,False,False,False
+Colpatria,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6041357,False,False,False,False
+Colpatria,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.604108,False,False,False,False
+Colpatria,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6038971,False,False,False,False
+Colpatria,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.60360897,False,False,False,False
+Colpatria,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.603495,False,False,False,False
+Colpatria,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6033721,False,False,False,False
+Colpatria,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6032929,False,False,False,False
+Colpatria,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6031183,False,False,False,False
+Colpatria,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6030297,False,False,False,False
+Colpatria,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.60287535,False,False,False,False
+Colpatria,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.60213554,False,False,False,False
+Colpatria,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6019998,False,False,False,False
+Colpatria,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.6019128,False,False,False,False
+Colpatria,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.6017421,False,False,False,False
+Colpatria,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6013915,False,False,False,False
+Colpatria,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6010748,False,False,False,False
+Colpatria,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6010221,False,False,False,False
+Colpatria,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6003182,False,False,False,False
+Colpatria,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.6001297,False,False,False,False
+Colpatria,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.59997296,False,False,False,False
+Colpatria,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.59992933,False,False,False,False
+Colpatria,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.59987783,False,False,False,False
+Colpatria,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.59976304,False,False,False,False
+Colpatria,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5991732,False,False,False,False
+Colpatria,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.5989768,False,False,False,False
+Colpatria,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.5989696,False,False,False,False
+Colpatria,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5986366,False,False,False,False
+Colpatria,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.5986041,False,False,False,False
+Colpatria,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5985278,False,False,False,False
+Colpatria,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.5984997,False,False,False,False
+Colpatria,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.5981177,False,False,False,False
+Colpatria,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.59802055,False,False,False,False
+Colpatria,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5977944,False,False,False,False
+Colpatria,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.59751534,False,False,False,False
+Colpatria,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.59728825,False,False,False,False
+Colpatria,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.5969818,False,False,False,False
+Colpatria,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5969393,False,False,False,False
+Colpatria,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5967471,False,False,False,False
+Colpatria,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.5963862,False,False,False,False
+Colpatria,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5963239,False,False,False,False
+Colpatria,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.5961378,False,False,False,False
+Colpatria,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5959147,False,False,False,False
+Colpatria,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.595531,False,False,False,False
+Colpatria,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.59532607,False,False,False,False
+Colpatria,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.59475684,False,False,False,False
+Colpatria,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.5942893,False,False,False,False
+Colpatria,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.59395224,False,False,False,False
+Colpatria,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5937248,False,False,False,False
+Colpatria,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.59364384,False,False,False,False
+Colpatria,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5935662,False,False,False,False
+Colpatria,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.59349364,False,False,False,False
+Colpatria,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5933958,False,False,False,False
+Colpatria,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5931988,False,False,False,False
+Colpatria,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.59290326,False,False,False,False
+Colpatria,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.59265375,False,False,False,False
+Colpatria,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.59259534,False,False,False,False
+Colpatria,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.59258384,False,False,False,False
+Colpatria,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.5924684,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.59209925,False,False,False,False
+Colpatria,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.5920213,False,False,False,False
+Colpatria,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.59134793,False,False,False,False
+Colpatria,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.5910723,False,False,False,False
+Colpatria,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.5910026,False,False,False,False
+Colpatria,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.5909229,False,False,False,False
+Colpatria,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5907975,False,False,False,False
+Colpatria,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.589393,False,False,False,False
+Colpatria,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5892823,False,False,False,False
+Colpatria,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.588728,False,False,False,False
+Colpatria,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5886472,False,False,False,False
+Colpatria,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.588462,False,False,False,False
+Colpatria,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5884063,False,False,False,False
+Colpatria,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.588385,False,False,False,False
+Colpatria,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5883769,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.58798945,False,False,False,False
+Colpatria,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.58769035,False,False,False,False
+Colpatria,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.58706594,False,False,False,False
+Colpatria,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.586963,False,False,False,False
+Colpatria,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.58662736,False,False,False,False
+Colpatria,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5865914,False,False,False,False
+Colpatria,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5864162,False,False,False,False
+Colpatria,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.58639455,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5860307,False,False,False,False
+Colpatria,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5859979,False,False,False,False
+Colpatria,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.58589137,False,False,False,False
+Colpatria,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.5858536,False,False,False,False
+Colpatria,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5856576,False,False,False,False
+Colpatria,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.58561677,False,False,False,False
+Colpatria,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.58551073,False,False,False,False
+Colpatria,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.58514345,False,False,False,False
+Colpatria,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.58478606,False,False,False,False
+Colpatria,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.58476156,False,False,False,False
+Colpatria,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.58450115,False,False,False,False
+Colpatria,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5843602,False,False,False,False
+Colpatria,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5833921,False,False,False,False
+Colpatria,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.58323157,False,False,False,False
+Colpatria,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5829799,False,False,False,False
+Colpatria,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.5829741,False,False,False,False
+Colpatria,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.58275884,False,False,False,False
+Colpatria,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5823544,False,False,False,False
+Colpatria,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.58190393,False,False,False,False
+Colpatria,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5815623,False,False,False,False
+Colpatria,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.581156,False,False,False,False
+Colpatria,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5810355,False,False,False,False
+Colpatria,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.58078223,False,False,False,False
+Colpatria,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.58023846,False,False,False,False
+Colpatria,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5802022,False,False,False,False
+Colpatria,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.57988083,False,False,False,False
+Colpatria,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.57987654,False,False,False,False
+Colpatria,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5794641,False,False,False,False
+Colpatria,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5794095,False,False,False,False
+Colpatria,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5792259,False,False,False,False
+Colpatria,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5782863,False,False,False,False
+Colpatria,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.57812756,False,False,False,False
+Colpatria,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5780565,False,False,False,False
+Colpatria,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.57789326,False,False,False,False
+Colpatria,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.57779217,False,False,False,False
+Colpatria,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5774772,False,False,False,False
+Colpatria,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.5773695,False,False,False,False
+Colpatria,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5772259,False,False,False,False
+Colpatria,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5771812,False,False,False,False
+Colpatria,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.5768463,False,False,False,False
+Colpatria,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5763821,False,False,False,False
+Colpatria,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5761631,False,False,False,False
+Colpatria,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.5761603,False,False,False,False
+Colpatria,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.5758515,False,False,False,False
+Colpatria,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.5757259,False,False,False,False
+Colpatria,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.5755605,False,False,False,False
+Colpatria,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.57549834,False,False,False,False
+Colpatria,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.5753858,False,False,False,False
+Colpatria,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.57518363,False,False,False,False
+Colpatria,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.57502246,False,False,False,False
+Colpatria,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.57466,False,False,False,False
+Colpatria,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.57458055,False,False,False,False
+Colpatria,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5745621,False,False,False,False
+Colpatria,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.57409984,False,False,False,False
+Colpatria,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.57401943,False,False,False,False
+Colpatria,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.57341635,False,False,False,False
+Colpatria,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.57314885,False,False,False,False
+Colpatria,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.57291436,False,False,False,False
+Colpatria,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5726753,False,False,False,False
+Colpatria,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5723851,False,False,False,False
+Colpatria,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.57230484,False,False,False,False
+Colpatria,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.57200134,False,False,False,False
+Colpatria,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.57197964,False,False,False,False
+Colpatria,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.57176304,False,False,False,False
+Colpatria,random_change-org_20251129T173929.png,RANDOM,unknown,0.5716415,False,False,False,False
+Colpatria,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.57151765,False,False,False,False
+Colpatria,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5711541,False,False,False,False
+Colpatria,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.57077,False,False,False,False
+Colpatria,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.57059854,False,False,False,False
+Colpatria,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.57043207,False,False,False,False
+Colpatria,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.5700224,False,False,False,False
+Colpatria,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.56950235,False,False,False,False
+Colpatria,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.56949127,False,False,False,False
+Colpatria,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.56925845,False,False,False,False
+Colpatria,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5692155,False,False,False,False
+Colpatria,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.56888473,False,False,False,False
+Colpatria,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.5679357,False,False,False,False
+Colpatria,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.5679221,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5678995,False,False,False,False
+Colpatria,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.56763566,False,False,False,False
+Colpatria,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.56744325,False,False,False,False
+Colpatria,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.567346,False,False,False,False
+Colpatria,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.5671052,False,False,False,False
+Colpatria,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.56705165,False,False,False,False
+Colpatria,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.56701624,False,False,False,False
+Colpatria,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.566745,False,False,False,False
+Colpatria,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.56655043,False,False,False,False
+Colpatria,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5665034,False,False,False,False
+Colpatria,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.56556654,False,False,False,False
+Colpatria,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.5654987,False,False,False,False
+Colpatria,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.565044,False,False,False,False
+Colpatria,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.56495994,False,False,False,False
+Colpatria,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5648098,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5644473,False,False,False,False
+Colpatria,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.56372523,False,False,False,False
+Colpatria,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.563588,False,False,False,False
+Colpatria,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.56349874,False,False,False,False
+Colpatria,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5634454,False,False,False,False
+Colpatria,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.5632051,False,False,False,False
+Colpatria,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5626157,False,False,False,False
+Colpatria,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.56242657,False,False,False,False
+Colpatria,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5623138,False,False,False,False
+Colpatria,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5622896,False,False,False,False
+Colpatria,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.56167036,False,False,False,False
+Colpatria,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.56137574,False,False,False,False
+Colpatria,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.56111145,False,False,False,False
+Colpatria,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5607548,False,False,False,False
+Colpatria,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5604956,False,False,False,False
+Colpatria,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.56043005,False,False,False,False
+Colpatria,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.56042516,False,False,False,False
+Colpatria,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5602201,False,False,False,False
+Colpatria,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5600677,False,False,False,False
+Colpatria,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.55992913,False,False,False,False
+Colpatria,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.55979365,False,False,False,False
+Colpatria,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5597558,False,False,False,False
+Colpatria,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.55965924,False,False,False,False
+Colpatria,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.55925244,False,False,False,False
+Colpatria,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.55880487,False,False,False,False
+Colpatria,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.55859923,False,False,False,False
+Colpatria,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.55767524,False,False,False,False
+Colpatria,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.5575746,False,False,False,False
+Colpatria,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.55755365,False,False,False,False
+Colpatria,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.55714804,False,False,False,False
+Colpatria,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.55680573,False,False,False,False
+Colpatria,random_g-page_20251129T170201.png,RANDOM,unknown,0.55593646,False,False,False,False
+Colpatria,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.55552876,False,False,False,False
+Colpatria,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5548621,False,False,False,False
+Colpatria,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.55471915,False,False,False,False
+Colpatria,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.554652,False,False,False,False
+Colpatria,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.55370903,False,False,False,False
+Colpatria,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.55336154,False,False,False,False
+Colpatria,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5529361,False,False,False,False
+Colpatria,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.5524547,False,False,False,False
+Colpatria,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5524496,False,False,False,False
+Colpatria,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.55159175,False,False,False,False
+Colpatria,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.55152106,False,False,False,False
+Colpatria,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5510948,False,False,False,False
+Colpatria,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.55084544,False,False,False,False
+Colpatria,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.5505849,False,False,False,False
+Colpatria,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.55045533,False,False,False,False
+Colpatria,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.5500705,False,False,False,False
+Colpatria,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.5496605,False,False,False,False
+Colpatria,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.5494638,False,False,False,False
+Colpatria,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5494256,False,False,False,False
+Colpatria,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.549058,False,False,False,False
+Colpatria,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.54883134,False,False,False,False
+Colpatria,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.5487356,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5486324,False,False,False,False
+Colpatria,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.5482715,False,False,False,False
+Colpatria,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5475743,False,False,False,False
+Colpatria,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.5473646,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.54735875,False,False,False,False
+Colpatria,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.54700404,False,False,False,False
+Colpatria,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.54679227,False,False,False,False
+Colpatria,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5461009,False,False,False,False
+Colpatria,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5460628,False,False,False,False
+Colpatria,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.5459145,False,False,False,False
+Colpatria,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.5457005,False,False,False,False
+Colpatria,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.5448437,False,False,False,False
+Colpatria,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5446864,False,False,False,False
+Colpatria,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5443461,False,False,False,False
+Colpatria,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5441127,False,False,False,False
+Colpatria,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.54407746,False,False,False,False
+Colpatria,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.5440451,False,False,False,False
+Colpatria,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.54399896,False,False,False,False
+Colpatria,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.54361856,False,False,False,False
+Colpatria,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5430764,False,False,False,False
+Colpatria,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.54221207,False,False,False,False
+Colpatria,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.54204017,False,False,False,False
+Colpatria,random_temu-com_20251129T165219.png,RANDOM,unknown,0.54114413,False,False,False,False
+Colpatria,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.54080963,False,False,False,False
+Colpatria,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.54075813,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.54053986,False,False,False,False
+Colpatria,random_intel-com_20251129T171229.png,RANDOM,unknown,0.54052603,False,False,False,False
+Colpatria,random_weather-com_20251129T164102.png,RANDOM,unknown,0.53981626,False,False,False,False
+Colpatria,random_marca-com_20251129T175532.png,RANDOM,unknown,0.5386952,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.53865314,False,False,False,False
+Colpatria,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.5385686,False,False,False,False
+Colpatria,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.5382646,False,False,False,False
+Colpatria,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.5378437,False,False,False,False
+Colpatria,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.5376493,False,False,False,False
+Colpatria,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.53723776,False,False,False,False
+Colpatria,random_gov-br_20251129T174615.png,RANDOM,unknown,0.53710437,False,False,False,False
+Colpatria,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.53674793,False,False,False,False
+Colpatria,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.53653467,False,False,False,False
+Colpatria,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.53517056,False,False,False,False
+Colpatria,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5350529,False,False,False,False
+Colpatria,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.5345386,False,False,False,False
+Colpatria,random_msn-com_20251129T162722.png,RANDOM,unknown,0.53329,False,False,False,False
+Colpatria,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.5332626,False,False,False,False
+Colpatria,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5324886,False,False,False,False
+Colpatria,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.5315793,False,False,False,False
+Colpatria,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.5313075,False,False,False,False
+Colpatria,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.53118265,False,False,False,False
+Colpatria,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.5309,False,False,False,False
+Colpatria,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.5308011,False,False,False,False
+Colpatria,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.53055036,False,False,False,False
+Colpatria,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.5302515,False,False,False,False
+Colpatria,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.530079,False,False,False,False
+Colpatria,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5293629,False,False,False,False
+Colpatria,random_abc-es_20251129T175348.png,RANDOM,unknown,0.5292152,False,False,False,False
+Colpatria,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.5289583,False,False,False,False
+Colpatria,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.5283065,False,False,False,False
+Colpatria,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.5281975,False,False,False,False
+Colpatria,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.52705944,False,False,False,False
+Colpatria,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5266588,False,False,False,False
+Colpatria,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.52663565,False,False,False,False
+Colpatria,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.526266,False,False,False,False
+Colpatria,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.525581,False,False,False,False
+Colpatria,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5247295,False,False,False,False
+Colpatria,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5240567,False,False,False,False
+Colpatria,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.523947,False,False,False,False
+Colpatria,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5238529,False,False,False,False
+Colpatria,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.52382374,False,False,False,False
+Colpatria,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5233398,False,False,False,False
+Colpatria,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.52302307,False,False,False,False
+Colpatria,random_bild-de_20251129T173827.png,RANDOM,unknown,0.52149206,False,False,False,False
+Colpatria,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.5214907,False,False,False,False
+Colpatria,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.52142763,False,False,False,False
+Colpatria,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.52037776,False,False,False,False
+Colpatria,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.52000105,False,False,False,False
+Colpatria,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.5199491,False,False,False,False
+Colpatria,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.51947284,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5184258,False,False,False,False
+Colpatria,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.517818,False,False,False,False
+Colpatria,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.51714194,False,False,False,False
+Colpatria,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5170205,False,False,False,False
+Colpatria,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.5169858,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5167897,False,False,False,False
+Colpatria,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.5153736,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5151261,False,False,False,False
+Colpatria,random_brave-com_20251129T172325.png,RANDOM,unknown,0.5150647,False,False,False,False
+Colpatria,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5150187,False,False,False,False
+Colpatria,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.514277,False,False,False,False
+Colpatria,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.51385,False,False,False,False
+Colpatria,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.5138179,False,False,False,False
+Colpatria,random_android-com_20251129T163812.png,RANDOM,unknown,0.51325166,False,False,False,False
+Colpatria,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5130147,False,False,False,False
+Colpatria,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.5129189,False,False,False,False
+Colpatria,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.51253796,False,False,False,False
+Colpatria,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.51186943,False,False,False,False
+Colpatria,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.51132303,False,False,False,False
+Colpatria,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.51082915,False,False,False,False
+Colpatria,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5102354,False,False,False,False
+Colpatria,random_notion-so_20251129T180340.png,RANDOM,unknown,0.509194,False,False,False,False
+Colpatria,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5090906,False,False,False,False
+Colpatria,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.50833654,False,False,False,False
+Colpatria,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.50812113,False,False,False,False
+Colpatria,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5079694,False,False,False,False
+Colpatria,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5077536,False,False,False,False
+Colpatria,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.50740343,False,False,False,False
+Colpatria,random_google-com_20251129T162253.png,RANDOM,unknown,0.50728226,False,False,False,False
+Colpatria,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.50580156,False,False,False,False
+Colpatria,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.50479096,False,False,False,False
+Colpatria,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5042905,False,False,False,False
+Colpatria,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.5039659,False,False,False,False
+Colpatria,random_jd-com_20251129T174954.png,RANDOM,unknown,0.5035842,False,False,False,False
+Colpatria,random_globo-com_20251129T165541.png,RANDOM,unknown,0.5034651,False,False,False,False
+Colpatria,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.50329506,False,False,False,False
+Colpatria,random_aol-com_20251129T170152.png,RANDOM,unknown,0.5030672,False,False,False,False
+Colpatria,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5016971,False,False,False,False
+Colpatria,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.50158507,False,False,False,False
+Colpatria,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.50111717,False,False,False,False
+Colpatria,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.5010757,False,False,False,False
+Colpatria,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.5008426,False,False,False,False
+Colpatria,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.5004877,False,False,False,False
+Colpatria,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.49995905,False,False,False,False
+Colpatria,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.49973005,False,False,False,False
+Colpatria,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.498834,False,False,False,False
+Colpatria,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.49881467,False,False,False,False
+Colpatria,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.49832106,False,False,False,False
+Colpatria,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.49825498,False,False,False,False
+Colpatria,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.4978869,False,False,False,False
+Colpatria,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.49776793,False,False,False,False
+Colpatria,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.4977169,False,False,False,False
+Colpatria,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.497581,False,False,False,False
+Colpatria,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.49697155,False,False,False,False
+Colpatria,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.49679688,False,False,False,False
+Colpatria,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.49655485,False,False,False,False
+Colpatria,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.49616283,False,False,False,False
+Colpatria,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.49602664,False,False,False,False
+Colpatria,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.4951081,False,False,False,False
+Colpatria,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.49493015,False,False,False,False
+Colpatria,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.4947459,False,False,False,False
+Colpatria,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.49422947,False,False,False,False
+Colpatria,random_finn-no_20251129T180303.png,RANDOM,unknown,0.49381146,False,False,False,False
+Colpatria,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.49298674,False,False,False,False
+Colpatria,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.49287906,False,False,False,False
+Colpatria,random_qq-com_20251129T162834.png,RANDOM,unknown,0.4926069,False,False,False,False
+Colpatria,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.49244234,False,False,False,False
+Colpatria,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.49233022,False,False,False,False
+Colpatria,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.49230385,False,False,False,False
+Colpatria,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.49222946,False,False,False,False
+Colpatria,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.49211702,False,False,False,False
+Colpatria,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.49171704,False,False,False,False
+Colpatria,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.49156854,False,False,False,False
+Colpatria,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.49136138,False,False,False,False
+Colpatria,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.4905368,False,False,False,False
+Colpatria,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.4895693,False,False,False,False
+Colpatria,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.4892861,False,False,False,False
+Colpatria,random_substack-com_20251129T171941.png,RANDOM,unknown,0.48774147,False,False,False,False
+Colpatria,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.4874409,False,False,False,False
+Colpatria,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.48712975,False,False,False,False
+Colpatria,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.4868114,False,False,False,False
+Colpatria,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.48669863,False,False,False,False
+Colpatria,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.486539,False,False,False,False
+Colpatria,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.4856982,False,False,False,False
+Colpatria,random_time-com_20251129T170629.png,RANDOM,unknown,0.48462993,False,False,False,False
+Colpatria,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.48456734,False,False,False,False
+Colpatria,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.48450866,False,False,False,False
+Colpatria,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.48436958,False,False,False,False
+Colpatria,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.4843681,False,False,False,False
+Colpatria,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.4843357,False,False,False,False
+Colpatria,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.4842705,False,False,False,False
+Colpatria,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.48365334,False,False,False,False
+Colpatria,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.48357415,False,False,False,False
+Colpatria,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.4833845,False,False,False,False
+Colpatria,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.48308843,False,False,False,False
+Colpatria,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.48301122,False,False,False,False
+Colpatria,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.48291343,False,False,False,False
+Colpatria,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.48238906,False,False,False,False
+Colpatria,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.48199332,False,False,False,False
+Colpatria,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.4816186,False,False,False,False
+Colpatria,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.48156512,False,False,False,False
+Colpatria,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.48135528,False,False,False,False
+Colpatria,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.48114002,False,False,False,False
+Colpatria,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.480977,False,False,False,False
+Colpatria,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.48090455,False,False,False,False
+Colpatria,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.4797951,False,False,False,False
+Colpatria,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.47975218,False,False,False,False
+Colpatria,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.4788738,False,False,False,False
+Colpatria,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.47841573,False,False,False,False
+Colpatria,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.47828498,False,False,False,False
+Colpatria,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.47769994,False,False,False,False
+Colpatria,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.47769094,False,False,False,False
+Colpatria,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.47642234,False,False,False,False
+Colpatria,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.4759966,False,False,False,False
+Colpatria,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.47598112,False,False,False,False
+Colpatria,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.475269,False,False,False,False
+Colpatria,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.475111,False,False,False,False
+Colpatria,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.47333243,False,False,False,False
+Colpatria,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.47279817,False,False,False,False
+Colpatria,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.47210863,False,False,False,False
+Colpatria,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.47111738,False,False,False,False
+Colpatria,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.47101778,False,False,False,False
+Colpatria,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.47080946,False,False,False,False
+Colpatria,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.4706155,False,False,False,False
+Colpatria,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.47034574,False,False,False,False
+Colpatria,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.47012138,False,False,False,False
+Colpatria,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.46981654,False,False,False,False
+Colpatria,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.4695503,False,False,False,False
+Colpatria,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.4694869,False,False,False,False
+Colpatria,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.46903133,False,False,False,False
+Colpatria,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.46856743,False,False,False,False
+Colpatria,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.46816427,False,False,False,False
+Colpatria,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.46798372,False,False,False,False
+Colpatria,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.467654,False,False,False,False
+Colpatria,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.46752423,False,False,False,False
+Colpatria,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.46645552,False,False,False,False
+Colpatria,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.46590352,False,False,False,False
+Colpatria,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.46584418,False,False,False,False
+Colpatria,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.46565765,False,False,False,False
+Colpatria,random_as-com_20251129T175716.png,RANDOM,unknown,0.4654619,False,False,False,False
+Colpatria,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.46506667,False,False,False,False
+Colpatria,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.46499014,False,False,False,False
+Colpatria,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.46484977,False,False,False,False
+Colpatria,random_note-com_20251129T174642.png,RANDOM,unknown,0.46451688,False,False,False,False
+Colpatria,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.46391636,False,False,False,False
+Colpatria,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.4635555,False,False,False,False
+Colpatria,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.46352634,False,False,False,False
+Colpatria,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.46341679,False,False,False,False
+Colpatria,random_booking-com_20251129T164752.png,RANDOM,unknown,0.46308124,False,False,False,False
+Colpatria,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.46226484,False,False,False,False
+Colpatria,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.46143982,False,False,False,False
+Colpatria,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.4605668,False,False,False,False
+Colpatria,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.46021137,False,False,False,False
+Colpatria,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.4601751,False,False,False,False
+Colpatria,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.45989478,False,False,False,False
+Colpatria,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.45981985,False,False,False,False
+Colpatria,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.45956504,False,False,False,False
+Colpatria,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.45923132,False,False,False,False
+Colpatria,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.45816812,False,False,False,False
+Colpatria,random_media-net_20251129T164538.png,RANDOM,unknown,0.45734906,False,False,False,False
+Colpatria,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.45666257,False,False,False,False
+Colpatria,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.4563709,False,False,False,False
+Colpatria,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.45627633,False,False,False,False
+Colpatria,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.4560684,False,False,False,False
+Colpatria,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.4558583,False,False,False,False
+Colpatria,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.45567554,False,False,False,False
+Colpatria,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.4551078,False,False,False,False
+Colpatria,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.4549001,False,False,False,False
+Colpatria,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.45488536,False,False,False,False
+Colpatria,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.45458043,False,False,False,False
+Colpatria,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.45457643,False,False,False,False
+Colpatria,random_att-net_20251129T170227.png,RANDOM,unknown,0.45435843,False,False,False,False
+Colpatria,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.45416188,False,False,False,False
+Colpatria,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.45413023,False,False,False,False
+Colpatria,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.45331833,False,False,False,False
+Colpatria,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.45325112,False,False,False,False
+Colpatria,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.45315552,False,False,False,False
+Colpatria,random_ring-com_20251129T172743.png,RANDOM,unknown,0.45226502,False,False,False,False
+Colpatria,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.4512408,False,False,False,False
+Colpatria,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.45103046,False,False,False,False
+Colpatria,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.45078808,False,False,False,False
+Colpatria,random_plos-org_20251129T180524.png,RANDOM,unknown,0.45066828,False,False,False,False
+Colpatria,random_360-cn_20251129T173141.png,RANDOM,unknown,0.44997182,False,False,False,False
+Colpatria,random_espn-com_20251129T165100.png,RANDOM,unknown,0.44973058,False,False,False,False
+Colpatria,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.44930035,False,False,False,False
+Colpatria,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.4492837,False,False,False,False
+Colpatria,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.44906545,False,False,False,False
+Colpatria,random_line-me_20251129T170140.png,RANDOM,unknown,0.44906408,False,False,False,False
+Colpatria,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.4490314,False,False,False,False
+Colpatria,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.44831008,False,False,False,False
+Colpatria,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.44805974,False,False,False,False
+Colpatria,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.44773442,False,False,False,False
+Colpatria,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.44741216,False,False,False,False
+Colpatria,random_target-com_20251129T171437.png,RANDOM,unknown,0.4471084,False,False,False,False
+Colpatria,random_apa-org_20251129T180433.png,RANDOM,unknown,0.44681597,False,False,False,False
+Colpatria,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.4460698,False,False,False,False
+Colpatria,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.44593832,False,False,False,False
+Colpatria,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.4457275,False,False,False,False
+Colpatria,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.44572002,False,False,False,False
+Colpatria,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.44441625,False,False,False,False
+Colpatria,random_split-io_20251129T175048.png,RANDOM,unknown,0.44427627,False,False,False,False
+Colpatria,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.44379532,False,False,False,False
+Colpatria,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.4435143,False,False,False,False
+Colpatria,random_uk-com_20251129T171638.png,RANDOM,unknown,0.4435079,False,False,False,False
+Colpatria,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.4429323,False,False,False,False
+Colpatria,random_figma-com_20251129T173914.png,RANDOM,unknown,0.44257563,False,False,False,False
+Colpatria,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.4423654,False,False,False,False
+Colpatria,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.4421135,False,False,False,False
+Colpatria,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.44186032,False,False,False,False
+Colpatria,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.44160998,False,False,False,False
+Colpatria,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.44159776,False,False,False,False
+Colpatria,random_eset-com_20251129T171424.png,RANDOM,unknown,0.44148356,False,False,False,False
+Colpatria,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.4412923,False,False,False,False
+Colpatria,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.44087118,False,False,False,False
+Colpatria,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.4405056,False,False,False,False
+Colpatria,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.44036382,False,False,False,False
+Colpatria,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.43964154,False,False,False,False
+Colpatria,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.43912458,False,False,False,False
+Colpatria,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.43911964,False,False,False,False
+Colpatria,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.43864906,False,False,False,False
+Colpatria,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.43791255,False,False,False,False
+Colpatria,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.43747476,False,False,False,False
+Colpatria,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.43741947,False,False,False,False
+Colpatria,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.43700817,False,False,False,False
+Colpatria,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.43638176,False,False,False,False
+Colpatria,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.4352755,False,False,False,False
+Colpatria,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.4331463,False,False,False,False
+Colpatria,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.4325104,False,False,False,False
+Colpatria,random_naver-com_20251129T164929.png,RANDOM,unknown,0.43236303,False,False,False,False
+Colpatria,random_att-com_20251129T180955.png,RANDOM,unknown,0.43223053,False,False,False,False
+Colpatria,random_example-com_20251129T163930.png,RANDOM,unknown,0.43203753,False,False,False,False
+Colpatria,random_daum-net_20251129T174537.png,RANDOM,unknown,0.43197536,False,False,False,False
+Colpatria,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.43195698,False,False,False,False
+Colpatria,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.43146658,False,False,False,False
+Colpatria,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.43136328,False,False,False,False
+Colpatria,random_india-com_20251129T180557.png,RANDOM,unknown,0.43124142,False,False,False,False
+Colpatria,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.4311678,False,False,False,False
+Colpatria,random_viber-com_20251129T172210.png,RANDOM,unknown,0.43065408,False,False,False,False
+Colpatria,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.43043783,False,False,False,False
+Colpatria,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.43038416,False,False,False,False
+Colpatria,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.43034202,False,False,False,False
+Colpatria,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.4302714,False,False,False,False
+Colpatria,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.42879948,False,False,False,False
+Colpatria,random_xing-com_20251129T175042.png,RANDOM,unknown,0.42870408,False,False,False,False
+Colpatria,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.428453,False,False,False,False
+Colpatria,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.4284345,False,False,False,False
+Colpatria,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.42793515,False,False,False,False
+Colpatria,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.42791802,False,False,False,False
+Colpatria,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.42787328,False,False,False,False
+Colpatria,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.42778397,False,False,False,False
+Colpatria,random_wix-com_20251129T171207.png,RANDOM,unknown,0.4275934,False,False,False,False
+Colpatria,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.42752835,False,False,False,False
+Colpatria,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.4274965,False,False,False,False
+Colpatria,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.42687002,False,False,False,False
+Colpatria,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.42664587,False,False,False,False
+Colpatria,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.4266281,False,False,False,False
+Colpatria,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.42662793,False,False,False,False
+Colpatria,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.42629027,False,False,False,False
+Colpatria,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.42612952,False,False,False,False
+Colpatria,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.42573193,False,False,False,False
+Colpatria,random_character-ai_20251129T174433.png,RANDOM,unknown,0.4255734,False,False,False,False
+Colpatria,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.4252317,False,False,False,False
+Colpatria,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.42520225,False,False,False,False
+Colpatria,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.42467117,False,False,False,False
+Colpatria,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.42412466,False,False,False,False
+Colpatria,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.4240749,False,False,False,False
+Colpatria,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.42406774,False,False,False,False
+Colpatria,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.42398438,False,False,False,False
+Colpatria,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.42348748,False,False,False,False
+Colpatria,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.4231401,False,False,False,False
+Colpatria,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.4227345,False,False,False,False
+Colpatria,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.42218283,False,False,False,False
+Colpatria,random_slack-com_20251129T164623.png,RANDOM,unknown,0.42165822,False,False,False,False
+Colpatria,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.4212486,False,False,False,False
+Colpatria,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.41968077,False,False,False,False
+Colpatria,random_w3-org_20251129T163751.png,RANDOM,unknown,0.41921556,False,False,False,False
+Colpatria,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.4180135,False,False,False,False
+Colpatria,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.41795594,False,False,False,False
+Colpatria,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.41749477,False,False,False,False
+Colpatria,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.41599274,False,False,False,False
+Colpatria,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.4159448,False,False,False,False
+Colpatria,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.41584662,False,False,False,False
+Colpatria,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.41549966,False,False,False,False
+Colpatria,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.4153341,False,False,False,False
+Colpatria,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.4153002,False,False,False,False
+Colpatria,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.4151679,False,False,False,False
+Colpatria,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.41444123,False,False,False,False
+Colpatria,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.4144314,False,False,False,False
+Colpatria,random_avast-com_20251129T164855.png,RANDOM,unknown,0.41416264,False,False,False,False
+Colpatria,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.41365707,False,False,False,False
+Colpatria,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.41344953,False,False,False,False
+Colpatria,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.41335702,False,False,False,False
+Colpatria,random_one-one_20251129T163318.png,RANDOM,unknown,0.4124706,False,False,False,False
+Colpatria,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.41220963,False,False,False,False
+Colpatria,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.41206735,False,False,False,False
+Colpatria,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.4115318,False,False,False,False
+Colpatria,random_f5-com_20251129T163706.png,RANDOM,unknown,0.4112671,False,False,False,False
+Colpatria,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.41104174,False,False,False,False
+Colpatria,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.41090405,False,False,False,False
+Colpatria,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.41046828,False,False,False,False
+Colpatria,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.41006476,False,False,False,False
+Colpatria,random_youku-com_20251129T174026.png,RANDOM,unknown,0.40975168,False,False,False,False
+Colpatria,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.40935287,False,False,False,False
+Colpatria,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.40836126,False,False,False,False
+Colpatria,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.40832448,False,False,False,False
+Colpatria,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.40788293,False,False,False,False
+Colpatria,random_vk-com_20251129T163202.png,RANDOM,unknown,0.4075795,False,False,False,False
+Colpatria,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.40630403,False,False,False,False
+Colpatria,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.40602505,False,False,False,False
+Colpatria,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.40581372,False,False,False,False
+Colpatria,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.4047264,False,False,False,False
+Colpatria,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.40411383,False,False,False,False
+Colpatria,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.40402007,False,False,False,False
+Colpatria,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.4035566,False,False,False,False
+Colpatria,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.40320632,False,False,False,False
+Colpatria,random_usps-com_20251129T173658.png,RANDOM,unknown,0.40317553,False,False,False,False
+Colpatria,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.40309197,False,False,False,False
+Colpatria,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.40306008,False,False,False,False
+Colpatria,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.40279153,False,False,False,False
+Colpatria,random_github-io_20251129T163235.png,RANDOM,unknown,0.40196896,False,False,False,False
+Colpatria,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.4019388,False,False,False,False
+Colpatria,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.40168244,False,False,False,False
+Colpatria,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.40127486,False,False,False,False
+Colpatria,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.4008997,False,False,False,False
+Colpatria,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.4007733,False,False,False,False
+Colpatria,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.40060684,False,False,False,False
+Colpatria,random_chess-com_20251129T173919.png,RANDOM,unknown,0.40055382,False,False,False,False
+Colpatria,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.40016454,False,False,False,False
+Colpatria,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.40015978,False,False,False,False
+Colpatria,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.40010643,False,False,False,False
+Colpatria,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.39905643,False,False,False,False
+Colpatria,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.39862823,False,False,False,False
+Colpatria,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.39851645,False,False,False,False
+Colpatria,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.39829248,False,False,False,False
+Colpatria,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.39825937,False,False,False,False
+Colpatria,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.39823216,False,False,False,False
+Colpatria,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.39807838,False,False,False,False
+Colpatria,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.39769548,False,False,False,False
+Colpatria,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.39765778,False,False,False,False
+Colpatria,random_welt-de_20251129T173821.png,RANDOM,unknown,0.39736104,False,False,False,False
+Colpatria,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.39705157,False,False,False,False
+Colpatria,random_skype-com_20251129T162718.png,RANDOM,unknown,0.3966708,False,False,False,False
+Colpatria,random_canva-com_20251129T164231.png,RANDOM,unknown,0.39604414,False,False,False,False
+Colpatria,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.39591342,False,False,False,False
+Colpatria,random_go-com_20251129T164609.png,RANDOM,unknown,0.3956859,False,False,False,False
+Colpatria,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.39548025,False,False,False,False
+Colpatria,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.39530182,False,False,False,False
+Colpatria,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.39512566,False,False,False,False
+Colpatria,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.39505023,False,False,False,False
+Colpatria,random_office365-com_20251129T162902.png,RANDOM,unknown,0.39499474,False,False,False,False
+Colpatria,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.3949752,False,False,False,False
+Colpatria,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.39468485,False,False,False,False
+Colpatria,random_free-fr_20251129T171241.png,RANDOM,unknown,0.39372736,False,False,False,False
+Colpatria,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.39372566,False,False,False,False
+Colpatria,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.39355904,False,False,False,False
+Colpatria,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.39338103,False,False,False,False
+Colpatria,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.39302415,False,False,False,False
+Colpatria,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.39298856,False,False,False,False
+Colpatria,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.39251828,False,False,False,False
+Colpatria,random_name-com_20251129T171101.png,RANDOM,unknown,0.3921347,False,False,False,False
+Colpatria,random_uber-com_20251129T170129.png,RANDOM,unknown,0.39191946,False,False,False,False
+Colpatria,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.39139944,False,False,False,False
+Colpatria,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.39127433,False,False,False,False
+Colpatria,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.3912644,False,False,False,False
+Colpatria,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.39084753,False,False,False,False
+Colpatria,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.39082223,False,False,False,False
+Colpatria,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.39001635,False,False,False,False
+Colpatria,random_moe-video_20251129T164430.png,RANDOM,unknown,0.38970238,False,False,False,False
+Colpatria,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.38963458,False,False,False,False
+Colpatria,random_statista-com_20251129T165822.png,RANDOM,unknown,0.389251,False,False,False,False
+Colpatria,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.3891624,False,False,False,False
+Colpatria,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.3889258,False,False,False,False
+Colpatria,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.38880873,False,False,False,False
+Colpatria,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.3885206,False,False,False,False
+Colpatria,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.38812363,False,False,False,False
+Colpatria,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.3877754,False,False,False,False
+Colpatria,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.38746625,False,False,False,False
+Colpatria,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.38720334,False,False,False,False
+Colpatria,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.38608307,False,False,False,False
+Colpatria,random_segment-io_20251129T174400.png,RANDOM,unknown,0.38559794,False,False,False,False
+Colpatria,random_tds-net_20251129T174115.png,RANDOM,unknown,0.38542917,False,False,False,False
+Colpatria,random_braze-com_20251129T171458.png,RANDOM,unknown,0.38541734,False,False,False,False
+Colpatria,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.3845039,False,False,False,False
+Colpatria,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.38438332,False,False,False,False
+Colpatria,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.38419023,False,False,False,False
+Colpatria,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.38396156,False,False,False,False
+Colpatria,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.3839051,False,False,False,False
+Colpatria,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.38390145,False,False,False,False
+Colpatria,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.38358253,False,False,False,False
+Colpatria,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.38347715,False,False,False,False
+Colpatria,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.3834665,False,False,False,False
+Colpatria,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.38346496,False,False,False,False
+Colpatria,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.38321245,False,False,False,False
+Colpatria,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.3831008,False,False,False,False
+Colpatria,random_cox-net_20251129T170452.png,RANDOM,unknown,0.38308746,False,False,False,False
+Colpatria,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.3825134,False,False,False,False
+Colpatria,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.38199466,False,False,False,False
+Colpatria,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.38195586,False,False,False,False
+Colpatria,random_agora-io_20251129T175439.png,RANDOM,unknown,0.38147902,False,False,False,False
+Colpatria,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.38140738,False,False,False,False
+Colpatria,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.3813455,False,False,False,False
+Colpatria,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.38129082,False,False,False,False
+Colpatria,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.3811306,False,False,False,False
+Colpatria,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.38038552,False,False,False,False
+Colpatria,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.380379,False,False,False,False
+Colpatria,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.3801181,False,False,False,False
+Colpatria,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.37983304,False,False,False,False
+Colpatria,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.3795181,False,False,False,False
+Colpatria,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.37941706,False,False,False,False
+Colpatria,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.37932652,False,False,False,False
+Colpatria,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.37923428,False,False,False,False
+Colpatria,random_focus-de_20251129T175031.png,RANDOM,unknown,0.37909836,False,False,False,False
+Colpatria,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.37907642,False,False,False,False
+Colpatria,random_ft-com_20251129T170724.png,RANDOM,unknown,0.3787494,False,False,False,False
+Colpatria,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.3787169,False,False,False,False
+Colpatria,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.3786799,False,False,False,False
+Colpatria,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.3777753,False,False,False,False
+Colpatria,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.37735748,False,False,False,False
+Colpatria,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.3770681,False,False,False,False
+Colpatria,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.377028,False,False,False,False
+Colpatria,random_t-me_20251129T163150.png,RANDOM,unknown,0.37684834,False,False,False,False
+Colpatria,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.37671465,False,False,False,False
+Colpatria,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.37619737,False,False,False,False
+Colpatria,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.37594333,False,False,False,False
+Colpatria,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.3758907,False,False,False,False
+Colpatria,random_he-net_20251129T172135.png,RANDOM,unknown,0.37564307,False,False,False,False
+Colpatria,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.37550098,False,False,False,False
+Colpatria,random_okta-com_20251129T171946.png,RANDOM,unknown,0.3754804,False,False,False,False
+Colpatria,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.37547258,False,False,False,False
+Colpatria,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.37402853,False,False,False,False
+Colpatria,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.37391293,False,False,False,False
+Colpatria,random_otto-de_20251129T174331.png,RANDOM,unknown,0.37383348,False,False,False,False
+Colpatria,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.37380737,False,False,False,False
+Colpatria,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.37361884,False,False,False,False
+Colpatria,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.3730526,False,False,False,False
+Colpatria,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.373041,False,False,False,False
+Colpatria,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.37274563,False,False,False,False
+Colpatria,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.37265068,False,False,False,False
+Colpatria,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.37250793,False,False,False,False
+Colpatria,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.37179857,False,False,False,False
+Colpatria,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.37155223,False,False,False,False
+Colpatria,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.37142926,False,False,False,False
+Colpatria,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.37127268,False,False,False,False
+Colpatria,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.3712064,False,False,False,False
+Colpatria,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.3711397,False,False,False,False
+Colpatria,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.37113917,False,False,False,False
+Colpatria,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.37111977,False,False,False,False
+Colpatria,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.37089008,False,False,False,False
+Colpatria,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.37087172,False,False,False,False
+Colpatria,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.37071937,False,False,False,False
+Colpatria,random_ted-com_20251129T172015.png,RANDOM,unknown,0.3703934,False,False,False,False
+Colpatria,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.37037808,False,False,False,False
+Colpatria,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.37037712,False,False,False,False
+Colpatria,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.3701374,False,False,False,False
+Colpatria,random_web-de_20251129T175220.png,RANDOM,unknown,0.36993423,False,False,False,False
+Colpatria,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.36880422,False,False,False,False
+Colpatria,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.36865515,False,False,False,False
+Colpatria,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.368651,False,False,False,False
+Colpatria,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.36849833,False,False,False,False
+Colpatria,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.36814898,False,False,False,False
+Colpatria,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.3681033,False,False,False,False
+Colpatria,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.36786032,False,False,False,False
+Colpatria,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.367777,False,False,False,False
+Colpatria,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.36718947,False,False,False,False
+Colpatria,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.3669718,False,False,False,False
+Colpatria,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.36691368,False,False,False,False
+Colpatria,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.3664199,False,False,False,False
+Colpatria,random_npr-org_20251129T170056.png,RANDOM,unknown,0.3663271,False,False,False,False
+Colpatria,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.3659744,False,False,False,False
+Colpatria,random_springer-com_20251129T164823.png,RANDOM,unknown,0.3657946,False,False,False,False
+Colpatria,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.36567402,False,False,False,False
+Colpatria,random_roku-com_20251129T164128.png,RANDOM,unknown,0.36565813,False,False,False,False
+Colpatria,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.36565167,False,False,False,False
+Colpatria,random_dns-google_20251129T163231.png,RANDOM,unknown,0.36562398,False,False,False,False
+Colpatria,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.3654856,False,False,False,False
+Colpatria,random_vg-no_20251129T180754.png,RANDOM,unknown,0.36545098,False,False,False,False
+Colpatria,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.36527675,False,False,False,False
+Colpatria,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.3651506,False,False,False,False
+Colpatria,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.36494613,False,False,False,False
+Colpatria,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.3645703,False,False,False,False
+Colpatria,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.36446148,False,False,False,False
+Colpatria,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.3643084,False,False,False,False
+Colpatria,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.3639365,False,False,False,False
+Colpatria,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.36322606,False,False,False,False
+Colpatria,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.36306795,False,False,False,False
+Colpatria,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.36288345,False,False,False,False
+Colpatria,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.36281955,False,False,False,False
+Colpatria,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.3627926,False,False,False,False
+Colpatria,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.3627489,False,False,False,False
+Colpatria,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.3620966,False,False,False,False
+Colpatria,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.36206663,False,False,False,False
+Colpatria,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.36197752,False,False,False,False
+Colpatria,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.36147118,False,False,False,False
+Colpatria,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.3613064,False,False,False,False
+Colpatria,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.36100107,False,False,False,False
+Colpatria,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.36077172,False,False,False,False
+Colpatria,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.36072314,False,False,False,False
+Colpatria,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.360686,False,False,False,False
+Colpatria,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.36062574,False,False,False,False
+Colpatria,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.35981634,False,False,False,False
+Colpatria,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.3596695,False,False,False,False
+Colpatria,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.3595698,False,False,False,False
+Colpatria,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.35937357,False,False,False,False
+Colpatria,random_python-org_20251129T173738.png,RANDOM,unknown,0.3587771,False,False,False,False
+Colpatria,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.3587607,False,False,False,False
+Colpatria,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.35875297,False,False,False,False
+Colpatria,random_github-com_20251129T162456.png,RANDOM,unknown,0.35859573,False,False,False,False
+Colpatria,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.35775414,False,False,False,False
+Colpatria,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.3577236,False,False,False,False
+Colpatria,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.35769546,False,False,False,False
+Colpatria,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.35758674,False,False,False,False
+Colpatria,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.357556,False,False,False,False
+Colpatria,random_branch-io_20251129T171524.png,RANDOM,unknown,0.35751185,False,False,False,False
+Colpatria,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.3572769,False,False,False,False
+Colpatria,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.35692632,False,False,False,False
+Colpatria,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.35663754,False,False,False,False
+Colpatria,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.35640392,False,False,False,False
+Colpatria,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.35605383,False,False,False,False
+Colpatria,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.35591808,False,False,False,False
+Colpatria,random_apache-org_20251129T163228.png,RANDOM,unknown,0.35582364,False,False,False,False
+Colpatria,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.3558115,False,False,False,False
+Colpatria,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.35556644,False,False,False,False
+Colpatria,random_t-co_20251129T163912.png,RANDOM,unknown,0.35435033,False,False,False,False
+Colpatria,random_forter-com_20251129T164642.png,RANDOM,unknown,0.35278076,False,False,False,False
+Colpatria,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.35276833,False,False,False,False
+Colpatria,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.35239363,False,False,False,False
+Colpatria,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.35233426,False,False,False,False
+Colpatria,random_google-cn_20251129T172939.png,RANDOM,unknown,0.35227883,False,False,False,False
+Colpatria,random_nature-com_20251129T164547.png,RANDOM,unknown,0.35181117,False,False,False,False
+Colpatria,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.35161948,False,False,False,False
+Colpatria,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.3512161,False,False,False,False
+Colpatria,random_nic-io_20251129T173852.png,RANDOM,unknown,0.3511433,False,False,False,False
+Colpatria,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.3510676,False,False,False,False
+Colpatria,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.35056603,False,False,False,False
+Colpatria,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.35052145,False,False,False,False
+Colpatria,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.3492223,False,False,False,False
+Colpatria,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.34900087,False,False,False,False
+Colpatria,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.34897915,False,False,False,False
+Colpatria,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.34807822,False,False,False,False
+Colpatria,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.34776145,False,False,False,False
+Colpatria,random_opera-com_20251129T163028.png,RANDOM,unknown,0.34760314,False,False,False,False
+Colpatria,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.3472017,False,False,False,False
+Colpatria,random_trello-com_20251129T180351.png,RANDOM,unknown,0.3469427,False,False,False,False
+Colpatria,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.3467543,False,False,False,False
+Colpatria,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.34671685,False,False,False,False
+Colpatria,random_bing-com_20251129T162459.png,RANDOM,unknown,0.34652916,False,False,False,False
+Colpatria,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.34639594,False,False,False,False
+Colpatria,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.3463838,False,False,False,False
+Colpatria,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.34626395,False,False,False,False
+Colpatria,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.34622073,False,False,False,False
+Colpatria,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.3462134,False,False,False,False
+Colpatria,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.34601566,False,False,False,False
+Colpatria,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.3456601,False,False,False,False
+Colpatria,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.345514,False,False,False,False
+Colpatria,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.34550297,False,False,False,False
+Colpatria,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.34518147,False,False,False,False
+Colpatria,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.34469634,False,False,False,False
+Colpatria,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.34466934,False,False,False,False
+Colpatria,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.34459645,False,False,False,False
+Colpatria,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.34457916,False,False,False,False
+Colpatria,random_doi-org_20251129T164112.png,RANDOM,unknown,0.34425014,False,False,False,False
+Colpatria,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.34390923,False,False,False,False
+Colpatria,random_windows-com_20251129T163112.png,RANDOM,unknown,0.34365055,False,False,False,False
+Colpatria,random_docker-com_20251129T170827.png,RANDOM,unknown,0.34351432,False,False,False,False
+Colpatria,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.34340346,False,False,False,False
+Colpatria,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.34338182,False,False,False,False
+Colpatria,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.3430941,False,False,False,False
+Colpatria,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.3430078,False,False,False,False
+Colpatria,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.34289408,False,False,False,False
+Colpatria,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.34252688,False,False,False,False
+Colpatria,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.3415047,False,False,False,False
+Colpatria,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.34119916,False,False,False,False
+Colpatria,random_binance-com_20251129T174935.png,RANDOM,unknown,0.34098676,False,False,False,False
+Colpatria,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.34079143,False,False,False,False
+Colpatria,random_synology-com_20251129T173948.png,RANDOM,unknown,0.34036255,False,False,False,False
+Colpatria,random_shein-com_20251129T170736.png,RANDOM,unknown,0.3403315,False,False,False,False
+Colpatria,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.33981878,False,False,False,False
+Colpatria,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.33940762,False,False,False,False
+Colpatria,random_debian-org_20251129T164620.png,RANDOM,unknown,0.3389787,False,False,False,False
+Colpatria,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.33835965,False,False,False,False
+Colpatria,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.33817863,False,False,False,False
+Colpatria,random_linode-com_20251129T173059.png,RANDOM,unknown,0.33799613,False,False,False,False
+Colpatria,random_php-net_20251129T164521.png,RANDOM,unknown,0.3378725,False,False,False,False
+Colpatria,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.33779523,False,False,False,False
+Colpatria,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.3373695,False,False,False,False
+Colpatria,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.33679402,False,False,False,False
+Colpatria,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.3366461,False,False,False,False
+Colpatria,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.33641958,False,False,False,False
+Colpatria,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.33624744,False,False,False,False
+Colpatria,random_discord-media_20251129T170414.png,RANDOM,unknown,0.3360251,False,False,False,False
+Colpatria,random_wps-com_20251129T174320.png,RANDOM,unknown,0.33586717,False,False,False,False
+Colpatria,random_office-com_20251129T162404.png,RANDOM,unknown,0.3357472,False,False,False,False
+Colpatria,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.33484566,False,False,False,False
+Colpatria,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.33480108,False,False,False,False
+Colpatria,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.33360377,False,False,False,False
+Colpatria,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.3331086,False,False,False,False
+Colpatria,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.33170074,False,False,False,False
+Colpatria,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.3316772,False,False,False,False
+Colpatria,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.33164597,False,False,False,False
+Colpatria,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.33145422,False,False,False,False
+Colpatria,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.33071536,False,False,False,False
+Colpatria,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.33066154,False,False,False,False
+Colpatria,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.3305565,False,False,False,False
+Colpatria,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.3294003,False,False,False,False
+Colpatria,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.32917896,False,False,False,False
+Colpatria,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.3290658,False,False,False,False
+Colpatria,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.32874203,False,False,False,False
+Colpatria,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.32819992,False,False,False,False
+Colpatria,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.32808524,False,False,False,False
+Colpatria,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.32804918,False,False,False,False
+Colpatria,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.3279668,False,False,False,False
+Colpatria,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.32793775,False,False,False,False
+Colpatria,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.3275928,False,False,False,False
+Colpatria,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.3275497,False,False,False,False
+Colpatria,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.32711375,False,False,False,False
+Colpatria,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.3269619,False,False,False,False
+Colpatria,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.32633263,False,False,False,False
+Colpatria,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.32620525,False,False,False,False
+Colpatria,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.32584006,False,False,False,False
+Colpatria,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.3256181,False,False,False,False
+Colpatria,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.32554305,False,False,False,False
+Colpatria,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.32470965,False,False,False,False
+Colpatria,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.32368237,False,False,False,False
+Colpatria,random_poki-com_20251129T180027.png,RANDOM,unknown,0.3232698,False,False,False,False
+Colpatria,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.32325214,False,False,False,False
+Colpatria,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.3231299,False,False,False,False
+Colpatria,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.32301328,False,False,False,False
+Colpatria,random_threads-com_20251129T174157.png,RANDOM,unknown,0.32266927,False,False,False,False
+Colpatria,random_live-com_20251129T162413.png,RANDOM,unknown,0.32256716,False,False,False,False
+Colpatria,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.3213676,False,False,False,False
+Colpatria,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.32113838,False,False,False,False
+Colpatria,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.32000947,False,False,False,False
+Colpatria,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.3197633,False,False,False,False
+Colpatria,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.31972453,False,False,False,False
+Colpatria,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.31776327,False,False,False,False
+Colpatria,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.31666076,False,False,False,False
+Colpatria,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.31628802,False,False,False,False
+Colpatria,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.31589568,False,False,False,False
+Colpatria,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.31288922,False,False,False,False
+Colpatria,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.3127303,False,False,False,False
+Colpatria,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.31262124,False,False,False,False
+Colpatria,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.3125099,False,False,False,False
+Colpatria,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.31228435,False,False,False,False
+Colpatria,random_archive-org_20251129T163406.png,RANDOM,unknown,0.30986032,False,False,False,False
+Colpatria,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.30957282,False,False,False,False
+Colpatria,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.30938774,False,False,False,False
+Colpatria,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.30915675,False,False,False,False
+Colpatria,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.30851185,False,False,False,False
+Colpatria,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.30803013,False,False,False,False
+Colpatria,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.30738544,False,False,False,False
+Colpatria,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.30683768,False,False,False,False
+Colpatria,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.30671728,False,False,False,False
+Colpatria,random_wise-com_20251129T180312.png,RANDOM,unknown,0.30623403,False,False,False,False
+Colpatria,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.3061906,False,False,False,False
+Colpatria,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.30611923,False,False,False,False
+Colpatria,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.30567634,False,False,False,False
+Colpatria,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.30561078,False,False,False,False
+Colpatria,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.3041374,False,False,False,False
+Colpatria,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.30387992,False,False,False,False
+Colpatria,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.30380523,False,False,False,False
+Colpatria,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.3037885,False,False,False,False
+Colpatria,random_medium-com_20251129T163655.png,RANDOM,unknown,0.3036936,False,False,False,False
+Colpatria,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.30368203,False,False,False,False
+Colpatria,random_asus-com_20251129T172748.png,RANDOM,unknown,0.3035283,False,False,False,False
+Colpatria,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.3028351,False,False,False,False
+Colpatria,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.30269822,False,False,False,False
+Colpatria,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.30255425,False,False,False,False
+Colpatria,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.30219442,False,False,False,False
+Colpatria,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.3016358,False,False,False,False
+Colpatria,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.30135626,False,False,False,False
+Colpatria,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.3011562,False,False,False,False
+Colpatria,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.30104828,False,False,False,False
+Colpatria,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.30081072,False,False,False,False
+Colpatria,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.30047733,False,False,False,False
+Colpatria,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.29943466,False,False,False,False
+Colpatria,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.29928496,False,False,False,False
+Colpatria,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.2981939,False,False,False,False
+Colpatria,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.29772106,False,False,False,False
+Colpatria,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.2976085,False,False,False,False
+Colpatria,random_g-co_20251129T171804.png,RANDOM,unknown,0.2971952,False,False,False,False
+Colpatria,random_wired-com_20251129T170401.png,RANDOM,unknown,0.29668885,False,False,False,False
+Colpatria,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.29467636,False,False,False,False
+Colpatria,random_clever-com_20251129T173500.png,RANDOM,unknown,0.29460895,False,False,False,False
+Colpatria,random_bol-com_20251129T174941.png,RANDOM,unknown,0.29433373,False,False,False,False
+Colpatria,random_miui-com_20251129T163719.png,RANDOM,unknown,0.2933471,False,False,False,False
+Colpatria,random_overload-su_20251129T170747.png,RANDOM,unknown,0.29297233,False,False,False,False
+Colpatria,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.2902906,False,False,False,False
+Colpatria,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.2899365,False,False,False,False
+Colpatria,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.28969914,False,False,False,False
+Colpatria,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.28696382,False,False,False,False
+Colpatria,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.2869035,False,False,False,False
+Colpatria,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.2867586,False,False,False,False
+Colpatria,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.28672123,False,False,False,False
+Colpatria,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.2864877,False,False,False,False
+Colpatria,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.28550896,False,False,False,False
+Colpatria,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.28455746,False,False,False,False
+Colpatria,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.28415346,False,False,False,False
+Colpatria,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.28344846,False,False,False,False
+Colpatria,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.28337193,False,False,False,False
+Colpatria,random_ui-com_20251129T163127.png,RANDOM,unknown,0.28281802,False,False,False,False
+Colpatria,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.2825104,False,False,False,False
+Colpatria,random_genius-com_20251129T174000.png,RANDOM,unknown,0.28225073,False,False,False,False
+Colpatria,random_state-gov_20251129T174508.png,RANDOM,unknown,0.27970672,False,False,False,False
+Colpatria,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.279478,False,False,False,False
+Colpatria,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.27865097,False,False,False,False
+Colpatria,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.27843434,False,False,False,False
+Colpatria,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.27503732,False,False,False,False
+Colpatria,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.27464557,False,False,False,False
+Colpatria,random_erome-com_20251129T165107.png,RANDOM,unknown,0.27424848,False,False,False,False
+Colpatria,random_who-int_20251129T164225.png,RANDOM,unknown,0.27412787,False,False,False,False
+Colpatria,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.2740432,False,False,False,False
+Colpatria,random_openai-com_20251129T164132.png,RANDOM,unknown,0.2721771,False,False,False,False
+Colpatria,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.26911828,False,False,False,False
+Colpatria,random_fast-com_20251129T171226.png,RANDOM,unknown,0.26849204,False,False,False,False
+Colpatria,random_apple-com_20251129T162353.png,RANDOM,unknown,0.26844066,False,False,False,False
+Colpatria,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.2682702,False,False,False,False
+Colpatria,random_azure-com_20251129T162438.png,RANDOM,unknown,0.2678616,False,False,False,False
+Colpatria,random_health-mil_20251129T163619.png,RANDOM,unknown,0.26782796,False,False,False,False
+Colpatria,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.2664417,False,False,False,False
+Colpatria,random_singular-net_20251129T175446.png,RANDOM,unknown,0.26189384,False,False,False,False
+Colpatria,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.26174867,False,False,False,False
+Colpatria,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.26088807,False,False,False,False
+Colpatria,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.2592254,False,False,False,False
+Colpatria,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.2542605,False,False,False,False
+Colpatria,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.25075626,False,False,False,False
+Colpatria,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.25057638,False,False,False,False
+Colpatria,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.24932902,False,False,False,False
+Colpatria,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.24820271,False,False,False,False
+Colpatria,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.24817643,False,False,False,False
+Colpatria,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.24772166,False,False,False,False
+Colpatria,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.2451329,False,False,False,False
+Colpatria,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.24054518,False,False,False,False
+Colpatria,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.23862866,False,False,False,False
+Colpatria,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.2360034,False,False,False,False
+Colpatria,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.23566289,False,False,False,False
+Colpatria,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.23266673,False,False,False,False
+Colpatria,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.22781792,False,False,False,False
+Colpatria,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.22665764,False,False,False,False
+Colpatria,random_people-com_20251129T172859.png,RANDOM,unknown,0.21920997,False,False,False,False
+Colpatria,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.2140862,False,False,False,False
+Colpatria,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.18432796,False,False,False,False

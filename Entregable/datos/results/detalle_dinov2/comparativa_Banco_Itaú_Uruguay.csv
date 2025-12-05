@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+Banco Itaú Uruguay,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,1.0,True,True,False,True
+Banco Itaú Uruguay,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.9926177,True,True,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.9817125,True,True,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.96583986,True,True,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.9636885,True,True,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.9522744,True,True,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.95120806,True,True,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.9401064,True,True,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.9312986,True,True,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.9308403,True,True,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.9202738,True,True,False,False
+Banco Itaú Uruguay,random_t-me_20251129T163150.png,RANDOM,unknown,0.76512474,False,False,False,False
+Banco Itaú Uruguay,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.7425853,False,False,False,False
+Banco Itaú Uruguay,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.7262536,False,False,False,False
+Banco Itaú Uruguay,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.6929355,False,False,False,False
+Banco Itaú Uruguay,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.68999535,False,False,False,False
+Banco Itaú Uruguay,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.6896165,False,False,False,False
+Banco Itaú Uruguay,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.683063,False,False,False,False
+Banco Itaú Uruguay,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.67731905,False,False,False,False
+Banco Itaú Uruguay,random_att-com_20251129T180955.png,RANDOM,unknown,0.67653215,False,False,False,False
+Banco Itaú Uruguay,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.6724494,False,False,False,False
+Banco Itaú Uruguay,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.6631722,False,False,False,False
+Banco Itaú Uruguay,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.66094,False,False,False,False
+Banco Itaú Uruguay,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.65725476,False,False,False,False
+Banco Itaú Uruguay,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.65482795,False,False,False,False
+Banco Itaú Uruguay,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.65373254,False,False,False,False
+Banco Itaú Uruguay,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.6536126,False,False,False,False
+Banco Itaú Uruguay,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.6517992,False,False,False,False
+Banco Itaú Uruguay,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.6506032,False,False,False,False
+Banco Itaú Uruguay,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.6481823,False,False,False,False
+Banco Itaú Uruguay,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.6475049,False,False,False,False
+Banco Itaú Uruguay,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.646368,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6443992,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.64229244,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.6415039,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6412176,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.6399122,False,False,False,False
+Banco Itaú Uruguay,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.63827264,False,False,False,False
+Banco Itaú Uruguay,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.6372366,False,False,False,False
+Banco Itaú Uruguay,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.63633186,False,False,False,False
+Banco Itaú Uruguay,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.6355185,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.6344973,False,False,False,False
+Banco Itaú Uruguay,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.63408405,False,False,False,False
+Banco Itaú Uruguay,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.63346434,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.6319338,False,False,False,False
+Banco Itaú Uruguay,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.63168657,False,False,False,False
+Banco Itaú Uruguay,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.63092816,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.6297277,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6294381,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.62852937,False,False,False,False
+Banco Itaú Uruguay,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.62794584,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.6273788,False,False,False,False
+Banco Itaú Uruguay,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.62673116,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.62583756,False,False,False,False
+Banco Itaú Uruguay,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.62561774,False,False,False,False
+Banco Itaú Uruguay,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.6250446,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6245129,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.62421143,False,False,False,False
+Banco Itaú Uruguay,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.62394816,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.6239003,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.62208116,False,False,False,False
+Banco Itaú Uruguay,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.621964,False,False,False,False
+Banco Itaú Uruguay,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.62162703,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.62108546,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.61963415,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.6190299,False,False,False,False
+Banco Itaú Uruguay,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.6177427,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.61708343,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.61693406,False,False,False,False
+Banco Itaú Uruguay,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.61588824,False,False,False,False
+Banco Itaú Uruguay,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.61568904,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.61560017,False,False,False,False
+Banco Itaú Uruguay,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.6152597,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6150656,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.61485934,False,False,False,False
+Banco Itaú Uruguay,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.61459565,False,False,False,False
+Banco Itaú Uruguay,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.61399645,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6139798,False,False,False,False
+Banco Itaú Uruguay,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.61375606,False,False,False,False
+Banco Itaú Uruguay,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.6132283,False,False,False,False
+Banco Itaú Uruguay,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.612773,False,False,False,False
+Banco Itaú Uruguay,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.61273336,False,False,False,False
+Banco Itaú Uruguay,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.61271703,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.61241764,False,False,False,False
+Banco Itaú Uruguay,random_vg-no_20251129T180754.png,RANDOM,unknown,0.6123176,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.6118604,False,False,False,False
+Banco Itaú Uruguay,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6117885,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.61157775,False,False,False,False
+Banco Itaú Uruguay,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.6114441,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.61025417,False,False,False,False
+Banco Itaú Uruguay,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.6102415,False,False,False,False
+Banco Itaú Uruguay,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.61019623,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.60982275,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6096833,False,False,False,False
+Banco Itaú Uruguay,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.6093967,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6093403,False,False,False,False
+Banco Itaú Uruguay,random_discord-media_20251129T170414.png,RANDOM,unknown,0.6092433,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6089512,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6086085,False,False,False,False
+Banco Itaú Uruguay,random_uber-com_20251129T170129.png,RANDOM,unknown,0.6082641,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.60764384,False,False,False,False
+Banco Itaú Uruguay,random_slack-com_20251129T164623.png,RANDOM,unknown,0.6075926,False,False,False,False
+Banco Itaú Uruguay,random_braze-com_20251129T171458.png,RANDOM,unknown,0.60713065,False,False,False,False
+Banco Itaú Uruguay,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.60647726,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.60632825,False,False,False,False
+Banco Itaú Uruguay,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.6061593,False,False,False,False
+Banco Itaú Uruguay,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.605938,False,False,False,False
+Banco Itaú Uruguay,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6058192,False,False,False,False
+Banco Itaú Uruguay,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.60551333,False,False,False,False
+Banco Itaú Uruguay,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.6054287,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.60521215,False,False,False,False
+Banco Itaú Uruguay,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.6050292,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6049038,False,False,False,False
+Banco Itaú Uruguay,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.6048,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.60466874,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6042191,False,False,False,False
+Banco Itaú Uruguay,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.6039832,False,False,False,False
+Banco Itaú Uruguay,random_figma-com_20251129T173914.png,RANDOM,unknown,0.60377645,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.60369337,False,False,False,False
+Banco Itaú Uruguay,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.60322446,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.60300714,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.60227084,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.602016,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.60184896,False,False,False,False
+Banco Itaú Uruguay,random_xing-com_20251129T175042.png,RANDOM,unknown,0.60170764,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.60153127,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.60147595,False,False,False,False
+Banco Itaú Uruguay,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.6013884,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.6013557,False,False,False,False
+Banco Itaú Uruguay,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.6010834,False,False,False,False
+Banco Itaú Uruguay,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.6009156,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.60077643,False,False,False,False
+Banco Itaú Uruguay,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.60045743,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.60030675,False,False,False,False
+Banco Itaú Uruguay,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.5997602,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.59970105,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5995032,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.59948325,False,False,False,False
+Banco Itaú Uruguay,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.5994259,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.59858346,False,False,False,False
+Banco Itaú Uruguay,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.5979902,False,False,False,False
+Banco Itaú Uruguay,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.59798455,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5978774,False,False,False,False
+Banco Itaú Uruguay,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.5977671,False,False,False,False
+Banco Itaú Uruguay,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.5976897,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.59762096,False,False,False,False
+Banco Itaú Uruguay,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5976145,False,False,False,False
+Banco Itaú Uruguay,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.59736496,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5973263,False,False,False,False
+Banco Itaú Uruguay,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.59720135,False,False,False,False
+Banco Itaú Uruguay,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.59713423,False,False,False,False
+Banco Itaú Uruguay,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.59701157,False,False,False,False
+Banco Itaú Uruguay,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.59687173,False,False,False,False
+Banco Itaú Uruguay,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.5965859,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.5964755,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.59631646,False,False,False,False
+Banco Itaú Uruguay,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.5963136,False,False,False,False
+Banco Itaú Uruguay,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.59609187,False,False,False,False
+Banco Itaú Uruguay,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.59574056,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.59555435,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5954784,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5953599,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5952568,False,False,False,False
+Banco Itaú Uruguay,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.59524155,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.59516454,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5951172,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5949542,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.59493864,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.59469515,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.5945642,False,False,False,False
+Banco Itaú Uruguay,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.59434503,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.5942768,False,False,False,False
+Banco Itaú Uruguay,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.59384346,False,False,False,False
+Banco Itaú Uruguay,random_wps-com_20251129T174320.png,RANDOM,unknown,0.593833,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.59382534,False,False,False,False
+Banco Itaú Uruguay,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5938093,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.59370375,False,False,False,False
+Banco Itaú Uruguay,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.59369093,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.59338284,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.59304154,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5930277,False,False,False,False
+Banco Itaú Uruguay,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5929135,False,False,False,False
+Banco Itaú Uruguay,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.5923195,False,False,False,False
+Banco Itaú Uruguay,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.5922483,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5920154,False,False,False,False
+Banco Itaú Uruguay,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.5919865,False,False,False,False
+Banco Itaú Uruguay,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.59164023,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.59159434,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.5910543,False,False,False,False
+Banco Itaú Uruguay,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.5907179,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5906614,False,False,False,False
+Banco Itaú Uruguay,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.59055793,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.5902442,False,False,False,False
+Banco Itaú Uruguay,random_ring-com_20251129T172743.png,RANDOM,unknown,0.5900951,False,False,False,False
+Banco Itaú Uruguay,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.5900914,False,False,False,False
+Banco Itaú Uruguay,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.5899073,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5896953,False,False,False,False
+Banco Itaú Uruguay,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.5896677,False,False,False,False
+Banco Itaú Uruguay,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.58961236,False,False,False,False
+Banco Itaú Uruguay,random_split-io_20251129T175048.png,RANDOM,unknown,0.5896088,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5894749,False,False,False,False
+Banco Itaú Uruguay,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.5894143,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.588873,False,False,False,False
+Banco Itaú Uruguay,random_marca-com_20251129T175532.png,RANDOM,unknown,0.5885498,False,False,False,False
+Banco Itaú Uruguay,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.5883595,False,False,False,False
+Banco Itaú Uruguay,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.5882272,False,False,False,False
+Banco Itaú Uruguay,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.58796155,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.58795786,False,False,False,False
+Banco Itaú Uruguay,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.58768296,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.58756804,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5875354,False,False,False,False
+Banco Itaú Uruguay,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.5873787,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5873364,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5872325,False,False,False,False
+Banco Itaú Uruguay,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.58692175,False,False,False,False
+Banco Itaú Uruguay,random_viber-com_20251129T172210.png,RANDOM,unknown,0.5868185,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.5867277,False,False,False,False
+Banco Itaú Uruguay,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.58663946,False,False,False,False
+Banco Itaú Uruguay,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.5865494,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.58644366,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.5863861,False,False,False,False
+Banco Itaú Uruguay,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.5856297,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.58553684,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.5855365,False,False,False,False
+Banco Itaú Uruguay,random_google-cn_20251129T172939.png,RANDOM,unknown,0.5853441,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.58469725,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.58451986,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.58442813,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.58435047,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.58434397,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.58415574,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.5836844,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.58365387,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.58348054,False,False,False,False
+Banco Itaú Uruguay,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.5833845,False,False,False,False
+Banco Itaú Uruguay,random_wired-com_20251129T170401.png,RANDOM,unknown,0.58336043,False,False,False,False
+Banco Itaú Uruguay,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.58320403,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5830849,False,False,False,False
+Banco Itaú Uruguay,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.58301836,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.58236027,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.58219147,False,False,False,False
+Banco Itaú Uruguay,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.58209074,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5820757,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.58203334,False,False,False,False
+Banco Itaú Uruguay,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.58179086,False,False,False,False
+Banco Itaú Uruguay,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.581689,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.58162177,False,False,False,False
+Banco Itaú Uruguay,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.58153147,False,False,False,False
+Banco Itaú Uruguay,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.58152044,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.58126014,False,False,False,False
+Banco Itaú Uruguay,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.5809487,False,False,False,False
+Banco Itaú Uruguay,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.5807802,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.5803864,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5803784,False,False,False,False
+Banco Itaú Uruguay,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.58022785,False,False,False,False
+Banco Itaú Uruguay,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.58021545,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5800757,False,False,False,False
+Banco Itaú Uruguay,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.57985353,False,False,False,False
+Banco Itaú Uruguay,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.5794271,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.5790041,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5789932,False,False,False,False
+Banco Itaú Uruguay,random_branch-io_20251129T171524.png,RANDOM,unknown,0.57887626,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.57852316,False,False,False,False
+Banco Itaú Uruguay,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.5779768,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5778872,False,False,False,False
+Banco Itaú Uruguay,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.577563,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.5774535,False,False,False,False
+Banco Itaú Uruguay,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.5772805,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5770738,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.57696253,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.57693255,False,False,False,False
+Banco Itaú Uruguay,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.57680416,False,False,False,False
+Banco Itaú Uruguay,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.57664716,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.57663846,False,False,False,False
+Banco Itaú Uruguay,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.5766375,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5763657,False,False,False,False
+Banco Itaú Uruguay,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.57605386,False,False,False,False
+Banco Itaú Uruguay,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.57604825,False,False,False,False
+Banco Itaú Uruguay,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.57573783,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.575452,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.57508373,False,False,False,False
+Banco Itaú Uruguay,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.5748804,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.57468224,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.57467425,False,False,False,False
+Banco Itaú Uruguay,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.57460034,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5745701,False,False,False,False
+Banco Itaú Uruguay,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.5740688,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.57392895,False,False,False,False
+Banco Itaú Uruguay,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.57351375,False,False,False,False
+Banco Itaú Uruguay,random_android-com_20251129T163812.png,RANDOM,unknown,0.5727656,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5726795,False,False,False,False
+Banco Itaú Uruguay,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.572598,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5723132,False,False,False,False
+Banco Itaú Uruguay,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.5720583,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.57191086,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.57159775,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.57137656,False,False,False,False
+Banco Itaú Uruguay,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.5711116,False,False,False,False
+Banco Itaú Uruguay,random_opera-com_20251129T163028.png,RANDOM,unknown,0.5710541,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5709766,False,False,False,False
+Banco Itaú Uruguay,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.57072306,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5706507,False,False,False,False
+Banco Itaú Uruguay,random_segment-io_20251129T174400.png,RANDOM,unknown,0.5705979,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.5705693,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5704636,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5699619,False,False,False,False
+Banco Itaú Uruguay,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.56996155,False,False,False,False
+Banco Itaú Uruguay,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.569924,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.56980014,False,False,False,False
+Banco Itaú Uruguay,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.5697237,False,False,False,False
+Banco Itaú Uruguay,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.56950295,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5691173,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5687456,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.56867945,False,False,False,False
+Banco Itaú Uruguay,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.56814116,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.56811607,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5680995,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.5680049,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5679491,False,False,False,False
+Banco Itaú Uruguay,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.567739,False,False,False,False
+Banco Itaú Uruguay,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5676119,False,False,False,False
+Banco Itaú Uruguay,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.5670748,False,False,False,False
+Banco Itaú Uruguay,random_linode-com_20251129T173059.png,RANDOM,unknown,0.56641734,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5662099,False,False,False,False
+Banco Itaú Uruguay,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.56600857,False,False,False,False
+Banco Itaú Uruguay,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.56585914,False,False,False,False
+Banco Itaú Uruguay,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.565791,False,False,False,False
+Banco Itaú Uruguay,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.56569564,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.56564236,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.56517345,False,False,False,False
+Banco Itaú Uruguay,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.5651396,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.5647721,False,False,False,False
+Banco Itaú Uruguay,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.5646783,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5641576,False,False,False,False
+Banco Itaú Uruguay,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.564113,False,False,False,False
+Banco Itaú Uruguay,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.56404245,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.56393087,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.5634675,False,False,False,False
+Banco Itaú Uruguay,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.56333995,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.56323844,False,False,False,False
+Banco Itaú Uruguay,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.5631706,False,False,False,False
+Banco Itaú Uruguay,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.5630108,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.56262255,False,False,False,False
+Banco Itaú Uruguay,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.5624188,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5623346,False,False,False,False
+Banco Itaú Uruguay,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.56225574,False,False,False,False
+Banco Itaú Uruguay,random_google-com_20251129T162253.png,RANDOM,unknown,0.5620191,False,False,False,False
+Banco Itaú Uruguay,random_gov-br_20251129T174615.png,RANDOM,unknown,0.5619982,False,False,False,False
+Banco Itaú Uruguay,random_weather-com_20251129T164102.png,RANDOM,unknown,0.5619144,False,False,False,False
+Banco Itaú Uruguay,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.5612434,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5611869,False,False,False,False
+Banco Itaú Uruguay,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.56112164,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5606905,False,False,False,False
+Banco Itaú Uruguay,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.56068337,False,False,False,False
+Banco Itaú Uruguay,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.56006473,False,False,False,False
+Banco Itaú Uruguay,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.56004214,False,False,False,False
+Banco Itaú Uruguay,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.55975795,False,False,False,False
+Banco Itaú Uruguay,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.5596072,False,False,False,False
+Banco Itaú Uruguay,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.55959743,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.55944717,False,False,False,False
+Banco Itaú Uruguay,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.55887234,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.55866736,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5584943,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.55833656,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.558239,False,False,False,False
+Banco Itaú Uruguay,random_dns-google_20251129T163231.png,RANDOM,unknown,0.5579781,False,False,False,False
+Banco Itaú Uruguay,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.55772895,False,False,False,False
+Banco Itaú Uruguay,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.55754685,False,False,False,False
+Banco Itaú Uruguay,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.55708265,False,False,False,False
+Banco Itaú Uruguay,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.5569032,False,False,False,False
+Banco Itaú Uruguay,random_wix-com_20251129T171207.png,RANDOM,unknown,0.55687344,False,False,False,False
+Banco Itaú Uruguay,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.55681026,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.55677855,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.5561486,False,False,False,False
+Banco Itaú Uruguay,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.55603486,False,False,False,False
+Banco Itaú Uruguay,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5558934,False,False,False,False
+Banco Itaú Uruguay,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.55577624,False,False,False,False
+Banco Itaú Uruguay,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.55572283,False,False,False,False
+Banco Itaú Uruguay,random_docker-com_20251129T170827.png,RANDOM,unknown,0.55566525,False,False,False,False
+Banco Itaú Uruguay,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.55544305,False,False,False,False
+Banco Itaú Uruguay,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.5553417,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.55530846,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5552293,False,False,False,False
+Banco Itaú Uruguay,random_notion-so_20251129T180340.png,RANDOM,unknown,0.5549296,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5547513,False,False,False,False
+Banco Itaú Uruguay,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.55457354,False,False,False,False
+Banco Itaú Uruguay,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.5544969,False,False,False,False
+Banco Itaú Uruguay,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.5544416,False,False,False,False
+Banco Itaú Uruguay,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.55411345,False,False,False,False
+Banco Itaú Uruguay,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.5538391,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.5537671,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5536717,False,False,False,False
+Banco Itaú Uruguay,random_trello-com_20251129T180351.png,RANDOM,unknown,0.55363727,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5533974,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5532279,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.55321974,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5531883,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5531851,False,False,False,False
+Banco Itaú Uruguay,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.5531583,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.55315804,False,False,False,False
+Banco Itaú Uruguay,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.5530698,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.55300564,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5529536,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5529338,False,False,False,False
+Banco Itaú Uruguay,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5528861,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.55269414,False,False,False,False
+Banco Itaú Uruguay,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5523008,False,False,False,False
+Banco Itaú Uruguay,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.5522638,False,False,False,False
+Banco Itaú Uruguay,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.5517414,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5516132,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.55152315,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.55129313,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.55113894,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5511347,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.55109537,False,False,False,False
+Banco Itaú Uruguay,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.55108976,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.5506742,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.55045885,False,False,False,False
+Banco Itaú Uruguay,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.55017567,False,False,False,False
+Banco Itaú Uruguay,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.5501736,False,False,False,False
+Banco Itaú Uruguay,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.55010915,False,False,False,False
+Banco Itaú Uruguay,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.5500149,False,False,False,False
+Banco Itaú Uruguay,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.54951286,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.54917854,False,False,False,False
+Banco Itaú Uruguay,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.5481429,False,False,False,False
+Banco Itaú Uruguay,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.54811305,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.54777396,False,False,False,False
+Banco Itaú Uruguay,random_roku-com_20251129T164128.png,RANDOM,unknown,0.5476384,False,False,False,False
+Banco Itaú Uruguay,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.5475546,False,False,False,False
+Banco Itaú Uruguay,random_avast-com_20251129T164855.png,RANDOM,unknown,0.5474992,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.54677063,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5462042,False,False,False,False
+Banco Itaú Uruguay,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.5456769,False,False,False,False
+Banco Itaú Uruguay,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.5456118,False,False,False,False
+Banco Itaú Uruguay,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.54529196,False,False,False,False
+Banco Itaú Uruguay,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.5449635,False,False,False,False
+Banco Itaú Uruguay,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.54483205,False,False,False,False
+Banco Itaú Uruguay,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.54479873,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.5447634,False,False,False,False
+Banco Itaú Uruguay,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.544526,False,False,False,False
+Banco Itaú Uruguay,random_office-com_20251129T162404.png,RANDOM,unknown,0.54385996,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5436957,False,False,False,False
+Banco Itaú Uruguay,random_w3-org_20251129T163751.png,RANDOM,unknown,0.5433974,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.543291,False,False,False,False
+Banco Itaú Uruguay,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.54256785,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5425635,False,False,False,False
+Banco Itaú Uruguay,random_apache-org_20251129T163228.png,RANDOM,unknown,0.5424554,False,False,False,False
+Banco Itaú Uruguay,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.54221666,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.54200184,False,False,False,False
+Banco Itaú Uruguay,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.5419677,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.5418916,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.5415476,False,False,False,False
+Banco Itaú Uruguay,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5413176,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.54126453,False,False,False,False
+Banco Itaú Uruguay,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.5412122,False,False,False,False
+Banco Itaú Uruguay,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.5409815,False,False,False,False
+Banco Itaú Uruguay,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.5408652,False,False,False,False
+Banco Itaú Uruguay,random_github-io_20251129T163235.png,RANDOM,unknown,0.5407984,False,False,False,False
+Banco Itaú Uruguay,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.540679,False,False,False,False
+Banco Itaú Uruguay,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.5402429,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5401821,False,False,False,False
+Banco Itaú Uruguay,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.5401131,False,False,False,False
+Banco Itaú Uruguay,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.539971,False,False,False,False
+Banco Itaú Uruguay,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.539096,False,False,False,False
+Banco Itaú Uruguay,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.53891414,False,False,False,False
+Banco Itaú Uruguay,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.5388218,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5388064,False,False,False,False
+Banco Itaú Uruguay,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.5387874,False,False,False,False
+Banco Itaú Uruguay,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.53862095,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5385078,False,False,False,False
+Banco Itaú Uruguay,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.53849393,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5383903,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.538303,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.53820807,False,False,False,False
+Banco Itaú Uruguay,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.5381524,False,False,False,False
+Banco Itaú Uruguay,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.5381142,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.5375662,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.53731,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5369739,False,False,False,False
+Banco Itaú Uruguay,random_nature-com_20251129T164547.png,RANDOM,unknown,0.5368172,False,False,False,False
+Banco Itaú Uruguay,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.5365887,False,False,False,False
+Banco Itaú Uruguay,random_apa-org_20251129T180433.png,RANDOM,unknown,0.53641516,False,False,False,False
+Banco Itaú Uruguay,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.5362448,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5359593,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.53584707,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5358192,False,False,False,False
+Banco Itaú Uruguay,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.53560066,False,False,False,False
+Banco Itaú Uruguay,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.53521043,False,False,False,False
+Banco Itaú Uruguay,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.53510225,False,False,False,False
+Banco Itaú Uruguay,random_t-co_20251129T163912.png,RANDOM,unknown,0.53505313,False,False,False,False
+Banco Itaú Uruguay,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.53500116,False,False,False,False
+Banco Itaú Uruguay,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.5348533,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5347147,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.5345925,False,False,False,False
+Banco Itaú Uruguay,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.5344786,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.5343437,False,False,False,False
+Banco Itaú Uruguay,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.5342796,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.53358966,False,False,False,False
+Banco Itaú Uruguay,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.53349924,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.5332311,False,False,False,False
+Banco Itaú Uruguay,random_uk-com_20251129T171638.png,RANDOM,unknown,0.5331863,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.532512,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.5321315,False,False,False,False
+Banco Itaú Uruguay,random_g-page_20251129T170201.png,RANDOM,unknown,0.53193456,False,False,False,False
+Banco Itaú Uruguay,random_bild-de_20251129T173827.png,RANDOM,unknown,0.53177774,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5317284,False,False,False,False
+Banco Itaú Uruguay,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.53137213,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.5312281,False,False,False,False
+Banco Itaú Uruguay,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.5311424,False,False,False,False
+Banco Itaú Uruguay,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.53108037,False,False,False,False
+Banco Itaú Uruguay,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.53059506,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.5299918,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5299212,False,False,False,False
+Banco Itaú Uruguay,random_singular-net_20251129T175446.png,RANDOM,unknown,0.52965295,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.5295136,False,False,False,False
+Banco Itaú Uruguay,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.52873707,False,False,False,False
+Banco Itaú Uruguay,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.52864337,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.52850574,False,False,False,False
+Banco Itaú Uruguay,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.5281799,False,False,False,False
+Banco Itaú Uruguay,random_python-org_20251129T173738.png,RANDOM,unknown,0.5276693,False,False,False,False
+Banco Itaú Uruguay,random_springer-com_20251129T164823.png,RANDOM,unknown,0.5275035,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.5274345,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5269015,False,False,False,False
+Banco Itaú Uruguay,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.52668464,False,False,False,False
+Banco Itaú Uruguay,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.5261252,False,False,False,False
+Banco Itaú Uruguay,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.5258748,False,False,False,False
+Banco Itaú Uruguay,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.5258563,False,False,False,False
+Banco Itaú Uruguay,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.52575123,False,False,False,False
+Banco Itaú Uruguay,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.52553046,False,False,False,False
+Banco Itaú Uruguay,random_daum-net_20251129T174537.png,RANDOM,unknown,0.5252127,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.52506214,False,False,False,False
+Banco Itaú Uruguay,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.52499986,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.524966,False,False,False,False
+Banco Itaú Uruguay,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.52484626,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.5246536,False,False,False,False
+Banco Itaú Uruguay,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.5241847,False,False,False,False
+Banco Itaú Uruguay,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.5238563,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.5238069,False,False,False,False
+Banco Itaú Uruguay,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.5234499,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.5233997,False,False,False,False
+Banco Itaú Uruguay,random_free-fr_20251129T171241.png,RANDOM,unknown,0.5231421,False,False,False,False
+Banco Itaú Uruguay,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.52312666,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.52308774,False,False,False,False
+Banco Itaú Uruguay,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.5230281,False,False,False,False
+Banco Itaú Uruguay,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.52299535,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.5229395,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.52289414,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.5228862,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.52252513,False,False,False,False
+Banco Itaú Uruguay,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.5221275,False,False,False,False
+Banco Itaú Uruguay,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.5212548,False,False,False,False
+Banco Itaú Uruguay,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.52111006,False,False,False,False
+Banco Itaú Uruguay,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.52064633,False,False,False,False
+Banco Itaú Uruguay,random_finn-no_20251129T180303.png,RANDOM,unknown,0.5203036,False,False,False,False
+Banco Itaú Uruguay,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.5199891,False,False,False,False
+Banco Itaú Uruguay,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.51942915,False,False,False,False
+Banco Itaú Uruguay,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.51922643,False,False,False,False
+Banco Itaú Uruguay,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.5184459,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.51816905,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.5178287,False,False,False,False
+Banco Itaú Uruguay,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.5178169,False,False,False,False
+Banco Itaú Uruguay,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.51748806,False,False,False,False
+Banco Itaú Uruguay,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.51701367,False,False,False,False
+Banco Itaú Uruguay,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.5168406,False,False,False,False
+Banco Itaú Uruguay,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.5167831,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.5165703,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.5158776,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5157842,False,False,False,False
+Banco Itaú Uruguay,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.51527536,False,False,False,False
+Banco Itaú Uruguay,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.5149928,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.5144752,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.5141377,False,False,False,False
+Banco Itaú Uruguay,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.51374805,False,False,False,False
+Banco Itaú Uruguay,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.51357514,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.513493,False,False,False,False
+Banco Itaú Uruguay,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.5117275,False,False,False,False
+Banco Itaú Uruguay,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.5115967,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.51153827,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5114105,False,False,False,False
+Banco Itaú Uruguay,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.5112829,False,False,False,False
+Banco Itaú Uruguay,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.51121247,False,False,False,False
+Banco Itaú Uruguay,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.5105295,False,False,False,False
+Banco Itaú Uruguay,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.5103712,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5101167,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.50982165,False,False,False,False
+Banco Itaú Uruguay,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.5097567,False,False,False,False
+Banco Itaú Uruguay,random_cox-net_20251129T170452.png,RANDOM,unknown,0.5097338,False,False,False,False
+Banco Itaú Uruguay,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.5093502,False,False,False,False
+Banco Itaú Uruguay,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.5091796,False,False,False,False
+Banco Itaú Uruguay,random_windows-com_20251129T163112.png,RANDOM,unknown,0.50907385,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.5090448,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.5089644,False,False,False,False
+Banco Itaú Uruguay,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.50881064,False,False,False,False
+Banco Itaú Uruguay,random_openai-com_20251129T164132.png,RANDOM,unknown,0.5080079,False,False,False,False
+Banco Itaú Uruguay,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.50794584,False,False,False,False
+Banco Itaú Uruguay,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.5078545,False,False,False,False
+Banco Itaú Uruguay,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.5077377,False,False,False,False
+Banco Itaú Uruguay,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.5076414,False,False,False,False
+Banco Itaú Uruguay,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.50741965,False,False,False,False
+Banco Itaú Uruguay,random_brave-com_20251129T172325.png,RANDOM,unknown,0.5073075,False,False,False,False
+Banco Itaú Uruguay,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.50713015,False,False,False,False
+Banco Itaú Uruguay,random_360-cn_20251129T173141.png,RANDOM,unknown,0.5069419,False,False,False,False
+Banco Itaú Uruguay,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.50608945,False,False,False,False
+Banco Itaú Uruguay,random_canva-com_20251129T164231.png,RANDOM,unknown,0.50604296,False,False,False,False
+Banco Itaú Uruguay,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.5059383,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5059296,False,False,False,False
+Banco Itaú Uruguay,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.50581855,False,False,False,False
+Banco Itaú Uruguay,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.50564706,False,False,False,False
+Banco Itaú Uruguay,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.50549793,False,False,False,False
+Banco Itaú Uruguay,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.5047438,False,False,False,False
+Banco Itaú Uruguay,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.50470895,False,False,False,False
+Banco Itaú Uruguay,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.50452864,False,False,False,False
+Banco Itaú Uruguay,random_f5-com_20251129T163706.png,RANDOM,unknown,0.5042082,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5040776,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.5038307,False,False,False,False
+Banco Itaú Uruguay,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.50377756,False,False,False,False
+Banco Itaú Uruguay,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.50332475,False,False,False,False
+Banco Itaú Uruguay,random_medium-com_20251129T163655.png,RANDOM,unknown,0.50257635,False,False,False,False
+Banco Itaú Uruguay,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.5014836,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.50078994,False,False,False,False
+Banco Itaú Uruguay,random_fast-com_20251129T171226.png,RANDOM,unknown,0.4985175,False,False,False,False
+Banco Itaú Uruguay,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.4977114,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.49686423,False,False,False,False
+Banco Itaú Uruguay,random_binance-com_20251129T174935.png,RANDOM,unknown,0.4956598,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.49530837,False,False,False,False
+Banco Itaú Uruguay,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.49485403,False,False,False,False
+Banco Itaú Uruguay,random_doi-org_20251129T164112.png,RANDOM,unknown,0.49471828,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.49470696,False,False,False,False
+Banco Itaú Uruguay,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.49460465,False,False,False,False
+Banco Itaú Uruguay,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.49419832,False,False,False,False
+Banco Itaú Uruguay,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.4940687,False,False,False,False
+Banco Itaú Uruguay,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.49399075,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.4938982,False,False,False,False
+Banco Itaú Uruguay,random_tds-net_20251129T174115.png,RANDOM,unknown,0.49380848,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.49299812,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.4929227,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.49274808,False,False,False,False
+Banco Itaú Uruguay,random_php-net_20251129T164521.png,RANDOM,unknown,0.49236637,False,False,False,False
+Banco Itaú Uruguay,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.49228573,False,False,False,False
+Banco Itaú Uruguay,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.4920981,False,False,False,False
+Banco Itaú Uruguay,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.49201185,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.4918851,False,False,False,False
+Banco Itaú Uruguay,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.49120098,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.49109313,False,False,False,False
+Banco Itaú Uruguay,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.49105942,False,False,False,False
+Banco Itaú Uruguay,random_g-co_20251129T171804.png,RANDOM,unknown,0.49085507,False,False,False,False
+Banco Itaú Uruguay,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.48951155,False,False,False,False
+Banco Itaú Uruguay,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.48875958,False,False,False,False
+Banco Itaú Uruguay,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.4884546,False,False,False,False
+Banco Itaú Uruguay,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.48844734,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.4882917,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.48817366,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.48777214,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.48735872,False,False,False,False
+Banco Itaú Uruguay,random_focus-de_20251129T175031.png,RANDOM,unknown,0.4872942,False,False,False,False
+Banco Itaú Uruguay,random_moe-video_20251129T164430.png,RANDOM,unknown,0.48695743,False,False,False,False
+Banco Itaú Uruguay,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.4869417,False,False,False,False
+Banco Itaú Uruguay,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.4866722,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.48504505,False,False,False,False
+Banco Itaú Uruguay,random_archive-org_20251129T163406.png,RANDOM,unknown,0.48469937,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.48450023,False,False,False,False
+Banco Itaú Uruguay,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.48438025,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.4843213,False,False,False,False
+Banco Itaú Uruguay,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.48364615,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.48305467,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.4830091,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.4827371,False,False,False,False
+Banco Itaú Uruguay,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.4816748,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.48117432,False,False,False,False
+Banco Itaú Uruguay,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.4808537,False,False,False,False
+Banco Itaú Uruguay,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.4807627,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.48031923,False,False,False,False
+Banco Itaú Uruguay,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.47976273,False,False,False,False
+Banco Itaú Uruguay,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.4795717,False,False,False,False
+Banco Itaú Uruguay,random_jd-com_20251129T174954.png,RANDOM,unknown,0.4794537,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.47944984,False,False,False,False
+Banco Itaú Uruguay,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.47850853,False,False,False,False
+Banco Itaú Uruguay,random_msn-com_20251129T162722.png,RANDOM,unknown,0.47792113,False,False,False,False
+Banco Itaú Uruguay,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.4776113,False,False,False,False
+Banco Itaú Uruguay,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.47622818,False,False,False,False
+Banco Itaú Uruguay,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.4761448,False,False,False,False
+Banco Itaú Uruguay,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.47579068,False,False,False,False
+Banco Itaú Uruguay,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.47556025,False,False,False,False
+Banco Itaú Uruguay,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.47486162,False,False,False,False
+Banco Itaú Uruguay,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.47476023,False,False,False,False
+Banco Itaú Uruguay,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.47452766,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.47448552,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.4739351,False,False,False,False
+Banco Itaú Uruguay,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.4738117,False,False,False,False
+Banco Itaú Uruguay,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.47378448,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.4731649,False,False,False,False
+Banco Itaú Uruguay,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.47279724,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.47241426,False,False,False,False
+Banco Itaú Uruguay,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.47218087,False,False,False,False
+Banco Itaú Uruguay,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.47171628,False,False,False,False
+Banco Itaú Uruguay,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.47156608,False,False,False,False
+Banco Itaú Uruguay,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.471153,False,False,False,False
+Banco Itaú Uruguay,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.46942964,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.46916455,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.46909577,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.46852514,False,False,False,False
+Banco Itaú Uruguay,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.4683562,False,False,False,False
+Banco Itaú Uruguay,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.4682631,False,False,False,False
+Banco Itaú Uruguay,random_temu-com_20251129T165219.png,RANDOM,unknown,0.4680655,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.46784484,False,False,False,False
+Banco Itaú Uruguay,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.46733567,False,False,False,False
+Banco Itaú Uruguay,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.46702063,False,False,False,False
+Banco Itaú Uruguay,random_naver-com_20251129T164929.png,RANDOM,unknown,0.46607208,False,False,False,False
+Banco Itaú Uruguay,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.46526992,False,False,False,False
+Banco Itaú Uruguay,random_skype-com_20251129T162718.png,RANDOM,unknown,0.46510446,False,False,False,False
+Banco Itaú Uruguay,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.46470922,False,False,False,False
+Banco Itaú Uruguay,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.4643474,False,False,False,False
+Banco Itaú Uruguay,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.4640844,False,False,False,False
+Banco Itaú Uruguay,random_note-com_20251129T174642.png,RANDOM,unknown,0.46368164,False,False,False,False
+Banco Itaú Uruguay,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.46358055,False,False,False,False
+Banco Itaú Uruguay,random_vk-com_20251129T163202.png,RANDOM,unknown,0.46343115,False,False,False,False
+Banco Itaú Uruguay,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.46310943,False,False,False,False
+Banco Itaú Uruguay,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.46303475,False,False,False,False
+Banco Itaú Uruguay,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.46258572,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.46241182,False,False,False,False
+Banco Itaú Uruguay,random_office365-com_20251129T162902.png,RANDOM,unknown,0.4621749,False,False,False,False
+Banco Itaú Uruguay,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.46184435,False,False,False,False
+Banco Itaú Uruguay,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.46162024,False,False,False,False
+Banco Itaú Uruguay,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.46148092,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.46138418,False,False,False,False
+Banco Itaú Uruguay,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.46128538,False,False,False,False
+Banco Itaú Uruguay,random_forter-com_20251129T164642.png,RANDOM,unknown,0.46124583,False,False,False,False
+Banco Itaú Uruguay,random_booking-com_20251129T164752.png,RANDOM,unknown,0.46046853,False,False,False,False
+Banco Itaú Uruguay,random_agora-io_20251129T175439.png,RANDOM,unknown,0.4604165,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.45957792,False,False,False,False
+Banco Itaú Uruguay,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.45946854,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.45828155,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.45773023,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.45770848,False,False,False,False
+Banco Itaú Uruguay,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.45734155,False,False,False,False
+Banco Itaú Uruguay,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.45684344,False,False,False,False
+Banco Itaú Uruguay,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.4567342,False,False,False,False
+Banco Itaú Uruguay,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.45633665,False,False,False,False
+Banco Itaú Uruguay,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.45503932,False,False,False,False
+Banco Itaú Uruguay,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.4547427,False,False,False,False
+Banco Itaú Uruguay,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.4538914,False,False,False,False
+Banco Itaú Uruguay,random_go-com_20251129T164609.png,RANDOM,unknown,0.45374906,False,False,False,False
+Banco Itaú Uruguay,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.4535188,False,False,False,False
+Banco Itaú Uruguay,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.45341069,False,False,False,False
+Banco Itaú Uruguay,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.45329168,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.45304358,False,False,False,False
+Banco Itaú Uruguay,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.4513666,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.45041034,False,False,False,False
+Banco Itaú Uruguay,random_live-com_20251129T162413.png,RANDOM,unknown,0.44987798,False,False,False,False
+Banco Itaú Uruguay,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.449149,False,False,False,False
+Banco Itaú Uruguay,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.44894338,False,False,False,False
+Banco Itaú Uruguay,random_ui-com_20251129T163127.png,RANDOM,unknown,0.4485793,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.44857556,False,False,False,False
+Banco Itaú Uruguay,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.44849253,False,False,False,False
+Banco Itaú Uruguay,random_statista-com_20251129T165822.png,RANDOM,unknown,0.44820863,False,False,False,False
+Banco Itaú Uruguay,random_he-net_20251129T172135.png,RANDOM,unknown,0.44764465,False,False,False,False
+Banco Itaú Uruguay,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.4456486,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.4454757,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.44542402,False,False,False,False
+Banco Itaú Uruguay,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.4453315,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.44426435,False,False,False,False
+Banco Itaú Uruguay,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.4435938,False,False,False,False
+Banco Itaú Uruguay,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.44328588,False,False,False,False
+Banco Itaú Uruguay,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.44283712,False,False,False,False
+Banco Itaú Uruguay,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.4425481,False,False,False,False
+Banco Itaú Uruguay,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.4419365,False,False,False,False
+Banco Itaú Uruguay,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.44057864,False,False,False,False
+Banco Itaú Uruguay,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.4367812,False,False,False,False
+Banco Itaú Uruguay,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.43640083,False,False,False,False
+Banco Itaú Uruguay,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.43488884,False,False,False,False
+Banco Itaú Uruguay,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.43448478,False,False,False,False
+Banco Itaú Uruguay,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.43288812,False,False,False,False
+Banco Itaú Uruguay,random_ft-com_20251129T170724.png,RANDOM,unknown,0.43124884,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.4309951,False,False,False,False
+Banco Itaú Uruguay,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.42860854,False,False,False,False
+Banco Itaú Uruguay,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.4273609,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.4265957,False,False,False,False
+Banco Itaú Uruguay,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.424682,False,False,False,False
+Banco Itaú Uruguay,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.42452312,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.4243701,False,False,False,False
+Banco Itaú Uruguay,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.42226708,False,False,False,False
+Banco Itaú Uruguay,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.42190248,False,False,False,False
+Banco Itaú Uruguay,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.42165446,False,False,False,False
+Banco Itaú Uruguay,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.4214264,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.4208007,False,False,False,False
+Banco Itaú Uruguay,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.42059475,False,False,False,False
+Banco Itaú Uruguay,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.41891372,False,False,False,False
+Banco Itaú Uruguay,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.4175945,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.41542342,False,False,False,False
+Banco Itaú Uruguay,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.41525656,False,False,False,False
+Banco Itaú Uruguay,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.4137078,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.41335177,False,False,False,False
+Banco Itaú Uruguay,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.41195512,False,False,False,False
+Banco Itaú Uruguay,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.41182625,False,False,False,False
+Banco Itaú Uruguay,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.4109516,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.4099753,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.4075222,False,False,False,False
+Banco Itaú Uruguay,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.40686354,False,False,False,False
+Banco Itaú Uruguay,random_example-com_20251129T163930.png,RANDOM,unknown,0.4063792,False,False,False,False
+Banco Itaú Uruguay,random_erome-com_20251129T165107.png,RANDOM,unknown,0.40535432,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.40515253,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.4041528,False,False,False,False
+Banco Itaú Uruguay,random_genius-com_20251129T174000.png,RANDOM,unknown,0.40393654,False,False,False,False
+Banco Itaú Uruguay,random_otto-de_20251129T174331.png,RANDOM,unknown,0.40270817,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.40267804,False,False,False,False
+Banco Itaú Uruguay,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.4021865,False,False,False,False
+Banco Itaú Uruguay,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.40211064,False,False,False,False
+Banco Itaú Uruguay,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.40061232,False,False,False,False
+Banco Itaú Uruguay,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.4000988,False,False,False,False
+Banco Itaú Uruguay,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.4000671,False,False,False,False
+Banco Itaú Uruguay,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.39865494,False,False,False,False
+Banco Itaú Uruguay,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.3983404,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.39816692,False,False,False,False
+Banco Itaú Uruguay,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.39690393,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.39625347,False,False,False,False
+Banco Itaú Uruguay,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.39463985,False,False,False,False
+Banco Itaú Uruguay,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.3945644,False,False,False,False
+Banco Itaú Uruguay,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.39404336,False,False,False,False
+Banco Itaú Uruguay,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.3927852,False,False,False,False
+Banco Itaú Uruguay,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.39243782,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.39212096,False,False,False,False
+Banco Itaú Uruguay,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.3920564,False,False,False,False
+Banco Itaú Uruguay,random_change-org_20251129T173929.png,RANDOM,unknown,0.3919744,False,False,False,False
+Banco Itaú Uruguay,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.39168358,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.39141873,False,False,False,False
+Banco Itaú Uruguay,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.39134535,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.3905943,False,False,False,False
+Banco Itaú Uruguay,random_okta-com_20251129T171946.png,RANDOM,unknown,0.3899275,False,False,False,False
+Banco Itaú Uruguay,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.3898368,False,False,False,False
+Banco Itaú Uruguay,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.38913807,False,False,False,False
+Banco Itaú Uruguay,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.38876957,False,False,False,False
+Banco Itaú Uruguay,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.38843364,False,False,False,False
+Banco Itaú Uruguay,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.3883275,False,False,False,False
+Banco Itaú Uruguay,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.38808888,False,False,False,False
+Banco Itaú Uruguay,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.38798016,False,False,False,False
+Banco Itaú Uruguay,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.38692352,False,False,False,False
+Banco Itaú Uruguay,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.3866708,False,False,False,False
+Banco Itaú Uruguay,random_web-de_20251129T175220.png,RANDOM,unknown,0.3863271,False,False,False,False
+Banco Itaú Uruguay,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.38607454,False,False,False,False
+Banco Itaú Uruguay,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.38523525,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.38516372,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.38475484,False,False,False,False
+Banco Itaú Uruguay,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.38138857,False,False,False,False
+Banco Itaú Uruguay,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.38071495,False,False,False,False
+Banco Itaú Uruguay,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.38070273,False,False,False,False
+Banco Itaú Uruguay,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.38058522,False,False,False,False
+Banco Itaú Uruguay,random_npr-org_20251129T170056.png,RANDOM,unknown,0.37944558,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.37927556,False,False,False,False
+Banco Itaú Uruguay,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.37921613,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.37900117,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.3784504,False,False,False,False
+Banco Itaú Uruguay,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.37824088,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.37823626,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.37684852,False,False,False,False
+Banco Itaú Uruguay,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.3767891,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.3766886,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.37662482,False,False,False,False
+Banco Itaú Uruguay,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.37633467,False,False,False,False
+Banco Itaú Uruguay,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.37626308,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.3752347,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.3746834,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.37445402,False,False,False,False
+Banco Itaú Uruguay,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.37434748,False,False,False,False
+Banco Itaú Uruguay,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.37356913,False,False,False,False
+Banco Itaú Uruguay,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.37327862,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.37284642,False,False,False,False
+Banco Itaú Uruguay,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.3728373,False,False,False,False
+Banco Itaú Uruguay,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.37282553,False,False,False,False
+Banco Itaú Uruguay,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.371796,False,False,False,False
+Banco Itaú Uruguay,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.37150314,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.370979,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.37085307,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.37082127,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.37077498,False,False,False,False
+Banco Itaú Uruguay,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.3705725,False,False,False,False
+Banco Itaú Uruguay,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.37055096,False,False,False,False
+Banco Itaú Uruguay,random_target-com_20251129T171437.png,RANDOM,unknown,0.37018812,False,False,False,False
+Banco Itaú Uruguay,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.36922842,False,False,False,False
+Banco Itaú Uruguay,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.3688853,False,False,False,False
+Banco Itaú Uruguay,random_bol-com_20251129T174941.png,RANDOM,unknown,0.36808017,False,False,False,False
+Banco Itaú Uruguay,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.36739004,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.36701006,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.36686146,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.36597303,False,False,False,False
+Banco Itaú Uruguay,random_one-one_20251129T163318.png,RANDOM,unknown,0.3655734,False,False,False,False
+Banco Itaú Uruguay,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.36395192,False,False,False,False
+Banco Itaú Uruguay,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.3626207,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.36258587,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.3624928,False,False,False,False
+Banco Itaú Uruguay,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.36191654,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.36169764,False,False,False,False
+Banco Itaú Uruguay,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.35883915,False,False,False,False
+Banco Itaú Uruguay,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.35881105,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.3581642,False,False,False,False
+Banco Itaú Uruguay,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.35781342,False,False,False,False
+Banco Itaú Uruguay,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.35651475,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.35632384,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.3561428,False,False,False,False
+Banco Itaú Uruguay,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.35578525,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.35451564,False,False,False,False
+Banco Itaú Uruguay,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.3539152,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.35371614,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.35346806,False,False,False,False
+Banco Itaú Uruguay,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.35306984,False,False,False,False
+Banco Itaú Uruguay,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.3528608,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.3526428,False,False,False,False
+Banco Itaú Uruguay,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.3525235,False,False,False,False
+Banco Itaú Uruguay,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.35193628,False,False,False,False
+Banco Itaú Uruguay,random_character-ai_20251129T174433.png,RANDOM,unknown,0.3516682,False,False,False,False
+Banco Itaú Uruguay,random_miui-com_20251129T163719.png,RANDOM,unknown,0.35140884,False,False,False,False
+Banco Itaú Uruguay,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.35103482,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.35068405,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.350475,False,False,False,False
+Banco Itaú Uruguay,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.35047218,False,False,False,False
+Banco Itaú Uruguay,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.35016465,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.34969205,False,False,False,False
+Banco Itaú Uruguay,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.34821153,False,False,False,False
+Banco Itaú Uruguay,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.34749785,False,False,False,False
+Banco Itaú Uruguay,random_eset-com_20251129T171424.png,RANDOM,unknown,0.34663343,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.34659958,False,False,False,False
+Banco Itaú Uruguay,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.3465488,False,False,False,False
+Banco Itaú Uruguay,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.34579256,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.34510666,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.34476185,False,False,False,False
+Banco Itaú Uruguay,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.34322903,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.3432065,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.3415302,False,False,False,False
+Banco Itaú Uruguay,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.34112448,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.3411064,False,False,False,False
+Banco Itaú Uruguay,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.34107438,False,False,False,False
+Banco Itaú Uruguay,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.340513,False,False,False,False
+Banco Itaú Uruguay,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.34040743,False,False,False,False
+Banco Itaú Uruguay,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.33964843,False,False,False,False
+Banco Itaú Uruguay,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.33942002,False,False,False,False
+Banco Itaú Uruguay,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.33763993,False,False,False,False
+Banco Itaú Uruguay,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.33746457,False,False,False,False
+Banco Itaú Uruguay,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.3363936,False,False,False,False
+Banco Itaú Uruguay,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.33498982,False,False,False,False
+Banco Itaú Uruguay,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.33491942,False,False,False,False
+Banco Itaú Uruguay,random_debian-org_20251129T164620.png,RANDOM,unknown,0.33469772,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.33458447,False,False,False,False
+Banco Itaú Uruguay,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.33451316,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.3344121,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.3343552,False,False,False,False
+Banco Itaú Uruguay,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.33404988,False,False,False,False
+Banco Itaú Uruguay,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.3327291,False,False,False,False
+Banco Itaú Uruguay,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.33237204,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.33236447,False,False,False,False
+Banco Itaú Uruguay,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.33232498,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.33166566,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.3316204,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.32998726,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.32915276,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.32747304,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.32681608,False,False,False,False
+Banco Itaú Uruguay,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.3254212,False,False,False,False
+Banco Itaú Uruguay,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.32429245,False,False,False,False
+Banco Itaú Uruguay,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.32335973,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.32164547,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.32092324,False,False,False,False
+Banco Itaú Uruguay,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.32016897,False,False,False,False
+Banco Itaú Uruguay,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.3200326,False,False,False,False
+Banco Itaú Uruguay,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.31915778,False,False,False,False
+Banco Itaú Uruguay,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.31840706,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.31730562,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.31682932,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.31452355,False,False,False,False
+Banco Itaú Uruguay,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.31407577,False,False,False,False
+Banco Itaú Uruguay,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.31380093,False,False,False,False
+Banco Itaú Uruguay,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.3136379,False,False,False,False
+Banco Itaú Uruguay,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.31190217,False,False,False,False
+Banco Itaú Uruguay,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.3115877,False,False,False,False
+Banco Itaú Uruguay,random_aol-com_20251129T170152.png,RANDOM,unknown,0.31154794,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.3110211,False,False,False,False
+Banco Itaú Uruguay,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.3102308,False,False,False,False
+Banco Itaú Uruguay,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.30909216,False,False,False,False
+Banco Itaú Uruguay,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.30867815,False,False,False,False
+Banco Itaú Uruguay,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.3086454,False,False,False,False
+Banco Itaú Uruguay,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.30841804,False,False,False,False
+Banco Itaú Uruguay,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.3073062,False,False,False,False
+Banco Itaú Uruguay,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.30681795,False,False,False,False
+Banco Itaú Uruguay,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.30679116,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.30608505,False,False,False,False
+Banco Itaú Uruguay,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.30525517,False,False,False,False
+Banco Itaú Uruguay,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.30513874,False,False,False,False
+Banco Itaú Uruguay,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.3050351,False,False,False,False
+Banco Itaú Uruguay,random_wise-com_20251129T180312.png,RANDOM,unknown,0.30443275,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.30350566,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.30265266,False,False,False,False
+Banco Itaú Uruguay,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.30252907,False,False,False,False
+Banco Itaú Uruguay,random_state-gov_20251129T174508.png,RANDOM,unknown,0.3016464,False,False,False,False
+Banco Itaú Uruguay,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.30100536,False,False,False,False
+Banco Itaú Uruguay,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.30044514,False,False,False,False
+Banco Itaú Uruguay,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.30007774,False,False,False,False
+Banco Itaú Uruguay,random_nic-io_20251129T173852.png,RANDOM,unknown,0.29969436,False,False,False,False
+Banco Itaú Uruguay,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.29918656,False,False,False,False
+Banco Itaú Uruguay,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.2991835,False,False,False,False
+Banco Itaú Uruguay,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.29911873,False,False,False,False
+Banco Itaú Uruguay,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.29830408,False,False,False,False
+Banco Itaú Uruguay,random_apple-com_20251129T162353.png,RANDOM,unknown,0.29828164,False,False,False,False
+Banco Itaú Uruguay,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.29602876,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.29524204,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.2951804,False,False,False,False
+Banco Itaú Uruguay,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.29455468,False,False,False,False
+Banco Itaú Uruguay,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.29430497,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.29249036,False,False,False,False
+Banco Itaú Uruguay,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.29183894,False,False,False,False
+Banco Itaú Uruguay,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.29174504,False,False,False,False
+Banco Itaú Uruguay,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.2914635,False,False,False,False
+Banco Itaú Uruguay,random_chess-com_20251129T173919.png,RANDOM,unknown,0.29101947,False,False,False,False
+Banco Itaú Uruguay,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.29082957,False,False,False,False
+Banco Itaú Uruguay,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.29062387,False,False,False,False
+Banco Itaú Uruguay,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.28955805,False,False,False,False
+Banco Itaú Uruguay,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.2888904,False,False,False,False
+Banco Itaú Uruguay,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.28854978,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.28817663,False,False,False,False
+Banco Itaú Uruguay,random_substack-com_20251129T171941.png,RANDOM,unknown,0.28676105,False,False,False,False
+Banco Itaú Uruguay,random_shein-com_20251129T170736.png,RANDOM,unknown,0.2849998,False,False,False,False
+Banco Itaú Uruguay,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.28471917,False,False,False,False
+Banco Itaú Uruguay,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.28347006,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.28332818,False,False,False,False
+Banco Itaú Uruguay,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.28250524,False,False,False,False
+Banco Itaú Uruguay,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.2816397,False,False,False,False
+Banco Itaú Uruguay,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.28136533,False,False,False,False
+Banco Itaú Uruguay,random_github-com_20251129T162456.png,RANDOM,unknown,0.28129652,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.28000727,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.27946693,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.27823746,False,False,False,False
+Banco Itaú Uruguay,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.2778552,False,False,False,False
+Banco Itaú Uruguay,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.27742058,False,False,False,False
+Banco Itaú Uruguay,random_intel-com_20251129T171229.png,RANDOM,unknown,0.2762951,False,False,False,False
+Banco Itaú Uruguay,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.2762488,False,False,False,False
+Banco Itaú Uruguay,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.27574223,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.2727189,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.2713837,False,False,False,False
+Banco Itaú Uruguay,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.27093095,False,False,False,False
+Banco Itaú Uruguay,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.27064407,False,False,False,False
+Banco Itaú Uruguay,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.2705877,False,False,False,False
+Banco Itaú Uruguay,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.26997972,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.26988947,False,False,False,False
+Banco Itaú Uruguay,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.2692039,False,False,False,False
+Banco Itaú Uruguay,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.26894474,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.26846588,False,False,False,False
+Banco Itaú Uruguay,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.2682955,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.2661537,False,False,False,False
+Banco Itaú Uruguay,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.26519907,False,False,False,False
+Banco Itaú Uruguay,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.2631613,False,False,False,False
+Banco Itaú Uruguay,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.26303566,False,False,False,False
+Banco Itaú Uruguay,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.26232475,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.2617002,False,False,False,False
+Banco Itaú Uruguay,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.2595519,False,False,False,False
+Banco Itaú Uruguay,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.2586993,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.25831658,False,False,False,False
+Banco Itaú Uruguay,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.25611967,False,False,False,False
+Banco Itaú Uruguay,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.25566188,False,False,False,False
+Banco Itaú Uruguay,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.25504696,False,False,False,False
+Banco Itaú Uruguay,random_hp-com_20251129T164248.png,RANDOM,unknown,0.2548114,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.25450456,False,False,False,False
+Banco Itaú Uruguay,random_usps-com_20251129T173658.png,RANDOM,unknown,0.25342256,False,False,False,False
+Banco Itaú Uruguay,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.2528233,False,False,False,False
+Banco Itaú Uruguay,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.2504675,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.24968491,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.24838844,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.24764366,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.24734917,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.24721333,False,False,False,False
+Banco Itaú Uruguay,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.24641691,False,False,False,False
+Banco Itaú Uruguay,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.24552353,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.2449499,False,False,False,False
+Banco Itaú Uruguay,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.24217005,False,False,False,False
+Banco Itaú Uruguay,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.24134037,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.24048583,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.23916492,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.23904121,False,False,False,False
+Banco Itaú Uruguay,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.23861572,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.2383919,False,False,False,False
+Banco Itaú Uruguay,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.23828809,False,False,False,False
+Banco Itaú Uruguay,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.23810107,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.23784903,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.23736796,False,False,False,False
+Banco Itaú Uruguay,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.23682588,False,False,False,False
+Banco Itaú Uruguay,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.23642619,False,False,False,False
+Banco Itaú Uruguay,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.23512176,False,False,False,False
+Banco Itaú Uruguay,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.23359345,False,False,False,False
+Banco Itaú Uruguay,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.23339671,False,False,False,False
+Banco Itaú Uruguay,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.23311077,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.23294169,False,False,False,False
+Banco Itaú Uruguay,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.23227666,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.23167104,False,False,False,False
+Banco Itaú Uruguay,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.2315494,False,False,False,False
+Banco Itaú Uruguay,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.23064527,False,False,False,False
+Banco Itaú Uruguay,random_overload-su_20251129T170747.png,RANDOM,unknown,0.2302537,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.2293383,False,False,False,False
+Banco Itaú Uruguay,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.22919363,False,False,False,False
+Banco Itaú Uruguay,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.2267105,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.22555678,False,False,False,False
+Banco Itaú Uruguay,random_att-net_20251129T170227.png,RANDOM,unknown,0.22523597,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.22519112,False,False,False,False
+Banco Itaú Uruguay,random_name-com_20251129T171101.png,RANDOM,unknown,0.22444052,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.22438964,False,False,False,False
+Banco Itaú Uruguay,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.22399765,False,False,False,False
+Banco Itaú Uruguay,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.22373797,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.22354263,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.22168185,False,False,False,False
+Banco Itaú Uruguay,random_welt-de_20251129T173821.png,RANDOM,unknown,0.22132266,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.22049844,False,False,False,False
+Banco Itaú Uruguay,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.22017643,False,False,False,False
+Banco Itaú Uruguay,random_qq-com_20251129T162834.png,RANDOM,unknown,0.2194036,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.2187675,False,False,False,False
+Banco Itaú Uruguay,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.21795847,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.21729584,False,False,False,False
+Banco Itaú Uruguay,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.21660364,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.21637487,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.21496338,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.21487013,False,False,False,False
+Banco Itaú Uruguay,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.21420014,False,False,False,False
+Banco Itaú Uruguay,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.21381217,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.2137905,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.21353285,False,False,False,False
+Banco Itaú Uruguay,random_synology-com_20251129T173948.png,RANDOM,unknown,0.21148852,False,False,False,False
+Banco Itaú Uruguay,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.20942834,False,False,False,False
+Banco Itaú Uruguay,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.2077482,False,False,False,False
+Banco Itaú Uruguay,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.2063508,False,False,False,False
+Banco Itaú Uruguay,random_media-net_20251129T164538.png,RANDOM,unknown,0.2035717,False,False,False,False
+Banco Itaú Uruguay,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.20307119,False,False,False,False
+Banco Itaú Uruguay,random_line-me_20251129T170140.png,RANDOM,unknown,0.20263399,False,False,False,False
+Banco Itaú Uruguay,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.20152986,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.20088357,False,False,False,False
+Banco Itaú Uruguay,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.20076284,False,False,False,False
+Banco Itaú Uruguay,random_abc-es_20251129T175348.png,RANDOM,unknown,0.19965914,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.19936785,False,False,False,False
+Banco Itaú Uruguay,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.19886775,False,False,False,False
+Banco Itaú Uruguay,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.1988202,False,False,False,False
+Banco Itaú Uruguay,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.19790794,False,False,False,False
+Banco Itaú Uruguay,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.19708785,False,False,False,False
+Banco Itaú Uruguay,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.19443148,False,False,False,False
+Banco Itaú Uruguay,random_plos-org_20251129T180524.png,RANDOM,unknown,0.19283243,False,False,False,False
+Banco Itaú Uruguay,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.19252044,False,False,False,False
+Banco Itaú Uruguay,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.18974796,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.18961516,False,False,False,False
+Banco Itaú Uruguay,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.18948759,False,False,False,False
+Banco Itaú Uruguay,random_youku-com_20251129T174026.png,RANDOM,unknown,0.18457663,False,False,False,False
+Banco Itaú Uruguay,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.18416193,False,False,False,False
+Banco Itaú Uruguay,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.18164337,False,False,False,False
+Banco Itaú Uruguay,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.1814762,False,False,False,False
+Banco Itaú Uruguay,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.18083212,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.17936453,False,False,False,False
+Banco Itaú Uruguay,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.17922336,False,False,False,False
+Banco Itaú Uruguay,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.17852828,False,False,False,False
+Banco Itaú Uruguay,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.17708622,False,False,False,False
+Banco Itaú Uruguay,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.1749515,False,False,False,False
+Banco Itaú Uruguay,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.17471305,False,False,False,False
+Banco Itaú Uruguay,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.17405105,False,False,False,False
+Banco Itaú Uruguay,random_ted-com_20251129T172015.png,RANDOM,unknown,0.1712635,False,False,False,False
+Banco Itaú Uruguay,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.17082301,False,False,False,False
+Banco Itaú Uruguay,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.16918194,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.16855873,False,False,False,False
+Banco Itaú Uruguay,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.16809583,False,False,False,False
+Banco Itaú Uruguay,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.16407326,False,False,False,False
+Banco Itaú Uruguay,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.16282958,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.16200502,False,False,False,False
+Banco Itaú Uruguay,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.16080812,False,False,False,False
+Banco Itaú Uruguay,random_asus-com_20251129T172748.png,RANDOM,unknown,0.16054761,False,False,False,False
+Banco Itaú Uruguay,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.16025749,False,False,False,False
+Banco Itaú Uruguay,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.1598559,False,False,False,False
+Banco Itaú Uruguay,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.15911025,False,False,False,False
+Banco Itaú Uruguay,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.15908264,False,False,False,False
+Banco Itaú Uruguay,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.15782616,False,False,False,False
+Banco Itaú Uruguay,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.15697601,False,False,False,False
+Banco Itaú Uruguay,random_threads-com_20251129T174157.png,RANDOM,unknown,0.15445168,False,False,False,False
+Banco Itaú Uruguay,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.15344638,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.14872374,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.14841148,False,False,False,False
+Banco Itaú Uruguay,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.14675754,False,False,False,False
+Banco Itaú Uruguay,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.1467081,False,False,False,False
+Banco Itaú Uruguay,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.1462794,False,False,False,False
+Banco Itaú Uruguay,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.1457324,False,False,False,False
+Banco Itaú Uruguay,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.14430471,False,False,False,False
+Banco Itaú Uruguay,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.14397408,False,False,False,False
+Banco Itaú Uruguay,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.14304057,False,False,False,False
+Banco Itaú Uruguay,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.14049992,False,False,False,False
+Banco Itaú Uruguay,random_espn-com_20251129T165100.png,RANDOM,unknown,0.1373227,False,False,False,False
+Banco Itaú Uruguay,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.13539809,False,False,False,False
+Banco Itaú Uruguay,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.1351971,False,False,False,False
+Banco Itaú Uruguay,random_india-com_20251129T180557.png,RANDOM,unknown,0.13455097,False,False,False,False
+Banco Itaú Uruguay,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.13424216,False,False,False,False
+Banco Itaú Uruguay,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.13394937,False,False,False,False
+Banco Itaú Uruguay,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.1330193,False,False,False,False
+Banco Itaú Uruguay,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.13183486,False,False,False,False
+Banco Itaú Uruguay,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.1310785,False,False,False,False
+Banco Itaú Uruguay,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.12851691,False,False,False,False
+Banco Itaú Uruguay,random_people-com_20251129T172859.png,RANDOM,unknown,0.12671952,False,False,False,False
+Banco Itaú Uruguay,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.12665972,False,False,False,False
+Banco Itaú Uruguay,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.12566696,False,False,False,False
+Banco Itaú Uruguay,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.12563187,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.1255368,False,False,False,False
+Banco Itaú Uruguay,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.12546252,False,False,False,False
+Banco Itaú Uruguay,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.12312897,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.12268334,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.12184623,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.12164353,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.12145184,False,False,False,False
+Banco Itaú Uruguay,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.12000878,False,False,False,False
+Banco Itaú Uruguay,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.11988703,False,False,False,False
+Banco Itaú Uruguay,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.11960018,False,False,False,False
+Banco Itaú Uruguay,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.1185726,False,False,False,False
+Banco Itaú Uruguay,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.11779525,False,False,False,False
+Banco Itaú Uruguay,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.11774108,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.11754708,False,False,False,False
+Banco Itaú Uruguay,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.11742011,False,False,False,False
+Banco Itaú Uruguay,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.117324665,False,False,False,False
+Banco Itaú Uruguay,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.11704357,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.11685844,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.11621113,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.11615812,False,False,False,False
+Banco Itaú Uruguay,random_poki-com_20251129T180027.png,RANDOM,unknown,0.11586491,False,False,False,False
+Banco Itaú Uruguay,random_who-int_20251129T164225.png,RANDOM,unknown,0.115611985,False,False,False,False
+Banco Itaú Uruguay,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.1150227,False,False,False,False
+Banco Itaú Uruguay,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.114533246,False,False,False,False
+Banco Itaú Uruguay,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.11309893,False,False,False,False
+Banco Itaú Uruguay,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.112215914,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.11219477,False,False,False,False
+Banco Itaú Uruguay,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.11185553,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.111659594,False,False,False,False
+Banco Itaú Uruguay,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.11086384,False,False,False,False
+Banco Itaú Uruguay,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.10902974,False,False,False,False
+Banco Itaú Uruguay,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.10896939,False,False,False,False
+Banco Itaú Uruguay,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.10722014,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.10702474,False,False,False,False
+Banco Itaú Uruguay,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.106937796,False,False,False,False
+Banco Itaú Uruguay,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.106655985,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.10600707,False,False,False,False
+Banco Itaú Uruguay,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.10352566,False,False,False,False
+Banco Itaú Uruguay,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.099204555,False,False,False,False
+Banco Itaú Uruguay,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.09727027,False,False,False,False
+Banco Itaú Uruguay,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.09544147,False,False,False,False
+Banco Itaú Uruguay,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.09507394,False,False,False,False
+Banco Itaú Uruguay,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.09217208,False,False,False,False
+Banco Itaú Uruguay,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.09051706,False,False,False,False
+Banco Itaú Uruguay,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.08641039,False,False,False,False
+Banco Itaú Uruguay,random_as-com_20251129T175716.png,RANDOM,unknown,0.08583221,False,False,False,False
+Banco Itaú Uruguay,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.08580305,False,False,False,False
+Banco Itaú Uruguay,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.08410073,False,False,False,False
+Banco Itaú Uruguay,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.0833243,False,False,False,False
+Banco Itaú Uruguay,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.08278767,False,False,False,False
+Banco Itaú Uruguay,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.07768485,False,False,False,False
+Banco Itaú Uruguay,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.077258326,False,False,False,False
+Banco Itaú Uruguay,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.075572506,False,False,False,False
+Banco Itaú Uruguay,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.07138174,False,False,False,False
+Banco Itaú Uruguay,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.07102898,False,False,False,False
+Banco Itaú Uruguay,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.06920642,False,False,False,False
+Banco Itaú Uruguay,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.06757709,False,False,False,False
+Banco Itaú Uruguay,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.067375824,False,False,False,False
+Banco Itaú Uruguay,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.06579628,False,False,False,False
+Banco Itaú Uruguay,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.06538389,False,False,False,False
+Banco Itaú Uruguay,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.06388948,False,False,False,False
+Banco Itaú Uruguay,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.059739158,False,False,False,False
+Banco Itaú Uruguay,random_azure-com_20251129T162438.png,RANDOM,unknown,0.057606228,False,False,False,False
+Banco Itaú Uruguay,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.054003708,False,False,False,False
+Banco Itaú Uruguay,random_time-com_20251129T170629.png,RANDOM,unknown,0.05367998,False,False,False,False
+Banco Itaú Uruguay,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.051401053,False,False,False,False
+Banco Itaú Uruguay,random_clever-com_20251129T173500.png,RANDOM,unknown,0.04300888,False,False,False,False
+Banco Itaú Uruguay,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.042259213,False,False,False,False
+Banco Itaú Uruguay,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.04211446,False,False,False,False
+Banco Itaú Uruguay,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.042016733,False,False,False,False
+Banco Itaú Uruguay,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.040914237,False,False,False,False
+Banco Itaú Uruguay,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.037543904,False,False,False,False
+Banco Itaú Uruguay,random_health-mil_20251129T163619.png,RANDOM,unknown,0.033401728,False,False,False,False
+Banco Itaú Uruguay,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.033398915,False,False,False,False
+Banco Itaú Uruguay,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.03062512,False,False,False,False
+Banco Itaú Uruguay,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.027681531,False,False,False,False
+Banco Itaú Uruguay,random_globo-com_20251129T165541.png,RANDOM,unknown,0.026020762,False,False,False,False
+Banco Itaú Uruguay,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.019804232,False,False,False,False
+Banco Itaú Uruguay,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.0048874393,False,False,False,False
+Banco Itaú Uruguay,random_bing-com_20251129T162459.png,RANDOM,unknown,0.0040228777,False,False,False,False

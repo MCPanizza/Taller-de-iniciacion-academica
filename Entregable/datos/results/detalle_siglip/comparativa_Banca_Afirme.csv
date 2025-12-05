@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+Banca Afirme,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.99999994,True,True,False,True
+Banca Afirme,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.93294704,True,True,False,False
+Banca Afirme,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.9295083,True,True,False,False
+Banca Afirme,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.92464745,True,True,False,False
+Banca Afirme,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.92069167,True,True,False,False
+Banca Afirme,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.917132,True,True,False,False
+Banca Afirme,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.9140496,True,True,False,False
+Banca Afirme,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.8835854,True,True,False,False
+Banca Afirme,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.87605745,True,True,False,False
+Banca Afirme,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.85725933,True,True,False,False
+Banca Afirme,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.8571108,True,True,False,False
+Banca Afirme,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7127874,False,False,False,False
+Banca Afirme,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7046221,False,False,False,False
+Banca Afirme,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.703642,False,False,False,False
+Banca Afirme,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.70057577,False,False,False,False
+Banca Afirme,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.70027816,False,False,False,False
+Banca Afirme,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.69956243,False,False,False,False
+Banca Afirme,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6943854,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.6932942,False,False,False,False
+Banca Afirme,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6918467,False,False,False,False
+Banca Afirme,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6888152,False,False,False,False
+Banca Afirme,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.68744504,False,False,False,False
+Banca Afirme,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.68715394,False,False,False,False
+Banca Afirme,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.6851187,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6850759,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6836184,False,False,False,False
+Banca Afirme,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.68313533,False,False,False,False
+Banca Afirme,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.68294984,False,False,False,False
+Banca Afirme,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6813319,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6806532,False,False,False,False
+Banca Afirme,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.68053305,False,False,False,False
+Banca Afirme,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.6803814,False,False,False,False
+Banca Afirme,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.6794178,False,False,False,False
+Banca Afirme,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.67903894,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.67779106,False,False,False,False
+Banca Afirme,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6774603,False,False,False,False
+Banca Afirme,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.67688584,False,False,False,False
+Banca Afirme,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.6768011,False,False,False,False
+Banca Afirme,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.67512435,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6748576,False,False,False,False
+Banca Afirme,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6745184,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6744894,False,False,False,False
+Banca Afirme,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6744889,False,False,False,False
+Banca Afirme,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.6741954,False,False,False,False
+Banca Afirme,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.673791,False,False,False,False
+Banca Afirme,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.67351395,False,False,False,False
+Banca Afirme,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.67263156,False,False,False,False
+Banca Afirme,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.6724319,False,False,False,False
+Banca Afirme,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6719284,False,False,False,False
+Banca Afirme,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.6715491,False,False,False,False
+Banca Afirme,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.67107856,False,False,False,False
+Banca Afirme,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.67077136,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6695087,False,False,False,False
+Banca Afirme,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6691034,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.66860896,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6676152,False,False,False,False
+Banca Afirme,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6673498,False,False,False,False
+Banca Afirme,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.6662719,False,False,False,False
+Banca Afirme,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.66622895,False,False,False,False
+Banca Afirme,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.66605437,False,False,False,False
+Banca Afirme,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.6657423,False,False,False,False
+Banca Afirme,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.66520536,False,False,False,False
+Banca Afirme,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.6644879,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6642051,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.66409963,False,False,False,False
+Banca Afirme,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.66381973,False,False,False,False
+Banca Afirme,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6637876,False,False,False,False
+Banca Afirme,random_temu-com_20251129T165219.png,RANDOM,unknown,0.6635114,False,False,False,False
+Banca Afirme,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.6632774,False,False,False,False
+Banca Afirme,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.6629273,False,False,False,False
+Banca Afirme,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6627648,False,False,False,False
+Banca Afirme,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.6624899,False,False,False,False
+Banca Afirme,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.6624168,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.662288,False,False,False,False
+Banca Afirme,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.661832,False,False,False,False
+Banca Afirme,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.66181326,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.661592,False,False,False,False
+Banca Afirme,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.6599859,False,False,False,False
+Banca Afirme,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.65997005,False,False,False,False
+Banca Afirme,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.65965307,False,False,False,False
+Banca Afirme,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.6585995,False,False,False,False
+Banca Afirme,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.6585746,False,False,False,False
+Banca Afirme,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.65849096,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6583486,False,False,False,False
+Banca Afirme,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6575208,False,False,False,False
+Banca Afirme,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.65736806,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.65724266,False,False,False,False
+Banca Afirme,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.6571404,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.65687597,False,False,False,False
+Banca Afirme,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.65667725,False,False,False,False
+Banca Afirme,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.65658295,False,False,False,False
+Banca Afirme,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6564497,False,False,False,False
+Banca Afirme,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.65606165,False,False,False,False
+Banca Afirme,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.6557038,False,False,False,False
+Banca Afirme,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6556052,False,False,False,False
+Banca Afirme,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6549142,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6549063,False,False,False,False
+Banca Afirme,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.65481615,False,False,False,False
+Banca Afirme,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.6546326,False,False,False,False
+Banca Afirme,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.6545644,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6544943,False,False,False,False
+Banca Afirme,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.65433526,False,False,False,False
+Banca Afirme,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6540592,False,False,False,False
+Banca Afirme,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.65387994,False,False,False,False
+Banca Afirme,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.65381193,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6527533,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.65254503,False,False,False,False
+Banca Afirme,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6524866,False,False,False,False
+Banca Afirme,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.6524315,False,False,False,False
+Banca Afirme,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.652272,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.65196687,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.65183014,False,False,False,False
+Banca Afirme,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.65152645,False,False,False,False
+Banca Afirme,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.6513537,False,False,False,False
+Banca Afirme,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.6512596,False,False,False,False
+Banca Afirme,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.65114397,False,False,False,False
+Banca Afirme,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.6511347,False,False,False,False
+Banca Afirme,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.65102476,False,False,False,False
+Banca Afirme,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.65088606,False,False,False,False
+Banca Afirme,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6507975,False,False,False,False
+Banca Afirme,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.65076125,False,False,False,False
+Banca Afirme,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.6499728,False,False,False,False
+Banca Afirme,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.64926434,False,False,False,False
+Banca Afirme,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6492397,False,False,False,False
+Banca Afirme,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.64916146,False,False,False,False
+Banca Afirme,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.64915967,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6485851,False,False,False,False
+Banca Afirme,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.64821064,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6473397,False,False,False,False
+Banca Afirme,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.64705503,False,False,False,False
+Banca Afirme,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.6467109,False,False,False,False
+Banca Afirme,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.64602554,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6458154,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.645779,False,False,False,False
+Banca Afirme,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6457225,False,False,False,False
+Banca Afirme,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.645625,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6454408,False,False,False,False
+Banca Afirme,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.6449886,False,False,False,False
+Banca Afirme,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.64489394,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.64481795,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.64436233,False,False,False,False
+Banca Afirme,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6443454,False,False,False,False
+Banca Afirme,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6442327,False,False,False,False
+Banca Afirme,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.64423007,False,False,False,False
+Banca Afirme,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6442134,False,False,False,False
+Banca Afirme,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.6441831,False,False,False,False
+Banca Afirme,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.6441645,False,False,False,False
+Banca Afirme,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.64414406,False,False,False,False
+Banca Afirme,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6440403,False,False,False,False
+Banca Afirme,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.64403766,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6438399,False,False,False,False
+Banca Afirme,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.64363813,False,False,False,False
+Banca Afirme,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.64350903,False,False,False,False
+Banca Afirme,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.6434678,False,False,False,False
+Banca Afirme,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.64339477,False,False,False,False
+Banca Afirme,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6429608,False,False,False,False
+Banca Afirme,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.6427419,False,False,False,False
+Banca Afirme,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.64250195,False,False,False,False
+Banca Afirme,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.642336,False,False,False,False
+Banca Afirme,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.64211726,False,False,False,False
+Banca Afirme,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6419691,False,False,False,False
+Banca Afirme,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.6416631,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6416616,False,False,False,False
+Banca Afirme,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6416552,False,False,False,False
+Banca Afirme,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6413871,False,False,False,False
+Banca Afirme,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.64129883,False,False,False,False
+Banca Afirme,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6411184,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6410823,False,False,False,False
+Banca Afirme,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6409333,False,False,False,False
+Banca Afirme,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.64030546,False,False,False,False
+Banca Afirme,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.6401863,False,False,False,False
+Banca Afirme,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.64006656,False,False,False,False
+Banca Afirme,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6400548,False,False,False,False
+Banca Afirme,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.63971066,False,False,False,False
+Banca Afirme,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.63958687,False,False,False,False
+Banca Afirme,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.63955915,False,False,False,False
+Banca Afirme,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.63955194,False,False,False,False
+Banca Afirme,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.6394311,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.63851213,False,False,False,False
+Banca Afirme,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.6382873,False,False,False,False
+Banca Afirme,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.6379555,False,False,False,False
+Banca Afirme,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.63772684,False,False,False,False
+Banca Afirme,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6376841,False,False,False,False
+Banca Afirme,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.63756293,False,False,False,False
+Banca Afirme,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.63738525,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6371862,False,False,False,False
+Banca Afirme,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.63711756,False,False,False,False
+Banca Afirme,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.63707376,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.63680387,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6365315,False,False,False,False
+Banca Afirme,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.63637394,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.63626087,False,False,False,False
+Banca Afirme,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.6361016,False,False,False,False
+Banca Afirme,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.63604057,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6360143,False,False,False,False
+Banca Afirme,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.63598955,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6358317,False,False,False,False
+Banca Afirme,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.63579124,False,False,False,False
+Banca Afirme,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.6356721,False,False,False,False
+Banca Afirme,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.63529086,False,False,False,False
+Banca Afirme,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.63527185,False,False,False,False
+Banca Afirme,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.63524127,False,False,False,False
+Banca Afirme,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.63518345,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6350069,False,False,False,False
+Banca Afirme,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.6349145,False,False,False,False
+Banca Afirme,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.63488835,False,False,False,False
+Banca Afirme,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.63483095,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.63477105,False,False,False,False
+Banca Afirme,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.63450205,False,False,False,False
+Banca Afirme,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6343887,False,False,False,False
+Banca Afirme,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.63432443,False,False,False,False
+Banca Afirme,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.63382006,False,False,False,False
+Banca Afirme,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.6335938,False,False,False,False
+Banca Afirme,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.6333026,False,False,False,False
+Banca Afirme,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.63316584,False,False,False,False
+Banca Afirme,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.6329396,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.63253367,False,False,False,False
+Banca Afirme,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6324113,False,False,False,False
+Banca Afirme,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6323615,False,False,False,False
+Banca Afirme,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.632311,False,False,False,False
+Banca Afirme,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.63224304,False,False,False,False
+Banca Afirme,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.6321092,False,False,False,False
+Banca Afirme,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.63204604,False,False,False,False
+Banca Afirme,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.63191223,False,False,False,False
+Banca Afirme,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.63190633,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6318485,False,False,False,False
+Banca Afirme,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.63166124,False,False,False,False
+Banca Afirme,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.63156986,False,False,False,False
+Banca Afirme,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.6315291,False,False,False,False
+Banca Afirme,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.631496,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6313565,False,False,False,False
+Banca Afirme,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.6313536,False,False,False,False
+Banca Afirme,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6313135,False,False,False,False
+Banca Afirme,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.6311959,False,False,False,False
+Banca Afirme,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.6311403,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6310178,False,False,False,False
+Banca Afirme,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.63080937,False,False,False,False
+Banca Afirme,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6304709,False,False,False,False
+Banca Afirme,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6303011,False,False,False,False
+Banca Afirme,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6301669,False,False,False,False
+Banca Afirme,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.6300936,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.63008934,False,False,False,False
+Banca Afirme,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6298812,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.629352,False,False,False,False
+Banca Afirme,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.6291771,False,False,False,False
+Banca Afirme,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.62914324,False,False,False,False
+Banca Afirme,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6289766,False,False,False,False
+Banca Afirme,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.62888587,False,False,False,False
+Banca Afirme,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.62883294,False,False,False,False
+Banca Afirme,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6287609,False,False,False,False
+Banca Afirme,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.628532,False,False,False,False
+Banca Afirme,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6284725,False,False,False,False
+Banca Afirme,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.62831223,False,False,False,False
+Banca Afirme,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6281773,False,False,False,False
+Banca Afirme,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6280687,False,False,False,False
+Banca Afirme,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6280339,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6279361,False,False,False,False
+Banca Afirme,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6275358,False,False,False,False
+Banca Afirme,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.6275295,False,False,False,False
+Banca Afirme,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.6273743,False,False,False,False
+Banca Afirme,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6271045,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.626821,False,False,False,False
+Banca Afirme,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.62675774,False,False,False,False
+Banca Afirme,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6267348,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6266376,False,False,False,False
+Banca Afirme,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.6263969,False,False,False,False
+Banca Afirme,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.62637925,False,False,False,False
+Banca Afirme,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6263733,False,False,False,False
+Banca Afirme,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.62613374,False,False,False,False
+Banca Afirme,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.6261202,False,False,False,False
+Banca Afirme,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6258553,False,False,False,False
+Banca Afirme,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.62560916,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.62558836,False,False,False,False
+Banca Afirme,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.62546647,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6252313,False,False,False,False
+Banca Afirme,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.6250721,False,False,False,False
+Banca Afirme,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6247832,False,False,False,False
+Banca Afirme,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.62465346,False,False,False,False
+Banca Afirme,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6244146,False,False,False,False
+Banca Afirme,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6240531,False,False,False,False
+Banca Afirme,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6238063,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6236643,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.62348646,False,False,False,False
+Banca Afirme,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6234411,False,False,False,False
+Banca Afirme,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6231265,False,False,False,False
+Banca Afirme,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.62286377,False,False,False,False
+Banca Afirme,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.6228628,False,False,False,False
+Banca Afirme,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.62285805,False,False,False,False
+Banca Afirme,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.62284166,False,False,False,False
+Banca Afirme,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6227743,False,False,False,False
+Banca Afirme,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6226996,False,False,False,False
+Banca Afirme,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6226259,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6222925,False,False,False,False
+Banca Afirme,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6221663,False,False,False,False
+Banca Afirme,random_eset-com_20251129T171424.png,RANDOM,unknown,0.62187386,False,False,False,False
+Banca Afirme,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.6216895,False,False,False,False
+Banca Afirme,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.6215972,False,False,False,False
+Banca Afirme,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.62140226,False,False,False,False
+Banca Afirme,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.6212904,False,False,False,False
+Banca Afirme,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.62117183,False,False,False,False
+Banca Afirme,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.62112206,False,False,False,False
+Banca Afirme,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.6208468,False,False,False,False
+Banca Afirme,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.62078846,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6206666,False,False,False,False
+Banca Afirme,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6206285,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6205902,False,False,False,False
+Banca Afirme,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.6204701,False,False,False,False
+Banca Afirme,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.620467,False,False,False,False
+Banca Afirme,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.62017804,False,False,False,False
+Banca Afirme,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.62012744,False,False,False,False
+Banca Afirme,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.62006134,False,False,False,False
+Banca Afirme,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.6198293,False,False,False,False
+Banca Afirme,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6198007,False,False,False,False
+Banca Afirme,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.619552,False,False,False,False
+Banca Afirme,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.6195259,False,False,False,False
+Banca Afirme,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.6193043,False,False,False,False
+Banca Afirme,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.6192868,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.61920035,False,False,False,False
+Banca Afirme,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6191202,False,False,False,False
+Banca Afirme,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6188234,False,False,False,False
+Banca Afirme,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.61881626,False,False,False,False
+Banca Afirme,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6187844,False,False,False,False
+Banca Afirme,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.6186974,False,False,False,False
+Banca Afirme,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.6185789,False,False,False,False
+Banca Afirme,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.6184485,False,False,False,False
+Banca Afirme,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6182701,False,False,False,False
+Banca Afirme,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.61822635,False,False,False,False
+Banca Afirme,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.61809003,False,False,False,False
+Banca Afirme,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.6179909,False,False,False,False
+Banca Afirme,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.61780083,False,False,False,False
+Banca Afirme,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.61762846,False,False,False,False
+Banca Afirme,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.6174973,False,False,False,False
+Banca Afirme,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.61745,False,False,False,False
+Banca Afirme,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6170984,False,False,False,False
+Banca Afirme,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6169689,False,False,False,False
+Banca Afirme,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.6168921,False,False,False,False
+Banca Afirme,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.6168786,False,False,False,False
+Banca Afirme,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.61669415,False,False,False,False
+Banca Afirme,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.6166837,False,False,False,False
+Banca Afirme,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.6165854,False,False,False,False
+Banca Afirme,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6163711,False,False,False,False
+Banca Afirme,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.61608946,False,False,False,False
+Banca Afirme,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.61589545,False,False,False,False
+Banca Afirme,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6157603,False,False,False,False
+Banca Afirme,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.61570567,False,False,False,False
+Banca Afirme,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6155509,False,False,False,False
+Banca Afirme,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.61544156,False,False,False,False
+Banca Afirme,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.6154132,False,False,False,False
+Banca Afirme,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6151805,False,False,False,False
+Banca Afirme,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.6151581,False,False,False,False
+Banca Afirme,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6151011,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6150798,False,False,False,False
+Banca Afirme,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6147857,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6147267,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6146674,False,False,False,False
+Banca Afirme,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6145454,False,False,False,False
+Banca Afirme,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.61415595,False,False,False,False
+Banca Afirme,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6141105,False,False,False,False
+Banca Afirme,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.61357677,False,False,False,False
+Banca Afirme,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.6135598,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.61344135,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6133182,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.61314887,False,False,False,False
+Banca Afirme,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.6130749,False,False,False,False
+Banca Afirme,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6128993,False,False,False,False
+Banca Afirme,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.6128735,False,False,False,False
+Banca Afirme,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.6127928,False,False,False,False
+Banca Afirme,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.61245275,False,False,False,False
+Banca Afirme,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.6123251,False,False,False,False
+Banca Afirme,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6122701,False,False,False,False
+Banca Afirme,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.6121856,False,False,False,False
+Banca Afirme,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.612117,False,False,False,False
+Banca Afirme,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.61198777,False,False,False,False
+Banca Afirme,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.6118341,False,False,False,False
+Banca Afirme,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6117466,False,False,False,False
+Banca Afirme,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.6116183,False,False,False,False
+Banca Afirme,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.6115178,False,False,False,False
+Banca Afirme,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.6114026,False,False,False,False
+Banca Afirme,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.611383,False,False,False,False
+Banca Afirme,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.61109906,False,False,False,False
+Banca Afirme,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.61093026,False,False,False,False
+Banca Afirme,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.6107188,False,False,False,False
+Banca Afirme,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.610515,False,False,False,False
+Banca Afirme,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6103015,False,False,False,False
+Banca Afirme,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.61027575,False,False,False,False
+Banca Afirme,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.6102147,False,False,False,False
+Banca Afirme,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6101123,False,False,False,False
+Banca Afirme,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.61009085,False,False,False,False
+Banca Afirme,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6099936,False,False,False,False
+Banca Afirme,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.60978687,False,False,False,False
+Banca Afirme,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6096672,False,False,False,False
+Banca Afirme,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.6096649,False,False,False,False
+Banca Afirme,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.609159,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6090605,False,False,False,False
+Banca Afirme,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6087765,False,False,False,False
+Banca Afirme,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.6086576,False,False,False,False
+Banca Afirme,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.608475,False,False,False,False
+Banca Afirme,random_ring-com_20251129T172743.png,RANDOM,unknown,0.6083441,False,False,False,False
+Banca Afirme,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.60829103,False,False,False,False
+Banca Afirme,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.60823107,False,False,False,False
+Banca Afirme,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6080125,False,False,False,False
+Banca Afirme,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.6078431,False,False,False,False
+Banca Afirme,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.60764694,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.60756207,False,False,False,False
+Banca Afirme,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.60722965,False,False,False,False
+Banca Afirme,random_avast-com_20251129T164855.png,RANDOM,unknown,0.6071273,False,False,False,False
+Banca Afirme,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.6069555,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6067157,False,False,False,False
+Banca Afirme,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.60657865,False,False,False,False
+Banca Afirme,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.60655946,False,False,False,False
+Banca Afirme,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.60648495,False,False,False,False
+Banca Afirme,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6063581,False,False,False,False
+Banca Afirme,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.60632837,False,False,False,False
+Banca Afirme,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.606284,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.60619533,False,False,False,False
+Banca Afirme,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.60616946,False,False,False,False
+Banca Afirme,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.6060579,False,False,False,False
+Banca Afirme,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.60594475,False,False,False,False
+Banca Afirme,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.605866,False,False,False,False
+Banca Afirme,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6058054,False,False,False,False
+Banca Afirme,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.60564923,False,False,False,False
+Banca Afirme,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.6056433,False,False,False,False
+Banca Afirme,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.60561997,False,False,False,False
+Banca Afirme,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.60557467,False,False,False,False
+Banca Afirme,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.60555327,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.60537505,False,False,False,False
+Banca Afirme,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6053561,False,False,False,False
+Banca Afirme,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6052444,False,False,False,False
+Banca Afirme,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.60524297,False,False,False,False
+Banca Afirme,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.6045301,False,False,False,False
+Banca Afirme,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.6045011,False,False,False,False
+Banca Afirme,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.6042716,False,False,False,False
+Banca Afirme,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.60424924,False,False,False,False
+Banca Afirme,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.60400975,False,False,False,False
+Banca Afirme,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.60392475,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6038307,False,False,False,False
+Banca Afirme,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6036144,False,False,False,False
+Banca Afirme,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.60345346,False,False,False,False
+Banca Afirme,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.6029611,False,False,False,False
+Banca Afirme,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.6027636,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6027636,False,False,False,False
+Banca Afirme,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.6026915,False,False,False,False
+Banca Afirme,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.6026637,False,False,False,False
+Banca Afirme,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6026635,False,False,False,False
+Banca Afirme,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.6025013,False,False,False,False
+Banca Afirme,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.60249144,False,False,False,False
+Banca Afirme,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6023729,False,False,False,False
+Banca Afirme,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.6022328,False,False,False,False
+Banca Afirme,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.60222363,False,False,False,False
+Banca Afirme,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.60170805,False,False,False,False
+Banca Afirme,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.60103863,False,False,False,False
+Banca Afirme,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.6009729,False,False,False,False
+Banca Afirme,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.6009163,False,False,False,False
+Banca Afirme,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.60089386,False,False,False,False
+Banca Afirme,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.60078704,False,False,False,False
+Banca Afirme,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6005684,False,False,False,False
+Banca Afirme,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.60031533,False,False,False,False
+Banca Afirme,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.6000069,False,False,False,False
+Banca Afirme,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5999813,False,False,False,False
+Banca Afirme,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.59994847,False,False,False,False
+Banca Afirme,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.5998296,False,False,False,False
+Banca Afirme,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.5997577,False,False,False,False
+Banca Afirme,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.5997249,False,False,False,False
+Banca Afirme,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.5994792,False,False,False,False
+Banca Afirme,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.59936976,False,False,False,False
+Banca Afirme,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.5993556,False,False,False,False
+Banca Afirme,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.59929764,False,False,False,False
+Banca Afirme,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.59910333,False,False,False,False
+Banca Afirme,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.5990101,False,False,False,False
+Banca Afirme,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5986132,False,False,False,False
+Banca Afirme,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.5984608,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5983466,False,False,False,False
+Banca Afirme,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5983446,False,False,False,False
+Banca Afirme,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5981955,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5981914,False,False,False,False
+Banca Afirme,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.59764785,False,False,False,False
+Banca Afirme,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.597455,False,False,False,False
+Banca Afirme,random_gov-br_20251129T174615.png,RANDOM,unknown,0.5974203,False,False,False,False
+Banca Afirme,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5974015,False,False,False,False
+Banca Afirme,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.5973845,False,False,False,False
+Banca Afirme,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.59706175,False,False,False,False
+Banca Afirme,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.59683704,False,False,False,False
+Banca Afirme,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5965311,False,False,False,False
+Banca Afirme,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.5964209,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5961457,False,False,False,False
+Banca Afirme,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.59604263,False,False,False,False
+Banca Afirme,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.5956266,False,False,False,False
+Banca Afirme,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.59540445,False,False,False,False
+Banca Afirme,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5952555,False,False,False,False
+Banca Afirme,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.59505,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5950175,False,False,False,False
+Banca Afirme,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.59481263,False,False,False,False
+Banca Afirme,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.5946172,False,False,False,False
+Banca Afirme,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5945019,False,False,False,False
+Banca Afirme,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.59440804,False,False,False,False
+Banca Afirme,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5940449,False,False,False,False
+Banca Afirme,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.59376407,False,False,False,False
+Banca Afirme,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.593559,False,False,False,False
+Banca Afirme,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.59347695,False,False,False,False
+Banca Afirme,random_change-org_20251129T173929.png,RANDOM,unknown,0.5929754,False,False,False,False
+Banca Afirme,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.5928432,False,False,False,False
+Banca Afirme,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.5928032,False,False,False,False
+Banca Afirme,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.59268034,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.59264815,False,False,False,False
+Banca Afirme,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5926084,False,False,False,False
+Banca Afirme,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5926053,False,False,False,False
+Banca Afirme,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.59249604,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5923505,False,False,False,False
+Banca Afirme,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.5923375,False,False,False,False
+Banca Afirme,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.59212893,False,False,False,False
+Banca Afirme,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.59184253,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5916447,False,False,False,False
+Banca Afirme,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.5916172,False,False,False,False
+Banca Afirme,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5913849,False,False,False,False
+Banca Afirme,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.59071827,False,False,False,False
+Banca Afirme,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.5904414,False,False,False,False
+Banca Afirme,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5902424,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5899199,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.58969307,False,False,False,False
+Banca Afirme,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.5890601,False,False,False,False
+Banca Afirme,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.58838034,False,False,False,False
+Banca Afirme,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.588351,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5882219,False,False,False,False
+Banca Afirme,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.58789074,False,False,False,False
+Banca Afirme,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.587834,False,False,False,False
+Banca Afirme,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.58754563,False,False,False,False
+Banca Afirme,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.58753794,False,False,False,False
+Banca Afirme,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.58724976,False,False,False,False
+Banca Afirme,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.58711386,False,False,False,False
+Banca Afirme,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.58710366,False,False,False,False
+Banca Afirme,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.58649004,False,False,False,False
+Banca Afirme,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.58620656,False,False,False,False
+Banca Afirme,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.58587897,False,False,False,False
+Banca Afirme,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.5856389,False,False,False,False
+Banca Afirme,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.58562064,False,False,False,False
+Banca Afirme,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.5855622,False,False,False,False
+Banca Afirme,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.5855434,False,False,False,False
+Banca Afirme,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5853596,False,False,False,False
+Banca Afirme,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.58518606,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.58511484,False,False,False,False
+Banca Afirme,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.584339,False,False,False,False
+Banca Afirme,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.58405614,False,False,False,False
+Banca Afirme,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.58377576,False,False,False,False
+Banca Afirme,random_google-com_20251129T162253.png,RANDOM,unknown,0.5837314,False,False,False,False
+Banca Afirme,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5836404,False,False,False,False
+Banca Afirme,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.58336574,False,False,False,False
+Banca Afirme,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.5830078,False,False,False,False
+Banca Afirme,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.5829795,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5827857,False,False,False,False
+Banca Afirme,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.58245826,False,False,False,False
+Banca Afirme,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.5821549,False,False,False,False
+Banca Afirme,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.58202606,False,False,False,False
+Banca Afirme,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.5818142,False,False,False,False
+Banca Afirme,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.58121747,False,False,False,False
+Banca Afirme,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.580808,False,False,False,False
+Banca Afirme,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.580636,False,False,False,False
+Banca Afirme,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.5806103,False,False,False,False
+Banca Afirme,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.58014375,False,False,False,False
+Banca Afirme,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.57885325,False,False,False,False
+Banca Afirme,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.57877094,False,False,False,False
+Banca Afirme,random_msn-com_20251129T162722.png,RANDOM,unknown,0.57873607,False,False,False,False
+Banca Afirme,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5787224,False,False,False,False
+Banca Afirme,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5785507,False,False,False,False
+Banca Afirme,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.5784584,False,False,False,False
+Banca Afirme,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5783855,False,False,False,False
+Banca Afirme,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.577773,False,False,False,False
+Banca Afirme,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.57770824,False,False,False,False
+Banca Afirme,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.5776445,False,False,False,False
+Banca Afirme,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.577495,False,False,False,False
+Banca Afirme,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5769305,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5765574,False,False,False,False
+Banca Afirme,random_abc-es_20251129T175348.png,RANDOM,unknown,0.57653785,False,False,False,False
+Banca Afirme,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.576369,False,False,False,False
+Banca Afirme,random_xing-com_20251129T175042.png,RANDOM,unknown,0.57611215,False,False,False,False
+Banca Afirme,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5760529,False,False,False,False
+Banca Afirme,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5755435,False,False,False,False
+Banca Afirme,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5752603,False,False,False,False
+Banca Afirme,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5751036,False,False,False,False
+Banca Afirme,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5750912,False,False,False,False
+Banca Afirme,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5750468,False,False,False,False
+Banca Afirme,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.574998,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.5748189,False,False,False,False
+Banca Afirme,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.57449853,False,False,False,False
+Banca Afirme,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5741005,False,False,False,False
+Banca Afirme,random_one-one_20251129T163318.png,RANDOM,unknown,0.57395023,False,False,False,False
+Banca Afirme,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.57393056,False,False,False,False
+Banca Afirme,random_weather-com_20251129T164102.png,RANDOM,unknown,0.5738186,False,False,False,False
+Banca Afirme,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.57381594,False,False,False,False
+Banca Afirme,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.5736084,False,False,False,False
+Banca Afirme,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5730425,False,False,False,False
+Banca Afirme,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.57255435,False,False,False,False
+Banca Afirme,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.57235837,False,False,False,False
+Banca Afirme,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.5721838,False,False,False,False
+Banca Afirme,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.5719384,False,False,False,False
+Banca Afirme,random_att-com_20251129T180955.png,RANDOM,unknown,0.5717553,False,False,False,False
+Banca Afirme,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.5715009,False,False,False,False
+Banca Afirme,random_g-page_20251129T170201.png,RANDOM,unknown,0.5706898,False,False,False,False
+Banca Afirme,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.570227,False,False,False,False
+Banca Afirme,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.57019925,False,False,False,False
+Banca Afirme,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5697053,False,False,False,False
+Banca Afirme,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5691266,False,False,False,False
+Banca Afirme,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.56863093,False,False,False,False
+Banca Afirme,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.5686302,False,False,False,False
+Banca Afirme,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.56852835,False,False,False,False
+Banca Afirme,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.56798464,False,False,False,False
+Banca Afirme,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.5679651,False,False,False,False
+Banca Afirme,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.56790745,False,False,False,False
+Banca Afirme,random_slack-com_20251129T164623.png,RANDOM,unknown,0.56778145,False,False,False,False
+Banca Afirme,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.56762326,False,False,False,False
+Banca Afirme,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.5676025,False,False,False,False
+Banca Afirme,random_att-net_20251129T170227.png,RANDOM,unknown,0.56737435,False,False,False,False
+Banca Afirme,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.5666666,False,False,False,False
+Banca Afirme,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.5663092,False,False,False,False
+Banca Afirme,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.56602,False,False,False,False
+Banca Afirme,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.5660149,False,False,False,False
+Banca Afirme,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.56592417,False,False,False,False
+Banca Afirme,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.56589,False,False,False,False
+Banca Afirme,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.56574154,False,False,False,False
+Banca Afirme,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.56558484,False,False,False,False
+Banca Afirme,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.56549585,False,False,False,False
+Banca Afirme,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5654131,False,False,False,False
+Banca Afirme,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.5650824,False,False,False,False
+Banca Afirme,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.5648091,False,False,False,False
+Banca Afirme,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.56463814,False,False,False,False
+Banca Afirme,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.564598,False,False,False,False
+Banca Afirme,random_marca-com_20251129T175532.png,RANDOM,unknown,0.56448686,False,False,False,False
+Banca Afirme,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.5644019,False,False,False,False
+Banca Afirme,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.5643682,False,False,False,False
+Banca Afirme,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.56434697,False,False,False,False
+Banca Afirme,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.56434536,False,False,False,False
+Banca Afirme,random_wise-com_20251129T180312.png,RANDOM,unknown,0.5643293,False,False,False,False
+Banca Afirme,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.56421137,False,False,False,False
+Banca Afirme,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.56411517,False,False,False,False
+Banca Afirme,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.56411153,False,False,False,False
+Banca Afirme,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.564052,False,False,False,False
+Banca Afirme,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.5640125,False,False,False,False
+Banca Afirme,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.56401116,False,False,False,False
+Banca Afirme,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.5631797,False,False,False,False
+Banca Afirme,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5624443,False,False,False,False
+Banca Afirme,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.56243175,False,False,False,False
+Banca Afirme,random_wix-com_20251129T171207.png,RANDOM,unknown,0.56234026,False,False,False,False
+Banca Afirme,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.56188583,False,False,False,False
+Banca Afirme,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.561726,False,False,False,False
+Banca Afirme,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.56168544,False,False,False,False
+Banca Afirme,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.5611775,False,False,False,False
+Banca Afirme,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.56107825,False,False,False,False
+Banca Afirme,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.561022,False,False,False,False
+Banca Afirme,random_segment-io_20251129T174400.png,RANDOM,unknown,0.5609723,False,False,False,False
+Banca Afirme,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.5607554,False,False,False,False
+Banca Afirme,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.5604602,False,False,False,False
+Banca Afirme,random_name-com_20251129T171101.png,RANDOM,unknown,0.56025934,False,False,False,False
+Banca Afirme,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.5601437,False,False,False,False
+Banca Afirme,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5600002,False,False,False,False
+Banca Afirme,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.5598882,False,False,False,False
+Banca Afirme,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.55979836,False,False,False,False
+Banca Afirme,random_hp-com_20251129T164248.png,RANDOM,unknown,0.5597391,False,False,False,False
+Banca Afirme,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.5593669,False,False,False,False
+Banca Afirme,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.55819607,False,False,False,False
+Banca Afirme,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.55806184,False,False,False,False
+Banca Afirme,random_web-de_20251129T175220.png,RANDOM,unknown,0.55771583,False,False,False,False
+Banca Afirme,random_otto-de_20251129T174331.png,RANDOM,unknown,0.55757195,False,False,False,False
+Banca Afirme,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.5575334,False,False,False,False
+Banca Afirme,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.55752957,False,False,False,False
+Banca Afirme,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.5573994,False,False,False,False
+Banca Afirme,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.5569346,False,False,False,False
+Banca Afirme,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.55642205,False,False,False,False
+Banca Afirme,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.556363,False,False,False,False
+Banca Afirme,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.5560485,False,False,False,False
+Banca Afirme,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.55599105,False,False,False,False
+Banca Afirme,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.55574363,False,False,False,False
+Banca Afirme,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.55521154,False,False,False,False
+Banca Afirme,random_ui-com_20251129T163127.png,RANDOM,unknown,0.555196,False,False,False,False
+Banca Afirme,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.5550155,False,False,False,False
+Banca Afirme,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5546442,False,False,False,False
+Banca Afirme,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.55460525,False,False,False,False
+Banca Afirme,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5545698,False,False,False,False
+Banca Afirme,random_binance-com_20251129T174935.png,RANDOM,unknown,0.5545312,False,False,False,False
+Banca Afirme,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.55404747,False,False,False,False
+Banca Afirme,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5540307,False,False,False,False
+Banca Afirme,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.55350566,False,False,False,False
+Banca Afirme,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.55345,False,False,False,False
+Banca Afirme,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.55341357,False,False,False,False
+Banca Afirme,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.55316633,False,False,False,False
+Banca Afirme,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.55309963,False,False,False,False
+Banca Afirme,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.5527079,False,False,False,False
+Banca Afirme,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5526535,False,False,False,False
+Banca Afirme,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5518951,False,False,False,False
+Banca Afirme,random_viber-com_20251129T172210.png,RANDOM,unknown,0.55166125,False,False,False,False
+Banca Afirme,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.55156785,False,False,False,False
+Banca Afirme,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.55156577,False,False,False,False
+Banca Afirme,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.55142117,False,False,False,False
+Banca Afirme,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.551294,False,False,False,False
+Banca Afirme,random_brave-com_20251129T172325.png,RANDOM,unknown,0.55124974,False,False,False,False
+Banca Afirme,random_android-com_20251129T163812.png,RANDOM,unknown,0.55105245,False,False,False,False
+Banca Afirme,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.55099285,False,False,False,False
+Banca Afirme,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.55091697,False,False,False,False
+Banca Afirme,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.5506788,False,False,False,False
+Banca Afirme,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.55038315,False,False,False,False
+Banca Afirme,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.5500345,False,False,False,False
+Banca Afirme,random_canva-com_20251129T164231.png,RANDOM,unknown,0.54981565,False,False,False,False
+Banca Afirme,random_target-com_20251129T171437.png,RANDOM,unknown,0.5497465,False,False,False,False
+Banca Afirme,random_intel-com_20251129T171229.png,RANDOM,unknown,0.54875827,False,False,False,False
+Banca Afirme,random_discord-media_20251129T170414.png,RANDOM,unknown,0.5484847,False,False,False,False
+Banca Afirme,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.5481843,False,False,False,False
+Banca Afirme,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.54803663,False,False,False,False
+Banca Afirme,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.54756707,False,False,False,False
+Banca Afirme,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.5474678,False,False,False,False
+Banca Afirme,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.546801,False,False,False,False
+Banca Afirme,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.5466365,False,False,False,False
+Banca Afirme,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.54616,False,False,False,False
+Banca Afirme,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.54580665,False,False,False,False
+Banca Afirme,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.5456958,False,False,False,False
+Banca Afirme,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.54556084,False,False,False,False
+Banca Afirme,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.5455512,False,False,False,False
+Banca Afirme,random_nature-com_20251129T164547.png,RANDOM,unknown,0.54522854,False,False,False,False
+Banca Afirme,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.54502,False,False,False,False
+Banca Afirme,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5449625,False,False,False,False
+Banca Afirme,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.5446149,False,False,False,False
+Banca Afirme,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.54408497,False,False,False,False
+Banca Afirme,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.54401493,False,False,False,False
+Banca Afirme,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.5438514,False,False,False,False
+Banca Afirme,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.5438045,False,False,False,False
+Banca Afirme,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.54365504,False,False,False,False
+Banca Afirme,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.5435559,False,False,False,False
+Banca Afirme,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.5434744,False,False,False,False
+Banca Afirme,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5434598,False,False,False,False
+Banca Afirme,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.54305303,False,False,False,False
+Banca Afirme,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5429856,False,False,False,False
+Banca Afirme,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.542933,False,False,False,False
+Banca Afirme,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.54258394,False,False,False,False
+Banca Afirme,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.5423463,False,False,False,False
+Banca Afirme,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.5422332,False,False,False,False
+Banca Afirme,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.54221356,False,False,False,False
+Banca Afirme,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.54216504,False,False,False,False
+Banca Afirme,random_usps-com_20251129T173658.png,RANDOM,unknown,0.5419728,False,False,False,False
+Banca Afirme,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.541698,False,False,False,False
+Banca Afirme,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.5416404,False,False,False,False
+Banca Afirme,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.5414304,False,False,False,False
+Banca Afirme,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.5413514,False,False,False,False
+Banca Afirme,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.54109955,False,False,False,False
+Banca Afirme,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.54103017,False,False,False,False
+Banca Afirme,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.54093885,False,False,False,False
+Banca Afirme,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.54083467,False,False,False,False
+Banca Afirme,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.54077196,False,False,False,False
+Banca Afirme,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.5404328,False,False,False,False
+Banca Afirme,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.54033554,False,False,False,False
+Banca Afirme,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5400262,False,False,False,False
+Banca Afirme,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.5397004,False,False,False,False
+Banca Afirme,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.5391011,False,False,False,False
+Banca Afirme,random_globo-com_20251129T165541.png,RANDOM,unknown,0.5388686,False,False,False,False
+Banca Afirme,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.5387643,False,False,False,False
+Banca Afirme,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.53865516,False,False,False,False
+Banca Afirme,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.5381782,False,False,False,False
+Banca Afirme,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.538038,False,False,False,False
+Banca Afirme,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.5375011,False,False,False,False
+Banca Afirme,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.5374619,False,False,False,False
+Banca Afirme,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.53742385,False,False,False,False
+Banca Afirme,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.5373239,False,False,False,False
+Banca Afirme,random_moe-video_20251129T164430.png,RANDOM,unknown,0.5372555,False,False,False,False
+Banca Afirme,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.5365196,False,False,False,False
+Banca Afirme,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.5364586,False,False,False,False
+Banca Afirme,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.53617775,False,False,False,False
+Banca Afirme,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.5360646,False,False,False,False
+Banca Afirme,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.5359454,False,False,False,False
+Banca Afirme,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.5357286,False,False,False,False
+Banca Afirme,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.5356981,False,False,False,False
+Banca Afirme,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.53562623,False,False,False,False
+Banca Afirme,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.5355909,False,False,False,False
+Banca Afirme,random_aol-com_20251129T170152.png,RANDOM,unknown,0.5351003,False,False,False,False
+Banca Afirme,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.53507763,False,False,False,False
+Banca Afirme,random_opera-com_20251129T163028.png,RANDOM,unknown,0.53498256,False,False,False,False
+Banca Afirme,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.53453135,False,False,False,False
+Banca Afirme,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.53440803,False,False,False,False
+Banca Afirme,random_dns-google_20251129T163231.png,RANDOM,unknown,0.5342359,False,False,False,False
+Banca Afirme,random_linode-com_20251129T173059.png,RANDOM,unknown,0.5342181,False,False,False,False
+Banca Afirme,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.5338723,False,False,False,False
+Banca Afirme,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.53354263,False,False,False,False
+Banca Afirme,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.53338397,False,False,False,False
+Banca Afirme,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5332606,False,False,False,False
+Banca Afirme,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.53304225,False,False,False,False
+Banca Afirme,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.5330204,False,False,False,False
+Banca Afirme,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.53271985,False,False,False,False
+Banca Afirme,random_free-fr_20251129T171241.png,RANDOM,unknown,0.5327049,False,False,False,False
+Banca Afirme,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.532198,False,False,False,False
+Banca Afirme,random_springer-com_20251129T164823.png,RANDOM,unknown,0.5321865,False,False,False,False
+Banca Afirme,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.5317762,False,False,False,False
+Banca Afirme,random_apa-org_20251129T180433.png,RANDOM,unknown,0.53163,False,False,False,False
+Banca Afirme,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.531593,False,False,False,False
+Banca Afirme,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.53159237,False,False,False,False
+Banca Afirme,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.5315231,False,False,False,False
+Banca Afirme,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.5315166,False,False,False,False
+Banca Afirme,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5314821,False,False,False,False
+Banca Afirme,random_skype-com_20251129T162718.png,RANDOM,unknown,0.53029424,False,False,False,False
+Banca Afirme,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.53023845,False,False,False,False
+Banca Afirme,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.5299096,False,False,False,False
+Banca Afirme,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.5298652,False,False,False,False
+Banca Afirme,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.52984613,False,False,False,False
+Banca Afirme,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.52967286,False,False,False,False
+Banca Afirme,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.5296352,False,False,False,False
+Banca Afirme,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.52935785,False,False,False,False
+Banca Afirme,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.5293332,False,False,False,False
+Banca Afirme,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.5291115,False,False,False,False
+Banca Afirme,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.52910435,False,False,False,False
+Banca Afirme,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.5289121,False,False,False,False
+Banca Afirme,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.52877796,False,False,False,False
+Banca Afirme,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.5284653,False,False,False,False
+Banca Afirme,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.52839166,False,False,False,False
+Banca Afirme,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.5283438,False,False,False,False
+Banca Afirme,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.5282749,False,False,False,False
+Banca Afirme,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.5282493,False,False,False,False
+Banca Afirme,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.52818346,False,False,False,False
+Banca Afirme,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.5276757,False,False,False,False
+Banca Afirme,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.52762973,False,False,False,False
+Banca Afirme,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.52739096,False,False,False,False
+Banca Afirme,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.52679,False,False,False,False
+Banca Afirme,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.5262275,False,False,False,False
+Banca Afirme,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.5256726,False,False,False,False
+Banca Afirme,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.5255981,False,False,False,False
+Banca Afirme,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.52501357,False,False,False,False
+Banca Afirme,random_finn-no_20251129T180303.png,RANDOM,unknown,0.524834,False,False,False,False
+Banca Afirme,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5247515,False,False,False,False
+Banca Afirme,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.5247365,False,False,False,False
+Banca Afirme,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.52470326,False,False,False,False
+Banca Afirme,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.5245837,False,False,False,False
+Banca Afirme,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.5245617,False,False,False,False
+Banca Afirme,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.52407384,False,False,False,False
+Banca Afirme,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.524046,False,False,False,False
+Banca Afirme,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.5240015,False,False,False,False
+Banca Afirme,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.52389854,False,False,False,False
+Banca Afirme,random_braze-com_20251129T171458.png,RANDOM,unknown,0.5237839,False,False,False,False
+Banca Afirme,random_forter-com_20251129T164642.png,RANDOM,unknown,0.5232117,False,False,False,False
+Banca Afirme,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.52299976,False,False,False,False
+Banca Afirme,random_focus-de_20251129T175031.png,RANDOM,unknown,0.5229956,False,False,False,False
+Banca Afirme,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.5226759,False,False,False,False
+Banca Afirme,random_medium-com_20251129T163655.png,RANDOM,unknown,0.52266544,False,False,False,False
+Banca Afirme,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.52260333,False,False,False,False
+Banca Afirme,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.52152,False,False,False,False
+Banca Afirme,random_uk-com_20251129T171638.png,RANDOM,unknown,0.5214062,False,False,False,False
+Banca Afirme,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.5213773,False,False,False,False
+Banca Afirme,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.5211214,False,False,False,False
+Banca Afirme,random_shein-com_20251129T170736.png,RANDOM,unknown,0.5210223,False,False,False,False
+Banca Afirme,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.5208842,False,False,False,False
+Banca Afirme,random_uber-com_20251129T170129.png,RANDOM,unknown,0.52063185,False,False,False,False
+Banca Afirme,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.52062,False,False,False,False
+Banca Afirme,random_f5-com_20251129T163706.png,RANDOM,unknown,0.52042717,False,False,False,False
+Banca Afirme,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.52039814,False,False,False,False
+Banca Afirme,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.52034974,False,False,False,False
+Banca Afirme,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.5200215,False,False,False,False
+Banca Afirme,random_okta-com_20251129T171946.png,RANDOM,unknown,0.51994413,False,False,False,False
+Banca Afirme,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.5197099,False,False,False,False
+Banca Afirme,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.5193333,False,False,False,False
+Banca Afirme,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.51920426,False,False,False,False
+Banca Afirme,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.51902705,False,False,False,False
+Banca Afirme,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.5190215,False,False,False,False
+Banca Afirme,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.5188423,False,False,False,False
+Banca Afirme,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.51867676,False,False,False,False
+Banca Afirme,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.51858824,False,False,False,False
+Banca Afirme,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.51852435,False,False,False,False
+Banca Afirme,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.5185125,False,False,False,False
+Banca Afirme,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.51840544,False,False,False,False
+Banca Afirme,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.51833224,False,False,False,False
+Banca Afirme,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.51818395,False,False,False,False
+Banca Afirme,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.5180831,False,False,False,False
+Banca Afirme,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.5178462,False,False,False,False
+Banca Afirme,random_naver-com_20251129T164929.png,RANDOM,unknown,0.5172681,False,False,False,False
+Banca Afirme,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.51701814,False,False,False,False
+Banca Afirme,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.5167989,False,False,False,False
+Banca Afirme,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.51663905,False,False,False,False
+Banca Afirme,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.5162992,False,False,False,False
+Banca Afirme,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.5162193,False,False,False,False
+Banca Afirme,random_cox-net_20251129T170452.png,RANDOM,unknown,0.5160627,False,False,False,False
+Banca Afirme,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.51598966,False,False,False,False
+Banca Afirme,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.5155133,False,False,False,False
+Banca Afirme,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.5151733,False,False,False,False
+Banca Afirme,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.51512194,False,False,False,False
+Banca Afirme,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.51510805,False,False,False,False
+Banca Afirme,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.51510596,False,False,False,False
+Banca Afirme,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.51474535,False,False,False,False
+Banca Afirme,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.5147208,False,False,False,False
+Banca Afirme,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.5145217,False,False,False,False
+Banca Afirme,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.5144598,False,False,False,False
+Banca Afirme,random_substack-com_20251129T171941.png,RANDOM,unknown,0.51443505,False,False,False,False
+Banca Afirme,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.5141658,False,False,False,False
+Banca Afirme,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.51405805,False,False,False,False
+Banca Afirme,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.5139234,False,False,False,False
+Banca Afirme,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.5138085,False,False,False,False
+Banca Afirme,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.5135457,False,False,False,False
+Banca Afirme,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.513542,False,False,False,False
+Banca Afirme,random_apple-com_20251129T162353.png,RANDOM,unknown,0.5135362,False,False,False,False
+Banca Afirme,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.5133445,False,False,False,False
+Banca Afirme,random_figma-com_20251129T173914.png,RANDOM,unknown,0.5132568,False,False,False,False
+Banca Afirme,random_welt-de_20251129T173821.png,RANDOM,unknown,0.51266706,False,False,False,False
+Banca Afirme,random_india-com_20251129T180557.png,RANDOM,unknown,0.5124634,False,False,False,False
+Banca Afirme,random_python-org_20251129T173738.png,RANDOM,unknown,0.5123892,False,False,False,False
+Banca Afirme,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.51201415,False,False,False,False
+Banca Afirme,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.5119924,False,False,False,False
+Banca Afirme,random_live-com_20251129T162413.png,RANDOM,unknown,0.51194036,False,False,False,False
+Banca Afirme,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.5119204,False,False,False,False
+Banca Afirme,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5116558,False,False,False,False
+Banca Afirme,random_qq-com_20251129T162834.png,RANDOM,unknown,0.511629,False,False,False,False
+Banca Afirme,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.51152825,False,False,False,False
+Banca Afirme,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.5115107,False,False,False,False
+Banca Afirme,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.51141953,False,False,False,False
+Banca Afirme,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.5114057,False,False,False,False
+Banca Afirme,random_google-cn_20251129T172939.png,RANDOM,unknown,0.5112666,False,False,False,False
+Banca Afirme,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.51111954,False,False,False,False
+Banca Afirme,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.5110541,False,False,False,False
+Banca Afirme,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.5109867,False,False,False,False
+Banca Afirme,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.51078236,False,False,False,False
+Banca Afirme,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.5107622,False,False,False,False
+Banca Afirme,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.51055145,False,False,False,False
+Banca Afirme,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.51044524,False,False,False,False
+Banca Afirme,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.5102099,False,False,False,False
+Banca Afirme,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.5099729,False,False,False,False
+Banca Afirme,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.509898,False,False,False,False
+Banca Afirme,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.5098893,False,False,False,False
+Banca Afirme,random_office365-com_20251129T162902.png,RANDOM,unknown,0.5097074,False,False,False,False
+Banca Afirme,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.5097039,False,False,False,False
+Banca Afirme,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5096357,False,False,False,False
+Banca Afirme,random_espn-com_20251129T165100.png,RANDOM,unknown,0.508983,False,False,False,False
+Banca Afirme,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.50881517,False,False,False,False
+Banca Afirme,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.5087696,False,False,False,False
+Banca Afirme,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.50871307,False,False,False,False
+Banca Afirme,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.50849235,False,False,False,False
+Banca Afirme,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.50801575,False,False,False,False
+Banca Afirme,random_as-com_20251129T175716.png,RANDOM,unknown,0.5079363,False,False,False,False
+Banca Afirme,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.50779545,False,False,False,False
+Banca Afirme,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.50769114,False,False,False,False
+Banca Afirme,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.50722927,False,False,False,False
+Banca Afirme,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.5064282,False,False,False,False
+Banca Afirme,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.5064202,False,False,False,False
+Banca Afirme,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.5064175,False,False,False,False
+Banca Afirme,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.50619817,False,False,False,False
+Banca Afirme,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.50606495,False,False,False,False
+Banca Afirme,random_w3-org_20251129T163751.png,RANDOM,unknown,0.5056313,False,False,False,False
+Banca Afirme,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.5055841,False,False,False,False
+Banca Afirme,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.5054878,False,False,False,False
+Banca Afirme,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.50533915,False,False,False,False
+Banca Afirme,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.50521743,False,False,False,False
+Banca Afirme,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.50515544,False,False,False,False
+Banca Afirme,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.5044956,False,False,False,False
+Banca Afirme,random_time-com_20251129T170629.png,RANDOM,unknown,0.5040423,False,False,False,False
+Banca Afirme,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.5036077,False,False,False,False
+Banca Afirme,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.50339603,False,False,False,False
+Banca Afirme,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.5033692,False,False,False,False
+Banca Afirme,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.5031937,False,False,False,False
+Banca Afirme,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.5029906,False,False,False,False
+Banca Afirme,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.5029335,False,False,False,False
+Banca Afirme,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.50273323,False,False,False,False
+Banca Afirme,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.50269526,False,False,False,False
+Banca Afirme,random_nic-io_20251129T173852.png,RANDOM,unknown,0.5026647,False,False,False,False
+Banca Afirme,random_chess-com_20251129T173919.png,RANDOM,unknown,0.5021477,False,False,False,False
+Banca Afirme,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.50204206,False,False,False,False
+Banca Afirme,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.50189567,False,False,False,False
+Banca Afirme,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.5016543,False,False,False,False
+Banca Afirme,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.50126714,False,False,False,False
+Banca Afirme,random_windows-com_20251129T163112.png,RANDOM,unknown,0.5010461,False,False,False,False
+Banca Afirme,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.50091344,False,False,False,False
+Banca Afirme,random_split-io_20251129T175048.png,RANDOM,unknown,0.50080514,False,False,False,False
+Banca Afirme,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.50074196,False,False,False,False
+Banca Afirme,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.5004813,False,False,False,False
+Banca Afirme,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.5001526,False,False,False,False
+Banca Afirme,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.5000205,False,False,False,False
+Banca Afirme,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.49977082,False,False,False,False
+Banca Afirme,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.49956954,False,False,False,False
+Banca Afirme,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.4995675,False,False,False,False
+Banca Afirme,random_synology-com_20251129T173948.png,RANDOM,unknown,0.4992246,False,False,False,False
+Banca Afirme,random_jd-com_20251129T174954.png,RANDOM,unknown,0.49917805,False,False,False,False
+Banca Afirme,random_tds-net_20251129T174115.png,RANDOM,unknown,0.4989432,False,False,False,False
+Banca Afirme,random_genius-com_20251129T174000.png,RANDOM,unknown,0.49877983,False,False,False,False
+Banca Afirme,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.49866343,False,False,False,False
+Banca Afirme,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.49842787,False,False,False,False
+Banca Afirme,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.49838108,False,False,False,False
+Banca Afirme,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.4982629,False,False,False,False
+Banca Afirme,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.49810582,False,False,False,False
+Banca Afirme,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.49793136,False,False,False,False
+Banca Afirme,random_360-cn_20251129T173141.png,RANDOM,unknown,0.49781847,False,False,False,False
+Banca Afirme,random_g-co_20251129T171804.png,RANDOM,unknown,0.49772495,False,False,False,False
+Banca Afirme,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.4977173,False,False,False,False
+Banca Afirme,random_github-io_20251129T163235.png,RANDOM,unknown,0.49771374,False,False,False,False
+Banca Afirme,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.4976028,False,False,False,False
+Banca Afirme,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.4975291,False,False,False,False
+Banca Afirme,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.49752715,False,False,False,False
+Banca Afirme,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.49729407,False,False,False,False
+Banca Afirme,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.49725753,False,False,False,False
+Banca Afirme,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.49714983,False,False,False,False
+Banca Afirme,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.49713257,False,False,False,False
+Banca Afirme,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.4970001,False,False,False,False
+Banca Afirme,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.49669832,False,False,False,False
+Banca Afirme,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.49634948,False,False,False,False
+Banca Afirme,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.49611878,False,False,False,False
+Banca Afirme,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.49598622,False,False,False,False
+Banca Afirme,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.4959041,False,False,False,False
+Banca Afirme,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.4955215,False,False,False,False
+Banca Afirme,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.4954476,False,False,False,False
+Banca Afirme,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.49522877,False,False,False,False
+Banca Afirme,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.49517515,False,False,False,False
+Banca Afirme,random_vk-com_20251129T163202.png,RANDOM,unknown,0.4951077,False,False,False,False
+Banca Afirme,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.49488375,False,False,False,False
+Banca Afirme,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.4948313,False,False,False,False
+Banca Afirme,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.49461555,False,False,False,False
+Banca Afirme,random_note-com_20251129T174642.png,RANDOM,unknown,0.4945026,False,False,False,False
+Banca Afirme,random_docker-com_20251129T170827.png,RANDOM,unknown,0.4941996,False,False,False,False
+Banca Afirme,random_example-com_20251129T163930.png,RANDOM,unknown,0.49385488,False,False,False,False
+Banca Afirme,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.4937266,False,False,False,False
+Banca Afirme,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.49359906,False,False,False,False
+Banca Afirme,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.4933943,False,False,False,False
+Banca Afirme,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.4929621,False,False,False,False
+Banca Afirme,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.49237868,False,False,False,False
+Banca Afirme,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.49229974,False,False,False,False
+Banca Afirme,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.492251,False,False,False,False
+Banca Afirme,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.49207082,False,False,False,False
+Banca Afirme,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.49204934,False,False,False,False
+Banca Afirme,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.4920484,False,False,False,False
+Banca Afirme,random_trello-com_20251129T180351.png,RANDOM,unknown,0.4919639,False,False,False,False
+Banca Afirme,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.4914314,False,False,False,False
+Banca Afirme,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.4908969,False,False,False,False
+Banca Afirme,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.49055362,False,False,False,False
+Banca Afirme,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.49053586,False,False,False,False
+Banca Afirme,random_apache-org_20251129T163228.png,RANDOM,unknown,0.49052665,False,False,False,False
+Banca Afirme,random_branch-io_20251129T171524.png,RANDOM,unknown,0.4905077,False,False,False,False
+Banca Afirme,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.48999846,False,False,False,False
+Banca Afirme,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.48976672,False,False,False,False
+Banca Afirme,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.4892765,False,False,False,False
+Banca Afirme,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.4891926,False,False,False,False
+Banca Afirme,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.4891715,False,False,False,False
+Banca Afirme,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.4890491,False,False,False,False
+Banca Afirme,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.48896205,False,False,False,False
+Banca Afirme,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.48876235,False,False,False,False
+Banca Afirme,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.48874295,False,False,False,False
+Banca Afirme,random_statista-com_20251129T165822.png,RANDOM,unknown,0.48854733,False,False,False,False
+Banca Afirme,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.48809457,False,False,False,False
+Banca Afirme,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.4877886,False,False,False,False
+Banca Afirme,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.48773408,False,False,False,False
+Banca Afirme,random_character-ai_20251129T174433.png,RANDOM,unknown,0.48757574,False,False,False,False
+Banca Afirme,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.4874375,False,False,False,False
+Banca Afirme,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.4871961,False,False,False,False
+Banca Afirme,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.4871016,False,False,False,False
+Banca Afirme,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.4870416,False,False,False,False
+Banca Afirme,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.4869359,False,False,False,False
+Banca Afirme,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.48680392,False,False,False,False
+Banca Afirme,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.48662654,False,False,False,False
+Banca Afirme,random_wired-com_20251129T170401.png,RANDOM,unknown,0.4865901,False,False,False,False
+Banca Afirme,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.48656285,False,False,False,False
+Banca Afirme,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.48648638,False,False,False,False
+Banca Afirme,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.48640376,False,False,False,False
+Banca Afirme,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.4862321,False,False,False,False
+Banca Afirme,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.48621848,False,False,False,False
+Banca Afirme,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.48595136,False,False,False,False
+Banca Afirme,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.48585474,False,False,False,False
+Banca Afirme,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.48570895,False,False,False,False
+Banca Afirme,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.48526004,False,False,False,False
+Banca Afirme,random_t-me_20251129T163150.png,RANDOM,unknown,0.4847015,False,False,False,False
+Banca Afirme,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.48424628,False,False,False,False
+Banca Afirme,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.48409492,False,False,False,False
+Banca Afirme,random_booking-com_20251129T164752.png,RANDOM,unknown,0.48388815,False,False,False,False
+Banca Afirme,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.48371226,False,False,False,False
+Banca Afirme,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.4828927,False,False,False,False
+Banca Afirme,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.48288772,False,False,False,False
+Banca Afirme,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.48286164,False,False,False,False
+Banca Afirme,random_media-net_20251129T164538.png,RANDOM,unknown,0.48252547,False,False,False,False
+Banca Afirme,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.48236904,False,False,False,False
+Banca Afirme,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.48207158,False,False,False,False
+Banca Afirme,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.48199192,False,False,False,False
+Banca Afirme,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.48132318,False,False,False,False
+Banca Afirme,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.4810071,False,False,False,False
+Banca Afirme,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.48091972,False,False,False,False
+Banca Afirme,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.4807819,False,False,False,False
+Banca Afirme,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.48008853,False,False,False,False
+Banca Afirme,random_bild-de_20251129T173827.png,RANDOM,unknown,0.47994065,False,False,False,False
+Banca Afirme,random_youku-com_20251129T174026.png,RANDOM,unknown,0.47948548,False,False,False,False
+Banca Afirme,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.4788639,False,False,False,False
+Banca Afirme,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.4787883,False,False,False,False
+Banca Afirme,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.47843325,False,False,False,False
+Banca Afirme,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.47830385,False,False,False,False
+Banca Afirme,random_openai-com_20251129T164132.png,RANDOM,unknown,0.47799206,False,False,False,False
+Banca Afirme,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.47784016,False,False,False,False
+Banca Afirme,random_vg-no_20251129T180754.png,RANDOM,unknown,0.47762924,False,False,False,False
+Banca Afirme,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.47761405,False,False,False,False
+Banca Afirme,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.4773972,False,False,False,False
+Banca Afirme,random_bol-com_20251129T174941.png,RANDOM,unknown,0.47733563,False,False,False,False
+Banca Afirme,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.47725123,False,False,False,False
+Banca Afirme,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.4770399,False,False,False,False
+Banca Afirme,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.47687653,False,False,False,False
+Banca Afirme,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.47672543,False,False,False,False
+Banca Afirme,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.47653526,False,False,False,False
+Banca Afirme,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.4764193,False,False,False,False
+Banca Afirme,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.4759586,False,False,False,False
+Banca Afirme,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.47573784,False,False,False,False
+Banca Afirme,random_daum-net_20251129T174537.png,RANDOM,unknown,0.4754413,False,False,False,False
+Banca Afirme,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.4750835,False,False,False,False
+Banca Afirme,random_github-com_20251129T162456.png,RANDOM,unknown,0.4750008,False,False,False,False
+Banca Afirme,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.47482294,False,False,False,False
+Banca Afirme,random_php-net_20251129T164521.png,RANDOM,unknown,0.47457585,False,False,False,False
+Banca Afirme,random_notion-so_20251129T180340.png,RANDOM,unknown,0.47451887,False,False,False,False
+Banca Afirme,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.47448096,False,False,False,False
+Banca Afirme,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.47446364,False,False,False,False
+Banca Afirme,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.47443116,False,False,False,False
+Banca Afirme,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.47429976,False,False,False,False
+Banca Afirme,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.47424176,False,False,False,False
+Banca Afirme,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.4741285,False,False,False,False
+Banca Afirme,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.47360277,False,False,False,False
+Banca Afirme,random_ft-com_20251129T170724.png,RANDOM,unknown,0.47283524,False,False,False,False
+Banca Afirme,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.47247225,False,False,False,False
+Banca Afirme,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.47230023,False,False,False,False
+Banca Afirme,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.47213545,False,False,False,False
+Banca Afirme,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.47138253,False,False,False,False
+Banca Afirme,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.47137022,False,False,False,False
+Banca Afirme,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.47120017,False,False,False,False
+Banca Afirme,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.47114238,False,False,False,False
+Banca Afirme,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.470515,False,False,False,False
+Banca Afirme,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.47035152,False,False,False,False
+Banca Afirme,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.47033072,False,False,False,False
+Banca Afirme,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.4702239,False,False,False,False
+Banca Afirme,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.46992832,False,False,False,False
+Banca Afirme,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.46987814,False,False,False,False
+Banca Afirme,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.46972203,False,False,False,False
+Banca Afirme,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.46942103,False,False,False,False
+Banca Afirme,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.46926412,False,False,False,False
+Banca Afirme,random_line-me_20251129T170140.png,RANDOM,unknown,0.469234,False,False,False,False
+Banca Afirme,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.4691319,False,False,False,False
+Banca Afirme,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.46877283,False,False,False,False
+Banca Afirme,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.46797273,False,False,False,False
+Banca Afirme,random_office-com_20251129T162404.png,RANDOM,unknown,0.467629,False,False,False,False
+Banca Afirme,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.46760482,False,False,False,False
+Banca Afirme,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.46759647,False,False,False,False
+Banca Afirme,random_roku-com_20251129T164128.png,RANDOM,unknown,0.4674254,False,False,False,False
+Banca Afirme,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.46730268,False,False,False,False
+Banca Afirme,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.46694964,False,False,False,False
+Banca Afirme,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.46651825,False,False,False,False
+Banca Afirme,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.46568114,False,False,False,False
+Banca Afirme,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.4651885,False,False,False,False
+Banca Afirme,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.46466285,False,False,False,False
+Banca Afirme,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.46411344,False,False,False,False
+Banca Afirme,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.4633915,False,False,False,False
+Banca Afirme,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.46282932,False,False,False,False
+Banca Afirme,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.4627895,False,False,False,False
+Banca Afirme,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.46260333,False,False,False,False
+Banca Afirme,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.46227473,False,False,False,False
+Banca Afirme,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.4618754,False,False,False,False
+Banca Afirme,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.4618647,False,False,False,False
+Banca Afirme,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.46177045,False,False,False,False
+Banca Afirme,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.46150666,False,False,False,False
+Banca Afirme,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.46148595,False,False,False,False
+Banca Afirme,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.46138418,False,False,False,False
+Banca Afirme,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.46113732,False,False,False,False
+Banca Afirme,random_miui-com_20251129T163719.png,RANDOM,unknown,0.46103042,False,False,False,False
+Banca Afirme,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.4604045,False,False,False,False
+Banca Afirme,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.4599973,False,False,False,False
+Banca Afirme,random_archive-org_20251129T163406.png,RANDOM,unknown,0.45995843,False,False,False,False
+Banca Afirme,random_clever-com_20251129T173500.png,RANDOM,unknown,0.45994452,False,False,False,False
+Banca Afirme,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.45961922,False,False,False,False
+Banca Afirme,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.45933855,False,False,False,False
+Banca Afirme,random_agora-io_20251129T175439.png,RANDOM,unknown,0.45906854,False,False,False,False
+Banca Afirme,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.4590479,False,False,False,False
+Banca Afirme,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.45857248,False,False,False,False
+Banca Afirme,random_plos-org_20251129T180524.png,RANDOM,unknown,0.45821458,False,False,False,False
+Banca Afirme,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.45814174,False,False,False,False
+Banca Afirme,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.45792407,False,False,False,False
+Banca Afirme,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.4578517,False,False,False,False
+Banca Afirme,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.45760643,False,False,False,False
+Banca Afirme,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.4571351,False,False,False,False
+Banca Afirme,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.45656118,False,False,False,False
+Banca Afirme,random_debian-org_20251129T164620.png,RANDOM,unknown,0.45629433,False,False,False,False
+Banca Afirme,random_wps-com_20251129T174320.png,RANDOM,unknown,0.4560748,False,False,False,False
+Banca Afirme,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.4560702,False,False,False,False
+Banca Afirme,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.4557138,False,False,False,False
+Banca Afirme,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.4555921,False,False,False,False
+Banca Afirme,random_singular-net_20251129T175446.png,RANDOM,unknown,0.4554577,False,False,False,False
+Banca Afirme,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.45536494,False,False,False,False
+Banca Afirme,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.45492655,False,False,False,False
+Banca Afirme,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.45489547,False,False,False,False
+Banca Afirme,random_t-co_20251129T163912.png,RANDOM,unknown,0.45419365,False,False,False,False
+Banca Afirme,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.45383707,False,False,False,False
+Banca Afirme,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.45373785,False,False,False,False
+Banca Afirme,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.4536028,False,False,False,False
+Banca Afirme,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.45341322,False,False,False,False
+Banca Afirme,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.45305458,False,False,False,False
+Banca Afirme,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.4508583,False,False,False,False
+Banca Afirme,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.4504537,False,False,False,False
+Banca Afirme,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.4499474,False,False,False,False
+Banca Afirme,random_bing-com_20251129T162459.png,RANDOM,unknown,0.44970953,False,False,False,False
+Banca Afirme,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.44946367,False,False,False,False
+Banca Afirme,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.44942343,False,False,False,False
+Banca Afirme,random_overload-su_20251129T170747.png,RANDOM,unknown,0.44940442,False,False,False,False
+Banca Afirme,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.4488009,False,False,False,False
+Banca Afirme,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.44824213,False,False,False,False
+Banca Afirme,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.44784224,False,False,False,False
+Banca Afirme,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.44761378,False,False,False,False
+Banca Afirme,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.44757208,False,False,False,False
+Banca Afirme,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.44692385,False,False,False,False
+Banca Afirme,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.44652498,False,False,False,False
+Banca Afirme,random_erome-com_20251129T165107.png,RANDOM,unknown,0.44651663,False,False,False,False
+Banca Afirme,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.44596645,False,False,False,False
+Banca Afirme,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.44498333,False,False,False,False
+Banca Afirme,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.4449066,False,False,False,False
+Banca Afirme,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.44450533,False,False,False,False
+Banca Afirme,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.44431743,False,False,False,False
+Banca Afirme,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.44328308,False,False,False,False
+Banca Afirme,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.44326064,False,False,False,False
+Banca Afirme,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.44306755,False,False,False,False
+Banca Afirme,random_ted-com_20251129T172015.png,RANDOM,unknown,0.44261584,False,False,False,False
+Banca Afirme,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.4416762,False,False,False,False
+Banca Afirme,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.44165996,False,False,False,False
+Banca Afirme,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.44152862,False,False,False,False
+Banca Afirme,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.44065297,False,False,False,False
+Banca Afirme,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.44034296,False,False,False,False
+Banca Afirme,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.4392854,False,False,False,False
+Banca Afirme,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.439178,False,False,False,False
+Banca Afirme,random_people-com_20251129T172859.png,RANDOM,unknown,0.43915242,False,False,False,False
+Banca Afirme,random_state-gov_20251129T174508.png,RANDOM,unknown,0.43885168,False,False,False,False
+Banca Afirme,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.4384718,False,False,False,False
+Banca Afirme,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.43760094,False,False,False,False
+Banca Afirme,random_doi-org_20251129T164112.png,RANDOM,unknown,0.4372183,False,False,False,False
+Banca Afirme,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.4371438,False,False,False,False
+Banca Afirme,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.4365211,False,False,False,False
+Banca Afirme,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.4331126,False,False,False,False
+Banca Afirme,random_go-com_20251129T164609.png,RANDOM,unknown,0.4327712,False,False,False,False
+Banca Afirme,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.43262267,False,False,False,False
+Banca Afirme,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.4325735,False,False,False,False
+Banca Afirme,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.43226972,False,False,False,False
+Banca Afirme,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.43174198,False,False,False,False
+Banca Afirme,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.43109626,False,False,False,False
+Banca Afirme,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.43083316,False,False,False,False
+Banca Afirme,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.42888927,False,False,False,False
+Banca Afirme,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.42852086,False,False,False,False
+Banca Afirme,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.4283995,False,False,False,False
+Banca Afirme,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.42676985,False,False,False,False
+Banca Afirme,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.42625523,False,False,False,False
+Banca Afirme,random_asus-com_20251129T172748.png,RANDOM,unknown,0.42609772,False,False,False,False
+Banca Afirme,random_fast-com_20251129T171226.png,RANDOM,unknown,0.42433015,False,False,False,False
+Banca Afirme,random_azure-com_20251129T162438.png,RANDOM,unknown,0.42401338,False,False,False,False
+Banca Afirme,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.4235346,False,False,False,False
+Banca Afirme,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.42306167,False,False,False,False
+Banca Afirme,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.42249382,False,False,False,False
+Banca Afirme,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.42182648,False,False,False,False
+Banca Afirme,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.4214182,False,False,False,False
+Banca Afirme,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.42008066,False,False,False,False
+Banca Afirme,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.42001528,False,False,False,False
+Banca Afirme,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.41985667,False,False,False,False
+Banca Afirme,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.41966838,False,False,False,False
+Banca Afirme,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.41960812,False,False,False,False
+Banca Afirme,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.4192253,False,False,False,False
+Banca Afirme,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.4188336,False,False,False,False
+Banca Afirme,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.4186146,False,False,False,False
+Banca Afirme,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.4185217,False,False,False,False
+Banca Afirme,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.41756663,False,False,False,False
+Banca Afirme,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.41753745,False,False,False,False
+Banca Afirme,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.41716352,False,False,False,False
+Banca Afirme,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.41700083,False,False,False,False
+Banca Afirme,random_npr-org_20251129T170056.png,RANDOM,unknown,0.41658586,False,False,False,False
+Banca Afirme,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.41300774,False,False,False,False
+Banca Afirme,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.41176015,False,False,False,False
+Banca Afirme,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.41125488,False,False,False,False
+Banca Afirme,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.41046092,False,False,False,False
+Banca Afirme,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.4096594,False,False,False,False
+Banca Afirme,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.40850285,False,False,False,False
+Banca Afirme,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.40407646,False,False,False,False
+Banca Afirme,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.40080944,False,False,False,False
+Banca Afirme,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.40077168,False,False,False,False
+Banca Afirme,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.39995277,False,False,False,False
+Banca Afirme,random_who-int_20251129T164225.png,RANDOM,unknown,0.39562926,False,False,False,False
+Banca Afirme,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.3900267,False,False,False,False
+Banca Afirme,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.38973117,False,False,False,False
+Banca Afirme,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.38663456,False,False,False,False
+Banca Afirme,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.3846761,False,False,False,False
+Banca Afirme,random_he-net_20251129T172135.png,RANDOM,unknown,0.38074732,False,False,False,False
+Banca Afirme,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.37803653,False,False,False,False
+Banca Afirme,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.37776235,False,False,False,False
+Banca Afirme,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.37166256,False,False,False,False
+Banca Afirme,random_health-mil_20251129T163619.png,RANDOM,unknown,0.36216432,False,False,False,False
+Banca Afirme,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.35527402,False,False,False,False
+Banca Afirme,random_poki-com_20251129T180027.png,RANDOM,unknown,0.34521893,False,False,False,False
+Banca Afirme,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.31447765,False,False,False,False
+Banca Afirme,random_threads-com_20251129T174157.png,RANDOM,unknown,0.24114735,False,False,False,False

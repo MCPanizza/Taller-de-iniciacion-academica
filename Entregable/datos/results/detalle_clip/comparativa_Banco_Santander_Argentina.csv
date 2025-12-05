@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+Banco Santander Argentina,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,1.0000001,True,True,False,True
+Banco Santander Argentina,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.9471859,True,True,False,False
+Banco Santander Argentina,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.94081354,True,True,False,False
+Banco Santander Argentina,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.9366423,True,True,False,False
+Banco Santander Argentina,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.93297046,True,True,False,False
+Banco Santander Argentina,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.92138946,True,True,False,False
+Banco Santander Argentina,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.92107284,True,True,False,False
+Banco Santander Argentina,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.90313566,True,True,False,False
+Banco Santander Argentina,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.9018334,True,True,False,False
+Banco Santander Argentina,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.87478876,True,True,False,False
+Banco Santander Argentina,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.8033364,True,True,False,False
+Banco Santander Argentina,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.7995193,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.79587066,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.79560643,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.78743744,False,False,False,False
+Banco Santander Argentina,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.7852017,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.7830234,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.78240234,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.77986586,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.77569383,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7740626,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.7723516,False,False,False,False
+Banco Santander Argentina,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.7648691,False,False,False,False
+Banco Santander Argentina,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.7636945,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.760379,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.75854164,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.7575203,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7555108,False,False,False,False
+Banco Santander Argentina,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.75435543,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7527045,False,False,False,False
+Banco Santander Argentina,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.7498992,False,False,False,False
+Banco Santander Argentina,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.74882686,False,False,False,False
+Banco Santander Argentina,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7482501,False,False,False,False
+Banco Santander Argentina,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.74801815,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.74124026,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.73907673,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7380462,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.73480445,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7323545,False,False,False,False
+Banco Santander Argentina,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.73119843,False,False,False,False
+Banco Santander Argentina,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.7288139,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.72848666,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7278497,False,False,False,False
+Banco Santander Argentina,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7274594,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.727155,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7252822,False,False,False,False
+Banco Santander Argentina,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.72521746,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.72454476,False,False,False,False
+Banco Santander Argentina,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.7233764,False,False,False,False
+Banco Santander Argentina,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.7227979,False,False,False,False
+Banco Santander Argentina,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.7218089,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.7213496,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7210427,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7189198,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7178917,False,False,False,False
+Banco Santander Argentina,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.71759343,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.71687585,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7168724,False,False,False,False
+Banco Santander Argentina,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.71649337,False,False,False,False
+Banco Santander Argentina,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.7162451,False,False,False,False
+Banco Santander Argentina,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.71597564,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.715865,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.71408546,False,False,False,False
+Banco Santander Argentina,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.71355534,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.71333325,False,False,False,False
+Banco Santander Argentina,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7130612,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.7124833,False,False,False,False
+Banco Santander Argentina,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.71157044,False,False,False,False
+Banco Santander Argentina,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.7112254,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.7106725,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7105231,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.710095,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.70960826,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7090872,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.7087976,False,False,False,False
+Banco Santander Argentina,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7071141,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.70638794,False,False,False,False
+Banco Santander Argentina,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.7063366,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.70600873,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.70579016,False,False,False,False
+Banco Santander Argentina,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7056304,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.70558894,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7054485,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.7037703,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.70375097,False,False,False,False
+Banco Santander Argentina,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.7033616,False,False,False,False
+Banco Santander Argentina,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.70247996,False,False,False,False
+Banco Santander Argentina,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.70184255,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.7017689,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6996465,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.6991067,False,False,False,False
+Banco Santander Argentina,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.6988831,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6984061,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6982678,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6976909,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.69727325,False,False,False,False
+Banco Santander Argentina,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.6972559,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.69691026,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.69687355,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6967461,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6962444,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6955858,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.69524705,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.69503343,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.694421,False,False,False,False
+Banco Santander Argentina,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.6940536,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.6938902,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.69364226,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6935859,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6935796,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.69310987,False,False,False,False
+Banco Santander Argentina,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.69304144,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.69285154,False,False,False,False
+Banco Santander Argentina,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.69256973,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.69233274,False,False,False,False
+Banco Santander Argentina,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.69218767,False,False,False,False
+Banco Santander Argentina,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.69205916,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6920359,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.69198805,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6919018,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.69152725,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.69144094,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6911928,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6908487,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6908323,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6904826,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6899791,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6896807,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6896758,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6894389,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6890893,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6886805,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.68845606,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6883111,False,False,False,False
+Banco Santander Argentina,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.68813324,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6880995,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.68800545,False,False,False,False
+Banco Santander Argentina,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.6873432,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.68720067,False,False,False,False
+Banco Santander Argentina,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.68719566,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6865157,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6859429,False,False,False,False
+Banco Santander Argentina,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6853572,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6847166,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6837488,False,False,False,False
+Banco Santander Argentina,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6835806,False,False,False,False
+Banco Santander Argentina,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.6833277,False,False,False,False
+Banco Santander Argentina,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.6832175,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.683205,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.68302083,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6825281,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.68172306,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.68088263,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.68047464,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.6803497,False,False,False,False
+Banco Santander Argentina,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.6799408,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.67984444,False,False,False,False
+Banco Santander Argentina,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.67953664,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6794297,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6794069,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6792159,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6792077,False,False,False,False
+Banco Santander Argentina,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.6791036,False,False,False,False
+Banco Santander Argentina,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.678925,False,False,False,False
+Banco Santander Argentina,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.6783284,False,False,False,False
+Banco Santander Argentina,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.6782446,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.6779515,False,False,False,False
+Banco Santander Argentina,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.6778172,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.67740667,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6773821,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.6771442,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.67660475,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6765236,False,False,False,False
+Banco Santander Argentina,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.67640996,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.6756104,False,False,False,False
+Banco Santander Argentina,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.6751355,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6751106,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6746206,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6741214,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.67405295,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.67360425,False,False,False,False
+Banco Santander Argentina,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.6727386,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.67205507,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6720182,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6714165,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6704818,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6702634,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6694737,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.66941726,False,False,False,False
+Banco Santander Argentina,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.66938096,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.6693511,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.66850996,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.66841424,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6681771,False,False,False,False
+Banco Santander Argentina,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.6665345,False,False,False,False
+Banco Santander Argentina,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.6664822,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.66625684,False,False,False,False
+Banco Santander Argentina,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.6647043,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.66443634,False,False,False,False
+Banco Santander Argentina,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.6643436,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.6636823,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.66345996,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6632503,False,False,False,False
+Banco Santander Argentina,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.6626188,False,False,False,False
+Banco Santander Argentina,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.66231,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.66148996,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.66090137,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.6606006,False,False,False,False
+Banco Santander Argentina,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.6601901,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.66009367,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6590984,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.65883803,False,False,False,False
+Banco Santander Argentina,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6583098,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.6580434,False,False,False,False
+Banco Santander Argentina,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.65784097,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.6578034,False,False,False,False
+Banco Santander Argentina,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.65764487,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6561129,False,False,False,False
+Banco Santander Argentina,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.65509766,False,False,False,False
+Banco Santander Argentina,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.65429926,False,False,False,False
+Banco Santander Argentina,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6542109,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.6511966,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.65091085,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.64892805,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6487695,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.64815736,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.64688396,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.646851,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6459958,False,False,False,False
+Banco Santander Argentina,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.64501065,False,False,False,False
+Banco Santander Argentina,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.6443951,False,False,False,False
+Banco Santander Argentina,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.6443867,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.64318,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6431732,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.64173865,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6416522,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.6415331,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.64126474,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6409954,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.64040565,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6397029,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.63825595,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.6380643,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.63802683,False,False,False,False
+Banco Santander Argentina,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.6358191,False,False,False,False
+Banco Santander Argentina,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.63529664,False,False,False,False
+Banco Santander Argentina,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.6349764,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.63475204,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.63444936,False,False,False,False
+Banco Santander Argentina,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.63376796,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.63329744,False,False,False,False
+Banco Santander Argentina,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.6331152,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.63311243,False,False,False,False
+Banco Santander Argentina,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.6323751,False,False,False,False
+Banco Santander Argentina,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.6321013,False,False,False,False
+Banco Santander Argentina,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.6321008,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.63116175,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6300907,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.63004446,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.62948155,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.62933576,False,False,False,False
+Banco Santander Argentina,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.6286487,False,False,False,False
+Banco Santander Argentina,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.62806714,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6268776,False,False,False,False
+Banco Santander Argentina,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.6267861,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.6265443,False,False,False,False
+Banco Santander Argentina,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.62646246,False,False,False,False
+Banco Santander Argentina,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.6256575,False,False,False,False
+Banco Santander Argentina,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.62500334,False,False,False,False
+Banco Santander Argentina,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6247607,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6245342,False,False,False,False
+Banco Santander Argentina,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.62420416,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.62404776,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.62389505,False,False,False,False
+Banco Santander Argentina,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.62359756,False,False,False,False
+Banco Santander Argentina,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.623026,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6225518,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.62180114,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6217395,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.62158966,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6214522,False,False,False,False
+Banco Santander Argentina,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.6204132,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6202805,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.62026966,False,False,False,False
+Banco Santander Argentina,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.6196229,False,False,False,False
+Banco Santander Argentina,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.6191033,False,False,False,False
+Banco Santander Argentina,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.61889815,False,False,False,False
+Banco Santander Argentina,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.61815584,False,False,False,False
+Banco Santander Argentina,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.6181207,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6181151,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.61683804,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.61683583,False,False,False,False
+Banco Santander Argentina,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.6167666,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6150649,False,False,False,False
+Banco Santander Argentina,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.614989,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.61484087,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6145737,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.6144986,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6142882,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.61374587,False,False,False,False
+Banco Santander Argentina,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.6123018,False,False,False,False
+Banco Santander Argentina,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.6122146,False,False,False,False
+Banco Santander Argentina,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.61200905,False,False,False,False
+Banco Santander Argentina,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.61160696,False,False,False,False
+Banco Santander Argentina,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.6114763,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6113785,False,False,False,False
+Banco Santander Argentina,random_msn-com_20251129T162722.png,RANDOM,unknown,0.6113725,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6097213,False,False,False,False
+Banco Santander Argentina,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.60939324,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6093806,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.609077,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6088623,False,False,False,False
+Banco Santander Argentina,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.60861975,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6086,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.60814166,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.6079252,False,False,False,False
+Banco Santander Argentina,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.6073633,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6071679,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.60710716,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.6070634,False,False,False,False
+Banco Santander Argentina,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.6070583,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6069417,False,False,False,False
+Banco Santander Argentina,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,0.6065593,False,False,False,False
+Banco Santander Argentina,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.6058316,False,False,False,False
+Banco Santander Argentina,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.6054487,False,False,False,False
+Banco Santander Argentina,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.60534525,False,False,False,False
+Banco Santander Argentina,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.6052766,False,False,False,False
+Banco Santander Argentina,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.6046264,False,False,False,False
+Banco Santander Argentina,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.6044959,False,False,False,False
+Banco Santander Argentina,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.6044768,False,False,False,False
+Banco Santander Argentina,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.6043558,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.60428524,False,False,False,False
+Banco Santander Argentina,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.60278165,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6022308,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.60148764,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6008918,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.6007946,False,False,False,False
+Banco Santander Argentina,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.60060537,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6004221,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.6001407,False,False,False,False
+Banco Santander Argentina,random_marca-com_20251129T175532.png,RANDOM,unknown,0.60001326,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.59989065,False,False,False,False
+Banco Santander Argentina,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.5984429,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.59820443,False,False,False,False
+Banco Santander Argentina,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.598133,False,False,False,False
+Banco Santander Argentina,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.5975122,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.59698725,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.59682846,False,False,False,False
+Banco Santander Argentina,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.59550315,False,False,False,False
+Banco Santander Argentina,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.5948143,False,False,False,False
+Banco Santander Argentina,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.5946126,False,False,False,False
+Banco Santander Argentina,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.5941721,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.5937685,False,False,False,False
+Banco Santander Argentina,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.5935643,False,False,False,False
+Banco Santander Argentina,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.5934494,False,False,False,False
+Banco Santander Argentina,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.59244466,False,False,False,False
+Banco Santander Argentina,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.5922414,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5921958,False,False,False,False
+Banco Santander Argentina,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.59176326,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.59133995,False,False,False,False
+Banco Santander Argentina,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.5911832,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5900843,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.5893723,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.58908534,False,False,False,False
+Banco Santander Argentina,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.5890683,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5886272,False,False,False,False
+Banco Santander Argentina,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.5880421,False,False,False,False
+Banco Santander Argentina,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.5876319,False,False,False,False
+Banco Santander Argentina,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.58758175,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5872294,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.5861639,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5860455,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.58590096,False,False,False,False
+Banco Santander Argentina,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.5854864,False,False,False,False
+Banco Santander Argentina,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.58518434,False,False,False,False
+Banco Santander Argentina,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.5849182,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5847539,False,False,False,False
+Banco Santander Argentina,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.584318,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.58390933,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5835681,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5834906,False,False,False,False
+Banco Santander Argentina,random_g-page_20251129T170201.png,RANDOM,unknown,0.5831647,False,False,False,False
+Banco Santander Argentina,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.5830492,False,False,False,False
+Banco Santander Argentina,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.5827478,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.5825072,False,False,False,False
+Banco Santander Argentina,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.5821603,False,False,False,False
+Banco Santander Argentina,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5817447,False,False,False,False
+Banco Santander Argentina,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.5804649,False,False,False,False
+Banco Santander Argentina,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.5803267,False,False,False,False
+Banco Santander Argentina,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.5801194,False,False,False,False
+Banco Santander Argentina,random_hp-com_20251129T164248.png,RANDOM,unknown,0.5796026,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5795902,False,False,False,False
+Banco Santander Argentina,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.5792135,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.57884353,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5787184,False,False,False,False
+Banco Santander Argentina,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.57871747,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5783802,False,False,False,False
+Banco Santander Argentina,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.57796687,False,False,False,False
+Banco Santander Argentina,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.5770287,False,False,False,False
+Banco Santander Argentina,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.5754374,False,False,False,False
+Banco Santander Argentina,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5745821,False,False,False,False
+Banco Santander Argentina,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.5745431,False,False,False,False
+Banco Santander Argentina,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.5745008,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.57411504,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.57405376,False,False,False,False
+Banco Santander Argentina,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.57359827,False,False,False,False
+Banco Santander Argentina,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.5735908,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5722846,False,False,False,False
+Banco Santander Argentina,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.57224524,False,False,False,False
+Banco Santander Argentina,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.5716363,False,False,False,False
+Banco Santander Argentina,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.5715307,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5708467,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5704367,False,False,False,False
+Banco Santander Argentina,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.5702238,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.57006156,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5700505,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.569845,False,False,False,False
+Banco Santander Argentina,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.5695744,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.569425,False,False,False,False
+Banco Santander Argentina,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.5689866,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.56695485,False,False,False,False
+Banco Santander Argentina,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.56682616,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5662377,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.56554294,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5652863,False,False,False,False
+Banco Santander Argentina,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.5651968,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5648798,False,False,False,False
+Banco Santander Argentina,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.56479084,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.56469524,False,False,False,False
+Banco Santander Argentina,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.564363,False,False,False,False
+Banco Santander Argentina,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.5639849,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.56304836,False,False,False,False
+Banco Santander Argentina,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.56286144,False,False,False,False
+Banco Santander Argentina,random_android-com_20251129T163812.png,RANDOM,unknown,0.5626583,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5625314,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5620024,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.56102735,False,False,False,False
+Banco Santander Argentina,random_google-com_20251129T162253.png,RANDOM,unknown,0.5602641,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.56001943,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5598858,False,False,False,False
+Banco Santander Argentina,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5596489,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5595025,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.5593264,False,False,False,False
+Banco Santander Argentina,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.55928034,False,False,False,False
+Banco Santander Argentina,random_brave-com_20251129T172325.png,RANDOM,unknown,0.559233,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5583079,False,False,False,False
+Banco Santander Argentina,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.55772376,False,False,False,False
+Banco Santander Argentina,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.55767524,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5574658,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.5573553,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5566221,False,False,False,False
+Banco Santander Argentina,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.5565604,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.5565288,False,False,False,False
+Banco Santander Argentina,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.556442,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.555904,False,False,False,False
+Banco Santander Argentina,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.554718,False,False,False,False
+Banco Santander Argentina,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.553545,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5534924,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5533993,False,False,False,False
+Banco Santander Argentina,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5530156,False,False,False,False
+Banco Santander Argentina,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.55286056,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5523038,False,False,False,False
+Banco Santander Argentina,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.55220836,False,False,False,False
+Banco Santander Argentina,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.55214536,False,False,False,False
+Banco Santander Argentina,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.5518372,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.5518105,False,False,False,False
+Banco Santander Argentina,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.5517944,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.551255,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.55113006,False,False,False,False
+Banco Santander Argentina,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.55044526,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5497341,False,False,False,False
+Banco Santander Argentina,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.54958975,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.54957247,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5492264,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5486642,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5484936,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.54847825,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.54776263,False,False,False,False
+Banco Santander Argentina,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.5476291,False,False,False,False
+Banco Santander Argentina,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.5475298,False,False,False,False
+Banco Santander Argentina,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.54702926,False,False,False,False
+Banco Santander Argentina,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.54701567,False,False,False,False
+Banco Santander Argentina,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.5469227,False,False,False,False
+Banco Santander Argentina,random_abc-es_20251129T175348.png,RANDOM,unknown,0.5457609,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.5449467,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.54458857,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5442584,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.54300773,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.54256797,False,False,False,False
+Banco Santander Argentina,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.5425583,False,False,False,False
+Banco Santander Argentina,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.5422434,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.5422292,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5420579,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5420151,False,False,False,False
+Banco Santander Argentina,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.5419936,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.5419865,False,False,False,False
+Banco Santander Argentina,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.5413238,False,False,False,False
+Banco Santander Argentina,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.54129815,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.54085076,False,False,False,False
+Banco Santander Argentina,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.54078627,False,False,False,False
+Banco Santander Argentina,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.54064214,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.54057544,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.5404705,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.54042697,False,False,False,False
+Banco Santander Argentina,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.53997165,False,False,False,False
+Banco Santander Argentina,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.53876233,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5383685,False,False,False,False
+Banco Santander Argentina,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.53785723,False,False,False,False
+Banco Santander Argentina,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.53766155,False,False,False,False
+Banco Santander Argentina,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5374567,False,False,False,False
+Banco Santander Argentina,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.5373585,False,False,False,False
+Banco Santander Argentina,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.53720415,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.53708446,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.53698707,False,False,False,False
+Banco Santander Argentina,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.5362179,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5360508,False,False,False,False
+Banco Santander Argentina,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.53583705,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.53583574,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5353953,False,False,False,False
+Banco Santander Argentina,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.5351643,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.53504944,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.5346913,False,False,False,False
+Banco Santander Argentina,random_forter-com_20251129T164642.png,RANDOM,unknown,0.53420436,False,False,False,False
+Banco Santander Argentina,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.53377527,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.53348625,False,False,False,False
+Banco Santander Argentina,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.5334029,False,False,False,False
+Banco Santander Argentina,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.5333704,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5330603,False,False,False,False
+Banco Santander Argentina,random_avast-com_20251129T164855.png,RANDOM,unknown,0.5324621,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.53205824,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.53143203,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5303271,False,False,False,False
+Banco Santander Argentina,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5291136,False,False,False,False
+Banco Santander Argentina,random_att-com_20251129T180955.png,RANDOM,unknown,0.52893496,False,False,False,False
+Banco Santander Argentina,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.5287764,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.52843034,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5284009,False,False,False,False
+Banco Santander Argentina,random_change-org_20251129T173929.png,RANDOM,unknown,0.5275589,False,False,False,False
+Banco Santander Argentina,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5272672,False,False,False,False
+Banco Santander Argentina,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.5269467,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5265106,False,False,False,False
+Banco Santander Argentina,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.5263773,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5255908,False,False,False,False
+Banco Santander Argentina,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.52480805,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.5246937,False,False,False,False
+Banco Santander Argentina,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5245303,False,False,False,False
+Banco Santander Argentina,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.52450943,False,False,False,False
+Banco Santander Argentina,random_target-com_20251129T171437.png,RANDOM,unknown,0.52441394,False,False,False,False
+Banco Santander Argentina,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.5242544,False,False,False,False
+Banco Santander Argentina,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.5241815,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.5241211,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.52320844,False,False,False,False
+Banco Santander Argentina,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.52315927,False,False,False,False
+Banco Santander Argentina,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.5230061,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5228922,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5225346,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.52244806,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5221684,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5220975,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.52191234,False,False,False,False
+Banco Santander Argentina,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.52165306,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5214437,False,False,False,False
+Banco Santander Argentina,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.52086884,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.52064747,False,False,False,False
+Banco Santander Argentina,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.5203123,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5199878,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.51993227,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5196045,False,False,False,False
+Banco Santander Argentina,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.5194612,False,False,False,False
+Banco Santander Argentina,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5190949,False,False,False,False
+Banco Santander Argentina,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.51904666,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.5182975,False,False,False,False
+Banco Santander Argentina,random_temu-com_20251129T165219.png,RANDOM,unknown,0.5172888,False,False,False,False
+Banco Santander Argentina,random_notion-so_20251129T180340.png,RANDOM,unknown,0.51721114,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5163841,False,False,False,False
+Banco Santander Argentina,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.516064,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.5157635,False,False,False,False
+Banco Santander Argentina,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.51540786,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.5151993,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.514866,False,False,False,False
+Banco Santander Argentina,random_weather-com_20251129T164102.png,RANDOM,unknown,0.51465964,False,False,False,False
+Banco Santander Argentina,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.5144583,False,False,False,False
+Banco Santander Argentina,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.5143138,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.51387435,False,False,False,False
+Banco Santander Argentina,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.5131242,False,False,False,False
+Banco Santander Argentina,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.51282525,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.51241946,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.51230043,False,False,False,False
+Banco Santander Argentina,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.51160824,False,False,False,False
+Banco Santander Argentina,random_braze-com_20251129T171458.png,RANDOM,unknown,0.5113901,False,False,False,False
+Banco Santander Argentina,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.5105409,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.5103819,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.51035845,False,False,False,False
+Banco Santander Argentina,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.5101316,False,False,False,False
+Banco Santander Argentina,random_intel-com_20251129T171229.png,RANDOM,unknown,0.50976014,False,False,False,False
+Banco Santander Argentina,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.5095823,False,False,False,False
+Banco Santander Argentina,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.50953376,False,False,False,False
+Banco Santander Argentina,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.5093949,False,False,False,False
+Banco Santander Argentina,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.5093205,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.50866294,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.50728154,False,False,False,False
+Banco Santander Argentina,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.5070509,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.5062842,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.50615716,False,False,False,False
+Banco Santander Argentina,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.50611174,False,False,False,False
+Banco Santander Argentina,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.50592315,False,False,False,False
+Banco Santander Argentina,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.50586283,False,False,False,False
+Banco Santander Argentina,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.5053245,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5051292,False,False,False,False
+Banco Santander Argentina,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.50463134,False,False,False,False
+Banco Santander Argentina,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.504202,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.50415564,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.5041517,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.5040811,False,False,False,False
+Banco Santander Argentina,random_eset-com_20251129T171424.png,RANDOM,unknown,0.50385654,False,False,False,False
+Banco Santander Argentina,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.50373137,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.50347126,False,False,False,False
+Banco Santander Argentina,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.50223,False,False,False,False
+Banco Santander Argentina,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.5021065,False,False,False,False
+Banco Santander Argentina,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.50203836,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.50201255,False,False,False,False
+Banco Santander Argentina,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.5018293,False,False,False,False
+Banco Santander Argentina,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.5017189,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5017149,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5014856,False,False,False,False
+Banco Santander Argentina,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.50130665,False,False,False,False
+Banco Santander Argentina,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.50125694,False,False,False,False
+Banco Santander Argentina,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.5010051,False,False,False,False
+Banco Santander Argentina,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.5002786,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.50016195,False,False,False,False
+Banco Santander Argentina,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.49901766,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.49896455,False,False,False,False
+Banco Santander Argentina,random_substack-com_20251129T171941.png,RANDOM,unknown,0.49871415,False,False,False,False
+Banco Santander Argentina,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.49843472,False,False,False,False
+Banco Santander Argentina,random_character-ai_20251129T174433.png,RANDOM,unknown,0.4982233,False,False,False,False
+Banco Santander Argentina,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.49800855,False,False,False,False
+Banco Santander Argentina,random_gov-br_20251129T174615.png,RANDOM,unknown,0.4976704,False,False,False,False
+Banco Santander Argentina,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.49718076,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.4967026,False,False,False,False
+Banco Santander Argentina,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.49575028,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.4953918,False,False,False,False
+Banco Santander Argentina,random_ring-com_20251129T172743.png,RANDOM,unknown,0.49499524,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.4948211,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.49464467,False,False,False,False
+Banco Santander Argentina,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.49447742,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.49416232,False,False,False,False
+Banco Santander Argentina,random_split-io_20251129T175048.png,RANDOM,unknown,0.4941179,False,False,False,False
+Banco Santander Argentina,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.49399334,False,False,False,False
+Banco Santander Argentina,random_wix-com_20251129T171207.png,RANDOM,unknown,0.493362,False,False,False,False
+Banco Santander Argentina,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.49303415,False,False,False,False
+Banco Santander Argentina,random_uber-com_20251129T170129.png,RANDOM,unknown,0.49188417,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.49087012,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.49082956,False,False,False,False
+Banco Santander Argentina,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.4906395,False,False,False,False
+Banco Santander Argentina,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.49044767,False,False,False,False
+Banco Santander Argentina,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.49023688,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.48954314,False,False,False,False
+Banco Santander Argentina,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.48886937,False,False,False,False
+Banco Santander Argentina,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.48878318,False,False,False,False
+Banco Santander Argentina,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.48858273,False,False,False,False
+Banco Santander Argentina,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.48830378,False,False,False,False
+Banco Santander Argentina,random_viber-com_20251129T172210.png,RANDOM,unknown,0.48823446,False,False,False,False
+Banco Santander Argentina,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.48808163,False,False,False,False
+Banco Santander Argentina,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.48803473,False,False,False,False
+Banco Santander Argentina,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.4875515,False,False,False,False
+Banco Santander Argentina,random_finn-no_20251129T180303.png,RANDOM,unknown,0.48739755,False,False,False,False
+Banco Santander Argentina,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.48717365,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.48669043,False,False,False,False
+Banco Santander Argentina,random_skype-com_20251129T162718.png,RANDOM,unknown,0.4866299,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.48654523,False,False,False,False
+Banco Santander Argentina,random_opera-com_20251129T163028.png,RANDOM,unknown,0.48597005,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.4855197,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.48547414,False,False,False,False
+Banco Santander Argentina,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.48508543,False,False,False,False
+Banco Santander Argentina,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.48491496,False,False,False,False
+Banco Santander Argentina,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.4848572,False,False,False,False
+Banco Santander Argentina,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.48465794,False,False,False,False
+Banco Santander Argentina,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.4846148,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.4840765,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.48406357,False,False,False,False
+Banco Santander Argentina,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.4840201,False,False,False,False
+Banco Santander Argentina,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.48369697,False,False,False,False
+Banco Santander Argentina,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.4836573,False,False,False,False
+Banco Santander Argentina,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.48330802,False,False,False,False
+Banco Santander Argentina,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.48245782,False,False,False,False
+Banco Santander Argentina,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.48217982,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.48143375,False,False,False,False
+Banco Santander Argentina,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.48128635,False,False,False,False
+Banco Santander Argentina,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.48084274,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.48059225,False,False,False,False
+Banco Santander Argentina,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.47997785,False,False,False,False
+Banco Santander Argentina,random_att-net_20251129T170227.png,RANDOM,unknown,0.4796993,False,False,False,False
+Banco Santander Argentina,random_office365-com_20251129T162902.png,RANDOM,unknown,0.4796639,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.47916898,False,False,False,False
+Banco Santander Argentina,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.47842067,False,False,False,False
+Banco Santander Argentina,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.47817272,False,False,False,False
+Banco Santander Argentina,random_moe-video_20251129T164430.png,RANDOM,unknown,0.47758272,False,False,False,False
+Banco Santander Argentina,random_segment-io_20251129T174400.png,RANDOM,unknown,0.4770463,False,False,False,False
+Banco Santander Argentina,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.47688174,False,False,False,False
+Banco Santander Argentina,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.47659296,False,False,False,False
+Banco Santander Argentina,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.475818,False,False,False,False
+Banco Santander Argentina,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.4757099,False,False,False,False
+Banco Santander Argentina,random_vk-com_20251129T163202.png,RANDOM,unknown,0.47529048,False,False,False,False
+Banco Santander Argentina,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.47489107,False,False,False,False
+Banco Santander Argentina,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.47439024,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.4734231,False,False,False,False
+Banco Santander Argentina,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.47340876,False,False,False,False
+Banco Santander Argentina,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.47152442,False,False,False,False
+Banco Santander Argentina,random_360-cn_20251129T173141.png,RANDOM,unknown,0.47143814,False,False,False,False
+Banco Santander Argentina,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.47141263,False,False,False,False
+Banco Santander Argentina,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.4709094,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.4707827,False,False,False,False
+Banco Santander Argentina,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.46942046,False,False,False,False
+Banco Santander Argentina,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.4684366,False,False,False,False
+Banco Santander Argentina,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.46828946,False,False,False,False
+Banco Santander Argentina,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.46822354,False,False,False,False
+Banco Santander Argentina,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.46819592,False,False,False,False
+Banco Santander Argentina,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.46769345,False,False,False,False
+Banco Santander Argentina,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.46757987,False,False,False,False
+Banco Santander Argentina,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.4673884,False,False,False,False
+Banco Santander Argentina,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.46707466,False,False,False,False
+Banco Santander Argentina,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.46678495,False,False,False,False
+Banco Santander Argentina,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.46600974,False,False,False,False
+Banco Santander Argentina,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.46592504,False,False,False,False
+Banco Santander Argentina,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.46568245,False,False,False,False
+Banco Santander Argentina,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.46537864,False,False,False,False
+Banco Santander Argentina,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.4653474,False,False,False,False
+Banco Santander Argentina,random_docker-com_20251129T170827.png,RANDOM,unknown,0.46520114,False,False,False,False
+Banco Santander Argentina,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.46452087,False,False,False,False
+Banco Santander Argentina,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.46447408,False,False,False,False
+Banco Santander Argentina,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.4644424,False,False,False,False
+Banco Santander Argentina,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.4641022,False,False,False,False
+Banco Santander Argentina,random_xing-com_20251129T175042.png,RANDOM,unknown,0.4640556,False,False,False,False
+Banco Santander Argentina,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.4631341,False,False,False,False
+Banco Santander Argentina,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.4629512,False,False,False,False
+Banco Santander Argentina,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.46228722,False,False,False,False
+Banco Santander Argentina,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.46211004,False,False,False,False
+Banco Santander Argentina,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.46179658,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.46126732,False,False,False,False
+Banco Santander Argentina,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.4612072,False,False,False,False
+Banco Santander Argentina,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.46059152,False,False,False,False
+Banco Santander Argentina,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.4595963,False,False,False,False
+Banco Santander Argentina,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.4593814,False,False,False,False
+Banco Santander Argentina,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.45935965,False,False,False,False
+Banco Santander Argentina,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.45925778,False,False,False,False
+Banco Santander Argentina,random_bild-de_20251129T173827.png,RANDOM,unknown,0.45851672,False,False,False,False
+Banco Santander Argentina,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.4585026,False,False,False,False
+Banco Santander Argentina,random_vg-no_20251129T180754.png,RANDOM,unknown,0.45745468,False,False,False,False
+Banco Santander Argentina,random_as-com_20251129T175716.png,RANDOM,unknown,0.457021,False,False,False,False
+Banco Santander Argentina,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.4569019,False,False,False,False
+Banco Santander Argentina,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.45669794,False,False,False,False
+Banco Santander Argentina,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.456664,False,False,False,False
+Banco Santander Argentina,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.45661998,False,False,False,False
+Banco Santander Argentina,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.45538226,False,False,False,False
+Banco Santander Argentina,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.4551167,False,False,False,False
+Banco Santander Argentina,random_synology-com_20251129T173948.png,RANDOM,unknown,0.45504892,False,False,False,False
+Banco Santander Argentina,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.45496517,False,False,False,False
+Banco Santander Argentina,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.45461637,False,False,False,False
+Banco Santander Argentina,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.4529919,False,False,False,False
+Banco Santander Argentina,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.45298034,False,False,False,False
+Banco Santander Argentina,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.45274216,False,False,False,False
+Banco Santander Argentina,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.4525972,False,False,False,False
+Banco Santander Argentina,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.4525248,False,False,False,False
+Banco Santander Argentina,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.45240968,False,False,False,False
+Banco Santander Argentina,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.4524075,False,False,False,False
+Banco Santander Argentina,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.4520768,False,False,False,False
+Banco Santander Argentina,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.45190105,False,False,False,False
+Banco Santander Argentina,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.45145372,False,False,False,False
+Banco Santander Argentina,random_t-me_20251129T163150.png,RANDOM,unknown,0.45122606,False,False,False,False
+Banco Santander Argentina,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.45115852,False,False,False,False
+Banco Santander Argentina,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.45074365,False,False,False,False
+Banco Santander Argentina,random_media-net_20251129T164538.png,RANDOM,unknown,0.45048082,False,False,False,False
+Banco Santander Argentina,random_aol-com_20251129T170152.png,RANDOM,unknown,0.4504038,False,False,False,False
+Banco Santander Argentina,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.45039403,False,False,False,False
+Banco Santander Argentina,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.44967958,False,False,False,False
+Banco Santander Argentina,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.44934583,False,False,False,False
+Banco Santander Argentina,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.4490223,False,False,False,False
+Banco Santander Argentina,random_daum-net_20251129T174537.png,RANDOM,unknown,0.4489571,False,False,False,False
+Banco Santander Argentina,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.44888994,False,False,False,False
+Banco Santander Argentina,random_apa-org_20251129T180433.png,RANDOM,unknown,0.44888192,False,False,False,False
+Banco Santander Argentina,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.4481954,False,False,False,False
+Banco Santander Argentina,random_qq-com_20251129T162834.png,RANDOM,unknown,0.4478723,False,False,False,False
+Banco Santander Argentina,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.4477238,False,False,False,False
+Banco Santander Argentina,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.4475832,False,False,False,False
+Banco Santander Argentina,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.44735885,False,False,False,False
+Banco Santander Argentina,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.44671652,False,False,False,False
+Banco Santander Argentina,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.4461088,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.44596833,False,False,False,False
+Banco Santander Argentina,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.44594222,False,False,False,False
+Banco Santander Argentina,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.44527832,False,False,False,False
+Banco Santander Argentina,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.44454193,False,False,False,False
+Banco Santander Argentina,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.44414544,False,False,False,False
+Banco Santander Argentina,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.44410515,False,False,False,False
+Banco Santander Argentina,random_figma-com_20251129T173914.png,RANDOM,unknown,0.44400114,False,False,False,False
+Banco Santander Argentina,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.4436864,False,False,False,False
+Banco Santander Argentina,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.4436734,False,False,False,False
+Banco Santander Argentina,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.44365644,False,False,False,False
+Banco Santander Argentina,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.44350636,False,False,False,False
+Banco Santander Argentina,random_wise-com_20251129T180312.png,RANDOM,unknown,0.44334912,False,False,False,False
+Banco Santander Argentina,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.4431951,False,False,False,False
+Banco Santander Argentina,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.44315785,False,False,False,False
+Banco Santander Argentina,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.4426758,False,False,False,False
+Banco Santander Argentina,random_globo-com_20251129T165541.png,RANDOM,unknown,0.44205964,False,False,False,False
+Banco Santander Argentina,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.44195396,False,False,False,False
+Banco Santander Argentina,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.44164604,False,False,False,False
+Banco Santander Argentina,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.44139627,False,False,False,False
+Banco Santander Argentina,random_branch-io_20251129T171524.png,RANDOM,unknown,0.44084686,False,False,False,False
+Banco Santander Argentina,random_line-me_20251129T170140.png,RANDOM,unknown,0.44080922,False,False,False,False
+Banco Santander Argentina,random_canva-com_20251129T164231.png,RANDOM,unknown,0.44010454,False,False,False,False
+Banco Santander Argentina,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.4399835,False,False,False,False
+Banco Santander Argentina,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.4399412,False,False,False,False
+Banco Santander Argentina,random_free-fr_20251129T171241.png,RANDOM,unknown,0.4396162,False,False,False,False
+Banco Santander Argentina,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.4393423,False,False,False,False
+Banco Santander Argentina,random_github-io_20251129T163235.png,RANDOM,unknown,0.43896687,False,False,False,False
+Banco Santander Argentina,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.43878466,False,False,False,False
+Banco Santander Argentina,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.43829784,False,False,False,False
+Banco Santander Argentina,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.43808782,False,False,False,False
+Banco Santander Argentina,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.43808278,False,False,False,False
+Banco Santander Argentina,random_github-com_20251129T162456.png,RANDOM,unknown,0.43774626,False,False,False,False
+Banco Santander Argentina,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.43747023,False,False,False,False
+Banco Santander Argentina,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.4369814,False,False,False,False
+Banco Santander Argentina,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.4369433,False,False,False,False
+Banco Santander Argentina,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.4368036,False,False,False,False
+Banco Santander Argentina,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.43665898,False,False,False,False
+Banco Santander Argentina,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.4365735,False,False,False,False
+Banco Santander Argentina,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.436464,False,False,False,False
+Banco Santander Argentina,random_okta-com_20251129T171946.png,RANDOM,unknown,0.43636718,False,False,False,False
+Banco Santander Argentina,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.43605298,False,False,False,False
+Banco Santander Argentina,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.43585336,False,False,False,False
+Banco Santander Argentina,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.4355245,False,False,False,False
+Banco Santander Argentina,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.43549436,False,False,False,False
+Banco Santander Argentina,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.43542895,False,False,False,False
+Banco Santander Argentina,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.4353426,False,False,False,False
+Banco Santander Argentina,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.43491918,False,False,False,False
+Banco Santander Argentina,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.4346965,False,False,False,False
+Banco Santander Argentina,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.43449765,False,False,False,False
+Banco Santander Argentina,random_example-com_20251129T163930.png,RANDOM,unknown,0.43430305,False,False,False,False
+Banco Santander Argentina,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.43382385,False,False,False,False
+Banco Santander Argentina,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.4336586,False,False,False,False
+Banco Santander Argentina,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.43333063,False,False,False,False
+Banco Santander Argentina,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.43297195,False,False,False,False
+Banco Santander Argentina,random_naver-com_20251129T164929.png,RANDOM,unknown,0.43292764,False,False,False,False
+Banco Santander Argentina,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.4322583,False,False,False,False
+Banco Santander Argentina,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.432131,False,False,False,False
+Banco Santander Argentina,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.43191105,False,False,False,False
+Banco Santander Argentina,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.43183523,False,False,False,False
+Banco Santander Argentina,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.43154973,False,False,False,False
+Banco Santander Argentina,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.43152326,False,False,False,False
+Banco Santander Argentina,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.43136576,False,False,False,False
+Banco Santander Argentina,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.43124527,False,False,False,False
+Banco Santander Argentina,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.4312436,False,False,False,False
+Banco Santander Argentina,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.43108293,False,False,False,False
+Banco Santander Argentina,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.43096602,False,False,False,False
+Banco Santander Argentina,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.43095058,False,False,False,False
+Banco Santander Argentina,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.43032607,False,False,False,False
+Banco Santander Argentina,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.43017256,False,False,False,False
+Banco Santander Argentina,random_jd-com_20251129T174954.png,RANDOM,unknown,0.42938602,False,False,False,False
+Banco Santander Argentina,random_name-com_20251129T171101.png,RANDOM,unknown,0.42931494,False,False,False,False
+Banco Santander Argentina,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.42896444,False,False,False,False
+Banco Santander Argentina,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.4287546,False,False,False,False
+Banco Santander Argentina,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.42774403,False,False,False,False
+Banco Santander Argentina,random_slack-com_20251129T164623.png,RANDOM,unknown,0.42767912,False,False,False,False
+Banco Santander Argentina,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.4275032,False,False,False,False
+Banco Santander Argentina,random_booking-com_20251129T164752.png,RANDOM,unknown,0.42740417,False,False,False,False
+Banco Santander Argentina,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.42703488,False,False,False,False
+Banco Santander Argentina,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.42699087,False,False,False,False
+Banco Santander Argentina,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.42692244,False,False,False,False
+Banco Santander Argentina,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.4265659,False,False,False,False
+Banco Santander Argentina,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.4260161,False,False,False,False
+Banco Santander Argentina,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.42565554,False,False,False,False
+Banco Santander Argentina,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.425179,False,False,False,False
+Banco Santander Argentina,random_windows-com_20251129T163112.png,RANDOM,unknown,0.42473385,False,False,False,False
+Banco Santander Argentina,random_ft-com_20251129T170724.png,RANDOM,unknown,0.42457193,False,False,False,False
+Banco Santander Argentina,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.42378062,False,False,False,False
+Banco Santander Argentina,random_note-com_20251129T174642.png,RANDOM,unknown,0.42371038,False,False,False,False
+Banco Santander Argentina,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.42246622,False,False,False,False
+Banco Santander Argentina,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.4220083,False,False,False,False
+Banco Santander Argentina,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.42181104,False,False,False,False
+Banco Santander Argentina,random_roku-com_20251129T164128.png,RANDOM,unknown,0.42165387,False,False,False,False
+Banco Santander Argentina,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.42147794,False,False,False,False
+Banco Santander Argentina,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.42120758,False,False,False,False
+Banco Santander Argentina,random_statista-com_20251129T165822.png,RANDOM,unknown,0.42059287,False,False,False,False
+Banco Santander Argentina,random_cox-net_20251129T170452.png,RANDOM,unknown,0.4200431,False,False,False,False
+Banco Santander Argentina,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.4197985,False,False,False,False
+Banco Santander Argentina,random_usps-com_20251129T173658.png,RANDOM,unknown,0.41979602,False,False,False,False
+Banco Santander Argentina,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.41965288,False,False,False,False
+Banco Santander Argentina,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.41888797,False,False,False,False
+Banco Santander Argentina,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.41789836,False,False,False,False
+Banco Santander Argentina,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.41782588,False,False,False,False
+Banco Santander Argentina,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.41744912,False,False,False,False
+Banco Santander Argentina,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.4172517,False,False,False,False
+Banco Santander Argentina,random_asus-com_20251129T172748.png,RANDOM,unknown,0.4171033,False,False,False,False
+Banco Santander Argentina,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.4170286,False,False,False,False
+Banco Santander Argentina,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.41683176,False,False,False,False
+Banco Santander Argentina,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.41643816,False,False,False,False
+Banco Santander Argentina,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.4160037,False,False,False,False
+Banco Santander Argentina,random_w3-org_20251129T163751.png,RANDOM,unknown,0.4155684,False,False,False,False
+Banco Santander Argentina,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.41550273,False,False,False,False
+Banco Santander Argentina,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.41523474,False,False,False,False
+Banco Santander Argentina,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.41520208,False,False,False,False
+Banco Santander Argentina,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.41418862,False,False,False,False
+Banco Santander Argentina,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.41400343,False,False,False,False
+Banco Santander Argentina,random_otto-de_20251129T174331.png,RANDOM,unknown,0.41342354,False,False,False,False
+Banco Santander Argentina,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.41332006,False,False,False,False
+Banco Santander Argentina,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.4131745,False,False,False,False
+Banco Santander Argentina,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.4129609,False,False,False,False
+Banco Santander Argentina,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.4122806,False,False,False,False
+Banco Santander Argentina,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.41217816,False,False,False,False
+Banco Santander Argentina,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.41151997,False,False,False,False
+Banco Santander Argentina,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.4111061,False,False,False,False
+Banco Santander Argentina,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.4105661,False,False,False,False
+Banco Santander Argentina,random_plos-org_20251129T180524.png,RANDOM,unknown,0.41017365,False,False,False,False
+Banco Santander Argentina,random_linode-com_20251129T173059.png,RANDOM,unknown,0.40975592,False,False,False,False
+Banco Santander Argentina,random_wps-com_20251129T174320.png,RANDOM,unknown,0.40962237,False,False,False,False
+Banco Santander Argentina,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.4094962,False,False,False,False
+Banco Santander Argentina,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.40949017,False,False,False,False
+Banco Santander Argentina,random_one-one_20251129T163318.png,RANDOM,unknown,0.40832442,False,False,False,False
+Banco Santander Argentina,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.40809497,False,False,False,False
+Banco Santander Argentina,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.40671954,False,False,False,False
+Banco Santander Argentina,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.40668163,False,False,False,False
+Banco Santander Argentina,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.4061318,False,False,False,False
+Banco Santander Argentina,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.40539265,False,False,False,False
+Banco Santander Argentina,random_springer-com_20251129T164823.png,RANDOM,unknown,0.40489414,False,False,False,False
+Banco Santander Argentina,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.40487155,False,False,False,False
+Banco Santander Argentina,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.40463716,False,False,False,False
+Banco Santander Argentina,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.40422195,False,False,False,False
+Banco Santander Argentina,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.4042095,False,False,False,False
+Banco Santander Argentina,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.40399477,False,False,False,False
+Banco Santander Argentina,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.4038089,False,False,False,False
+Banco Santander Argentina,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.4029745,False,False,False,False
+Banco Santander Argentina,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.40236476,False,False,False,False
+Banco Santander Argentina,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.4019708,False,False,False,False
+Banco Santander Argentina,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.4019268,False,False,False,False
+Banco Santander Argentina,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.40141153,False,False,False,False
+Banco Santander Argentina,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.40126657,False,False,False,False
+Banco Santander Argentina,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.4007799,False,False,False,False
+Banco Santander Argentina,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.40034238,False,False,False,False
+Banco Santander Argentina,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.4001412,False,False,False,False
+Banco Santander Argentina,random_ui-com_20251129T163127.png,RANDOM,unknown,0.3990634,False,False,False,False
+Banco Santander Argentina,random_f5-com_20251129T163706.png,RANDOM,unknown,0.398978,False,False,False,False
+Banco Santander Argentina,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.39792353,False,False,False,False
+Banco Santander Argentina,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.39740887,False,False,False,False
+Banco Santander Argentina,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.3973702,False,False,False,False
+Banco Santander Argentina,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.3973677,False,False,False,False
+Banco Santander Argentina,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.39709386,False,False,False,False
+Banco Santander Argentina,random_office-com_20251129T162404.png,RANDOM,unknown,0.39689273,False,False,False,False
+Banco Santander Argentina,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.39665818,False,False,False,False
+Banco Santander Argentina,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.396549,False,False,False,False
+Banco Santander Argentina,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.39639235,False,False,False,False
+Banco Santander Argentina,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.39616203,False,False,False,False
+Banco Santander Argentina,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.39588875,False,False,False,False
+Banco Santander Argentina,random_dns-google_20251129T163231.png,RANDOM,unknown,0.3957669,False,False,False,False
+Banco Santander Argentina,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.39503533,False,False,False,False
+Banco Santander Argentina,random_agora-io_20251129T175439.png,RANDOM,unknown,0.39490858,False,False,False,False
+Banco Santander Argentina,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.3945146,False,False,False,False
+Banco Santander Argentina,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.3944748,False,False,False,False
+Banco Santander Argentina,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.39411318,False,False,False,False
+Banco Santander Argentina,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.39363593,False,False,False,False
+Banco Santander Argentina,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.39327925,False,False,False,False
+Banco Santander Argentina,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.39253777,False,False,False,False
+Banco Santander Argentina,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.39245132,False,False,False,False
+Banco Santander Argentina,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.39235216,False,False,False,False
+Banco Santander Argentina,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.3922305,False,False,False,False
+Banco Santander Argentina,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.39221275,False,False,False,False
+Banco Santander Argentina,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.39159963,False,False,False,False
+Banco Santander Argentina,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.39097357,False,False,False,False
+Banco Santander Argentina,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.3907864,False,False,False,False
+Banco Santander Argentina,random_binance-com_20251129T174935.png,RANDOM,unknown,0.39064145,False,False,False,False
+Banco Santander Argentina,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.39053562,False,False,False,False
+Banco Santander Argentina,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.38996682,False,False,False,False
+Banco Santander Argentina,random_apple-com_20251129T162353.png,RANDOM,unknown,0.38914302,False,False,False,False
+Banco Santander Argentina,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.38862807,False,False,False,False
+Banco Santander Argentina,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.38802034,False,False,False,False
+Banco Santander Argentina,random_tds-net_20251129T174115.png,RANDOM,unknown,0.3879978,False,False,False,False
+Banco Santander Argentina,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.38736087,False,False,False,False
+Banco Santander Argentina,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.38708144,False,False,False,False
+Banco Santander Argentina,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.38692355,False,False,False,False
+Banco Santander Argentina,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.38689798,False,False,False,False
+Banco Santander Argentina,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.3857794,False,False,False,False
+Banco Santander Argentina,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.3855669,False,False,False,False
+Banco Santander Argentina,random_trello-com_20251129T180351.png,RANDOM,unknown,0.38523984,False,False,False,False
+Banco Santander Argentina,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.38474062,False,False,False,False
+Banco Santander Argentina,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.3845963,False,False,False,False
+Banco Santander Argentina,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.38426477,False,False,False,False
+Banco Santander Argentina,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.38399822,False,False,False,False
+Banco Santander Argentina,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.3838393,False,False,False,False
+Banco Santander Argentina,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.38378236,False,False,False,False
+Banco Santander Argentina,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.3823617,False,False,False,False
+Banco Santander Argentina,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.38218528,False,False,False,False
+Banco Santander Argentina,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.38204032,False,False,False,False
+Banco Santander Argentina,random_google-cn_20251129T172939.png,RANDOM,unknown,0.3819852,False,False,False,False
+Banco Santander Argentina,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.38188642,False,False,False,False
+Banco Santander Argentina,random_live-com_20251129T162413.png,RANDOM,unknown,0.38160464,False,False,False,False
+Banco Santander Argentina,random_miui-com_20251129T163719.png,RANDOM,unknown,0.381545,False,False,False,False
+Banco Santander Argentina,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.38134173,False,False,False,False
+Banco Santander Argentina,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.38122603,False,False,False,False
+Banco Santander Argentina,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.38108957,False,False,False,False
+Banco Santander Argentina,random_web-de_20251129T175220.png,RANDOM,unknown,0.38080493,False,False,False,False
+Banco Santander Argentina,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.3805485,False,False,False,False
+Banco Santander Argentina,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.3800102,False,False,False,False
+Banco Santander Argentina,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.37998268,False,False,False,False
+Banco Santander Argentina,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.37997437,False,False,False,False
+Banco Santander Argentina,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.37995535,False,False,False,False
+Banco Santander Argentina,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.3799516,False,False,False,False
+Banco Santander Argentina,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.37968412,False,False,False,False
+Banco Santander Argentina,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.37967464,False,False,False,False
+Banco Santander Argentina,random_chess-com_20251129T173919.png,RANDOM,unknown,0.37922242,False,False,False,False
+Banco Santander Argentina,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.37907934,False,False,False,False
+Banco Santander Argentina,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.37899923,False,False,False,False
+Banco Santander Argentina,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.37896073,False,False,False,False
+Banco Santander Argentina,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.37847027,False,False,False,False
+Banco Santander Argentina,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.37732682,False,False,False,False
+Banco Santander Argentina,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.37717915,False,False,False,False
+Banco Santander Argentina,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.37694538,False,False,False,False
+Banco Santander Argentina,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.37662563,False,False,False,False
+Banco Santander Argentina,random_npr-org_20251129T170056.png,RANDOM,unknown,0.37660286,False,False,False,False
+Banco Santander Argentina,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.3760965,False,False,False,False
+Banco Santander Argentina,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.37563926,False,False,False,False
+Banco Santander Argentina,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.37562144,False,False,False,False
+Banco Santander Argentina,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.3754037,False,False,False,False
+Banco Santander Argentina,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.37499774,False,False,False,False
+Banco Santander Argentina,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.37486005,False,False,False,False
+Banco Santander Argentina,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.37480918,False,False,False,False
+Banco Santander Argentina,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.37447295,False,False,False,False
+Banco Santander Argentina,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.37432867,False,False,False,False
+Banco Santander Argentina,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.3741576,False,False,False,False
+Banco Santander Argentina,random_t-co_20251129T163912.png,RANDOM,unknown,0.3741097,False,False,False,False
+Banco Santander Argentina,random_youku-com_20251129T174026.png,RANDOM,unknown,0.37401432,False,False,False,False
+Banco Santander Argentina,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.37396652,False,False,False,False
+Banco Santander Argentina,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.3738649,False,False,False,False
+Banco Santander Argentina,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.3736296,False,False,False,False
+Banco Santander Argentina,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.37325174,False,False,False,False
+Banco Santander Argentina,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.3732478,False,False,False,False
+Banco Santander Argentina,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.37291202,False,False,False,False
+Banco Santander Argentina,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.3724362,False,False,False,False
+Banco Santander Argentina,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.3721893,False,False,False,False
+Banco Santander Argentina,random_debian-org_20251129T164620.png,RANDOM,unknown,0.3720693,False,False,False,False
+Banco Santander Argentina,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.37190574,False,False,False,False
+Banco Santander Argentina,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.37173253,False,False,False,False
+Banco Santander Argentina,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.37115744,False,False,False,False
+Banco Santander Argentina,random_nature-com_20251129T164547.png,RANDOM,unknown,0.37107515,False,False,False,False
+Banco Santander Argentina,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.37091023,False,False,False,False
+Banco Santander Argentina,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.37088093,False,False,False,False
+Banco Santander Argentina,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.3705096,False,False,False,False
+Banco Santander Argentina,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.37033844,False,False,False,False
+Banco Santander Argentina,random_espn-com_20251129T165100.png,RANDOM,unknown,0.36968082,False,False,False,False
+Banco Santander Argentina,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.36885864,False,False,False,False
+Banco Santander Argentina,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.3687942,False,False,False,False
+Banco Santander Argentina,random_python-org_20251129T173738.png,RANDOM,unknown,0.36827812,False,False,False,False
+Banco Santander Argentina,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.36775166,False,False,False,False
+Banco Santander Argentina,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.3674805,False,False,False,False
+Banco Santander Argentina,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.36731803,False,False,False,False
+Banco Santander Argentina,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.36706322,False,False,False,False
+Banco Santander Argentina,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.3670017,False,False,False,False
+Banco Santander Argentina,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.36675492,False,False,False,False
+Banco Santander Argentina,random_discord-media_20251129T170414.png,RANDOM,unknown,0.36669844,False,False,False,False
+Banco Santander Argentina,random_time-com_20251129T170629.png,RANDOM,unknown,0.36640695,False,False,False,False
+Banco Santander Argentina,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.36639506,False,False,False,False
+Banco Santander Argentina,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.36594275,False,False,False,False
+Banco Santander Argentina,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.36553633,False,False,False,False
+Banco Santander Argentina,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.36549118,False,False,False,False
+Banco Santander Argentina,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.3654585,False,False,False,False
+Banco Santander Argentina,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.3654406,False,False,False,False
+Banco Santander Argentina,random_php-net_20251129T164521.png,RANDOM,unknown,0.36528203,False,False,False,False
+Banco Santander Argentina,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.36487755,False,False,False,False
+Banco Santander Argentina,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.36421,False,False,False,False
+Banco Santander Argentina,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.36410087,False,False,False,False
+Banco Santander Argentina,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.36350748,False,False,False,False
+Banco Santander Argentina,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.36325124,False,False,False,False
+Banco Santander Argentina,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.36308086,False,False,False,False
+Banco Santander Argentina,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.3630762,False,False,False,False
+Banco Santander Argentina,random_uk-com_20251129T171638.png,RANDOM,unknown,0.36234045,False,False,False,False
+Banco Santander Argentina,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.36199704,False,False,False,False
+Banco Santander Argentina,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.36108312,False,False,False,False
+Banco Santander Argentina,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.36101848,False,False,False,False
+Banco Santander Argentina,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.36096123,False,False,False,False
+Banco Santander Argentina,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.36069858,False,False,False,False
+Banco Santander Argentina,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.3602261,False,False,False,False
+Banco Santander Argentina,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.36003694,False,False,False,False
+Banco Santander Argentina,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.35987043,False,False,False,False
+Banco Santander Argentina,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.3598489,False,False,False,False
+Banco Santander Argentina,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.35955012,False,False,False,False
+Banco Santander Argentina,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.35948372,False,False,False,False
+Banco Santander Argentina,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.35931584,False,False,False,False
+Banco Santander Argentina,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.3588591,False,False,False,False
+Banco Santander Argentina,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.35885304,False,False,False,False
+Banco Santander Argentina,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.35859713,False,False,False,False
+Banco Santander Argentina,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.35748643,False,False,False,False
+Banco Santander Argentina,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.35713798,False,False,False,False
+Banco Santander Argentina,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.35674495,False,False,False,False
+Banco Santander Argentina,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.35614914,False,False,False,False
+Banco Santander Argentina,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.35575613,False,False,False,False
+Banco Santander Argentina,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.35548562,False,False,False,False
+Banco Santander Argentina,random_bol-com_20251129T174941.png,RANDOM,unknown,0.3549013,False,False,False,False
+Banco Santander Argentina,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.3538776,False,False,False,False
+Banco Santander Argentina,random_welt-de_20251129T173821.png,RANDOM,unknown,0.35355932,False,False,False,False
+Banco Santander Argentina,random_go-com_20251129T164609.png,RANDOM,unknown,0.35237753,False,False,False,False
+Banco Santander Argentina,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.35215938,False,False,False,False
+Banco Santander Argentina,random_nic-io_20251129T173852.png,RANDOM,unknown,0.35215676,False,False,False,False
+Banco Santander Argentina,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.35206923,False,False,False,False
+Banco Santander Argentina,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.35105383,False,False,False,False
+Banco Santander Argentina,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.35059458,False,False,False,False
+Banco Santander Argentina,random_ted-com_20251129T172015.png,RANDOM,unknown,0.3500059,False,False,False,False
+Banco Santander Argentina,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.34897068,False,False,False,False
+Banco Santander Argentina,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.3480642,False,False,False,False
+Banco Santander Argentina,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.34764344,False,False,False,False
+Banco Santander Argentina,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.34671807,False,False,False,False
+Banco Santander Argentina,random_singular-net_20251129T175446.png,RANDOM,unknown,0.3466956,False,False,False,False
+Banco Santander Argentina,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.34585848,False,False,False,False
+Banco Santander Argentina,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.34564117,False,False,False,False
+Banco Santander Argentina,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.34539592,False,False,False,False
+Banco Santander Argentina,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.3453416,False,False,False,False
+Banco Santander Argentina,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.34528702,False,False,False,False
+Banco Santander Argentina,random_shein-com_20251129T170736.png,RANDOM,unknown,0.34525284,False,False,False,False
+Banco Santander Argentina,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.34517753,False,False,False,False
+Banco Santander Argentina,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.34510598,False,False,False,False
+Banco Santander Argentina,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.3446368,False,False,False,False
+Banco Santander Argentina,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.34455982,False,False,False,False
+Banco Santander Argentina,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.3441292,False,False,False,False
+Banco Santander Argentina,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.34381935,False,False,False,False
+Banco Santander Argentina,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.343748,False,False,False,False
+Banco Santander Argentina,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.34354302,False,False,False,False
+Banco Santander Argentina,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.34263134,False,False,False,False
+Banco Santander Argentina,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.34205815,False,False,False,False
+Banco Santander Argentina,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.3417225,False,False,False,False
+Banco Santander Argentina,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.34139076,False,False,False,False
+Banco Santander Argentina,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.34136343,False,False,False,False
+Banco Santander Argentina,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.34098586,False,False,False,False
+Banco Santander Argentina,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.34098172,False,False,False,False
+Banco Santander Argentina,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.34083354,False,False,False,False
+Banco Santander Argentina,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.3408301,False,False,False,False
+Banco Santander Argentina,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.33984387,False,False,False,False
+Banco Santander Argentina,random_he-net_20251129T172135.png,RANDOM,unknown,0.33972067,False,False,False,False
+Banco Santander Argentina,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.3394678,False,False,False,False
+Banco Santander Argentina,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.33931816,False,False,False,False
+Banco Santander Argentina,random_doi-org_20251129T164112.png,RANDOM,unknown,0.3391211,False,False,False,False
+Banco Santander Argentina,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.33883616,False,False,False,False
+Banco Santander Argentina,random_threads-com_20251129T174157.png,RANDOM,unknown,0.3381402,False,False,False,False
+Banco Santander Argentina,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.33730504,False,False,False,False
+Banco Santander Argentina,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.33707595,False,False,False,False
+Banco Santander Argentina,random_people-com_20251129T172859.png,RANDOM,unknown,0.33679858,False,False,False,False
+Banco Santander Argentina,random_medium-com_20251129T163655.png,RANDOM,unknown,0.33646488,False,False,False,False
+Banco Santander Argentina,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.33643332,False,False,False,False
+Banco Santander Argentina,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.33642852,False,False,False,False
+Banco Santander Argentina,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.33586836,False,False,False,False
+Banco Santander Argentina,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.33586806,False,False,False,False
+Banco Santander Argentina,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.3354399,False,False,False,False
+Banco Santander Argentina,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.33543515,False,False,False,False
+Banco Santander Argentina,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.33476105,False,False,False,False
+Banco Santander Argentina,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.3346041,False,False,False,False
+Banco Santander Argentina,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.3345039,False,False,False,False
+Banco Santander Argentina,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.33443636,False,False,False,False
+Banco Santander Argentina,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.33425927,False,False,False,False
+Banco Santander Argentina,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.3335962,False,False,False,False
+Banco Santander Argentina,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.3335355,False,False,False,False
+Banco Santander Argentina,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.33352125,False,False,False,False
+Banco Santander Argentina,random_clever-com_20251129T173500.png,RANDOM,unknown,0.33345807,False,False,False,False
+Banco Santander Argentina,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.3331621,False,False,False,False
+Banco Santander Argentina,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.33287686,False,False,False,False
+Banco Santander Argentina,random_poki-com_20251129T180027.png,RANDOM,unknown,0.33225274,False,False,False,False
+Banco Santander Argentina,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.3321243,False,False,False,False
+Banco Santander Argentina,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.33186615,False,False,False,False
+Banco Santander Argentina,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.3316111,False,False,False,False
+Banco Santander Argentina,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.33142513,False,False,False,False
+Banco Santander Argentina,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.33128834,False,False,False,False
+Banco Santander Argentina,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.3304854,False,False,False,False
+Banco Santander Argentina,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.32844073,False,False,False,False
+Banco Santander Argentina,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.3282327,False,False,False,False
+Banco Santander Argentina,random_azure-com_20251129T162438.png,RANDOM,unknown,0.3274402,False,False,False,False
+Banco Santander Argentina,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.32702488,False,False,False,False
+Banco Santander Argentina,random_bing-com_20251129T162459.png,RANDOM,unknown,0.32692364,False,False,False,False
+Banco Santander Argentina,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.32615572,False,False,False,False
+Banco Santander Argentina,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.32600266,False,False,False,False
+Banco Santander Argentina,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.32585293,False,False,False,False
+Banco Santander Argentina,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.32486653,False,False,False,False
+Banco Santander Argentina,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.32312724,False,False,False,False
+Banco Santander Argentina,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.32261872,False,False,False,False
+Banco Santander Argentina,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.32257193,False,False,False,False
+Banco Santander Argentina,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.3221227,False,False,False,False
+Banco Santander Argentina,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.32142308,False,False,False,False
+Banco Santander Argentina,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.32096148,False,False,False,False
+Banco Santander Argentina,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.3207351,False,False,False,False
+Banco Santander Argentina,random_india-com_20251129T180557.png,RANDOM,unknown,0.31982678,False,False,False,False
+Banco Santander Argentina,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.31937778,False,False,False,False
+Banco Santander Argentina,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.31822354,False,False,False,False
+Banco Santander Argentina,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.31809592,False,False,False,False
+Banco Santander Argentina,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.31782606,False,False,False,False
+Banco Santander Argentina,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.31747508,False,False,False,False
+Banco Santander Argentina,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.316074,False,False,False,False
+Banco Santander Argentina,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.31583428,False,False,False,False
+Banco Santander Argentina,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.3156496,False,False,False,False
+Banco Santander Argentina,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.31546724,False,False,False,False
+Banco Santander Argentina,random_apache-org_20251129T163228.png,RANDOM,unknown,0.315177,False,False,False,False
+Banco Santander Argentina,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.31479302,False,False,False,False
+Banco Santander Argentina,random_archive-org_20251129T163406.png,RANDOM,unknown,0.31478453,False,False,False,False
+Banco Santander Argentina,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.31393516,False,False,False,False
+Banco Santander Argentina,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.3138003,False,False,False,False
+Banco Santander Argentina,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.31378716,False,False,False,False
+Banco Santander Argentina,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.31324124,False,False,False,False
+Banco Santander Argentina,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.31317577,False,False,False,False
+Banco Santander Argentina,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.31229073,False,False,False,False
+Banco Santander Argentina,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.31179535,False,False,False,False
+Banco Santander Argentina,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.3116284,False,False,False,False
+Banco Santander Argentina,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.3085278,False,False,False,False
+Banco Santander Argentina,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.3074807,False,False,False,False
+Banco Santander Argentina,random_fast-com_20251129T171226.png,RANDOM,unknown,0.30689746,False,False,False,False
+Banco Santander Argentina,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.3060245,False,False,False,False
+Banco Santander Argentina,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.30566257,False,False,False,False
+Banco Santander Argentina,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.30490753,False,False,False,False
+Banco Santander Argentina,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.30410898,False,False,False,False
+Banco Santander Argentina,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.3022195,False,False,False,False
+Banco Santander Argentina,random_health-mil_20251129T163619.png,RANDOM,unknown,0.30072576,False,False,False,False
+Banco Santander Argentina,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.29947513,False,False,False,False
+Banco Santander Argentina,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.29892534,False,False,False,False
+Banco Santander Argentina,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.29883826,False,False,False,False
+Banco Santander Argentina,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.29794484,False,False,False,False
+Banco Santander Argentina,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.29597634,False,False,False,False
+Banco Santander Argentina,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.2957294,False,False,False,False
+Banco Santander Argentina,random_g-co_20251129T171804.png,RANDOM,unknown,0.2955978,False,False,False,False
+Banco Santander Argentina,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.29520333,False,False,False,False
+Banco Santander Argentina,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.29519323,False,False,False,False
+Banco Santander Argentina,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.2948525,False,False,False,False
+Banco Santander Argentina,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.2944792,False,False,False,False
+Banco Santander Argentina,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.29363817,False,False,False,False
+Banco Santander Argentina,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.29183784,False,False,False,False
+Banco Santander Argentina,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.2909601,False,False,False,False
+Banco Santander Argentina,random_focus-de_20251129T175031.png,RANDOM,unknown,0.2904155,False,False,False,False
+Banco Santander Argentina,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.29030886,False,False,False,False
+Banco Santander Argentina,random_overload-su_20251129T170747.png,RANDOM,unknown,0.28789964,False,False,False,False
+Banco Santander Argentina,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.28754354,False,False,False,False
+Banco Santander Argentina,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.28743833,False,False,False,False
+Banco Santander Argentina,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.28729007,False,False,False,False
+Banco Santander Argentina,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.28635982,False,False,False,False
+Banco Santander Argentina,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.28564844,False,False,False,False
+Banco Santander Argentina,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.28396124,False,False,False,False
+Banco Santander Argentina,random_wired-com_20251129T170401.png,RANDOM,unknown,0.28215563,False,False,False,False
+Banco Santander Argentina,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.2809394,False,False,False,False
+Banco Santander Argentina,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.2809373,False,False,False,False
+Banco Santander Argentina,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.27961802,False,False,False,False
+Banco Santander Argentina,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.27797848,False,False,False,False
+Banco Santander Argentina,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.27663684,False,False,False,False
+Banco Santander Argentina,random_openai-com_20251129T164132.png,RANDOM,unknown,0.27518946,False,False,False,False
+Banco Santander Argentina,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.27454808,False,False,False,False
+Banco Santander Argentina,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.27403453,False,False,False,False
+Banco Santander Argentina,random_erome-com_20251129T165107.png,RANDOM,unknown,0.27376837,False,False,False,False
+Banco Santander Argentina,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.27357906,False,False,False,False
+Banco Santander Argentina,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.27028352,False,False,False,False
+Banco Santander Argentina,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.26246154,False,False,False,False
+Banco Santander Argentina,random_genius-com_20251129T174000.png,RANDOM,unknown,0.26147914,False,False,False,False
+Banco Santander Argentina,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.26087016,False,False,False,False
+Banco Santander Argentina,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.26075536,False,False,False,False
+Banco Santander Argentina,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.25959662,False,False,False,False
+Banco Santander Argentina,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.25775447,False,False,False,False
+Banco Santander Argentina,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.25526392,False,False,False,False
+Banco Santander Argentina,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.25501645,False,False,False,False
+Banco Santander Argentina,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.25282982,False,False,False,False
+Banco Santander Argentina,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.2524585,False,False,False,False
+Banco Santander Argentina,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.25212514,False,False,False,False
+Banco Santander Argentina,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.2446582,False,False,False,False
+Banco Santander Argentina,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.23939088,False,False,False,False
+Banco Santander Argentina,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.23795374,False,False,False,False
+Banco Santander Argentina,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.23716469,False,False,False,False
+Banco Santander Argentina,random_state-gov_20251129T174508.png,RANDOM,unknown,0.23690704,False,False,False,False
+Banco Santander Argentina,random_who-int_20251129T164225.png,RANDOM,unknown,0.23270133,False,False,False,False
+Banco Santander Argentina,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.23096725,False,False,False,False
+Banco Santander Argentina,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.22392581,False,False,False,False
+Banco Santander Argentina,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.2212517,False,False,False,False
+Banco Santander Argentina,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.22115734,False,False,False,False
+Banco Santander Argentina,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.22083528,False,False,False,False
+Banco Santander Argentina,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.20971546,False,False,False,False
+Banco Santander Argentina,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.1962641,False,False,False,False
+Banco Santander Argentina,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.19570053,False,False,False,False
+Banco Santander Argentina,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.19363064,False,False,False,False
+Banco Santander Argentina,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.18082455,False,False,False,False
+Banco Santander Argentina,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.16457894,False,False,False,False

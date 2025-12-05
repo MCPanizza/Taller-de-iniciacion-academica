@@ -1,0 +1,1276 @@
+target_bank,candidate_filename,candidate_type,candidate_name,similarity_score,is_match_over_80,is_true_positive,is_false_positive,is_self
+Scotiabank Chile,legit_scotiabank-chile_20251102T191440.png,BANCO (REF),Scotiabank Chile,1.0000001,True,True,False,True
+Scotiabank Chile,legit_aug_scotiabank-chile_v6_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.95937216,True,True,False,False
+Scotiabank Chile,legit_aug_scotiabank-chile_v1_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.94571424,True,True,False,False
+Scotiabank Chile,legit_aug_scotiabank-chile_v5_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.94506127,True,True,False,False
+Scotiabank Chile,legit_aug_scotiabank-chile_v7_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.9403875,True,True,False,False
+Scotiabank Chile,legit_aug_scotiabank-chile_v4_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.93657815,True,True,False,False
+Scotiabank Chile,legit_aug_scotiabank-chile_v3_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.93322825,True,True,False,False
+Scotiabank Chile,legit_aug_scotiabank-chile_v0_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.8962625,True,True,False,False
+Scotiabank Chile,legit_aug_scotiabank-chile_v9_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.86631364,True,True,False,False
+Scotiabank Chile,legit_aug_scotiabank-chile_v8_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.8633631,True,True,False,False
+Scotiabank Chile,legit_aug_scotiabank-chile_v2_20251130T221004.png,BANCO (AUG),Scotiabank Chile,0.8600606,True,True,False,False
+Scotiabank Chile,legit_aug_banco-de-crédito-e-inversiones_v3_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.78656375,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-crédito-e-inversiones_v6_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.76583856,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-crédito-e-inversiones_v9_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.76363456,False,False,False,False
+Scotiabank Chile,legit_banco-de-cr-dito-e-inversiones_20251102T191004.png,BANCO (REF),Banco de Crédito e Inversiones,0.7546891,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-crédito-e-inversiones_v7_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.75226563,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-crédito-e-inversiones_v5_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7498975,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-crédito-e-inversiones_v1_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.7494303,False,False,False,False
+Scotiabank Chile,legit_aug_banamex_v3_20251130T221003.png,BANCO (AUG),Banamex,0.7368071,False,False,False,False
+Scotiabank Chile,legit_aug_banamex_v4_20251130T221003.png,BANCO (AUG),Banamex,0.7234348,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-uruguay_v3_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.71868813,False,False,False,False
+Scotiabank Chile,legit_aug_sudameris-paraguay_v2_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7156277,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-crédito-e-inversiones_v4_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.71552956,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-chile_v7_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.7148551,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bolivariano_v8_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.71481216,False,False,False,False
+Scotiabank Chile,legit_banamex_20251102T195813.png,BANCO (REF),Banamex,0.7145304,False,False,False,False
+Scotiabank Chile,legit_aug_sudameris-paraguay_v1_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.711763,False,False,False,False
+Scotiabank Chile,legit_aug_banco-falabella_v2_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7114155,False,False,False,False
+Scotiabank Chile,legit_aug_banco-falabella_v4_20251130T221015.png,BANCO (AUG),Banco Falabella,0.7073657,False,False,False,False
+Scotiabank Chile,legit_aug_banco-azteca_v1_20251130T221008.png,BANCO (AUG),Banco Azteca,0.70710635,False,False,False,False
+Scotiabank Chile,legit_aug_banco-azteca_v3_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7044573,False,False,False,False
+Scotiabank Chile,legit_banco-ita-uruguay_20251102T193855.png,BANCO (REF),Banco Itaú Uruguay,0.7036289,False,False,False,False
+Scotiabank Chile,legit_aug_banco-azteca_v9_20251130T221008.png,BANCO (AUG),Banco Azteca,0.7019892,False,False,False,False
+Scotiabank Chile,legit_aug_sudameris-paraguay_v8_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.7017529,False,False,False,False
+Scotiabank Chile,legit_banco-falabella_20251102T193607.png,BANCO (REF),Banco Falabella,0.7006474,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-panamá_v9_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7005105,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-panamá_v5_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.7004837,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.69996405,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-crédito-e-inversiones_v2_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.69984716,False,False,False,False
+Scotiabank Chile,legit_aug_sudameris-paraguay_v0_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.69876325,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-uruguay_v4_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6986401,False,False,False,False
+Scotiabank Chile,legit_aug_produbanco_v2_20251130T221018.png,BANCO (AUG),Produbanco,0.6974131,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6973885,False,False,False,False
+Scotiabank Chile,legit_aug_sudameris-paraguay_v3_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6968726,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-crédito-e-inversiones_v0_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.696784,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-uruguay_v7_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.69649136,False,False,False,False
+Scotiabank Chile,legit_aug_banco-azteca_v8_20251130T221008.png,BANCO (AUG),Banco Azteca,0.69610435,False,False,False,False
+Scotiabank Chile,legit_aug_banco-azteca_v0_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6959751,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-uruguay_v8_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6954374,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-uruguay_v6_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6951003,False,False,False,False
+Scotiabank Chile,legit_aug_produbanco_v9_20251130T221018.png,BANCO (AUG),Produbanco,0.6943021,False,False,False,False
+Scotiabank Chile,legit_aug_banco-falabella_v8_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6942569,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-bolivia_v4_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6935625,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-crédito-e-inversiones_v8_20251130T221002.png,BANCO (AUG),Banco de Crédito e Inversiones,0.69298196,False,False,False,False
+Scotiabank Chile,legit_aug_produbanco_v3_20251130T221018.png,BANCO (AUG),Produbanco,0.69293344,False,False,False,False
+Scotiabank Chile,legit_aug_produbanco_v1_20251130T221018.png,BANCO (AUG),Produbanco,0.69243586,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-panamá_v4_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6911146,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-uruguay_v5_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.68981373,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Itaú Uruguay,0.6895441,False,False,False,False
+Scotiabank Chile,legit_aug_produbanco_v8_20251130T221018.png,BANCO (AUG),Produbanco,0.6882742,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-méxico_v6_20251130T221002.png,BANCO (AUG),BBVA México,0.68733054,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-uruguay_v6_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.68644994,False,False,False,False
+Scotiabank Chile,legit_aug_produbanco_v5_20251130T221018.png,BANCO (AUG),Produbanco,0.6854012,False,False,False,False
+Scotiabank Chile,legit_aug_sudameris-paraguay_v9_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6850408,False,False,False,False
+Scotiabank Chile,legit_aug_banco-azteca_v4_20251130T221008.png,BANCO (AUG),Banco Azteca,0.6849068,False,False,False,False
+Scotiabank Chile,legit_aug_banco-falabella_v7_20251130T221015.png,BANCO (AUG),Banco Falabella,0.68443763,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-uruguay_v3_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6840943,False,False,False,False
+Scotiabank Chile,legit_aug_banco-azteca_v5_20251130T221008.png,BANCO (AUG),Banco Azteca,0.68286574,False,False,False,False
+Scotiabank Chile,legit_aug_banamex_v8_20251130T221003.png,BANCO (AUG),Banamex,0.6815121,False,False,False,False
+Scotiabank Chile,legit_aug_banco-azteca_v2_20251130T221008.png,BANCO (AUG),Banco Azteca,0.68089116,False,False,False,False
+Scotiabank Chile,legit_aug_banco-popular-costa-rica_v2_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.68079644,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-méxico_v1_20251130T221002.png,BANCO (AUG),BBVA México,0.6806388,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-uruguay_v9_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.67986923,False,False,False,False
+Scotiabank Chile,legit_aug_banistmo_v0_20251130T221014.png,BANCO (AUG),Banistmo,0.6797377,False,False,False,False
+Scotiabank Chile,legit_aug_banco-falabella_v3_20251130T221015.png,BANCO (AUG),Banco Falabella,0.67946887,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-chile_v1_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.67903054,False,False,False,False
+Scotiabank Chile,legit_aug_banco-azteca_v7_20251130T221008.png,BANCO (AUG),Banco Azteca,0.67870486,False,False,False,False
+Scotiabank Chile,legit_aug_banco-falabella_v5_20251130T221015.png,BANCO (AUG),Banco Falabella,0.67868614,False,False,False,False
+Scotiabank Chile,legit_aug_sudameris-paraguay_v6_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.677976,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-uruguay_v8_20251130T221017.png,BANCO (AUG),Banco Itaú Uruguay,0.6779369,False,False,False,False
+Scotiabank Chile,legit_aug_banamex_v6_20251130T221003.png,BANCO (AUG),Banamex,0.6770558,False,False,False,False
+Scotiabank Chile,legit_sudameris-paraguay_20251102T194916.png,BANCO (REF),Sudameris Paraguay,0.67695713,False,False,False,False
+Scotiabank Chile,legit_aug_hsbc-méxico_v5_20251130T221004.png,BANCO (AUG),HSBC México,0.6766902,False,False,False,False
+Scotiabank Chile,legit_aug_colpatria_v8_20251130T221015.png,BANCO (AUG),Colpatria,0.67663485,False,False,False,False
+Scotiabank Chile,legit_aug_banamex_v5_20251130T221003.png,BANCO (AUG),Banamex,0.67631173,False,False,False,False
+Scotiabank Chile,legit_aug_banco-azteca_v6_20251130T221008.png,BANCO (AUG),Banco Azteca,0.67629904,False,False,False,False
+Scotiabank Chile,random_hp-com_20251129T164248.png,RANDOM,unknown,0.6757121,False,False,False,False
+Scotiabank Chile,legit_aug_inbursa_v0_20251130T221006.png,BANCO (AUG),Inbursa,0.67537695,False,False,False,False
+Scotiabank Chile,legit_aug_banistmo_v9_20251130T221014.png,BANCO (AUG),Banistmo,0.6747516,False,False,False,False
+Scotiabank Chile,legit_aug_produbanco_v6_20251130T221018.png,BANCO (AUG),Produbanco,0.6746713,False,False,False,False
+Scotiabank Chile,legit_aug_inbursa_v3_20251130T221006.png,BANCO (AUG),Inbursa,0.67376757,False,False,False,False
+Scotiabank Chile,legit_aug_banistmo_v6_20251130T221014.png,BANCO (AUG),Banistmo,0.67375433,False,False,False,False
+Scotiabank Chile,legit_aug_hsbc-méxico_v4_20251130T221004.png,BANCO (AUG),HSBC México,0.67374325,False,False,False,False
+Scotiabank Chile,legit_colpatria_20251102T193647.png,BANCO (REF),Colpatria,0.6735977,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bhd_v6_20251130T221014.png,BANCO (AUG),Banco BHD,0.673465,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-argentina_v1_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.67326665,False,False,False,False
+Scotiabank Chile,legit_aug_colpatria_v9_20251130T221016.png,BANCO (AUG),Colpatria,0.67311776,False,False,False,False
+Scotiabank Chile,legit_banco-santander-uruguay_20251102T193706.png,BANCO (REF),Banco Santander Uruguay,0.6724514,False,False,False,False
+Scotiabank Chile,legit_aug_produbanco_v0_20251130T221018.png,BANCO (AUG),Produbanco,0.67224133,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-panamá_v8_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.67216456,False,False,False,False
+Scotiabank Chile,legit_aug_produbanco_v4_20251130T221018.png,BANCO (AUG),Produbanco,0.67087126,False,False,False,False
+Scotiabank Chile,legit_aug_banco-popular-costa-rica_v5_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6708198,False,False,False,False
+Scotiabank Chile,legit_aug_banistmo_v2_20251130T221014.png,BANCO (AUG),Banistmo,0.67041117,False,False,False,False
+Scotiabank Chile,legit_aug_banco-popular-costa-rica_v0_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6700803,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bhd_v3_20251130T221014.png,BANCO (AUG),Banco BHD,0.67001444,False,False,False,False
+Scotiabank Chile,legit_aug_colpatria_v6_20251130T221015.png,BANCO (AUG),Colpatria,0.66952384,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-chile_v4_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6694685,False,False,False,False
+Scotiabank Chile,legit_aug_banistmo_v7_20251130T221014.png,BANCO (AUG),Banistmo,0.6692859,False,False,False,False
+Scotiabank Chile,legit_banistmo_20251102T193415.png,BANCO (REF),Banistmo,0.6692718,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-panamá_v1_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.66921794,False,False,False,False
+Scotiabank Chile,legit_aug_produbanco_v7_20251130T221018.png,BANCO (AUG),Produbanco,0.6687526,False,False,False,False
+Scotiabank Chile,legit_aug_sudameris-paraguay_v7_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.6686263,False,False,False,False
+Scotiabank Chile,legit_aug_banco-falabella_v1_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6677904,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-uruguay_v1_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.66750693,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-panamá_v7_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6668392,False,False,False,False
+Scotiabank Chile,legit_aug_hsbc-méxico_v2_20251130T221004.png,BANCO (AUG),HSBC México,0.6665077,False,False,False,False
+Scotiabank Chile,legit_aug_sudameris-paraguay_v5_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.66636765,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-uruguay_v0_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6663567,False,False,False,False
+Scotiabank Chile,legit_aug_colpatria_v7_20251130T221015.png,BANCO (AUG),Colpatria,0.66562486,False,False,False,False
+Scotiabank Chile,legit_aug_banistmo_v1_20251130T221014.png,BANCO (AUG),Banistmo,0.6653422,False,False,False,False
+Scotiabank Chile,legit_produbanco_20251102T194118.png,BANCO (REF),Produbanco,0.6650926,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bolivariano_v3_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6636956,False,False,False,False
+Scotiabank Chile,random_temu-com_20251129T165219.png,RANDOM,unknown,0.6631405,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-chile_v6_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6623804,False,False,False,False
+Scotiabank Chile,legit_bbva-m-xico_20251102T190939.png,BANCO (REF),BBVA México,0.6620109,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-uruguay_v2_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.66193724,False,False,False,False
+Scotiabank Chile,legit_aug_banco-popular-costa-rica_v4_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6617538,False,False,False,False
+Scotiabank Chile,legit_aug_banco-internacional-chile_v6_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6617164,False,False,False,False
+Scotiabank Chile,legit_aug_banco-caja-social_v7_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6614461,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-argentina_v9_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6595857,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-méxico_v8_20251130T221002.png,BANCO (AUG),BBVA México,0.65941685,False,False,False,False
+Scotiabank Chile,legit_aug_sudameris-paraguay_v4_20251130T221021.png,BANCO (AUG),Sudameris Paraguay,0.65938455,False,False,False,False
+Scotiabank Chile,legit_aug_banamex_v1_20251130T221003.png,BANCO (AUG),Banamex,0.6588241,False,False,False,False
+Scotiabank Chile,legit_aug_banco-falabella_v9_20251130T221015.png,BANCO (AUG),Banco Falabella,0.65844595,False,False,False,False
+Scotiabank Chile,legit_aug_colpatria_v2_20251130T221015.png,BANCO (AUG),Colpatria,0.6583934,False,False,False,False
+Scotiabank Chile,random_zoho-com_20251129T172726.png,RANDOM,unknown,0.6580667,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-argentina_v6_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.65802765,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bolivariano_v7_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6578171,False,False,False,False
+Scotiabank Chile,legit_aug_banco-popular-costa-rica_v1_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.65779614,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-argentina_v3_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.65768707,False,False,False,False
+Scotiabank Chile,random_lenovo-com_20251129T173507.png,RANDOM,unknown,0.6576402,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-panamá_v3_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.6575042,False,False,False,False
+Scotiabank Chile,legit_aug_banco-internacional-chile_v4_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6567901,False,False,False,False
+Scotiabank Chile,legit_aug_banco-internacional-chile_v5_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.65675056,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-argentina_v7_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.65674657,False,False,False,False
+Scotiabank Chile,legit_aug_inbursa_v2_20251130T221006.png,BANCO (AUG),Inbursa,0.6567091,False,False,False,False
+Scotiabank Chile,legit_aug_banistmo_v8_20251130T221014.png,BANCO (AUG),Banistmo,0.6566546,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-panamá_v2_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.6564976,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-bolivia_v8_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6562744,False,False,False,False
+Scotiabank Chile,legit_aug_hsbc-méxico_v1_20251130T221004.png,BANCO (AUG),HSBC México,0.65621924,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bhd_v4_20251130T221014.png,BANCO (AUG),Banco BHD,0.65613693,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-méxico_v7_20251130T221006.png,BANCO (AUG),Citibank México,0.655934,False,False,False,False
+Scotiabank Chile,legit_aug_banistmo_v5_20251130T221014.png,BANCO (AUG),Banistmo,0.6556613,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-méxico_v3_20251130T221002.png,BANCO (AUG),BBVA México,0.6552495,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bhd_v0_20251130T221014.png,BANCO (AUG),Banco BHD,0.6546479,False,False,False,False
+Scotiabank Chile,legit_aug_hsbc-méxico_v8_20251130T221004.png,BANCO (AUG),HSBC México,0.65452784,False,False,False,False
+Scotiabank Chile,legit_aug_banistmo_v4_20251130T221014.png,BANCO (AUG),Banistmo,0.6544564,False,False,False,False
+Scotiabank Chile,legit_aug_hsbc-méxico_v3_20251130T221004.png,BANCO (AUG),HSBC México,0.6543696,False,False,False,False
+Scotiabank Chile,legit_aug_inbursa_v6_20251130T221006.png,BANCO (AUG),Inbursa,0.65436894,False,False,False,False
+Scotiabank Chile,legit_aug_inbursa_v7_20251130T221006.png,BANCO (AUG),Inbursa,0.65374124,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-méxico_v9_20251130T221002.png,BANCO (AUG),BBVA México,0.6532833,False,False,False,False
+Scotiabank Chile,legit_aug_banco-provincia_v9_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6529231,False,False,False,False
+Scotiabank Chile,legit_citibank-m-xico_20251102T195922.png,BANCO (REF),Citibank México,0.6528456,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-méxico_v7_20251130T221002.png,BANCO (AUG),BBVA México,0.6527607,False,False,False,False
+Scotiabank Chile,legit_banco-del-pac-fico_20251102T194055.png,BANCO (REF),Banco del Pacífico,0.6506231,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-méxico_v5_20251130T221002.png,BANCO (AUG),BBVA México,0.64996326,False,False,False,False
+Scotiabank Chile,legit_banco-azteca_20251102T192503.png,BANCO (REF),Banco Azteca,0.64928186,False,False,False,False
+Scotiabank Chile,legit_aug_banco-popular-costa-rica_v9_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6476784,False,False,False,False
+Scotiabank Chile,legit_aug_banco-falabella_v0_20251130T221015.png,BANCO (AUG),Banco Falabella,0.64746636,False,False,False,False
+Scotiabank Chile,legit_aug_inbursa_v9_20251130T221006.png,BANCO (AUG),Inbursa,0.6473343,False,False,False,False
+Scotiabank Chile,legit_aug_hsbc-méxico_v7_20251130T221004.png,BANCO (AUG),HSBC México,0.6470029,False,False,False,False
+Scotiabank Chile,legit_aug_hsbc-méxico_v9_20251130T221004.png,BANCO (AUG),HSBC México,0.6468924,False,False,False,False
+Scotiabank Chile,legit_aug_inbursa_v4_20251130T221006.png,BANCO (AUG),Inbursa,0.6464989,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bolivariano_v4_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.64627427,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-colombia_v9_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6462345,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-méxico_v6_20251130T221006.png,BANCO (AUG),Citibank México,0.64572376,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-bolivia_v1_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6456304,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-uruguay_v5_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.64510804,False,False,False,False
+Scotiabank Chile,legit_aug_bac-credomatic_v2_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.64488494,False,False,False,False
+Scotiabank Chile,legit_banco-nacional-panam_20251102T192611.png,BANCO (REF),Banco Nacional Panamá,0.6448442,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-uruguay_v4_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.64442086,False,False,False,False
+Scotiabank Chile,legit_aug_banamex_v2_20251130T221003.png,BANCO (AUG),Banamex,0.6441592,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-uruguay_v7_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.6439488,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-panamá_v0_20251130T221009.png,BANCO (AUG),Banco Nacional Panamá,0.643942,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bhd_v8_20251130T221014.png,BANCO (AUG),Banco BHD,0.6439158,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-méxico_v0_20251130T221002.png,BANCO (AUG),BBVA México,0.6431836,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bolivariano_v5_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6424216,False,False,False,False
+Scotiabank Chile,legit_aug_hsbc-méxico_v6_20251130T221004.png,BANCO (AUG),HSBC México,0.6411544,False,False,False,False
+Scotiabank Chile,legit_aug_banco-internacional-chile_v0_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.64113474,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bolivariano_v1_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6410085,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-argentina_v4_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.64065254,False,False,False,False
+Scotiabank Chile,legit_aug_colpatria_v4_20251130T221015.png,BANCO (AUG),Colpatria,0.6405762,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ciudad-de-buenos-aires_v5_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6403662,False,False,False,False
+Scotiabank Chile,legit_aug_banco-popular-costa-rica_v8_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6395986,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-colombia_v4_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.63954127,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-méxico_v2_20251130T221002.png,BANCO (AUG),BBVA México,0.6392209,False,False,False,False
+Scotiabank Chile,legit_aug_banistmo_v3_20251130T221014.png,BANCO (AUG),Banistmo,0.639196,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-chile_v2_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6391484,False,False,False,False
+Scotiabank Chile,legit_aug_scotiabank-perú_v8_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6386204,False,False,False,False
+Scotiabank Chile,legit_aug_banco-guayaquil_v0_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6382743,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-panamá_v6_20251130T221010.png,BANCO (AUG),Banco Nacional Panamá,0.6380178,False,False,False,False
+Scotiabank Chile,legit_bbva-colombia_20251102T195957.png,BANCO (REF),BBVA Colombia,0.6377975,False,False,False,False
+Scotiabank Chile,legit_aug_banco-falabella_v6_20251130T221015.png,BANCO (AUG),Banco Falabella,0.6377169,False,False,False,False
+Scotiabank Chile,legit_aug_banco-popular-costa-rica_v6_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6374953,False,False,False,False
+Scotiabank Chile,legit_aug_banamex_v9_20251130T221003.png,BANCO (AUG),Banamex,0.6373965,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bolivariano_v2_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.6373844,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-méxico_v4_20251130T221002.png,BANCO (AUG),BBVA México,0.63732016,False,False,False,False
+Scotiabank Chile,legit_aug_scotiabank-perú_v7_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.63722026,False,False,False,False
+Scotiabank Chile,legit_aug_banco-del-pacífico_v7_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.63672376,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ciudad-de-buenos-aires_v4_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6362816,False,False,False,False
+Scotiabank Chile,legit_aug_bac-credomatic_v8_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6359992,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-chile_v9_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6359416,False,False,False,False
+Scotiabank Chile,legit_aug_colpatria_v5_20251130T221015.png,BANCO (AUG),Colpatria,0.63589066,False,False,False,False
+Scotiabank Chile,legit_aug_banco-provincia_v4_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6354283,False,False,False,False
+Scotiabank Chile,legit_aug_bac-credomatic_v5_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.63479054,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-argentina_v5_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.6347141,False,False,False,False
+Scotiabank Chile,legit_aug_scotiabank-perú_v9_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.634669,False,False,False,False
+Scotiabank Chile,legit_aug_banco-continental-paraguay_v8_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6345977,False,False,False,False
+Scotiabank Chile,legit_aug_banco-internacional-chile_v8_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6341287,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-colombia_v7_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.63387716,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-uruguay_v9_20251130T221016.png,BANCO (AUG),Banco Santander Uruguay,0.63386106,False,False,False,False
+Scotiabank Chile,legit_aug_colpatria_v3_20251130T221015.png,BANCO (AUG),Colpatria,0.63376784,False,False,False,False
+Scotiabank Chile,legit_aug_inbursa_v5_20251130T221006.png,BANCO (AUG),Inbursa,0.6334832,False,False,False,False
+Scotiabank Chile,legit_aug_scotiabank-perú_v0_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.63339067,False,False,False,False
+Scotiabank Chile,legit_aug_banamex_v0_20251130T221003.png,BANCO (AUG),Banamex,0.63298607,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-argentina_v0_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.63293993,False,False,False,False
+Scotiabank Chile,legit_banco-bhd_20251102T193442.png,BANCO (REF),Banco BHD,0.63275677,False,False,False,False
+Scotiabank Chile,legit_aug_banco-caja-social_v8_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6323753,False,False,False,False
+Scotiabank Chile,legit_aug_scotiabank-perú_v4_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.63210404,False,False,False,False
+Scotiabank Chile,legit_aug_inbursa_v8_20251130T221006.png,BANCO (AUG),Inbursa,0.63206184,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-chile_v5_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6314977,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-colombia_v6_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6313411,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bhd_v7_20251130T221014.png,BANCO (AUG),Banco BHD,0.6310601,False,False,False,False
+Scotiabank Chile,random_msn-com_20251129T162722.png,RANDOM,unknown,0.63067317,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-chile_v8_20251130T221003.png,BANCO (AUG),Banco de Chile,0.63054585,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bhd_v1_20251130T221014.png,BANCO (AUG),Banco BHD,0.6304314,False,False,False,False
+Scotiabank Chile,legit_aug_banco-caja-social_v4_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6301497,False,False,False,False
+Scotiabank Chile,legit_aug_banco-provincia_v7_20251130T221013.png,BANCO (AUG),Banco Provincia,0.62999207,False,False,False,False
+Scotiabank Chile,legit_aug_scotiabank-perú_v3_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.62985754,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-colombia_v2_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6297748,False,False,False,False
+Scotiabank Chile,random_google-com_20251129T162253.png,RANDOM,unknown,0.6297056,False,False,False,False
+Scotiabank Chile,legit_banco-de-chile_20251102T191314.png,BANCO (REF),Banco de Chile,0.62942624,False,False,False,False
+Scotiabank Chile,legit_aug_banco-del-pacífico_v2_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6293877,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-méxico_v1_20251130T221006.png,BANCO (AUG),Citibank México,0.62896776,False,False,False,False
+Scotiabank Chile,legit_aug_banco-security_v2_20251130T221014.png,BANCO (AUG),Banco Security,0.6284885,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bolivariano_v9_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.628404,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-chile_v6_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6261115,False,False,False,False
+Scotiabank Chile,random_wikimedia-org_20251129T164216.png,RANDOM,unknown,0.62589276,False,False,False,False
+Scotiabank Chile,random_cisco-com_20251129T164139.png,RANDOM,unknown,0.6253929,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bhd_v9_20251130T221014.png,BANCO (AUG),Banco BHD,0.6253343,False,False,False,False
+Scotiabank Chile,legit_aug_scotiabank-perú_v1_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6247206,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-chile_v0_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.62461936,False,False,False,False
+Scotiabank Chile,legit_banco-ita-chile_20251102T191505.png,BANCO (REF),Banco Itaú Chile,0.6243329,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-méxico_v3_20251130T221006.png,BANCO (AUG),Citibank México,0.62370753,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bradesco_v0_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.6235302,False,False,False,False
+Scotiabank Chile,legit_aug_banco-del-pacífico_v3_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6232008,False,False,False,False
+Scotiabank Chile,legit_aug_banco-del-pacífico_v0_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6231088,False,False,False,False
+Scotiabank Chile,legit_aug_banco-del-pacífico_v4_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.62310386,False,False,False,False
+Scotiabank Chile,legit_aug_banco-del-pacífico_v1_20251130T221017.png,BANCO (AUG),Banco del Pacífico,0.6230149,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-chile_v0_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6229366,False,False,False,False
+Scotiabank Chile,legit_aug_banco-guayaquil_v4_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.62275386,False,False,False,False
+Scotiabank Chile,legit_aug_banco-internacional-chile_v2_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6226383,False,False,False,False
+Scotiabank Chile,legit_banco-caja-social_20251102T194626.png,BANCO (REF),Banco Caja Social,0.6226005,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-chile_v2_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6224632,False,False,False,False
+Scotiabank Chile,legit_aug_colpatria_v0_20251130T221015.png,BANCO (AUG),Colpatria,0.62241435,False,False,False,False
+Scotiabank Chile,legit_aug_banco-caja-social_v9_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.6223685,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-colombia_v0_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.6223347,False,False,False,False
+Scotiabank Chile,legit_aug_bac-credomatic_v7_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6222527,False,False,False,False
+Scotiabank Chile,legit_aug_banco-internacional-chile_v1_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6221437,False,False,False,False
+Scotiabank Chile,legit_aug_banco-internacional-chile_v9_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6220879,False,False,False,False
+Scotiabank Chile,legit_banco-ciudad-de-buenos-aires_20251102T194956.png,BANCO (REF),Banco Ciudad de Buenos Aires,0.6220664,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-chile_v4_20251130T221003.png,BANCO (AUG),Banco de Chile,0.62192595,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ciudad-de-buenos-aires_v7_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.62157416,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-costa-rica_v5_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6208288,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bice_v8_20251130T221013.png,BANCO (AUG),Banco Bice,0.6205157,False,False,False,False
+Scotiabank Chile,random_mega-co-nz_20251129T171404.png,RANDOM,unknown,0.6194472,False,False,False,False
+Scotiabank Chile,random_dzen-ru_20251129T162340.png,RANDOM,unknown,0.6193398,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-costa-rica_v3_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6189469,False,False,False,False
+Scotiabank Chile,legit_aug_banca-afirme_v4_20251130T221011.png,BANCO (AUG),Banca Afirme,0.618747,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ciudad-de-buenos-aires_v3_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.61844265,False,False,False,False
+Scotiabank Chile,legit_bac-credomatic_20251102T191528.png,BANCO (REF),BAC Credomatic,0.61841786,False,False,False,False
+Scotiabank Chile,legit_aug_icbc-argentina_v1_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.6184177,False,False,False,False
+Scotiabank Chile,random_tp-link-com_20251129T165020.png,RANDOM,unknown,0.6180583,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bolivariano_v6_20251130T221021.png,BANCO (AUG),Banco Bolivariano,0.6178738,False,False,False,False
+Scotiabank Chile,legit_aug_hsbc-méxico_v0_20251130T221003.png,BANCO (AUG),HSBC México,0.6178528,False,False,False,False
+Scotiabank Chile,legit_aug_banco-caja-social_v3_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.61781585,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-colombia_v3_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.61774766,False,False,False,False
+Scotiabank Chile,legit_aug_scotiabank-perú_v5_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.61773276,False,False,False,False
+Scotiabank Chile,random_g-page_20251129T170201.png,RANDOM,unknown,0.61773217,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-colombia_v5_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.6174067,False,False,False,False
+Scotiabank Chile,legit_aug_banco-internacional-chile_v3_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.61729836,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ciudad-de-buenos-aires_v8_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.6170968,False,False,False,False
+Scotiabank Chile,legit_aug_banco-del-pacífico_v9_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.61622036,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ciudad-de-buenos-aires_v0_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.616123,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-méxico_v4_20251130T221006.png,BANCO (AUG),Citibank México,0.6161164,False,False,False,False
+Scotiabank Chile,random_lanacion-com-ar_20251129T180356.png,RANDOM,unknown,0.61517185,False,False,False,False
+Scotiabank Chile,legit_aug_scotiabank-perú_v2_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6145717,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-chile_v8_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.613884,False,False,False,False
+Scotiabank Chile,legit_aug_bac-credomatic_v3_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.61384636,False,False,False,False
+Scotiabank Chile,legit_aug_banco-caja-social_v0_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.61375713,False,False,False,False
+Scotiabank Chile,legit_aug_banco-guayaquil_v8_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.6136187,False,False,False,False
+Scotiabank Chile,legit_inbursa_20251102T191735.png,BANCO (REF),Inbursa,0.6135434,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-bolivia_v9_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.61305624,False,False,False,False
+Scotiabank Chile,legit_aug_banco-popular-costa-rica_v3_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.613042,False,False,False,False
+Scotiabank Chile,legit_aug_banco-consorcio_v6_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.61297154,False,False,False,False
+Scotiabank Chile,legit_aug_gnb-sudameris_v2_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.61294043,False,False,False,False
+Scotiabank Chile,random_deezer-com_20251129T181047.png,RANDOM,unknown,0.6129117,False,False,False,False
+Scotiabank Chile,legit_aug_banco-itaú-chile_v3_20251130T221004.png,BANCO (AUG),Banco Itaú Chile,0.6119493,False,False,False,False
+Scotiabank Chile,legit_aug_banco-popular-costa-rica_v7_20251130T221016.png,BANCO (AUG),Banco Popular Costa Rica,0.6116929,False,False,False,False
+Scotiabank Chile,random_snapchat-com_20251129T163212.png,RANDOM,unknown,0.611477,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bice_v9_20251130T221013.png,BANCO (AUG),Banco Bice,0.61127305,False,False,False,False
+Scotiabank Chile,legit_aug_banco-consorcio_v4_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6111744,False,False,False,False
+Scotiabank Chile,legit_aug_banco-continental-paraguay_v1_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.61071575,False,False,False,False
+Scotiabank Chile,random_ebay-com_20251129T164046.png,RANDOM,unknown,0.6104257,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-costa-rica_v6_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.6104119,False,False,False,False
+Scotiabank Chile,legit_aug_bac-credomatic_v6_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6101826,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-colombia_v8_20251130T221007.png,BANCO (AUG),BBVA Colombia,0.61015666,False,False,False,False
+Scotiabank Chile,legit_aug_banamex_v7_20251130T221003.png,BANCO (AUG),Banamex,0.6097686,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-chile_v3_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6096203,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-chile_v1_20251130T221003.png,BANCO (AUG),Banco de Chile,0.609247,False,False,False,False
+Scotiabank Chile,legit_aug_banco-security_v9_20251130T221015.png,BANCO (AUG),Banco Security,0.60913897,False,False,False,False
+Scotiabank Chile,random_android-com_20251129T163812.png,RANDOM,unknown,0.60913455,False,False,False,False
+Scotiabank Chile,legit_aug_banca-afirme_v6_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6088705,False,False,False,False
+Scotiabank Chile,legit_aug_banco-provincia_v8_20251130T221013.png,BANCO (AUG),Banco Provincia,0.6087447,False,False,False,False
+Scotiabank Chile,random_amazon-es_20251129T173236.png,RANDOM,unknown,0.6085912,False,False,False,False
+Scotiabank Chile,legit_aug_bac-credomatic_v9_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.6083683,False,False,False,False
+Scotiabank Chile,legit_aug_banco-continental-paraguay_v0_20251130T221019.png,BANCO (AUG),Banco Continental Paraguay,0.6081456,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-argentina_v8_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.60802114,False,False,False,False
+Scotiabank Chile,legit_banco-guayaquil_20251102T200422.png,BANCO (REF),Banco Guayaquil,0.60760033,False,False,False,False
+Scotiabank Chile,legit_aug_banco-internacional-chile_v7_20251130T221021.png,BANCO (AUG),Banco Internacional Chile,0.6073608,False,False,False,False
+Scotiabank Chile,legit_aug_banco-continental-paraguay_v6_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.6072642,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-costa-rica_v4_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.60698724,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bhd_v5_20251130T221014.png,BANCO (AUG),Banco BHD,0.60687935,False,False,False,False
+Scotiabank Chile,legit_banco-santander-argentina_20251102T192947.png,BANCO (REF),Banco Santander Argentina,0.6065593,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-costa-rica_v7_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.60645664,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-chile_v9_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6062653,False,False,False,False
+Scotiabank Chile,random_timeweb-ru_20251129T170845.png,RANDOM,unknown,0.60614556,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ciudad-de-buenos-aires_v2_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.60609996,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-méxico_v0_20251130T221006.png,BANCO (AUG),Citibank México,0.60607874,False,False,False,False
+Scotiabank Chile,random_ubi-com_20251129T181127.png,RANDOM,unknown,0.60581356,False,False,False,False
+Scotiabank Chile,random_change-org_20251129T173929.png,RANDOM,unknown,0.6056539,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bice_v7_20251130T221013.png,BANCO (AUG),Banco Bice,0.6056214,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-méxico_v2_20251130T221006.png,BANCO (AUG),Citibank México,0.60551035,False,False,False,False
+Scotiabank Chile,legit_aug_scotiabank-perú_v6_20251130T221008.png,BANCO (AUG),Scotiabank Perú,0.6053468,False,False,False,False
+Scotiabank Chile,random_outbrain-com_20251129T172333.png,RANDOM,unknown,0.6050865,False,False,False,False
+Scotiabank Chile,random_paypal-com_20251129T163520.png,RANDOM,unknown,0.60465556,False,False,False,False
+Scotiabank Chile,legit_aug_banco-consorcio_v2_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.6044445,False,False,False,False
+Scotiabank Chile,legit_aug_banco-provincia_v6_20251130T221013.png,BANCO (AUG),Banco Provincia,0.60419774,False,False,False,False
+Scotiabank Chile,legit_aug_banca-afirme_v7_20251130T221011.png,BANCO (AUG),Banca Afirme,0.6041211,False,False,False,False
+Scotiabank Chile,legit_aug_banco-caja-social_v5_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.603814,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-bolivia_v3_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.60370845,False,False,False,False
+Scotiabank Chile,legit_aug_bac-credomatic_v1_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.6031709,False,False,False,False
+Scotiabank Chile,legit_aug_interbank_v6_20251130T221007.png,BANCO (AUG),Interbank,0.6030817,False,False,False,False
+Scotiabank Chile,legit_aug_colpatria_v1_20251130T221015.png,BANCO (AUG),Colpatria,0.6030804,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-bolivia_v6_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.6030302,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-chile_v7_20251130T221003.png,BANCO (AUG),Banco de Chile,0.6017152,False,False,False,False
+Scotiabank Chile,legit_aug_banco-continental-paraguay_v5_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.60119843,False,False,False,False
+Scotiabank Chile,legit_aug_interbank_v7_20251130T221007.png,BANCO (AUG),Interbank,0.6008433,False,False,False,False
+Scotiabank Chile,legit_aug_banco-consorcio_v8_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.60077214,False,False,False,False
+Scotiabank Chile,random_intel-com_20251129T171229.png,RANDOM,unknown,0.6004218,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bradesco_v6_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.6003097,False,False,False,False
+Scotiabank Chile,random_finn-no_20251129T180303.png,RANDOM,unknown,0.5997609,False,False,False,False
+Scotiabank Chile,legit_aug_banco-guayaquil_v5_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.59963274,False,False,False,False
+Scotiabank Chile,legit_banco-bolivariano_20251102T194855.png,BANCO (REF),Banco Bolivariano,0.5989491,False,False,False,False
+Scotiabank Chile,legit_aug_interbank_v3_20251130T221007.png,BANCO (AUG),Interbank,0.598764,False,False,False,False
+Scotiabank Chile,legit_aug_banco-security_v1_20251130T221014.png,BANCO (AUG),Banco Security,0.5986292,False,False,False,False
+Scotiabank Chile,legit_aug_inbursa_v1_20251130T221006.png,BANCO (AUG),Inbursa,0.5984078,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bradesco_v8_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.59829545,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bradesco_v5_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5982768,False,False,False,False
+Scotiabank Chile,legit_banco-internacional-chile_20251102T194936.png,BANCO (REF),Banco Internacional Chile,0.59814984,False,False,False,False
+Scotiabank Chile,legit_aug_banca-afirme_v1_20251130T221010.png,BANCO (AUG),Banca Afirme,0.5980114,False,False,False,False
+Scotiabank Chile,legit_banco-provincia_20251102T193232.png,BANCO (REF),Banco Provincia,0.59791553,False,False,False,False
+Scotiabank Chile,legit_aug_banbif_v9_20251130T221019.png,BANCO (AUG),BanBif,0.5978335,False,False,False,False
+Scotiabank Chile,legit_grupo-promerica_20251102T193150.png,BANCO (REF),Grupo Promerica,0.597415,False,False,False,False
+Scotiabank Chile,legit_aug_banco-continental-paraguay_v4_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5971853,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bice_v3_20251130T221013.png,BANCO (AUG),Banco Bice,0.59696114,False,False,False,False
+Scotiabank Chile,legit_aug_bbva-colombia_v1_20251130T221006.png,BANCO (AUG),BBVA Colombia,0.5969298,False,False,False,False
+Scotiabank Chile,random_aol-com_20251129T170152.png,RANDOM,unknown,0.59678173,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-costa-rica_v2_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.59669745,False,False,False,False
+Scotiabank Chile,legit_aug_bac-credomatic_v0_20251130T221004.png,BANCO (AUG),BAC Credomatic,0.59656763,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-costa-rica_v9_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.59648585,False,False,False,False
+Scotiabank Chile,legit_aug_banbif_v5_20251130T221019.png,BANCO (AUG),BanBif,0.5964024,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-bolivia_v0_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.59618783,False,False,False,False
+Scotiabank Chile,legit_aug_banco-consorcio_v0_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.59611773,False,False,False,False
+Scotiabank Chile,random_bit-ly_20251129T162830.png,RANDOM,unknown,0.59596866,False,False,False,False
+Scotiabank Chile,random_brave-com_20251129T172325.png,RANDOM,unknown,0.5958344,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ciudad-de-buenos-aires_v6_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5953174,False,False,False,False
+Scotiabank Chile,legit_scotiabank-per_20251102T192231.png,BANCO (REF),Scotiabank Perú,0.594918,False,False,False,False
+Scotiabank Chile,legit_banco-popular-costa-rica_20251102T193730.png,BANCO (REF),Banco Popular Costa Rica,0.59449434,False,False,False,False
+Scotiabank Chile,legit_aug_banco-guayaquil_v3_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5944617,False,False,False,False
+Scotiabank Chile,random_bitrix24-ru_20251129T173023.png,RANDOM,unknown,0.5943781,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-costa-rica_v1_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.594196,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-méxico_v5_20251130T221006.png,BANCO (AUG),Citibank México,0.59387964,False,False,False,False
+Scotiabank Chile,random_mundodeportivo-com_20251129T181208.png,RANDOM,unknown,0.59368,False,False,False,False
+Scotiabank Chile,random_mail-ru_20251129T162306.png,RANDOM,unknown,0.5934248,False,False,False,False
+Scotiabank Chile,legit_aug_banco-de-chile_v5_20251130T221003.png,BANCO (AUG),Banco de Chile,0.59315366,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-brasil_v9_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5928051,False,False,False,False
+Scotiabank Chile,legit_aug_interbank_v4_20251130T221007.png,BANCO (AUG),Interbank,0.59275854,False,False,False,False
+Scotiabank Chile,random_imgsmail-ru_20251129T170637.png,RANDOM,unknown,0.59263426,False,False,False,False
+Scotiabank Chile,legit_aug_banco-guayaquil_v1_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.59252983,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-méxico_v8_20251130T221006.png,BANCO (AUG),Citibank México,0.5924969,False,False,False,False
+Scotiabank Chile,legit_aug_bac-credomatic_v4_20251130T221005.png,BANCO (AUG),BAC Credomatic,0.59229267,False,False,False,False
+Scotiabank Chile,legit_aug_banbif_v7_20251130T221019.png,BANCO (AUG),BanBif,0.59226155,False,False,False,False
+Scotiabank Chile,random_yandex-ru_20251129T163353.png,RANDOM,unknown,0.59147596,False,False,False,False
+Scotiabank Chile,random_marca-com_20251129T175532.png,RANDOM,unknown,0.59142274,False,False,False,False
+Scotiabank Chile,legit_aug_banco-continental-paraguay_v3_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.59094137,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bice_v0_20251130T221012.png,BANCO (AUG),Banco Bice,0.5909268,False,False,False,False
+Scotiabank Chile,legit_aug_icbc-argentina_v4_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5907706,False,False,False,False
+Scotiabank Chile,legit_aug_banco-consorcio_v9_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5906899,False,False,False,False
+Scotiabank Chile,legit_aug_icbc-argentina_v5_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5905504,False,False,False,False
+Scotiabank Chile,legit_banco-nacional-de-costa-rica_20251102T192522.png,BANCO (REF),Banco Nacional de Costa Rica,0.5903697,False,False,False,False
+Scotiabank Chile,random_facebook-com_20251129T162302.png,RANDOM,unknown,0.5902333,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bradesco_v2_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.59022224,False,False,False,False
+Scotiabank Chile,legit_aug_banbif_v4_20251130T221019.png,BANCO (AUG),BanBif,0.5896941,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-bolivia_v2_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5886471,False,False,False,False
+Scotiabank Chile,legit_aug_banbif_v2_20251130T221019.png,BANCO (AUG),BanBif,0.5886241,False,False,False,False
+Scotiabank Chile,legit_banco-nacional-de-bolivia_20251102T195022.png,BANCO (REF),Banco Nacional de Bolivia,0.5883492,False,False,False,False
+Scotiabank Chile,legit_aug_gnb-sudameris_v9_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.58816946,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-brasil_v4_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5880273,False,False,False,False
+Scotiabank Chile,legit_aug_banco-del-pacífico_v6_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5871367,False,False,False,False
+Scotiabank Chile,legit_aug_interbank_v0_20251130T221007.png,BANCO (AUG),Interbank,0.58713317,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bolivariano_v0_20251130T221020.png,BANCO (AUG),Banco Bolivariano,0.5869895,False,False,False,False
+Scotiabank Chile,legit_aug_banbif_v3_20251130T221019.png,BANCO (AUG),BanBif,0.5862522,False,False,False,False
+Scotiabank Chile,legit_aug_banco-agromercantil_v4_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.58619505,False,False,False,False
+Scotiabank Chile,legit_aug_banco-caja-social_v1_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.58576715,False,False,False,False
+Scotiabank Chile,legit_aug_gnb-sudameris_v5_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.58542025,False,False,False,False
+Scotiabank Chile,legit_banbif_20251102T194347.png,BANCO (REF),BanBif,0.5851952,False,False,False,False
+Scotiabank Chile,random_rambler-ru_20251129T175843.png,RANDOM,unknown,0.584406,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-brasil_v1_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5844033,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-costa-rica_v0_20251130T221008.png,BANCO (AUG),Banco Nacional de Costa Rica,0.58419716,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-brasil_v0_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5839606,False,False,False,False
+Scotiabank Chile,legit_aug_banco-santander-argentina_v2_20251130T221011.png,BANCO (AUG),Banco Santander Argentina,0.583833,False,False,False,False
+Scotiabank Chile,legit_aug_banco-del-pacífico_v8_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.58373797,False,False,False,False
+Scotiabank Chile,random_tradplusad-com_20251129T181106.png,RANDOM,unknown,0.5827761,False,False,False,False
+Scotiabank Chile,random_weather-com_20251129T164102.png,RANDOM,unknown,0.58269393,False,False,False,False
+Scotiabank Chile,random_notamedia-ru_20251129T165510.png,RANDOM,unknown,0.5823708,False,False,False,False
+Scotiabank Chile,random_hcaptcha-com_20251129T173842.png,RANDOM,unknown,0.5816738,False,False,False,False
+Scotiabank Chile,legit_aug_banrural_v0_20251130T221010.png,BANCO (AUG),Banrural,0.58130443,False,False,False,False
+Scotiabank Chile,random_ok-ru_20251129T164500.png,RANDOM,unknown,0.5812865,False,False,False,False
+Scotiabank Chile,random_dotomi-com_20251129T171711.png,RANDOM,unknown,0.58117175,False,False,False,False
+Scotiabank Chile,legit_aug_banco-continental-paraguay_v7_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.58099073,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-bolivia_v7_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.58097684,False,False,False,False
+Scotiabank Chile,legit_aug_banbif_v8_20251130T221019.png,BANCO (AUG),BanBif,0.58083355,False,False,False,False
+Scotiabank Chile,legit_aug_banco-provincia_v2_20251130T221013.png,BANCO (AUG),Banco Provincia,0.58081424,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-brasil_v7_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5808113,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bice_v6_20251130T221013.png,BANCO (AUG),Banco Bice,0.58031344,False,False,False,False
+Scotiabank Chile,random_coursera-org_20251129T180138.png,RANDOM,unknown,0.58018064,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bhd_v2_20251130T221014.png,BANCO (AUG),Banco BHD,0.5797968,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bradesco_v3_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.5791307,False,False,False,False
+Scotiabank Chile,legit_aug_banca-afirme_v0_20251130T221010.png,BANCO (AUG),Banca Afirme,0.5790769,False,False,False,False
+Scotiabank Chile,random_selectel-ru_20251129T174947.png,RANDOM,unknown,0.5789859,False,False,False,False
+Scotiabank Chile,random_twitch-tv_20251129T164000.png,RANDOM,unknown,0.5788324,False,False,False,False
+Scotiabank Chile,legit_aug_banco-consorcio_v5_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.57866216,False,False,False,False
+Scotiabank Chile,legit_aug_banbif_v0_20251130T221019.png,BANCO (AUG),BanBif,0.57861304,False,False,False,False
+Scotiabank Chile,legit_banrural_20251102T192634.png,BANCO (REF),Banrural,0.57850754,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-méxico_v9_20251130T221006.png,BANCO (AUG),Citibank México,0.5784181,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-brasil_v2_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5781524,False,False,False,False
+Scotiabank Chile,legit_aug_banco-safra_v0_20251130T221003.png,BANCO (AUG),Banco Safra,0.5780655,False,False,False,False
+Scotiabank Chile,legit_aug_grupo-promerica_v2_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5780369,False,False,False,False
+Scotiabank Chile,legit_aug_banca-afirme_v5_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5778842,False,False,False,False
+Scotiabank Chile,legit_banco-do-brasil_20251102T195721.png,BANCO (REF),Banco do Brasil,0.5773777,False,False,False,False
+Scotiabank Chile,legit_aug_banco-agromercantil_v6_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.577299,False,False,False,False
+Scotiabank Chile,legit_aug_interbank_v2_20251130T221007.png,BANCO (AUG),Interbank,0.57726204,False,False,False,False
+Scotiabank Chile,legit_aug_icbc-argentina_v2_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.57722855,False,False,False,False
+Scotiabank Chile,legit_aug_banrural_v2_20251130T221010.png,BANCO (AUG),Banrural,0.5771822,False,False,False,False
+Scotiabank Chile,random_mts-ru_20251129T163835.png,RANDOM,unknown,0.5767212,False,False,False,False
+Scotiabank Chile,legit_aug_banco-agromercantil_v1_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5766389,False,False,False,False
+Scotiabank Chile,random_avito-ru_20251129T172427.png,RANDOM,unknown,0.5765948,False,False,False,False
+Scotiabank Chile,random_abc-es_20251129T175348.png,RANDOM,unknown,0.57636786,False,False,False,False
+Scotiabank Chile,legit_aug_banco-provincia_v0_20251130T221013.png,BANCO (AUG),Banco Provincia,0.57630575,False,False,False,False
+Scotiabank Chile,legit_aug_interbank_v5_20251130T221007.png,BANCO (AUG),Interbank,0.5760536,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bradesco_v9_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.57600963,False,False,False,False
+Scotiabank Chile,legit_aug_icbc-argentina_v6_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.57589954,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-bolivia_v5_20251130T221022.png,BANCO (AUG),Banco Nacional de Bolivia,0.5755948,False,False,False,False
+Scotiabank Chile,legit_aug_banco-provincia_v3_20251130T221013.png,BANCO (AUG),Banco Provincia,0.575175,False,False,False,False
+Scotiabank Chile,legit_aug_banco-consorcio_v7_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.575041,False,False,False,False
+Scotiabank Chile,legit_aug_banco-macro_v1_20251130T221013.png,BANCO (AUG),Banco Macro,0.5748683,False,False,False,False
+Scotiabank Chile,random_repubblica-it_20251129T174653.png,RANDOM,unknown,0.5747894,False,False,False,False
+Scotiabank Chile,legit_banco-agromercantil_20251102T194301.png,BANCO (REF),Banco Agromercantil,0.57468796,False,False,False,False
+Scotiabank Chile,legit_aug_icbc-argentina_v0_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5746232,False,False,False,False
+Scotiabank Chile,legit_aug_icbc-argentina_v3_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5743042,False,False,False,False
+Scotiabank Chile,legit_aug_banco-nacional-de-costa-rica_v8_20251130T221009.png,BANCO (AUG),Banco Nacional de Costa Rica,0.57330805,False,False,False,False
+Scotiabank Chile,legit_aug_banco-provincia_v1_20251130T221013.png,BANCO (AUG),Banco Provincia,0.57225007,False,False,False,False
+Scotiabank Chile,legit_aug_icbc-argentina_v9_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.57202286,False,False,False,False
+Scotiabank Chile,legit_banca-afirme_20251102T200113.png,BANCO (REF),Banca Afirme,0.57195544,False,False,False,False
+Scotiabank Chile,legit_aug_banrural_v1_20251130T221010.png,BANCO (AUG),Banrural,0.5718515,False,False,False,False
+Scotiabank Chile,random_xing-com_20251129T175042.png,RANDOM,unknown,0.57185096,False,False,False,False
+Scotiabank Chile,legit_aug_banco-consorcio_v3_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.571567,False,False,False,False
+Scotiabank Chile,legit_aug_banca-afirme_v2_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5713825,False,False,False,False
+Scotiabank Chile,legit_aug_banca-afirme_v3_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5706835,False,False,False,False
+Scotiabank Chile,legit_aug_banrural_v4_20251130T221010.png,BANCO (AUG),Banrural,0.5705235,False,False,False,False
+Scotiabank Chile,legit_banco-continental-paraguay_20251102T200527.png,BANCO (REF),Banco Continental Paraguay,0.570396,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bradesco_v1_20251130T221001.png,BANCO (AUG),Banco Bradesco,0.57030994,False,False,False,False
+Scotiabank Chile,random_amazon-com-mx_20251129T175801.png,RANDOM,unknown,0.5702982,False,False,False,False
+Scotiabank Chile,legit_aug_banrural_v8_20251130T221010.png,BANCO (AUG),Banrural,0.57021546,False,False,False,False
+Scotiabank Chile,legit_aug_gnb-sudameris_v0_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5698968,False,False,False,False
+Scotiabank Chile,legit_aug_banco-agromercantil_v8_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5698914,False,False,False,False
+Scotiabank Chile,legit_aug_banco-provincia_v5_20251130T221013.png,BANCO (AUG),Banco Provincia,0.5695106,False,False,False,False
+Scotiabank Chile,random_meethue-com_20251129T175848.png,RANDOM,unknown,0.5693543,False,False,False,False
+Scotiabank Chile,random_yandex-net_20251129T163019.png,RANDOM,unknown,0.5690315,False,False,False,False
+Scotiabank Chile,legit_aug_banco-del-pacífico_v5_20251130T221018.png,BANCO (AUG),Banco del Pacífico,0.5684786,False,False,False,False
+Scotiabank Chile,random_ya-ru_20251129T172755.png,RANDOM,unknown,0.56841177,False,False,False,False
+Scotiabank Chile,legit_banco-bice_20251102T193210.png,BANCO (REF),Banco Bice,0.5681776,False,False,False,False
+Scotiabank Chile,legit_aug_banrural_v3_20251130T221010.png,BANCO (AUG),Banrural,0.56811506,False,False,False,False
+Scotiabank Chile,legit_aug_grupo-promerica_v1_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.56791085,False,False,False,False
+Scotiabank Chile,legit_aug_banco-caja-social_v6_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.56769943,False,False,False,False
+Scotiabank Chile,random_elconfidencial-com_20251129T180718.png,RANDOM,unknown,0.56763756,False,False,False,False
+Scotiabank Chile,legit_aug_banco-agromercantil_v0_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.56726927,False,False,False,False
+Scotiabank Chile,legit_aug_grupo-promerica_v7_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5670753,False,False,False,False
+Scotiabank Chile,legit_aug_interbank_v1_20251130T221007.png,BANCO (AUG),Interbank,0.5668838,False,False,False,False
+Scotiabank Chile,random_taboola-com_20251129T163754.png,RANDOM,unknown,0.5667404,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bice_v4_20251130T221013.png,BANCO (AUG),Banco Bice,0.5664425,False,False,False,False
+Scotiabank Chile,legit_aug_grupo-promerica_v9_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5664402,False,False,False,False
+Scotiabank Chile,legit_aug_banbif_v1_20251130T221019.png,BANCO (AUG),BanBif,0.5662715,False,False,False,False
+Scotiabank Chile,legit_aug_grupo-promerica_v0_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.56606823,False,False,False,False
+Scotiabank Chile,random_rbc-ru_20251129T173708.png,RANDOM,unknown,0.5659801,False,False,False,False
+Scotiabank Chile,random_webempresa-eu_20251129T174703.png,RANDOM,unknown,0.5651692,False,False,False,False
+Scotiabank Chile,legit_aug_banca-afirme_v8_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5650974,False,False,False,False
+Scotiabank Chile,legit_aug_icbc-argentina_v7_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.56479305,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bice_v2_20251130T221012.png,BANCO (AUG),Banco Bice,0.5647166,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ficohsa_v2_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.56427443,False,False,False,False
+Scotiabank Chile,legit_aug_banco-safra_v1_20251130T221003.png,BANCO (AUG),Banco Safra,0.5642694,False,False,False,False
+Scotiabank Chile,legit_aug_banco-guayaquil_v6_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.56383026,False,False,False,False
+Scotiabank Chile,legit_aug_banco-caja-social_v2_20251130T221020.png,BANCO (AUG),Banco Caja Social,0.5638299,False,False,False,False
+Scotiabank Chile,legit_aug_banco-safra_v3_20251130T221003.png,BANCO (AUG),Banco Safra,0.5636678,False,False,False,False
+Scotiabank Chile,random_zhihu-com_20251129T180630.png,RANDOM,unknown,0.5636004,False,False,False,False
+Scotiabank Chile,legit_aug_banco-security_v8_20251130T221015.png,BANCO (AUG),Banco Security,0.5634455,False,False,False,False
+Scotiabank Chile,legit_aug_banco-guayaquil_v9_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5629176,False,False,False,False
+Scotiabank Chile,random_jd-com_20251129T174954.png,RANDOM,unknown,0.5627656,False,False,False,False
+Scotiabank Chile,legit_aug_grupo-promerica_v6_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5627324,False,False,False,False
+Scotiabank Chile,legit_aug_banco-security_v4_20251130T221015.png,BANCO (AUG),Banco Security,0.5623899,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-brasil_v6_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5623491,False,False,False,False
+Scotiabank Chile,legit_aug_banco-consorcio_v1_20251130T221017.png,BANCO (AUG),Banco Consorcio,0.5622254,False,False,False,False
+Scotiabank Chile,random_zoom-us_20251129T162855.png,RANDOM,unknown,0.56203806,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-brasil_v3_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.56202686,False,False,False,False
+Scotiabank Chile,legit_aug_banco-agromercantil_v7_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5613295,False,False,False,False
+Scotiabank Chile,legit_aug_banrural_v5_20251130T221010.png,BANCO (AUG),Banrural,0.5610195,False,False,False,False
+Scotiabank Chile,legit_banco-bradesco_20251102T190853.png,BANCO (REF),Banco Bradesco,0.56061757,False,False,False,False
+Scotiabank Chile,legit_aug_banrural_v9_20251130T221010.png,BANCO (AUG),Banrural,0.56021154,False,False,False,False
+Scotiabank Chile,legit_aug_interbank_v9_20251130T221007.png,BANCO (AUG),Interbank,0.55988455,False,False,False,False
+Scotiabank Chile,legit_aug_banco-continental-paraguay_v9_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.5594035,False,False,False,False
+Scotiabank Chile,legit_aug_banco-safra_v5_20251130T221003.png,BANCO (AUG),Banco Safra,0.5593272,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ficohsa_v4_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5590328,False,False,False,False
+Scotiabank Chile,legit_aug_icbc-argentina_v8_20251130T221019.png,BANCO (AUG),ICBC Argentina,0.5578361,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bradesco_v4_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.55755615,False,False,False,False
+Scotiabank Chile,legit_aug_interbank_v8_20251130T221007.png,BANCO (AUG),Interbank,0.55754393,False,False,False,False
+Scotiabank Chile,random_gumgum-com_20251129T172736.png,RANDOM,unknown,0.5575107,False,False,False,False
+Scotiabank Chile,random_trendmicro-com_20251129T171501.png,RANDOM,unknown,0.5573975,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ficohsa_v6_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.55731875,False,False,False,False
+Scotiabank Chile,legit_aug_banco-agromercantil_v9_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.55718774,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ficohsa_v1_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5569997,False,False,False,False
+Scotiabank Chile,legit_aug_banbif_v6_20251130T221019.png,BANCO (AUG),BanBif,0.55696476,False,False,False,False
+Scotiabank Chile,legit_banco-macro_20251102T193351.png,BANCO (REF),Banco Macro,0.55691755,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bice_v1_20251130T221012.png,BANCO (AUG),Banco Bice,0.5565943,False,False,False,False
+Scotiabank Chile,legit_aug_banco-agromercantil_v2_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5563537,False,False,False,False
+Scotiabank Chile,random_2gis-com_20251129T170205.png,RANDOM,unknown,0.5560432,False,False,False,False
+Scotiabank Chile,random_ring-com_20251129T172743.png,RANDOM,unknown,0.5558498,False,False,False,False
+Scotiabank Chile,legit_aug_banco-continental-paraguay_v2_20251130T221020.png,BANCO (AUG),Banco Continental Paraguay,0.55580974,False,False,False,False
+Scotiabank Chile,legit_aug_banco-macro_v3_20251130T221013.png,BANCO (AUG),Banco Macro,0.55499357,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-brasil_v5_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.5547433,False,False,False,False
+Scotiabank Chile,legit_aug_banco-galicia_v7_20251130T221009.png,BANCO (AUG),Banco Galicia,0.55463433,False,False,False,False
+Scotiabank Chile,random_youtube-com_20251129T162326.png,RANDOM,unknown,0.55461395,False,False,False,False
+Scotiabank Chile,legit_interbank_20251102T192145.png,BANCO (REF),Interbank,0.5544352,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bradesco_v7_20251130T221002.png,BANCO (AUG),Banco Bradesco,0.5537857,False,False,False,False
+Scotiabank Chile,random_att-com_20251129T180955.png,RANDOM,unknown,0.5535965,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ficohsa_v8_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.55312896,False,False,False,False
+Scotiabank Chile,random_kleinanzeigen-de_20251129T175158.png,RANDOM,unknown,0.553123,False,False,False,False
+Scotiabank Chile,random_tinkoff-ru_20251129T180016.png,RANDOM,unknown,0.55311584,False,False,False,False
+Scotiabank Chile,legit_aug_banca-afirme_v9_20251130T221011.png,BANCO (AUG),Banca Afirme,0.5518737,False,False,False,False
+Scotiabank Chile,random_bsky-app_20251129T170853.png,RANDOM,unknown,0.5515007,False,False,False,False
+Scotiabank Chile,legit_aug_banco-safra_v8_20251130T221003.png,BANCO (AUG),Banco Safra,0.55143964,False,False,False,False
+Scotiabank Chile,random_usatoday-com_20251129T170649.png,RANDOM,unknown,0.551359,False,False,False,False
+Scotiabank Chile,legit_aug_gnb-sudameris_v7_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.5507772,False,False,False,False
+Scotiabank Chile,random_olx-pl_20251129T180727.png,RANDOM,unknown,0.5504533,False,False,False,False
+Scotiabank Chile,legit_aug_banrural_v6_20251130T221010.png,BANCO (AUG),Banrural,0.55008906,False,False,False,False
+Scotiabank Chile,random_onlinepbx-ru_20251129T174635.png,RANDOM,unknown,0.54949784,False,False,False,False
+Scotiabank Chile,random_pinterest-com_20251129T162632.png,RANDOM,unknown,0.5492308,False,False,False,False
+Scotiabank Chile,random_crpt-ru_20251129T170822.png,RANDOM,unknown,0.548582,False,False,False,False
+Scotiabank Chile,random_psychologytoday-com_20251129T180437.png,RANDOM,unknown,0.54856247,False,False,False,False
+Scotiabank Chile,legit_aug_banco-guayaquil_v2_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.5477734,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-brasil_v4_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5476007,False,False,False,False
+Scotiabank Chile,random_pinimg-com_20251129T172244.png,RANDOM,unknown,0.5471196,False,False,False,False
+Scotiabank Chile,random_as-com_20251129T175716.png,RANDOM,unknown,0.5470484,False,False,False,False
+Scotiabank Chile,random_target-com_20251129T171437.png,RANDOM,unknown,0.5468856,False,False,False,False
+Scotiabank Chile,random_ilovepdf-com_20251129T175824.png,RANDOM,unknown,0.5468509,False,False,False,False
+Scotiabank Chile,random_caixa-gov-br_20251129T174926.png,RANDOM,unknown,0.5465777,False,False,False,False
+Scotiabank Chile,random_split-io_20251129T175048.png,RANDOM,unknown,0.5463136,False,False,False,False
+Scotiabank Chile,random_gov-br_20251129T174615.png,RANDOM,unknown,0.5456573,False,False,False,False
+Scotiabank Chile,random_naver-com_20251129T164929.png,RANDOM,unknown,0.545112,False,False,False,False
+Scotiabank Chile,random_amazonalexa-com_20251129T165347.png,RANDOM,unknown,0.5450844,False,False,False,False
+Scotiabank Chile,random_indeed-com_20251129T165216.png,RANDOM,unknown,0.5436932,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ciudad-de-buenos-aires_v9_20251130T221022.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5432428,False,False,False,False
+Scotiabank Chile,random_ixl-com_20251129T181057.png,RANDOM,unknown,0.5422204,False,False,False,False
+Scotiabank Chile,legit_aug_banco-agromercantil_v5_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.54190457,False,False,False,False
+Scotiabank Chile,legit_aug_banco-safra_v7_20251130T221003.png,BANCO (AUG),Banco Safra,0.5418196,False,False,False,False
+Scotiabank Chile,legit_banco-consorcio_20251102T193919.png,BANCO (REF),Banco Consorcio,0.5417729,False,False,False,False
+Scotiabank Chile,legit_aug_gnb-sudameris_v3_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5415313,False,False,False,False
+Scotiabank Chile,random_globo-com_20251129T165541.png,RANDOM,unknown,0.54145163,False,False,False,False
+Scotiabank Chile,legit_banco-safra_20251102T191220.png,BANCO (REF),Banco Safra,0.5411243,False,False,False,False
+Scotiabank Chile,legit_icbc-argentina_20251102T194411.png,BANCO (REF),ICBC Argentina,0.54103094,False,False,False,False
+Scotiabank Chile,random_ivi-ru_20251129T164757.png,RANDOM,unknown,0.5408563,False,False,False,False
+Scotiabank Chile,random_note-com_20251129T174642.png,RANDOM,unknown,0.54074824,False,False,False,False
+Scotiabank Chile,random_agoda-com_20251129T173942.png,RANDOM,unknown,0.5403359,False,False,False,False
+Scotiabank Chile,legit_aug_banrural_v7_20251130T221010.png,BANCO (AUG),Banrural,0.54009163,False,False,False,False
+Scotiabank Chile,legit_aug_banco-galicia_v2_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5394739,False,False,False,False
+Scotiabank Chile,legit_aug_banco-security_v6_20251130T221015.png,BANCO (AUG),Banco Security,0.5389994,False,False,False,False
+Scotiabank Chile,random_arcgis-com_20251129T174659.png,RANDOM,unknown,0.5389987,False,False,False,False
+Scotiabank Chile,legit_aug_banco-galicia_v5_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5389304,False,False,False,False
+Scotiabank Chile,random_eset-com_20251129T171424.png,RANDOM,unknown,0.5381354,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ciudad-de-buenos-aires_v1_20251130T221021.png,BANCO (AUG),Banco Ciudad de Buenos Aires,0.5379685,False,False,False,False
+Scotiabank Chile,random_elpais-com_20251129T172235.png,RANDOM,unknown,0.53785074,False,False,False,False
+Scotiabank Chile,random_seznam-cz_20251129T174202.png,RANDOM,unknown,0.5378329,False,False,False,False
+Scotiabank Chile,legit_aug_banco-galicia_v6_20251130T221009.png,BANCO (AUG),Banco Galicia,0.53777057,False,False,False,False
+Scotiabank Chile,random_acesso-gov-br_20251129T181227.png,RANDOM,unknown,0.5377581,False,False,False,False
+Scotiabank Chile,random_gsmarena-com_20251129T175827.png,RANDOM,unknown,0.5373981,False,False,False,False
+Scotiabank Chile,legit_aug_banco-agromercantil_v3_20251130T221019.png,BANCO (AUG),Banco Agromercantil,0.5373406,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-brasil_v8_20251130T221001.png,BANCO (AUG),Banco do Brasil,0.537294,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ficohsa_v5_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.53716946,False,False,False,False
+Scotiabank Chile,random_taobao-com_20251129T165700.png,RANDOM,unknown,0.5368536,False,False,False,False
+Scotiabank Chile,legit_aug_banco-bice_v5_20251130T221013.png,BANCO (AUG),Banco Bice,0.53666365,False,False,False,False
+Scotiabank Chile,legit_hsbc-m-xico_20251102T191338.png,BANCO (REF),HSBC México,0.5363865,False,False,False,False
+Scotiabank Chile,random_netflix-com_20251129T162612.png,RANDOM,unknown,0.53609955,False,False,False,False
+Scotiabank Chile,legit_aug_gnb-sudameris_v1_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5360925,False,False,False,False
+Scotiabank Chile,random_yahoo-com_20251129T162648.png,RANDOM,unknown,0.5356114,False,False,False,False
+Scotiabank Chile,random_notion-so_20251129T180340.png,RANDOM,unknown,0.53541553,False,False,False,False
+Scotiabank Chile,random_zemanta-com_20251129T173602.png,RANDOM,unknown,0.5349129,False,False,False,False
+Scotiabank Chile,legit_banco-ficohsa_20251102T194238.png,BANCO (REF),Banco Ficohsa,0.5342995,False,False,False,False
+Scotiabank Chile,random_qq-com_20251129T162834.png,RANDOM,unknown,0.533776,False,False,False,False
+Scotiabank Chile,legit_aug_gnb-sudameris_v8_20251130T221012.png,BANCO (AUG),GNB Sudameris,0.53324854,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ficohsa_v3_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.53309524,False,False,False,False
+Scotiabank Chile,random_admanmedia-com_20251129T175644.png,RANDOM,unknown,0.5330577,False,False,False,False
+Scotiabank Chile,legit_aug_banco-galicia_v0_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5326201,False,False,False,False
+Scotiabank Chile,legit_aug_banco-safra_v9_20251130T221003.png,BANCO (AUG),Banco Safra,0.5324464,False,False,False,False
+Scotiabank Chile,random_tplinkcloud-com_20251129T171529.png,RANDOM,unknown,0.5324074,False,False,False,False
+Scotiabank Chile,legit_aug_banco-macro_v6_20251130T221013.png,BANCO (AUG),Banco Macro,0.5319761,False,False,False,False
+Scotiabank Chile,random_qualtrics-com_20251129T172907.png,RANDOM,unknown,0.53196126,False,False,False,False
+Scotiabank Chile,random_daum-net_20251129T174537.png,RANDOM,unknown,0.5311715,False,False,False,False
+Scotiabank Chile,legit_aug_banco-safra_v6_20251130T221003.png,BANCO (AUG),Banco Safra,0.53080106,False,False,False,False
+Scotiabank Chile,random_jimdo-com_20251129T180550.png,RANDOM,unknown,0.53012633,False,False,False,False
+Scotiabank Chile,random_t-mobile-com_20251129T172830.png,RANDOM,unknown,0.5294349,False,False,False,False
+Scotiabank Chile,legit_banco-security_20251102T200253.png,BANCO (REF),Banco Security,0.52916086,False,False,False,False
+Scotiabank Chile,legit_aug_banco-guayaquil_v7_20251130T221017.png,BANCO (AUG),Banco Guayaquil,0.52877057,False,False,False,False
+Scotiabank Chile,random_baidu-com_20251129T163033.png,RANDOM,unknown,0.5277662,False,False,False,False
+Scotiabank Chile,random_playstation-com_20251129T171221.png,RANDOM,unknown,0.52717596,False,False,False,False
+Scotiabank Chile,random_booking-com_20251129T164752.png,RANDOM,unknown,0.5269258,False,False,False,False
+Scotiabank Chile,random_smartthings-com_20251129T174343.png,RANDOM,unknown,0.52648425,False,False,False,False
+Scotiabank Chile,legit_aug_banreservas_v4_20251130T221007.png,BANCO (AUG),BanReservas,0.5263158,False,False,False,False
+Scotiabank Chile,random_avast-com_20251129T164855.png,RANDOM,unknown,0.5261581,False,False,False,False
+Scotiabank Chile,random_att-net_20251129T170227.png,RANDOM,unknown,0.52590376,False,False,False,False
+Scotiabank Chile,random_elmundo-es_20251129T174805.png,RANDOM,unknown,0.5254775,False,False,False,False
+Scotiabank Chile,random_aliyun-com_20251129T164946.png,RANDOM,unknown,0.52522266,False,False,False,False
+Scotiabank Chile,random_media-net_20251129T164538.png,RANDOM,unknown,0.52474976,False,False,False,False
+Scotiabank Chile,legit_aug_grupo-promerica_v3_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.5245627,False,False,False,False
+Scotiabank Chile,legit_aug_banco-macro_v0_20251130T221013.png,BANCO (AUG),Banco Macro,0.5240215,False,False,False,False
+Scotiabank Chile,legit_aug_banreservas_v1_20251130T221007.png,BANCO (AUG),BanReservas,0.5237606,False,False,False,False
+Scotiabank Chile,random_figma-com_20251129T173914.png,RANDOM,unknown,0.5234155,False,False,False,False
+Scotiabank Chile,legit_gnb-sudameris_20251102T193010.png,BANCO (REF),GNB Sudameris,0.52332556,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ficohsa_v0_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5232066,False,False,False,False
+Scotiabank Chile,legit_aug_banco-security_v5_20251130T221015.png,BANCO (AUG),Banco Security,0.52301615,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-brasil_v1_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.522783,False,False,False,False
+Scotiabank Chile,random_fiverr-com_20251129T173228.png,RANDOM,unknown,0.52259564,False,False,False,False
+Scotiabank Chile,random_soundcloud-com_20251129T163738.png,RANDOM,unknown,0.52242804,False,False,False,False
+Scotiabank Chile,random_zillow-com_20251129T172718.png,RANDOM,unknown,0.5218586,False,False,False,False
+Scotiabank Chile,random_terra-com-br_20251129T175815.png,RANDOM,unknown,0.521736,False,False,False,False
+Scotiabank Chile,random_digikala-com_20251129T181028.png,RANDOM,unknown,0.52170265,False,False,False,False
+Scotiabank Chile,legit_banco-galicia_20251102T192544.png,BANCO (REF),Banco Galicia,0.5215274,False,False,False,False
+Scotiabank Chile,random_mailchimp-com_20251129T172441.png,RANDOM,unknown,0.52139175,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ficohsa_v9_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.5212734,False,False,False,False
+Scotiabank Chile,legit_aug_banco-macro_v4_20251130T221013.png,BANCO (AUG),Banco Macro,0.52069086,False,False,False,False
+Scotiabank Chile,random_walmart-com_20251129T170224.png,RANDOM,unknown,0.52068985,False,False,False,False
+Scotiabank Chile,random_onet-pl_20251129T174058.png,RANDOM,unknown,0.5205653,False,False,False,False
+Scotiabank Chile,random_free-fr_20251129T171241.png,RANDOM,unknown,0.5202911,False,False,False,False
+Scotiabank Chile,legit_aug_gnb-sudameris_v6_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.5197835,False,False,False,False
+Scotiabank Chile,random_alidns-com_20251129T165358.png,RANDOM,unknown,0.51972604,False,False,False,False
+Scotiabank Chile,random_line-me_20251129T170140.png,RANDOM,unknown,0.5196955,False,False,False,False
+Scotiabank Chile,random_cnn-com_20251129T163745.png,RANDOM,unknown,0.51958436,False,False,False,False
+Scotiabank Chile,random_bilibili-com_20251129T165003.png,RANDOM,unknown,0.5188018,False,False,False,False
+Scotiabank Chile,random_substack-com_20251129T171941.png,RANDOM,unknown,0.5182233,False,False,False,False
+Scotiabank Chile,random_gofundme-com_20251129T181222.png,RANDOM,unknown,0.518178,False,False,False,False
+Scotiabank Chile,legit_aug_banco-macro_v5_20251130T221013.png,BANCO (AUG),Banco Macro,0.51792336,False,False,False,False
+Scotiabank Chile,random_cdc-gov_20251129T164745.png,RANDOM,unknown,0.5178057,False,False,False,False
+Scotiabank Chile,legit_aug_banco-galicia_v3_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5177226,False,False,False,False
+Scotiabank Chile,random_yelp-com_20251129T171935.png,RANDOM,unknown,0.51771843,False,False,False,False
+Scotiabank Chile,legit_aug_banco-security_v3_20251130T221015.png,BANCO (AUG),Banco Security,0.5174454,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-brasil_v2_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.51703435,False,False,False,False
+Scotiabank Chile,random_xerox-com_20251129T172412.png,RANDOM,unknown,0.51648545,False,False,False,False
+Scotiabank Chile,random_uber-com_20251129T170129.png,RANDOM,unknown,0.51595664,False,False,False,False
+Scotiabank Chile,legit_aug_banco-macro_v9_20251130T221014.png,BANCO (AUG),Banco Macro,0.51547205,False,False,False,False
+Scotiabank Chile,legit_aug_banco-galicia_v9_20251130T221009.png,BANCO (AUG),Banco Galicia,0.51489735,False,False,False,False
+Scotiabank Chile,legit_aug_banco-galicia_v1_20251130T221009.png,BANCO (AUG),Banco Galicia,0.51489127,False,False,False,False
+Scotiabank Chile,legit_aug_banreservas_v7_20251130T221008.png,BANCO (AUG),BanReservas,0.5145216,False,False,False,False
+Scotiabank Chile,legit_aug_banco-macro_v2_20251130T221013.png,BANCO (AUG),Banco Macro,0.51407886,False,False,False,False
+Scotiabank Chile,random_cdnvideo-ru_20251129T170544.png,RANDOM,unknown,0.51407725,False,False,False,False
+Scotiabank Chile,random_launchdarkly-com_20251129T164616.png,RANDOM,unknown,0.51375616,False,False,False,False
+Scotiabank Chile,random_spotify-com_20251129T162738.png,RANDOM,unknown,0.5133006,False,False,False,False
+Scotiabank Chile,random_deloitte-com_20251129T174606.png,RANDOM,unknown,0.5132077,False,False,False,False
+Scotiabank Chile,random_pixiv-net_20251129T175034.png,RANDOM,unknown,0.5129801,False,False,False,False
+Scotiabank Chile,random_sapo-pt_20251129T175945.png,RANDOM,unknown,0.5128503,False,False,False,False
+Scotiabank Chile,random_instructure-com_20251129T175109.png,RANDOM,unknown,0.51274616,False,False,False,False
+Scotiabank Chile,random_stripe-com_20251129T164420.png,RANDOM,unknown,0.51254463,False,False,False,False
+Scotiabank Chile,random_ameblo-jp_20251129T173551.png,RANDOM,unknown,0.51244795,False,False,False,False
+Scotiabank Chile,random_trustpilot-com_20251129T170115.png,RANDOM,unknown,0.51192427,False,False,False,False
+Scotiabank Chile,random_kontur-ru_20251129T175233.png,RANDOM,unknown,0.51190656,False,False,False,False
+Scotiabank Chile,random_braze-com_20251129T171458.png,RANDOM,unknown,0.5117037,False,False,False,False
+Scotiabank Chile,random_infobae-com_20251129T175242.png,RANDOM,unknown,0.51122713,False,False,False,False
+Scotiabank Chile,random_squarespace-com_20251129T171609.png,RANDOM,unknown,0.51108176,False,False,False,False
+Scotiabank Chile,random_rakuten-co-jp_20251129T171035.png,RANDOM,unknown,0.5102607,False,False,False,False
+Scotiabank Chile,random_grammarly-com_20251129T164400.png,RANDOM,unknown,0.50990033,False,False,False,False
+Scotiabank Chile,random_character-ai_20251129T174433.png,RANDOM,unknown,0.5096197,False,False,False,False
+Scotiabank Chile,random_gravatar-com_20251129T163240.png,RANDOM,unknown,0.50942624,False,False,False,False
+Scotiabank Chile,random_360-cn_20251129T173141.png,RANDOM,unknown,0.50917304,False,False,False,False
+Scotiabank Chile,legit_aug_grupo-promerica_v8_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.508661,False,False,False,False
+Scotiabank Chile,random_sofascore-com_20251129T175344.png,RANDOM,unknown,0.50847715,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-brasil_v7_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.50845474,False,False,False,False
+Scotiabank Chile,random_xiaohongshu-com_20251129T174354.png,RANDOM,unknown,0.5081425,False,False,False,False
+Scotiabank Chile,random_bild-de_20251129T173827.png,RANDOM,unknown,0.50799835,False,False,False,False
+Scotiabank Chile,random_indiamart-com_20251129T181043.png,RANDOM,unknown,0.5076005,False,False,False,False
+Scotiabank Chile,random_wix-com_20251129T171207.png,RANDOM,unknown,0.5072632,False,False,False,False
+Scotiabank Chile,legit_aug_banco-security_v7_20251130T221015.png,BANCO (AUG),Banco Security,0.506873,False,False,False,False
+Scotiabank Chile,random_supercell-com_20251129T171247.png,RANDOM,unknown,0.50624585,False,False,False,False
+Scotiabank Chile,legit_aug_banco-safra_v2_20251130T221003.png,BANCO (AUG),Banco Safra,0.5061656,False,False,False,False
+Scotiabank Chile,legit_aug_banco-macro_v8_20251130T221014.png,BANCO (AUG),Banco Macro,0.50615704,False,False,False,False
+Scotiabank Chile,legit_aug_banco-ficohsa_v7_20251130T221018.png,BANCO (AUG),Banco Ficohsa,0.506153,False,False,False,False
+Scotiabank Chile,random_corriere-it_20251129T174724.png,RANDOM,unknown,0.50548005,False,False,False,False
+Scotiabank Chile,random_linktr-ee_20251129T164235.png,RANDOM,unknown,0.5052322,False,False,False,False
+Scotiabank Chile,random_viber-com_20251129T172210.png,RANDOM,unknown,0.50471824,False,False,False,False
+Scotiabank Chile,random_twitter-com_20251129T162408.png,RANDOM,unknown,0.50460434,False,False,False,False
+Scotiabank Chile,random_nu-nl_20251129T180732.png,RANDOM,unknown,0.5044835,False,False,False,False
+Scotiabank Chile,random_telekom-net_20251129T171628.png,RANDOM,unknown,0.50402933,False,False,False,False
+Scotiabank Chile,random_ipinfo-io_20251129T175713.png,RANDOM,unknown,0.50328493,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-brasil_v6_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.5029418,False,False,False,False
+Scotiabank Chile,random_amazonvideo-com_20251129T163526.png,RANDOM,unknown,0.50269735,False,False,False,False
+Scotiabank Chile,random_indiatimes-com_20251129T170220.png,RANDOM,unknown,0.50261676,False,False,False,False
+Scotiabank Chile,random_superhosting-bg_20251129T174624.png,RANDOM,unknown,0.5020845,False,False,False,False
+Scotiabank Chile,random_divar-ir_20251129T181215.png,RANDOM,unknown,0.5015719,False,False,False,False
+Scotiabank Chile,random_wikipedia-org_20251129T162446.png,RANDOM,unknown,0.501564,False,False,False,False
+Scotiabank Chile,random_bestbuy-com_20251129T173111.png,RANDOM,unknown,0.50139415,False,False,False,False
+Scotiabank Chile,random_eventbrite-com_20251129T170136.png,RANDOM,unknown,0.5013386,False,False,False,False
+Scotiabank Chile,legit_aug_banco-galicia_v8_20251130T221009.png,BANCO (AUG),Banco Galicia,0.5010028,False,False,False,False
+Scotiabank Chile,random_linklist-bio_20251129T174110.png,RANDOM,unknown,0.500975,False,False,False,False
+Scotiabank Chile,random_linkedin-com_20251129T162420.png,RANDOM,unknown,0.4997261,False,False,False,False
+Scotiabank Chile,random_teamviewer-com_20251129T165817.png,RANDOM,unknown,0.49955386,False,False,False,False
+Scotiabank Chile,legit_aug_banreservas_v5_20251130T221007.png,BANCO (AUG),BanReservas,0.49951065,False,False,False,False
+Scotiabank Chile,legit_aug_banreservas_v6_20251130T221008.png,BANCO (AUG),BanReservas,0.49914795,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-brasil_v5_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.49865332,False,False,False,False
+Scotiabank Chile,random_gazzetta-it_20251129T181239.png,RANDOM,unknown,0.49845967,False,False,False,False
+Scotiabank Chile,random_cnnbrasil-com-br_20251129T181101.png,RANDOM,unknown,0.49816763,False,False,False,False
+Scotiabank Chile,random_visualstudio-com_20251129T170805.png,RANDOM,unknown,0.4978204,False,False,False,False
+Scotiabank Chile,random_kahoot-it_20251129T174902.png,RANDOM,unknown,0.4977826,False,False,False,False
+Scotiabank Chile,random_spiegel-de_20251129T172642.png,RANDOM,unknown,0.49720994,False,False,False,False
+Scotiabank Chile,random_leparisien-fr_20251129T175018.png,RANDOM,unknown,0.49705496,False,False,False,False
+Scotiabank Chile,random_capcut-com_20251129T174620.png,RANDOM,unknown,0.49687794,False,False,False,False
+Scotiabank Chile,legit_aug_banco-safra_v4_20251130T221003.png,BANCO (AUG),Banco Safra,0.49686107,False,False,False,False
+Scotiabank Chile,legit_aug_banreservas_v2_20251130T221007.png,BANCO (AUG),BanReservas,0.4967383,False,False,False,False
+Scotiabank Chile,random_mediafire-com_20251129T172826.png,RANDOM,unknown,0.49621135,False,False,False,False
+Scotiabank Chile,random_rutube-ru_20251129T171022.png,RANDOM,unknown,0.49560258,False,False,False,False
+Scotiabank Chile,random_deepl-com_20251129T172145.png,RANDOM,unknown,0.49544013,False,False,False,False
+Scotiabank Chile,random_gosuslugi-ru_20251129T170632.png,RANDOM,unknown,0.49536994,False,False,False,False
+Scotiabank Chile,random_wordpress-com_20251129T163104.png,RANDOM,unknown,0.494647,False,False,False,False
+Scotiabank Chile,random_issuu-com_20251129T164527.png,RANDOM,unknown,0.4945866,False,False,False,False
+Scotiabank Chile,random_gdemoideti-ru_20251129T172321.png,RANDOM,unknown,0.4944868,False,False,False,False
+Scotiabank Chile,random_yieldmo-com_20251129T172149.png,RANDOM,unknown,0.49350455,False,False,False,False
+Scotiabank Chile,random_n-tv-de_20251129T180033.png,RANDOM,unknown,0.49294496,False,False,False,False
+Scotiabank Chile,legit_aug_banco-macro_v7_20251130T221013.png,BANCO (AUG),Banco Macro,0.49290144,False,False,False,False
+Scotiabank Chile,random_segment-io_20251129T174400.png,RANDOM,unknown,0.49273983,False,False,False,False
+Scotiabank Chile,random_myshopify-com_20251129T164750.png,RANDOM,unknown,0.49267507,False,False,False,False
+Scotiabank Chile,random_apa-org_20251129T180433.png,RANDOM,unknown,0.4925483,False,False,False,False
+Scotiabank Chile,legit_aug_gnb-sudameris_v4_20251130T221011.png,BANCO (AUG),GNB Sudameris,0.49237135,False,False,False,False
+Scotiabank Chile,random_duckduckgo-com_20251129T165354.png,RANDOM,unknown,0.49196747,False,False,False,False
+Scotiabank Chile,random_flipkart-com_20251129T175352.png,RANDOM,unknown,0.49143058,False,False,False,False
+Scotiabank Chile,random_opera-com_20251129T163028.png,RANDOM,unknown,0.4913647,False,False,False,False
+Scotiabank Chile,random_vungle-com_20251129T163815.png,RANDOM,unknown,0.4912548,False,False,False,False
+Scotiabank Chile,random_redhat-com_20251129T172403.png,RANDOM,unknown,0.4905759,False,False,False,False
+Scotiabank Chile,random_dnevnik-ru_20251129T181133.png,RANDOM,unknown,0.49055398,False,False,False,False
+Scotiabank Chile,random_klaviyo-com_20251129T172633.png,RANDOM,unknown,0.48968336,False,False,False,False
+Scotiabank Chile,random_drom-ru_20251129T164412.png,RANDOM,unknown,0.48919067,False,False,False,False
+Scotiabank Chile,random_kaspi-kz_20251129T175432.png,RANDOM,unknown,0.4878653,False,False,False,False
+Scotiabank Chile,random_ys7-com_20251129T170858.png,RANDOM,unknown,0.48769346,False,False,False,False
+Scotiabank Chile,random_lequipe-fr_20251129T180738.png,RANDOM,unknown,0.4869557,False,False,False,False
+Scotiabank Chile,random_hihonorcloud-com_20251129T172913.png,RANDOM,unknown,0.48686177,False,False,False,False
+Scotiabank Chile,random_netangels-ru_20251129T164701.png,RANDOM,unknown,0.48670673,False,False,False,False
+Scotiabank Chile,random_doubleverify-com_20251129T163914.png,RANDOM,unknown,0.4866343,False,False,False,False
+Scotiabank Chile,random_mozilla-com_20251129T164305.png,RANDOM,unknown,0.48644802,False,False,False,False
+Scotiabank Chile,random_amplitude-com_20251129T170502.png,RANDOM,unknown,0.48608306,False,False,False,False
+Scotiabank Chile,random_dribbble-com_20251129T174456.png,RANDOM,unknown,0.48583084,False,False,False,False
+Scotiabank Chile,random_name-com_20251129T171101.png,RANDOM,unknown,0.48554176,False,False,False,False
+Scotiabank Chile,random_digitalocean-com_20251129T172159.png,RANDOM,unknown,0.4852445,False,False,False,False
+Scotiabank Chile,random_sina-com-cn_20251129T170656.png,RANDOM,unknown,0.4851511,False,False,False,False
+Scotiabank Chile,legit_aug_banreservas_v9_20251130T221008.png,BANCO (AUG),BanReservas,0.4850728,False,False,False,False
+Scotiabank Chile,random_addtoany-com_20251129T170125.png,RANDOM,unknown,0.4845685,False,False,False,False
+Scotiabank Chile,legit_aug_banreservas_v0_20251130T221007.png,BANCO (AUG),BanReservas,0.48421845,False,False,False,False
+Scotiabank Chile,random_intercom-io_20251129T171605.png,RANDOM,unknown,0.48406214,False,False,False,False
+Scotiabank Chile,random_consultant-ru_20251129T170354.png,RANDOM,unknown,0.48340887,False,False,False,False
+Scotiabank Chile,random_ad-nl_20251129T180833.png,RANDOM,unknown,0.48290724,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-brasil_v8_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.48255557,False,False,False,False
+Scotiabank Chile,random_otto-de_20251129T174331.png,RANDOM,unknown,0.4825385,False,False,False,False
+Scotiabank Chile,random_amazon-com-au_20251129T174744.png,RANDOM,unknown,0.48230717,False,False,False,False
+Scotiabank Chile,random_okta-com_20251129T171946.png,RANDOM,unknown,0.48229256,False,False,False,False
+Scotiabank Chile,random_betweendigital-com_20251129T175951.png,RANDOM,unknown,0.48227078,False,False,False,False
+Scotiabank Chile,random_opendns-com_20251129T164655.png,RANDOM,unknown,0.48219404,False,False,False,False
+Scotiabank Chile,random_dropbox-com_20251129T163305.png,RANDOM,unknown,0.48205677,False,False,False,False
+Scotiabank Chile,random_kwai-com_20251129T174906.png,RANDOM,unknown,0.48145828,False,False,False,False
+Scotiabank Chile,random_rakuten-com_20251129T173405.png,RANDOM,unknown,0.48090422,False,False,False,False
+Scotiabank Chile,random_myspace-com_20251129T173443.png,RANDOM,unknown,0.47958544,False,False,False,False
+Scotiabank Chile,random_businessinsider-com_20251129T165223.png,RANDOM,unknown,0.47953075,False,False,False,False
+Scotiabank Chile,random_vivo-com_20251129T180253.png,RANDOM,unknown,0.47923478,False,False,False,False
+Scotiabank Chile,random_academia-edu_20251129T173456.png,RANDOM,unknown,0.47882256,False,False,False,False
+Scotiabank Chile,legit_aug_banreservas_v8_20251130T221008.png,BANCO (AUG),BanReservas,0.4783977,False,False,False,False
+Scotiabank Chile,random_shopeemobile-com_20251129T174513.png,RANDOM,unknown,0.4778036,False,False,False,False
+Scotiabank Chile,random_aftonbladet-se_20251129T180530.png,RANDOM,unknown,0.4769017,False,False,False,False
+Scotiabank Chile,random_flashscore-com_20251129T180535.png,RANDOM,unknown,0.4768467,False,False,False,False
+Scotiabank Chile,random_amazon-com-br_20251129T174405.png,RANDOM,unknown,0.47639388,False,False,False,False
+Scotiabank Chile,random_sohu-com_20251129T170340.png,RANDOM,unknown,0.47639227,False,False,False,False
+Scotiabank Chile,random_techcrunch-com_20251129T171954.png,RANDOM,unknown,0.4762719,False,False,False,False
+Scotiabank Chile,random_forter-com_20251129T164642.png,RANDOM,unknown,0.47609317,False,False,False,False
+Scotiabank Chile,random_deviantart-com_20251129T170831.png,RANDOM,unknown,0.47572163,False,False,False,False
+Scotiabank Chile,random_360yield-com_20251129T170811.png,RANDOM,unknown,0.47506833,False,False,False,False
+Scotiabank Chile,random_cloudflare-com_20251129T162319.png,RANDOM,unknown,0.47471565,False,False,False,False
+Scotiabank Chile,random_buzzfeed-com_20251129T171623.png,RANDOM,unknown,0.47445086,False,False,False,False
+Scotiabank Chile,random_nikkei-com_20251129T173427.png,RANDOM,unknown,0.47363877,False,False,False,False
+Scotiabank Chile,random_stackadapt-com_20251129T172128.png,RANDOM,unknown,0.4735883,False,False,False,False
+Scotiabank Chile,random_scribd-com_20251129T170609.png,RANDOM,unknown,0.4730938,False,False,False,False
+Scotiabank Chile,random_t-me_20251129T163150.png,RANDOM,unknown,0.47296956,False,False,False,False
+Scotiabank Chile,random_youku-com_20251129T174026.png,RANDOM,unknown,0.4723261,False,False,False,False
+Scotiabank Chile,random_time-com_20251129T170629.png,RANDOM,unknown,0.4720233,False,False,False,False
+Scotiabank Chile,random_airbnb-com_20251129T172638.png,RANDOM,unknown,0.4716459,False,False,False,False
+Scotiabank Chile,random_umbrella-com_20251129T175921.png,RANDOM,unknown,0.4714687,False,False,False,False
+Scotiabank Chile,random_verisign-com_20251129T170506.png,RANDOM,unknown,0.47128063,False,False,False,False
+Scotiabank Chile,random_usps-com_20251129T173658.png,RANDOM,unknown,0.47114953,False,False,False,False
+Scotiabank Chile,random_ca-gov_20251129T171538.png,RANDOM,unknown,0.4701755,False,False,False,False
+Scotiabank Chile,random_fandom-com_20251129T171413.png,RANDOM,unknown,0.4692018,False,False,False,False
+Scotiabank Chile,random_apnews-com_20251129T173609.png,RANDOM,unknown,0.46906704,False,False,False,False
+Scotiabank Chile,random_adriver-ru_20251129T163825.png,RANDOM,unknown,0.4685117,False,False,False,False
+Scotiabank Chile,random_wp-pl_20251129T172006.png,RANDOM,unknown,0.46849915,False,False,False,False
+Scotiabank Chile,random_investopedia-com_20251129T173020.png,RANDOM,unknown,0.46839592,False,False,False,False
+Scotiabank Chile,random_kaspersky-com_20251129T163535.png,RANDOM,unknown,0.46812597,False,False,False,False
+Scotiabank Chile,random_wise-com_20251129T180312.png,RANDOM,unknown,0.46763214,False,False,False,False
+Scotiabank Chile,random_roblox-com_20251129T162731.png,RANDOM,unknown,0.46746153,False,False,False,False
+Scotiabank Chile,random_atlassian-net_20251129T173527.png,RANDOM,unknown,0.46723294,False,False,False,False
+Scotiabank Chile,random_jstor-org_20251129T181014.png,RANDOM,unknown,0.4668826,False,False,False,False
+Scotiabank Chile,random_uol-com-br_20251129T165828.png,RANDOM,unknown,0.4668697,False,False,False,False
+Scotiabank Chile,random_tencent-com_20251129T172804.png,RANDOM,unknown,0.46667093,False,False,False,False
+Scotiabank Chile,random_lemonde-fr_20251129T172629.png,RANDOM,unknown,0.46602732,False,False,False,False
+Scotiabank Chile,random_huawei-com_20251129T164844.png,RANDOM,unknown,0.46556836,False,False,False,False
+Scotiabank Chile,random_disneyplus-com_20251129T173730.png,RANDOM,unknown,0.46498102,False,False,False,False
+Scotiabank Chile,random_wildberries-ru_20251129T163846.png,RANDOM,unknown,0.464698,False,False,False,False
+Scotiabank Chile,random_quickconnect-to_20251129T172216.png,RANDOM,unknown,0.4642536,False,False,False,False
+Scotiabank Chile,random_openstreetmap-org_20251129T174244.png,RANDOM,unknown,0.46422806,False,False,False,False
+Scotiabank Chile,random_cornell-edu_20251129T165501.png,RANDOM,unknown,0.46381125,False,False,False,False
+Scotiabank Chile,random_globalsign-com_20251129T174003.png,RANDOM,unknown,0.4637558,False,False,False,False
+Scotiabank Chile,random_mayoclinic-org_20251129T173522.png,RANDOM,unknown,0.46352762,False,False,False,False
+Scotiabank Chile,random_rightmove-co-uk_20251129T181007.png,RANDOM,unknown,0.4631397,False,False,False,False
+Scotiabank Chile,legit_aug_banco-galicia_v4_20251130T221009.png,BANCO (AUG),Banco Galicia,0.46306694,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-brasil_v0_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.46251953,False,False,False,False
+Scotiabank Chile,random_f5-com_20251129T163706.png,RANDOM,unknown,0.4622474,False,False,False,False
+Scotiabank Chile,random_playrix-com_20251129T174840.png,RANDOM,unknown,0.46214992,False,False,False,False
+Scotiabank Chile,random_heytapmobi-com_20251129T175213.png,RANDOM,unknown,0.46167448,False,False,False,False
+Scotiabank Chile,random_ietf-org_20251129T170606.png,RANDOM,unknown,0.46063745,False,False,False,False
+Scotiabank Chile,random_office365-com_20251129T162902.png,RANDOM,unknown,0.46029264,False,False,False,False
+Scotiabank Chile,random_psu-edu_20251129T181154.png,RANDOM,unknown,0.46021414,False,False,False,False
+Scotiabank Chile,legit_aug_banco-security_v0_20251130T221014.png,BANCO (AUG),Banco Security,0.45999277,False,False,False,False
+Scotiabank Chile,random_netflix-net_20251129T165231.png,RANDOM,unknown,0.45995736,False,False,False,False
+Scotiabank Chile,random_fortune-com_20251129T180030.png,RANDOM,unknown,0.45991307,False,False,False,False
+Scotiabank Chile,random_tiktok-com_20251129T162746.png,RANDOM,unknown,0.45963192,False,False,False,False
+Scotiabank Chile,random_bankofamerica-com_20251129T174014.png,RANDOM,unknown,0.4587397,False,False,False,False
+Scotiabank Chile,random_slack-com_20251129T164623.png,RANDOM,unknown,0.45802587,False,False,False,False
+Scotiabank Chile,random_telekom-de_20251129T163418.png,RANDOM,unknown,0.45705655,False,False,False,False
+Scotiabank Chile,random_gov-uk_20251129T164446.png,RANDOM,unknown,0.45687222,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-brasil_v9_20251130T221006.png,BANCO (AUG),Citibank Brasil,0.45592967,False,False,False,False
+Scotiabank Chile,random_bbc-co-uk_20251129T163933.png,RANDOM,unknown,0.4556893,False,False,False,False
+Scotiabank Chile,random_maricopa-gov_20251129T175653.png,RANDOM,unknown,0.45510197,False,False,False,False
+Scotiabank Chile,random_india-com_20251129T180557.png,RANDOM,unknown,0.4549299,False,False,False,False
+Scotiabank Chile,random_coupang-com_20251129T175335.png,RANDOM,unknown,0.45451403,False,False,False,False
+Scotiabank Chile,random_calendly-com_20251129T165520.png,RANDOM,unknown,0.45443666,False,False,False,False
+Scotiabank Chile,random_slideshare-net_20251129T170457.png,RANDOM,unknown,0.45396784,False,False,False,False
+Scotiabank Chile,random_pbs-org_20251129T174338.png,RANDOM,unknown,0.45384014,False,False,False,False
+Scotiabank Chile,random_typeform-com_20251129T174123.png,RANDOM,unknown,0.45313373,False,False,False,False
+Scotiabank Chile,random_onedrive-com_20251129T175513.png,RANDOM,unknown,0.45295385,False,False,False,False
+Scotiabank Chile,random_hostgator-com-br_20251129T171707.png,RANDOM,unknown,0.4527713,False,False,False,False
+Scotiabank Chile,random_synology-com_20251129T173948.png,RANDOM,unknown,0.45262676,False,False,False,False
+Scotiabank Chile,random_agora-io_20251129T175439.png,RANDOM,unknown,0.45238602,False,False,False,False
+Scotiabank Chile,random_nic-ru_20251129T162817.png,RANDOM,unknown,0.45177507,False,False,False,False
+Scotiabank Chile,random_moe-video_20251129T164430.png,RANDOM,unknown,0.45088255,False,False,False,False
+Scotiabank Chile,random_sberbank-ru_20251129T165706.png,RANDOM,unknown,0.45080507,False,False,False,False
+Scotiabank Chile,legit_citibank-brasil_20251102T191550.png,BANCO (REF),Citibank Brasil,0.4507507,False,False,False,False
+Scotiabank Chile,random_ibm-com_20251129T164343.png,RANDOM,unknown,0.45073375,False,False,False,False
+Scotiabank Chile,random_outlook-com_20251129T163311.png,RANDOM,unknown,0.45071965,False,False,False,False
+Scotiabank Chile,random_cookielaw-org_20251129T164819.png,RANDOM,unknown,0.45050034,False,False,False,False
+Scotiabank Chile,random_edna-ru_20251129T175150.png,RANDOM,unknown,0.4496966,False,False,False,False
+Scotiabank Chile,random_wyzecam-com_20251129T165523.png,RANDOM,unknown,0.4495446,False,False,False,False
+Scotiabank Chile,random_vk-com_20251129T163202.png,RANDOM,unknown,0.44923338,False,False,False,False
+Scotiabank Chile,random_furaffinity-net_20251129T180641.png,RANDOM,unknown,0.4489784,False,False,False,False
+Scotiabank Chile,random_europa-eu_20251129T163156.png,RANDOM,unknown,0.44842774,False,False,False,False
+Scotiabank Chile,random_lavanguardia-com_20251129T175138.png,RANDOM,unknown,0.44793856,False,False,False,False
+Scotiabank Chile,random_mit-edu_20251129T164041.png,RANDOM,unknown,0.4478272,False,False,False,False
+Scotiabank Chile,random_binance-com_20251129T174935.png,RANDOM,unknown,0.44771168,False,False,False,False
+Scotiabank Chile,random_3lift-com_20251129T164553.png,RANDOM,unknown,0.44709685,False,False,False,False
+Scotiabank Chile,random_onetrust-com_20251129T171648.png,RANDOM,unknown,0.4468649,False,False,False,False
+Scotiabank Chile,random_amazontrust-com_20251129T171811.png,RANDOM,unknown,0.44683632,False,False,False,False
+Scotiabank Chile,random_b-cdn-net_20251129T163604.png,RANDOM,unknown,0.4455466,False,False,False,False
+Scotiabank Chile,random_plos-org_20251129T180524.png,RANDOM,unknown,0.44535822,False,False,False,False
+Scotiabank Chile,random_cloud-microsoft_20251129T163331.png,RANDOM,unknown,0.445213,False,False,False,False
+Scotiabank Chile,random_gitlab-com_20251129T170105.png,RANDOM,unknown,0.444922,False,False,False,False
+Scotiabank Chile,random_vivo-com-cn_20251129T170753.png,RANDOM,unknown,0.44461852,False,False,False,False
+Scotiabank Chile,random_canva-com_20251129T164231.png,RANDOM,unknown,0.44419348,False,False,False,False
+Scotiabank Chile,random_trendyol-com_20251129T175810.png,RANDOM,unknown,0.44393903,False,False,False,False
+Scotiabank Chile,random_cookpad-com_20251129T181150.png,RANDOM,unknown,0.44265342,False,False,False,False
+Scotiabank Chile,random_ngenix-net_20251129T165848.png,RANDOM,unknown,0.44265085,False,False,False,False
+Scotiabank Chile,random_dynatrace-com_20251129T171451.png,RANDOM,unknown,0.44129136,False,False,False,False
+Scotiabank Chile,random_t-online-de_20251129T170742.png,RANDOM,unknown,0.4408396,False,False,False,False
+Scotiabank Chile,random_nih-gov_20251129T163410.png,RANDOM,unknown,0.44051817,False,False,False,False
+Scotiabank Chile,random_afternic-com_20251129T170119.png,RANDOM,unknown,0.44042355,False,False,False,False
+Scotiabank Chile,legit_aug_citibank-brasil_v3_20251130T221005.png,BANCO (AUG),Citibank Brasil,0.43988037,False,False,False,False
+Scotiabank Chile,random_amazon-co-jp_20251129T171614.png,RANDOM,unknown,0.43987393,False,False,False,False
+Scotiabank Chile,random_sedo-com_20251129T174801.png,RANDOM,unknown,0.43983215,False,False,False,False
+Scotiabank Chile,random_samsung-com_20251129T163046.png,RANDOM,unknown,0.43974102,False,False,False,False
+Scotiabank Chile,random_jotform-com_20251129T172240.png,RANDOM,unknown,0.43963212,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-nordeste_v0_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.43913218,False,False,False,False
+Scotiabank Chile,random_weforum-org_20251129T175009.png,RANDOM,unknown,0.43899667,False,False,False,False
+Scotiabank Chile,random_discord-gg_20251129T163431.png,RANDOM,unknown,0.43888128,False,False,False,False
+Scotiabank Chile,random_roku-com_20251129T164128.png,RANDOM,unknown,0.43873513,False,False,False,False
+Scotiabank Chile,random_cursor-sh_20251129T173848.png,RANDOM,unknown,0.43859646,False,False,False,False
+Scotiabank Chile,random_chess-com_20251129T173919.png,RANDOM,unknown,0.43797353,False,False,False,False
+Scotiabank Chile,random_lwsdns-com_20251129T174917.png,RANDOM,unknown,0.43790627,False,False,False,False
+Scotiabank Chile,random_vg-no_20251129T180754.png,RANDOM,unknown,0.43773794,False,False,False,False
+Scotiabank Chile,random_tapad-com_20251129T172220.png,RANDOM,unknown,0.43636423,False,False,False,False
+Scotiabank Chile,random_adsrvr-org_20251129T163821.png,RANDOM,unknown,0.43634254,False,False,False,False
+Scotiabank Chile,random_ebay-de_20251129T174716.png,RANDOM,unknown,0.43628776,False,False,False,False
+Scotiabank Chile,random_amazon-com_20251129T162430.png,RANDOM,unknown,0.43622732,False,False,False,False
+Scotiabank Chile,random_chaturbate-com_20251129T174521.png,RANDOM,unknown,0.43587872,False,False,False,False
+Scotiabank Chile,random_google-analytics-com_20251129T162909.png,RANDOM,unknown,0.43585163,False,False,False,False
+Scotiabank Chile,random_ebay-co-uk_20251129T174104.png,RANDOM,unknown,0.43573174,False,False,False,False
+Scotiabank Chile,random_itmedia-co-jp_20251129T181116.png,RANDOM,unknown,0.4353528,False,False,False,False
+Scotiabank Chile,random_mlb-com_20251129T173640.png,RANDOM,unknown,0.4346674,False,False,False,False
+Scotiabank Chile,random_worldbank-org_20251129T174233.png,RANDOM,unknown,0.43465295,False,False,False,False
+Scotiabank Chile,random_ovh-net_20251129T171658.png,RANDOM,unknown,0.4343893,False,False,False,False
+Scotiabank Chile,random_github-com_20251129T162456.png,RANDOM,unknown,0.4343245,False,False,False,False
+Scotiabank Chile,random_amzn-to_20251129T170439.png,RANDOM,unknown,0.43409407,False,False,False,False
+Scotiabank Chile,random_hepsiburada-com_20251129T175340.png,RANDOM,unknown,0.4338578,False,False,False,False
+Scotiabank Chile,random_dmm-co-jp_20251129T180844.png,RANDOM,unknown,0.4338066,False,False,False,False
+Scotiabank Chile,random_onesignal-com_20251129T174631.png,RANDOM,unknown,0.43374678,False,False,False,False
+Scotiabank Chile,random_ipify-org_20251129T172850.png,RANDOM,unknown,0.43358603,False,False,False,False
+Scotiabank Chile,random_surveymonkey-com_20251129T171914.png,RANDOM,unknown,0.43334725,False,False,False,False
+Scotiabank Chile,random_plesk-com_20251129T165342.png,RANDOM,unknown,0.43306097,False,False,False,False
+Scotiabank Chile,random_tumblr-com_20251129T163427.png,RANDOM,unknown,0.43301743,False,False,False,False
+Scotiabank Chile,random_moloco-com_20251129T174309.png,RANDOM,unknown,0.43282726,False,False,False,False
+Scotiabank Chile,random_shopify-com_20251129T163611.png,RANDOM,unknown,0.43258473,False,False,False,False
+Scotiabank Chile,random_whatsapp-net_20251129T162616.png,RANDOM,unknown,0.43219677,False,False,False,False
+Scotiabank Chile,random_sahibinden-com_20251129T180115.png,RANDOM,unknown,0.4321945,False,False,False,False
+Scotiabank Chile,random_trello-com_20251129T180351.png,RANDOM,unknown,0.4319234,False,False,False,False
+Scotiabank Chile,random_w3schools-com_20251129T172329.png,RANDOM,unknown,0.4315285,False,False,False,False
+Scotiabank Chile,random_zendesk-com_20251129T170406.png,RANDOM,unknown,0.43127924,False,False,False,False
+Scotiabank Chile,random_pusher-com_20251129T180007.png,RANDOM,unknown,0.4311274,False,False,False,False
+Scotiabank Chile,random_theconversation-com_20251129T175805.png,RANDOM,unknown,0.43100497,False,False,False,False
+Scotiabank Chile,random_byteconnect-io_20251129T171931.png,RANDOM,unknown,0.43084365,False,False,False,False
+Scotiabank Chile,random_statista-com_20251129T165822.png,RANDOM,unknown,0.43079883,False,False,False,False
+Scotiabank Chile,random_smartadserver-com_20251129T164647.png,RANDOM,unknown,0.42992166,False,False,False,False
+Scotiabank Chile,random_skyhigh-cloud_20251129T180427.png,RANDOM,unknown,0.4299055,False,False,False,False
+Scotiabank Chile,random_onelink-me_20251129T172844.png,RANDOM,unknown,0.42959073,False,False,False,False
+Scotiabank Chile,random_newrelic-com_20251129T172154.png,RANDOM,unknown,0.42893413,False,False,False,False
+Scotiabank Chile,random_pki-goog_20251129T163403.png,RANDOM,unknown,0.4288687,False,False,False,False
+Scotiabank Chile,random_welt-de_20251129T173821.png,RANDOM,unknown,0.42858508,False,False,False,False
+Scotiabank Chile,random_ozon-ru_20251129T163917.png,RANDOM,unknown,0.4283575,False,False,False,False
+Scotiabank Chile,random_amazon-ca_20251129T172451.png,RANDOM,unknown,0.42831475,False,False,False,False
+Scotiabank Chile,random_instagram-com_20251129T162358.png,RANDOM,unknown,0.42789745,False,False,False,False
+Scotiabank Chile,random_mozilla-org_20251129T163124.png,RANDOM,unknown,0.42768145,False,False,False,False
+Scotiabank Chile,random_kargo-com_20251129T180441.png,RANDOM,unknown,0.42744708,False,False,False,False
+Scotiabank Chile,random_ft-com_20251129T170724.png,RANDOM,unknown,0.4266302,False,False,False,False
+Scotiabank Chile,random_mercadolivre-com-br_20251129T174647.png,RANDOM,unknown,0.4265142,False,False,False,False
+Scotiabank Chile,random_vivoglobal-com_20251129T170110.png,RANDOM,unknown,0.42643848,False,False,False,False
+Scotiabank Chile,random_aniview-com_20251129T173804.png,RANDOM,unknown,0.42616203,False,False,False,False
+Scotiabank Chile,random_focus-de_20251129T175031.png,RANDOM,unknown,0.42602408,False,False,False,False
+Scotiabank Chile,legit_aug_banreservas_v3_20251130T221007.png,BANCO (AUG),BanReservas,0.42586723,False,False,False,False
+Scotiabank Chile,random_tinyurl-com_20251129T164309.png,RANDOM,unknown,0.425793,False,False,False,False
+Scotiabank Chile,random_doubleclick-net_20251129T162452.png,RANDOM,unknown,0.42572752,False,False,False,False
+Scotiabank Chile,legit_banreservas_20251102T192206.png,BANCO (REF),BanReservas,0.42564744,False,False,False,False
+Scotiabank Chile,random_optimizely-com_20251129T172225.png,RANDOM,unknown,0.4254607,False,False,False,False
+Scotiabank Chile,random_w3-org_20251129T163751.png,RANDOM,unknown,0.42514166,False,False,False,False
+Scotiabank Chile,random_lijit-com_20251129T171653.png,RANDOM,unknown,0.42489284,False,False,False,False
+Scotiabank Chile,random_youporn-com_20251129T181052.png,RANDOM,unknown,0.4234409,False,False,False,False
+Scotiabank Chile,random_rubiconproject-com_20251129T163614.png,RANDOM,unknown,0.42305577,False,False,False,False
+Scotiabank Chile,random_espn-com_20251129T165100.png,RANDOM,unknown,0.42297143,False,False,False,False
+Scotiabank Chile,random_workers-dev_20251129T162435.png,RANDOM,unknown,0.42278665,False,False,False,False
+Scotiabank Chile,random_skype-com_20251129T162718.png,RANDOM,unknown,0.42271525,False,False,False,False
+Scotiabank Chile,random_vimeo-com_20251129T162750.png,RANDOM,unknown,0.42172837,False,False,False,False
+Scotiabank Chile,random_example-com_20251129T163930.png,RANDOM,unknown,0.42160594,False,False,False,False
+Scotiabank Chile,random_weebly-com_20251129T164531.png,RANDOM,unknown,0.4214147,False,False,False,False
+Scotiabank Chile,random_duolingo-com_20251129T165843.png,RANDOM,unknown,0.42126647,False,False,False,False
+Scotiabank Chile,random_googledomains-com_20251129T163055.png,RANDOM,unknown,0.42095786,False,False,False,False
+Scotiabank Chile,random_inmobi-com_20251129T164057.png,RANDOM,unknown,0.42085874,False,False,False,False
+Scotiabank Chile,random_forbes-com_20251129T163851.png,RANDOM,unknown,0.42080802,False,False,False,False
+Scotiabank Chile,random_web-de_20251129T175220.png,RANDOM,unknown,0.42052004,False,False,False,False
+Scotiabank Chile,random_dropcatch-com_20251129T164812.png,RANDOM,unknown,0.42016885,False,False,False,False
+Scotiabank Chile,random_applovin-com_20251129T163507.png,RANDOM,unknown,0.41989034,False,False,False,False
+Scotiabank Chile,random_hbr-org_20251129T173613.png,RANDOM,unknown,0.41960472,False,False,False,False
+Scotiabank Chile,random_quizlet-com_20251129T174859.png,RANDOM,unknown,0.419245,False,False,False,False
+Scotiabank Chile,random_hotjar-com_20251129T171444.png,RANDOM,unknown,0.41903076,False,False,False,False
+Scotiabank Chile,random_live-com_20251129T162413.png,RANDOM,unknown,0.41887605,False,False,False,False
+Scotiabank Chile,random_cloudns-net_20251129T165024.png,RANDOM,unknown,0.4188275,False,False,False,False
+Scotiabank Chile,random_theverge-com_20251129T173016.png,RANDOM,unknown,0.41750205,False,False,False,False
+Scotiabank Chile,random_theguardian-com_20251129T163806.png,RANDOM,unknown,0.41694823,False,False,False,False
+Scotiabank Chile,random_docker-com_20251129T170827.png,RANDOM,unknown,0.4161659,False,False,False,False
+Scotiabank Chile,random_savefrom-net_20251129T180713.png,RANDOM,unknown,0.41611487,False,False,False,False
+Scotiabank Chile,random_yandex-com_20251129T164205.png,RANDOM,unknown,0.4159077,False,False,False,False
+Scotiabank Chile,random_yale-edu_20251129T180527.png,RANDOM,unknown,0.41586086,False,False,False,False
+Scotiabank Chile,random_mixpanel-com_20251129T172931.png,RANDOM,unknown,0.41550174,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-nordeste_v3_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.41532683,False,False,False,False
+Scotiabank Chile,random_gandi-net_20251129T162742.png,RANDOM,unknown,0.4151119,False,False,False,False
+Scotiabank Chile,random_lefigaro-fr_20251129T173705.png,RANDOM,unknown,0.41488096,False,False,False,False
+Scotiabank Chile,random_wpguardian-com_20251129T180421.png,RANDOM,unknown,0.41398257,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-nordeste_v9_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.41394147,False,False,False,False
+Scotiabank Chile,random_statcounter-com_20251129T175708.png,RANDOM,unknown,0.41379803,False,False,False,False
+Scotiabank Chile,random_one-one_20251129T163318.png,RANDOM,unknown,0.4135743,False,False,False,False
+Scotiabank Chile,random_alibaba-com_20251129T164508.png,RANDOM,unknown,0.41324988,False,False,False,False
+Scotiabank Chile,random_sharepoint-com_20251129T162653.png,RANDOM,unknown,0.41319805,False,False,False,False
+Scotiabank Chile,random_remove-bg_20251129T180743.png,RANDOM,unknown,0.41305333,False,False,False,False
+Scotiabank Chile,random_myfritz-net_20251129T164009.png,RANDOM,unknown,0.41264012,False,False,False,False
+Scotiabank Chile,random_huffpost-com_20251129T174237.png,RANDOM,unknown,0.41237158,False,False,False,False
+Scotiabank Chile,random_perplexity-ai_20251129T174055.png,RANDOM,unknown,0.41174853,False,False,False,False
+Scotiabank Chile,random_networkadvertising-org_20251129T173422.png,RANDOM,unknown,0.41171828,False,False,False,False
+Scotiabank Chile,random_adobe-io_20251129T163759.png,RANDOM,unknown,0.4116969,False,False,False,False
+Scotiabank Chile,random_sharethrough-com_20251129T165851.png,RANDOM,unknown,0.41138977,False,False,False,False
+Scotiabank Chile,random_dns-google_20251129T163231.png,RANDOM,unknown,0.41126442,False,False,False,False
+Scotiabank Chile,random_nasa-gov_20251129T165226.png,RANDOM,unknown,0.4112505,False,False,False,False
+Scotiabank Chile,random_branch-io_20251129T171524.png,RANDOM,unknown,0.41085416,False,False,False,False
+Scotiabank Chile,random_poki-com_20251129T180027.png,RANDOM,unknown,0.41064197,False,False,False,False
+Scotiabank Chile,random_casalemedia-com_20251129T164020.png,RANDOM,unknown,0.4105013,False,False,False,False
+Scotiabank Chile,random_cootlogix-com_20251129T174120.png,RANDOM,unknown,0.4099754,False,False,False,False
+Scotiabank Chile,random_webmd-com_20251129T172815.png,RANDOM,unknown,0.40964094,False,False,False,False
+Scotiabank Chile,random_sciencedirect-com_20251129T164003.png,RANDOM,unknown,0.4090566,False,False,False,False
+Scotiabank Chile,random_britannica-com_20251129T171519.png,RANDOM,unknown,0.40868354,False,False,False,False
+Scotiabank Chile,random_cookiedatabase-org_20251129T165808.png,RANDOM,unknown,0.40840685,False,False,False,False
+Scotiabank Chile,random_wps-com_20251129T174320.png,RANDOM,unknown,0.4081779,False,False,False,False
+Scotiabank Chile,random_hubspot-com_20251129T164212.png,RANDOM,unknown,0.40786713,False,False,False,False
+Scotiabank Chile,random_rackspace-com_20251129T173338.png,RANDOM,unknown,0.40748832,False,False,False,False
+Scotiabank Chile,random_freepik-com_20251129T173322.png,RANDOM,unknown,0.40746796,False,False,False,False
+Scotiabank Chile,random_cbsnews-com_20251129T171716.png,RANDOM,unknown,0.40733975,False,False,False,False
+Scotiabank Chile,random_icloud-content-com_20251129T170443.png,RANDOM,unknown,0.40696442,False,False,False,False
+Scotiabank Chile,random_tds-net_20251129T174115.png,RANDOM,unknown,0.4067382,False,False,False,False
+Scotiabank Chile,random_amazon-de_20251129T165536.png,RANDOM,unknown,0.40644255,False,False,False,False
+Scotiabank Chile,random_threads-com_20251129T174157.png,RANDOM,unknown,0.4060299,False,False,False,False
+Scotiabank Chile,random_adjust-com_20251129T173759.png,RANDOM,unknown,0.40572768,False,False,False,False
+Scotiabank Chile,random_rt-ru_20251129T172456.png,RANDOM,unknown,0.40471047,False,False,False,False
+Scotiabank Chile,random_xvideos-com_20251129T172902.png,RANDOM,unknown,0.4045183,False,False,False,False
+Scotiabank Chile,random_wattpad-com_20251129T172204.png,RANDOM,unknown,0.40364257,False,False,False,False
+Scotiabank Chile,random_ultimate-guitar-com_20251129T180108.png,RANDOM,unknown,0.4032899,False,False,False,False
+Scotiabank Chile,random_cloudinary-com_20251129T174018.png,RANDOM,unknown,0.40222436,False,False,False,False
+Scotiabank Chile,random_criteo-com_20251129T163219.png,RANDOM,unknown,0.40187046,False,False,False,False
+Scotiabank Chile,random_flickr-com_20251129T163627.png,RANDOM,unknown,0.40158454,False,False,False,False
+Scotiabank Chile,random_ecosia-org_20251129T175405.png,RANDOM,unknown,0.40068322,False,False,False,False
+Scotiabank Chile,random_bing-com_20251129T162459.png,RANDOM,unknown,0.39990783,False,False,False,False
+Scotiabank Chile,random_tnaflix-com_20251129T180331.png,RANDOM,unknown,0.39987087,False,False,False,False
+Scotiabank Chile,random_eporner-com_20251129T174912.png,RANDOM,unknown,0.39967752,False,False,False,False
+Scotiabank Chile,random_idnes-cz_20251129T180126.png,RANDOM,unknown,0.39923668,False,False,False,False
+Scotiabank Chile,random_github-io_20251129T163235.png,RANDOM,unknown,0.39896482,False,False,False,False
+Scotiabank Chile,random_appsflyer-com_20251129T164354.png,RANDOM,unknown,0.39869368,False,False,False,False
+Scotiabank Chile,random_cnbc-com_20251129T165812.png,RANDOM,unknown,0.39847773,False,False,False,False
+Scotiabank Chile,random_bidmachine-io_20251129T172409.png,RANDOM,unknown,0.39813477,False,False,False,False
+Scotiabank Chile,random_google-cn_20251129T172939.png,RANDOM,unknown,0.3980769,False,False,False,False
+Scotiabank Chile,random_aboutads-info_20251129T171703.png,RANDOM,unknown,0.3978603,False,False,False,False
+Scotiabank Chile,random_ted-com_20251129T172015.png,RANDOM,unknown,0.39783582,False,False,False,False
+Scotiabank Chile,random_fwmrm-net_20251129T173933.png,RANDOM,unknown,0.39751288,False,False,False,False
+Scotiabank Chile,random_livejournal-com_20251129T173358.png,RANDOM,unknown,0.3970313,False,False,False,False
+Scotiabank Chile,random_atlassian-com_20251129T170652.png,RANDOM,unknown,0.3969561,False,False,False,False
+Scotiabank Chile,legit_aug_grupo-promerica_v4_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.39668965,False,False,False,False
+Scotiabank Chile,random_prnewswire-com_20251129T173031.png,RANDOM,unknown,0.39664352,False,False,False,False
+Scotiabank Chile,random_tabelog-com_20251129T180507.png,RANDOM,unknown,0.39655483,False,False,False,False
+Scotiabank Chile,random_warnerbros-com_20251129T173352.png,RANDOM,unknown,0.39618373,False,False,False,False
+Scotiabank Chile,random_go-com_20251129T164609.png,RANDOM,unknown,0.3959157,False,False,False,False
+Scotiabank Chile,random_nypost-com_20251129T171211.png,RANDOM,unknown,0.39584568,False,False,False,False
+Scotiabank Chile,random_shein-com_20251129T170736.png,RANDOM,unknown,0.39584398,False,False,False,False
+Scotiabank Chile,random_nvidia-com_20251129T165205.png,RANDOM,unknown,0.3957634,False,False,False,False
+Scotiabank Chile,random_abc-net-au_20251129T181142.png,RANDOM,unknown,0.39562672,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-nordeste_v6_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.395612,False,False,False,False
+Scotiabank Chile,random_cox-net_20251129T170452.png,RANDOM,unknown,0.3955925,False,False,False,False
+Scotiabank Chile,random_uk-com_20251129T171638.png,RANDOM,unknown,0.39538196,False,False,False,False
+Scotiabank Chile,random_lichess-org_20251129T180627.png,RANDOM,unknown,0.39494866,False,False,False,False
+Scotiabank Chile,random_creativecommons-org_20251129T163905.png,RANDOM,unknown,0.39461118,False,False,False,False
+Scotiabank Chile,random_mailinabox-email_20251129T164243.png,RANDOM,unknown,0.39398646,False,False,False,False
+Scotiabank Chile,random_ip-api-com_20251129T165457.png,RANDOM,unknown,0.39270896,False,False,False,False
+Scotiabank Chile,random_wired-com_20251129T170401.png,RANDOM,unknown,0.3922138,False,False,False,False
+Scotiabank Chile,random_dafont-com_20251129T180409.png,RANDOM,unknown,0.39176822,False,False,False,False
+Scotiabank Chile,random_yahoo-co-jp_20251129T170212.png,RANDOM,unknown,0.39162302,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-nordeste_v5_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.39155757,False,False,False,False
+Scotiabank Chile,random_imgur-com_20251129T171357.png,RANDOM,unknown,0.3915255,False,False,False,False
+Scotiabank Chile,random_independent-co-uk_20251129T165339.png,RANDOM,unknown,0.3914577,False,False,False,False
+Scotiabank Chile,random_t-co_20251129T163912.png,RANDOM,unknown,0.39143956,False,False,False,False
+Scotiabank Chile,random_amazon-co-uk_20251129T164350.png,RANDOM,unknown,0.39089814,False,False,False,False
+Scotiabank Chile,random_redfin-com_20251129T175401.png,RANDOM,unknown,0.39081305,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-nordeste_v1_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.39077824,False,False,False,False
+Scotiabank Chile,random_mysql-com_20251129T170535.png,RANDOM,unknown,0.39011276,False,False,False,False
+Scotiabank Chile,random_python-org_20251129T173738.png,RANDOM,unknown,0.39004898,False,False,False,False
+Scotiabank Chile,random_stackoverflow-com_20251129T170622.png,RANDOM,unknown,0.39000052,False,False,False,False
+Scotiabank Chile,random_windows-com_20251129T163112.png,RANDOM,unknown,0.3898883,False,False,False,False
+Scotiabank Chile,random_tabor-ru_20251129T180838.png,RANDOM,unknown,0.38972872,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-nordeste_v7_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.38934082,False,False,False,False
+Scotiabank Chile,random_frontiersin-org_20251129T174528.png,RANDOM,unknown,0.38905445,False,False,False,False
+Scotiabank Chile,random_loc-gov_20251129T171534.png,RANDOM,unknown,0.38900474,False,False,False,False
+Scotiabank Chile,random_hilton-com_20251129T175408.png,RANDOM,unknown,0.3886738,False,False,False,False
+Scotiabank Chile,random_utorrent-com_20251129T174853.png,RANDOM,unknown,0.3886123,False,False,False,False
+Scotiabank Chile,random_paloaltonetworks-com_20251129T170933.png,RANDOM,unknown,0.3885833,False,False,False,False
+Scotiabank Chile,random_cloudflareinsights-com_20251129T170305.png,RANDOM,unknown,0.3883906,False,False,False,False
+Scotiabank Chile,random_wordpress-org_20251129T162623.png,RANDOM,unknown,0.38815305,False,False,False,False
+Scotiabank Chile,random_unsplash-com_20251129T165115.png,RANDOM,unknown,0.38766116,False,False,False,False
+Scotiabank Chile,random_hostgator-com_20251129T164438.png,RANDOM,unknown,0.38763353,False,False,False,False
+Scotiabank Chile,random_fontawesome-com_20251129T172020.png,RANDOM,unknown,0.3876136,False,False,False,False
+Scotiabank Chile,random_nytimes-com_20251129T163530.png,RANDOM,unknown,0.38733345,False,False,False,False
+Scotiabank Chile,random_crazygames-com_20251129T174449.png,RANDOM,unknown,0.38671592,False,False,False,False
+Scotiabank Chile,random_epa-gov_20251129T174437.png,RANDOM,unknown,0.38641512,False,False,False,False
+Scotiabank Chile,random_crashlytics-com_20251129T164452.png,RANDOM,unknown,0.38636288,False,False,False,False
+Scotiabank Chile,random_apache-org_20251129T163228.png,RANDOM,unknown,0.38602746,False,False,False,False
+Scotiabank Chile,random_tradingview-com_20251129T164604.png,RANDOM,unknown,0.38593644,False,False,False,False
+Scotiabank Chile,random_apple-com_20251129T162353.png,RANDOM,unknown,0.38585988,False,False,False,False
+Scotiabank Chile,random_ryanair-com_20251129T174749.png,RANDOM,unknown,0.385181,False,False,False,False
+Scotiabank Chile,random_bfmtv-com_20251129T175522.png,RANDOM,unknown,0.38292056,False,False,False,False
+Scotiabank Chile,random_stanford-edu_20251129T165014.png,RANDOM,unknown,0.3825999,False,False,False,False
+Scotiabank Chile,random_umn-edu_20251129T180344.png,RANDOM,unknown,0.38204527,False,False,False,False
+Scotiabank Chile,random_sagepub-com_20251129T172712.png,RANDOM,unknown,0.3818584,False,False,False,False
+Scotiabank Chile,legit_aug_grupo-promerica_v5_20251130T221012.png,BANCO (AUG),Grupo Promerica,0.38025594,False,False,False,False
+Scotiabank Chile,random_spamhaus-org_20251129T174711.png,RANDOM,unknown,0.38021857,False,False,False,False
+Scotiabank Chile,random_springer-com_20251129T164823.png,RANDOM,unknown,0.37892812,False,False,False,False
+Scotiabank Chile,random_bol-com_20251129T174941.png,RANDOM,unknown,0.3787744,False,False,False,False
+Scotiabank Chile,random_mediatek-com_20251129T170147.png,RANDOM,unknown,0.37836024,False,False,False,False
+Scotiabank Chile,random_giphy-com_20251129T170337.png,RANDOM,unknown,0.378232,False,False,False,False
+Scotiabank Chile,random_dnsmadeeasy-com_20251129T164712.png,RANDOM,unknown,0.377954,False,False,False,False
+Scotiabank Chile,random_xhamster44-desi_20251129T181233.png,RANDOM,unknown,0.37673837,False,False,False,False
+Scotiabank Chile,random_expireddomains-com_20251129T165010.png,RANDOM,unknown,0.3756762,False,False,False,False
+Scotiabank Chile,random_youronlinechoices-com_20251129T175528.png,RANDOM,unknown,0.375098,False,False,False,False
+Scotiabank Chile,random_debian-org_20251129T164620.png,RANDOM,unknown,0.37464172,False,False,False,False
+Scotiabank Chile,random_pccc-com_20251129T173616.png,RANDOM,unknown,0.37363243,False,False,False,False
+Scotiabank Chile,random_onetag-sys-com_20251129T173818.png,RANDOM,unknown,0.37324926,False,False,False,False
+Scotiabank Chile,random_dreamhost-com_20251129T172248.png,RANDOM,unknown,0.3730773,False,False,False,False
+Scotiabank Chile,random_franceinfo-fr_20251129T180326.png,RANDOM,unknown,0.37291893,False,False,False,False
+Scotiabank Chile,random_xhamster-com_20251129T170839.png,RANDOM,unknown,0.37287134,False,False,False,False
+Scotiabank Chile,random_richaudience-com_20251129T174252.png,RANDOM,unknown,0.37235895,False,False,False,False
+Scotiabank Chile,random_adtrafficquality-google_20251129T163715.png,RANDOM,unknown,0.37145945,False,False,False,False
+Scotiabank Chile,random_linode-com_20251129T173059.png,RANDOM,unknown,0.37142932,False,False,False,False
+Scotiabank Chile,random_healthline-com_20251129T173751.png,RANDOM,unknown,0.37141222,False,False,False,False
+Scotiabank Chile,random_gmail-com_20251129T164051.png,RANDOM,unknown,0.37128237,False,False,False,False
+Scotiabank Chile,random_asus-com_20251129T172748.png,RANDOM,unknown,0.3709666,False,False,False,False
+Scotiabank Chile,random_blogspot-com_20251129T163146.png,RANDOM,unknown,0.37093326,False,False,False,False
+Scotiabank Chile,random_theatlantic-com_20251129T174048.png,RANDOM,unknown,0.37073258,False,False,False,False
+Scotiabank Chile,random_whitehouse-gov_20251129T174350.png,RANDOM,unknown,0.37069243,False,False,False,False
+Scotiabank Chile,random_rapid7-com_20251129T180042.png,RANDOM,unknown,0.37043265,False,False,False,False
+Scotiabank Chile,random_datadoghq-com_20251129T173542.png,RANDOM,unknown,0.36981046,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-nordeste_v8_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.36922723,False,False,False,False
+Scotiabank Chile,random_launchpad-net_20251129T164259.png,RANDOM,unknown,0.36860165,False,False,False,False
+Scotiabank Chile,random_cnet-com_20251129T171429.png,RANDOM,unknown,0.36848944,False,False,False,False
+Scotiabank Chile,random_nature-com_20251129T164547.png,RANDOM,unknown,0.368179,False,False,False,False
+Scotiabank Chile,random_ox-ac-uk_20251129T180402.png,RANDOM,unknown,0.36815143,False,False,False,False
+Scotiabank Chile,random_vnexpress-net_20251129T180759.png,RANDOM,unknown,0.3674326,False,False,False,False
+Scotiabank Chile,random_classlink-com_20251129T174304.png,RANDOM,unknown,0.36666578,False,False,False,False
+Scotiabank Chile,random_biblegateway-com_20251129T174224.png,RANDOM,unknown,0.36577356,False,False,False,False
+Scotiabank Chile,random_sentry-io_20251129T163136.png,RANDOM,unknown,0.3657053,False,False,False,False
+Scotiabank Chile,random_pornpics-com_20251129T181022.png,RANDOM,unknown,0.36566156,False,False,False,False
+Scotiabank Chile,random_discord-media_20251129T170414.png,RANDOM,unknown,0.36548257,False,False,False,False
+Scotiabank Chile,random_php-net_20251129T164521.png,RANDOM,unknown,0.36488008,False,False,False,False
+Scotiabank Chile,random_unesco-org_20251129T172655.png,RANDOM,unknown,0.36286983,False,False,False,False
+Scotiabank Chile,random_letterboxd-com_20251129T175103.png,RANDOM,unknown,0.3626411,False,False,False,False
+Scotiabank Chile,random_flashtalking-com_20251129T173809.png,RANDOM,unknown,0.3626046,False,False,False,False
+Scotiabank Chile,random_ikea-com_20251129T171644.png,RANDOM,unknown,0.36223057,False,False,False,False
+Scotiabank Chile,random_reddit-com_20251129T163109.png,RANDOM,unknown,0.36215782,False,False,False,False
+Scotiabank Chile,random_npr-org_20251129T170056.png,RANDOM,unknown,0.3620973,False,False,False,False
+Scotiabank Chile,random_mikrotik-com_20251129T164913.png,RANDOM,unknown,0.36146426,False,False,False,False
+Scotiabank Chile,random_kueezrtb-com_20251129T174735.png,RANDOM,unknown,0.3614214,False,False,False,False
+Scotiabank Chile,random_readthedocs-io_20251129T173904.png,RANDOM,unknown,0.36117876,False,False,False,False
+Scotiabank Chile,random_aliexpress-com_20251129T165833.png,RANDOM,unknown,0.3611585,False,False,False,False
+Scotiabank Chile,random_scorecardresearch-com_20251129T164118.png,RANDOM,unknown,0.3611089,False,False,False,False
+Scotiabank Chile,random_washington-edu_20251129T173651.png,RANDOM,unknown,0.3610565,False,False,False,False
+Scotiabank Chile,random_doi-org_20251129T164112.png,RANDOM,unknown,0.3607214,False,False,False,False
+Scotiabank Chile,random_nginx-com_20251129T163119.png,RANDOM,unknown,0.3602424,False,False,False,False
+Scotiabank Chile,random_steamcommunity-com_20251129T165735.png,RANDOM,unknown,0.3597147,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-nordeste_v4_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.35941058,False,False,False,False
+Scotiabank Chile,legit_aug_banco-do-nordeste_v2_20251130T221012.png,BANCO (AUG),Banco do Nordeste,0.35940206,False,False,False,False
+Scotiabank Chile,random_miui-com_20251129T163719.png,RANDOM,unknown,0.3591284,False,False,False,False
+Scotiabank Chile,random_seedtag-com_20251129T174452.png,RANDOM,unknown,0.3589351,False,False,False,False
+Scotiabank Chile,random_patreon-com_20251129T171029.png,RANDOM,unknown,0.3583668,False,False,False,False
+Scotiabank Chile,random_lencr-org_20251129T163809.png,RANDOM,unknown,0.3583424,False,False,False,False
+Scotiabank Chile,random_medium-com_20251129T163655.png,RANDOM,unknown,0.3580686,False,False,False,False
+Scotiabank Chile,random_jetbrains-com_20251129T174833.png,RANDOM,unknown,0.357397,False,False,False,False
+Scotiabank Chile,random_biomedcentral-com_20251129T180003.png,RANDOM,unknown,0.35720503,False,False,False,False
+Scotiabank Chile,random_marriott-com_20251129T172613.png,RANDOM,unknown,0.35690227,False,False,False,False
+Scotiabank Chile,random_stripchat-com_20251129T175146.png,RANDOM,unknown,0.3566581,False,False,False,False
+Scotiabank Chile,legit_banco-do-nordeste_20251102T193129.png,BANCO (REF),Banco do Nordeste,0.35646206,False,False,False,False
+Scotiabank Chile,random_people-com_20251129T172859.png,RANDOM,unknown,0.3562049,False,False,False,False
+Scotiabank Chile,random_riotgames-com_20251129T181035.png,RANDOM,unknown,0.35492772,False,False,False,False
+Scotiabank Chile,random_ui-com_20251129T163127.png,RANDOM,unknown,0.354587,False,False,False,False
+Scotiabank Chile,random_overload-su_20251129T170747.png,RANDOM,unknown,0.35441527,False,False,False,False
+Scotiabank Chile,random_eu-1-id5-sync-com_20251129T174134.png,RANDOM,unknown,0.35340554,False,False,False,False
+Scotiabank Chile,random_merriam-webster-com_20251129T171721.png,RANDOM,unknown,0.35283464,False,False,False,False
+Scotiabank Chile,random_alphonso-tv_20251129T175757.png,RANDOM,unknown,0.35180283,False,False,False,False
+Scotiabank Chile,random_noaa-gov_20251129T171733.png,RANDOM,unknown,0.35169268,False,False,False,False
+Scotiabank Chile,random_genius-com_20251129T174000.png,RANDOM,unknown,0.35096866,False,False,False,False
+Scotiabank Chile,random_arxiv-org_20251129T172000.png,RANDOM,unknown,0.35050002,False,False,False,False
+Scotiabank Chile,random_harvard-edu_20251129T164442.png,RANDOM,unknown,0.3499754,False,False,False,False
+Scotiabank Chile,random_rule34-xxx_20251129T180747.png,RANDOM,unknown,0.34958068,False,False,False,False
+Scotiabank Chile,random_g-co_20251129T171804.png,RANDOM,unknown,0.3489215,False,False,False,False
+Scotiabank Chile,random_no-ip-com_20251129T173414.png,RANDOM,unknown,0.34883052,False,False,False,False
+Scotiabank Chile,random_adblockplus-org_20251129T174731.png,RANDOM,unknown,0.34879276,False,False,False,False
+Scotiabank Chile,random_disqus-com_20251129T173218.png,RANDOM,unknown,0.3483588,False,False,False,False
+Scotiabank Chile,random_nic-io_20251129T173852.png,RANDOM,unknown,0.34793139,False,False,False,False
+Scotiabank Chile,random_xbox-com_20251129T173223.png,RANDOM,unknown,0.3478824,False,False,False,False
+Scotiabank Chile,random_clever-com_20251129T173500.png,RANDOM,unknown,0.34725922,False,False,False,False
+Scotiabank Chile,random_singular-net_20251129T175446.png,RANDOM,unknown,0.34718743,False,False,False,False
+Scotiabank Chile,random_dailymotion-com_20251129T164850.png,RANDOM,unknown,0.3468826,False,False,False,False
+Scotiabank Chile,random_bugsnag-com_20251129T172839.png,RANDOM,unknown,0.34668022,False,False,False,False
+Scotiabank Chile,random_pages-dev_20251129T164832.png,RANDOM,unknown,0.34528488,False,False,False,False
+Scotiabank Chile,random_googleblog-com_20251129T164338.png,RANDOM,unknown,0.3449878,False,False,False,False
+Scotiabank Chile,random_ampproject-org_20251129T164513.png,RANDOM,unknown,0.34371507,False,False,False,False
+Scotiabank Chile,random_berkeley-edu_20251129T171416.png,RANDOM,unknown,0.34333122,False,False,False,False
+Scotiabank Chile,random_bloomberg-com_20251129T164942.png,RANDOM,unknown,0.34319466,False,False,False,False
+Scotiabank Chile,random_conviva-com_20251129T172420.png,RANDOM,unknown,0.34233367,False,False,False,False
+Scotiabank Chile,random_samsungapps-com_20251129T171925.png,RANDOM,unknown,0.34176448,False,False,False,False
+Scotiabank Chile,random_nationalgeographic-com_20251129T174041.png,RANDOM,unknown,0.34042013,False,False,False,False
+Scotiabank Chile,random_he-net_20251129T172135.png,RANDOM,unknown,0.33993465,False,False,False,False
+Scotiabank Chile,random_office-com_20251129T162404.png,RANDOM,unknown,0.33957005,False,False,False,False
+Scotiabank Chile,random_steampowered-com_20251129T164516.png,RANDOM,unknown,0.33880317,False,False,False,False
+Scotiabank Chile,random_cpanel-net_20251129T164025.png,RANDOM,unknown,0.33709002,False,False,False,False
+Scotiabank Chile,random_garmin-com_20251129T175704.png,RANDOM,unknown,0.33706337,False,False,False,False
+Scotiabank Chile,random_fastly-net_20251129T162620.png,RANDOM,unknown,0.3365988,False,False,False,False
+Scotiabank Chile,random_meraki-com_20251129T164122.png,RANDOM,unknown,0.33657485,False,False,False,False
+Scotiabank Chile,random_reuters-com_20251129T164435.png,RANDOM,unknown,0.33321565,False,False,False,False
+Scotiabank Chile,random_ntp-org_20251129T162706.png,RANDOM,unknown,0.33301687,False,False,False,False
+Scotiabank Chile,random_nist-gov_20251129T163501.png,RANDOM,unknown,0.3318963,False,False,False,False
+Scotiabank Chile,random_duckdns-org_20251129T172230.png,RANDOM,unknown,0.33184105,False,False,False,False
+Scotiabank Chile,random_pubmatic-com_20251129T163742.png,RANDOM,unknown,0.33035553,False,False,False,False
+Scotiabank Chile,random_foxnews-com_20251129T170330.png,RANDOM,unknown,0.33027634,False,False,False,False
+Scotiabank Chile,random_newsweek-com_20251129T173547.png,RANDOM,unknown,0.32868558,False,False,False,False
+Scotiabank Chile,random_umich-edu_20251129T174850.png,RANDOM,unknown,0.32851613,False,False,False,False
+Scotiabank Chile,random_forms-gle_20251129T163459.png,RANDOM,unknown,0.32559696,False,False,False,False
+Scotiabank Chile,random_dailymail-co-uk_20251129T164838.png,RANDOM,unknown,0.32551104,False,False,False,False
+Scotiabank Chile,random_deepintent-com_20251129T170600.png,RANDOM,unknown,0.32301793,False,False,False,False
+Scotiabank Chile,random_ubuntu-com_20251129T164106.png,RANDOM,unknown,0.32229227,False,False,False,False
+Scotiabank Chile,random_health-mil_20251129T163619.png,RANDOM,unknown,0.31595263,False,False,False,False
+Scotiabank Chile,random_epicgames-com_20251129T163336.png,RANDOM,unknown,0.31566978,False,False,False,False
+Scotiabank Chile,random_archive-org_20251129T163406.png,RANDOM,unknown,0.31509098,False,False,False,False
+Scotiabank Chile,random_wordwall-net_20251129T181200.png,RANDOM,unknown,0.31473023,False,False,False,False
+Scotiabank Chile,random_faphouse-com_20251129T180749.png,RANDOM,unknown,0.314615,False,False,False,False
+Scotiabank Chile,random_pornhub-com_20251129T173938.png,RANDOM,unknown,0.3136931,False,False,False,False
+Scotiabank Chile,random_wsj-com_20251129T164904.png,RANDOM,unknown,0.31292683,False,False,False,False
+Scotiabank Chile,random_appcenter-ms_20251129T172435.png,RANDOM,unknown,0.31246096,False,False,False,False
+Scotiabank Chile,random_tripadvisor-com_20251129T171237.png,RANDOM,unknown,0.31210783,False,False,False,False
+Scotiabank Chile,random_teads-tv_20251129T173557.png,RANDOM,unknown,0.31074768,False,False,False,False
+Scotiabank Chile,random_googleapis-com_20251129T162323.png,RANDOM,unknown,0.3106848,False,False,False,False
+Scotiabank Chile,random_bandcamp-com_20251129T173411.png,RANDOM,unknown,0.30955276,False,False,False,False
+Scotiabank Chile,random_researchgate-net_20251129T164054.png,RANDOM,unknown,0.30828622,False,False,False,False
+Scotiabank Chile,random_nginx-org_20251129T163101.png,RANDOM,unknown,0.3075644,False,False,False,False
+Scotiabank Chile,random_etsy-com_20251129T164829.png,RANDOM,unknown,0.30114335,False,False,False,False
+Scotiabank Chile,random_oracle-com_20251129T164015.png,RANDOM,unknown,0.30068547,False,False,False,False
+Scotiabank Chile,random_archiveofourown-org_20251129T180452.png,RANDOM,unknown,0.29957914,False,False,False,False
+Scotiabank Chile,random_sourceforge-net_20251129T163924.png,RANDOM,unknown,0.29930997,False,False,False,False
+Scotiabank Chile,random_shalltry-com_20251129T164558.png,RANDOM,unknown,0.29650554,False,False,False,False
+Scotiabank Chile,random_netgear-com_20251129T174444.png,RANDOM,unknown,0.29595858,False,False,False,False
+Scotiabank Chile,random_xnxx-com_20251129T174739.png,RANDOM,unknown,0.29585797,False,False,False,False
+Scotiabank Chile,random_erome-com_20251129T165107.png,RANDOM,unknown,0.2947513,False,False,False,False
+Scotiabank Chile,random_azure-com_20251129T162438.png,RANDOM,unknown,0.29418954,False,False,False,False
+Scotiabank Chile,random_shopee-com-br_20251129T172025.png,RANDOM,unknown,0.29332024,False,False,False,False
+Scotiabank Chile,random_speedtest-net_20251129T170258.png,RANDOM,unknown,0.2886474,False,False,False,False
+Scotiabank Chile,random_openai-com_20251129T164132.png,RANDOM,unknown,0.2884267,False,False,False,False
+Scotiabank Chile,random_fast-com_20251129T171226.png,RANDOM,unknown,0.28793484,False,False,False,False
+Scotiabank Chile,random_nbcnews-com_20251129T173332.png,RANDOM,unknown,0.2866402,False,False,False,False
+Scotiabank Chile,random_jquery-com_20251129T170836.png,RANDOM,unknown,0.28265825,False,False,False,False
+Scotiabank Chile,random_icloud-com_20251129T162641.png,RANDOM,unknown,0.28180882,False,False,False,False
+Scotiabank Chile,random_digicert-com_20251129T162605.png,RANDOM,unknown,0.2816346,False,False,False,False
+Scotiabank Chile,random_unpkg-com_20251129T173744.png,RANDOM,unknown,0.26771122,False,False,False,False
+Scotiabank Chile,random_microsoft-com_20251129T162257.png,RANDOM,unknown,0.26591125,False,False,False,False
+Scotiabank Chile,random_tiktokv-com_20251129T162827.png,RANDOM,unknown,0.2607357,False,False,False,False
+Scotiabank Chile,random_salesforce-com_20251129T163927.png,RANDOM,unknown,0.24653591,False,False,False,False
+Scotiabank Chile,random_smilewanted-com_20251129T174502.png,RANDOM,unknown,0.24245203,False,False,False,False
+Scotiabank Chile,random_rainberrytv-com_20251129T175750.png,RANDOM,unknown,0.23774676,False,False,False,False
+Scotiabank Chile,random_pandora-com_20251129T175204.png,RANDOM,unknown,0.228365,False,False,False,False
+Scotiabank Chile,random_princeton-edu_20251129T173837.png,RANDOM,unknown,0.22721027,False,False,False,False
+Scotiabank Chile,random_state-gov_20251129T174508.png,RANDOM,unknown,0.22374949,False,False,False,False
+Scotiabank Chile,random_who-int_20251129T164225.png,RANDOM,unknown,0.21554887,False,False,False,False
+Scotiabank Chile,random_quantserve-com_20251129T172652.png,RANDOM,unknown,0.20266387,False,False,False,False
